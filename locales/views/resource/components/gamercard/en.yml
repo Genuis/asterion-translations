@@ -1,0 +1,22 @@
+--- 
+en: 
+  resource: 
+    components: 
+      gamercard: 
+        create: 
+          add_gamer_card_component: "Add Gamer Card Component"
+          
+          
+
+        settings: 
+          gamer_card_component_settings: "Gamer Card Component Settings"
+          
+          
+
+        embed: {}
+
+        form: 
+          
+          xbox_gamertag: "Xbox Gamertag"
+          this_is_the_name_that_you_log: "This is the name that you log in to your Xbox Live account with."
+

@@ -1,0 +1,27 @@
+--- 
+en: 
+  resource: 
+    components: 
+      vimeo: 
+        _video_embed: 
+          video_player_url: "Video player url: "
+
+        create: 
+          add_vimeo_component: "Add Vimeo Component"
+
+        settings: 
+          vimeo_component_settings: "Vimeo Component Settings"
+          
+          
+
+        embed: 
+          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+
+        form: 
+          
+          video_url: "Video URL"
+          eg: "eg."
+          embed_width: "Embed Width"
+          width: "Width"
+          
+

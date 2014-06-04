@@ -1,0 +1,29 @@
+--- 
+en: 
+  resource: 
+    components: 
+      facebook_status: 
+        create: 
+          add_facebook_status_component: "Add Facebook Status Component"
+
+        settings: 
+          facebook_status_component_settings: "Facebook Status Component Settings"
+
+        embed: 
+          uh_oh_it_looks_like_there_was: "Uh oh, it looks like there was a problem fetching your Facebook data."
+          this_can_occur_if_you_have_revoked: 
+            text: | 
+              This can occur if you have revoked access from within Facebook. If you have, you will need to %{link_your_facebook_account} again (and possibly update your component settings).
+            link_your_facebook_account: "Link your facebook account"
+          facebook_status_error: "Facebook Status Error"
+
+          you_do_not_have_any_status_updates: "You do not have any status updates on the Facebook account that this component is linked with. This will not show up on your website untill you do."
+
+        form:
+          facebook_account: "Facebook Account"
+          number_of_statuses_to_show: "Number of Statuses to Show"
+
+        link: 
+          next_step: "Next Step"
+          
+

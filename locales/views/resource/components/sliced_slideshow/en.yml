@@ -1,0 +1,52 @@
+--- 
+en: 
+  resource: 
+    components: 
+      sliced_slideshow: 
+        collection: 
+          3d_slideshow_component: "3D Slideshow Component"
+          next_step: "Next Step"
+          
+
+        images: 
+          3d_slideshow_component_images: "3D Slideshow Component Images"
+          select_images: "Select Images"
+          slideshow_settings: "Slideshow Settings"
+          
+          
+
+        create: 
+          add_image_slideshow_component: "Add Image Slideshow Component"
+          
+          back: "Back"
+
+        settings: 
+          3d_slideshow_settings: "3D Slideshow Settings"
+          
+          
+
+        embed:
+          upload_images: "Upload images"
+          images: "Images"
+          there_are_no_images_to_be_displayed: "There are no images to be displayed. This will not show up on your website until there are images to display. "
+
+        form:
+          
+          slideshow_size: "Slideshow Size"
+          slideshow_settings: "Slideshow Settings"
+          effects: "Effects"
+          number_of_slices: "Number of Slices"
+          time_between_images: "Time between Images"
+          choose_from_a_vareity_of_effects: "Choose from a vareity of effects."
+          number_of_slices: "Number of slices"
+          this_is_the_time_paused_between_images: "This is the time paused between images, no rotation means user must click."
+          this_is_how_fast_the_effectanimation_will: "This is how fast the effect/animation will take."
+          note: "Note: "
+          3d_effects_will_not_work_in_internet: "3D Effects will not work in Internet Explorer, they will default to a simple fade. "
+          show_titles: "Show Titles"
+          show_shadow: "Show Shadow"
+          show_navigation_prevnext: "Show Navigation (prev/next)"
+          show_navigation_dots_spanmiddot_middot_middotspan: "Show Navigation Dots (<span>&middot; &middot; &middot;</span>)"
+          randomize_image_order: "Randomize Image Order"
+          height: "Height"
+

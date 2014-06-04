@@ -1,0 +1,9 @@
+--- 
+en: 
+  resource: 
+    feedback: 
+      submit: 
+        help__feedback: "Help & Feedback"
+        give_us_your_feedback: "Give us your feedback - suggestions, ideas, bug reports, questions - we want it all!"
+        feedback__suggestions: "Feedback & Suggestions"
+

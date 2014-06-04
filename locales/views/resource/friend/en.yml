@@ -1,0 +1,57 @@
+--- 
+en: 
+  resource: 
+    friend: 
+      contact: 
+        display_name: "Display name"
+        url: "URL"
+        full_name: "Full name"
+        email: "Email"
+        profile_image: "Profile Image"
+        city: "City"
+        country: "Country"
+
+      edit: 
+        edit_friend: "Edit Friend"
+        
+        
+
+      confirm_details: 
+        confirm_friend_details: "Confirm Friend details"
+        create: "Create"
+        back: "Back"
+
+      manage: 
+        manage_friends: "Manage Friends"
+        friends: "Friends"
+        my_profile: "My Profile"
+        add_friends_from_a_variety: "Add friends from a variety of social websites. If you'd like to display your friends on your website, you can add a Friend Component."
+        my_friends: "My Friends"
+        you_currently_have_no_friends_added: "You currently have no friends added."
+        name: "Name"
+        relationship: "Relationship"
+        
+        
+        are_you_sure_you_want_to_delete_this_friend: "Are you sure you want to delete this friend?"
+        delete_friend: "Delete Friend"
+        add_a_new_friend: "Add a New Friend"
+
+      relationship: {}
+
+      create: 
+        discover_friend: "Discover Friend"
+        network: "Network"
+        friend_details: "Friend Details"
+        click_on_the_network_confirm_their_details: "Click on the network that your friend is located on and type in the requested information. Once you click Search, we'll find as much information as we can about your friend and get you to confirm their details."
+        other: "Other"
+        url: "URL"
+        no_results_found: "No results found."
+        
+        search: "Search"
+        username: "Username"
+        
+      form: 
+        friend_info: "Friend Info"
+        relationship: "Relationship"
+        
+

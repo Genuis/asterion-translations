@@ -1,0 +1,19 @@
+--- 
+en: 
+  resource: 
+    components: 
+      navigation: 
+        group: {}
+
+        edit: 
+          navigation_component: "Navigation Component"
+          
+          
+
+        create: 
+          navigation_component: "Navigation Component"
+          
+          
+
+        embed: {}
+

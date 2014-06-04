@@ -1,0 +1,83 @@
+--- 
+en: 
+  resource: 
+    blog: 
+      manage: 
+        comment_settings: 
+          manage_visitor_message_settings_blog_comments_and_guestbook_posts: "Manage Visitor Message Settings (Blog Comments and Guestbook Posts)"
+          
+          messages: "Messages"
+          commenting: "Commenting"
+          enabled: "Enabled"
+          enabled_for: "Enabled for"
+          days: "days"
+          disabled: "Disabled"
+          display: "Display"
+          new_comments: "New comments"
+          spam_filter: "Spam filter"
+          require_captcha_verification: "Require Captcha verification"
+          captcha_is_an_antispam_method: "Captcha is an anti-spam method which requires a user to complete a simple task to identify themself as a human."
+          hold_spam_for_30_days: "Hold spam for 30 days"
+          delete_spam_immediately: "Delete spam immediately"
+          disable_filter: "Disable filter"
+          hold_for_approval: "Hold for approval"
+          publish_immediately: "Publish immediately"
+          gravatar: "Gravatar"
+          do_not_show_avatars: "Do not show avatars"
+          show_avatars: "Show avatars"
+          you_can_create_your_own_gravatar_at_: "You can create your own Gravatar at "
+          the_icon_you_select_below_will_be_used: " The icon you select below will be used as the icon for people who do not have a Gravatar icon associated with their email address. "
+          
+          
+          
+        settings: 
+          blog_posts: "Blog Posts"
+          categories: "Categories"
+          rss: "RSS"
+          
+          labels: "Labels"
+          import_posts: "Import posts"
+          social_networking: "Social Networking"
+          you_can_announce_your_blog_posts: "You can announce your blog posts directly to Facebook or Twitter by "
+          linking_your_accounts: "linking your accounts"
+          twitter_and_facebook_icons: "Twitter and Facebook Icons"
+          the_icons_you_select_below_will_be_displayed_at_the_bottom: "The icons you select below will be displayed at the bottom of each of your blog posts. Users who click on the icons will be able to submit or share your posts to other readers of the websites."
+          show_network_name_beside_icon: "Show network name beside icon"
+          date__time_formatting: "Date & Time Formatting"
+          date_format: "Date format"
+          custom_date_format: "Custom Date Format"
+          do_not_show: "Do not show"
+          date_formatting: "Date Formatting"
+          a__the_abbreviated_weekday_name_sun: "%a - The abbreviated weekday name (Sun)"
+          a__the_full_weekday_name_sunday: "%A - The  full  weekday  name (Sunday)"
+          b__the_abbreviated_month_name_jan: "%b - The abbreviated month name (Jan)"
+          b__the_full_month_name_january: "%B - The  full  month  name (January)"
+          m__month_of_the_year_0112: "%m - Month of the year (01..12)"
+          d__day_of_the_month_0131: "%d - Day of the month (01..31)"
+          e__day_of_the_month_131: "%e - Day of the month (1..31)"
+          j__day_of_the_year_001366: "%j - Day of the year (001..366)"
+          w__day_of_the_week_sunday_is_0_06: "%w - Day of the week (Sunday is 0, 0..6)"
+          y__year_without_a_century_0099: "%y - Year without a century (00..99)"
+          y__year_with_century: "%Y - Year with century"
+          
+          h__hour_of_the_day_24hour_clock_0023: "%H - Hour of the day, 24-hour clock (00..23)"
+          k__hour_of_the_day_24hour_clock__023: "%k - Hour of the day, 24-hour clock ( 0..23)"
+          i__hour_of_the_day_12hour_clock_0112: "%I - Hour of the day, 12-hour clock (01..12)"
+          l__hour_of_the_day_12hour_clock__112: "%l - Hour of the day, 12-hour clock ( 1..12)"
+          m__minute_of_the_hour_0059: "%M - Minute of the hour (00..59)"
+          s__second_of_the_minute_0060: "%S - Second of the minute (00..60)"
+          p__meridian_indicator_am_or_pm: "%p - Meridian indicator (AM or PM)"
+          p__meridian_indicator_am_or_pm: "%P - Meridian indicator (am or pm)"
+          
+        labels: 
+          manage_blog_labels: "Manage Blog Labels"
+          blog_posts: "Blog Posts"
+          categories: "Categories"
+          rss: "RSS"
+          
+          labels: "Labels"
+          import_posts: "Import posts"
+          labels_text_customization: "Labels (Text Customization)"
+          
+          
+

@@ -1,0 +1,26 @@
+--- 
+en: 
+  resource: 
+    components: 
+      tweet_button: 
+        create: 
+          add_tweet_button_component: "Add Tweet Button Component"
+          
+          
+
+        settings: 
+          tweet_button_component_settings: "Tweet Button Component Settings"
+          
+          
+
+        embed: 
+          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+
+        form: 
+          
+          contributor: "Contributor"
+          tweet_content: "Tweet Content"
+          tweet_text: "Tweet Text"
+          url_to_tweet: "URL to tweet"
+          button_layout: "Button Layout"
+

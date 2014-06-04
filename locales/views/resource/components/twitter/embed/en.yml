@@ -1,0 +1,14 @@
+--- 
+en: 
+  resource: 
+    components: 
+      twitter: 
+        embed: 
+          timeline: 
+            in: "in "
+            reply_to: "reply to %{screen_name}"
+            follow: "Follow %{account} on Twitter"
+
+          friend: 
+            in: "in "
+            reply_to: "reply to %{screen_name}"

@@ -1,0 +1,20 @@
+--- 
+en: 
+  resource: 
+    components: 
+      blog_search: 
+        create: 
+          add_blog_search_component: "Add Blog Search Component"
+          
+          
+
+        settings: 
+          blog_search_component_settings: "Blog Search Component Settings"
+          
+          
+
+        embed: {}
+
+        form: 
+          
+

@@ -1,0 +1,27 @@
+--- 
+en: 
+  resource: 
+    navigation_menu: 
+      create_item:
+        create_navigation_item: "Create Navigation Item"
+        label: "Label"
+        create: "Create"
+      
+      form: 
+        link_to_a_page_in_my_site: "Link to a page in my site"
+        link_to_a_file_on_my_site: "Link to a file on my site"
+        link_to_another_website: "Link to another website"
+        link_to_an_email: "Link to an email"
+        add_a_submenu: "Add a submenu"
+        drag: "Drag"
+        items_to_add_them_to_your_menu: "%{drag} items to add them to your menu."
+
+      edit_item: 
+        edit_navigation_item: "Edit Navigation Item"
+        label: "Label"
+
+      form_item: 
+        drag: "Drag"
+        
+        
+

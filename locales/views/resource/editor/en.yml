@@ -1,0 +1,78 @@
+--- 
+en: 
+  resource: 
+    editor: 
+      page_description: 
+        insert_a_link_to_one_of_the_pages: "Insert a link to one of the pages that you've created on your website."
+
+      external_description: 
+        insert_a_link_to_a_page_or_file_on_another_website: "Insert a link to a page or file on another website."
+
+      table_options: 
+        insert_table: "Insert table"
+        table_properties: "Table Properties"
+        number_of_columns: "Number of Columns"
+        number_of_rows: "Number of Rows"
+        table_width: "Table Width"
+        table_height: "Table Height"
+        table_cell_properties: "Table Cell Properties"
+        cell_padding: "Cell Padding"
+        cell_spacing: "Cell Spacing"
+        
+        insert_table: "Insert Table"
+
+      youtube: 
+        insert_youtube_video: "Insert Youtube video"
+        enter_a_video_url: "Enter a Video URL"
+        browse_for_a_youtube_video: "Browse for a Youtube Video"
+        browse_for_video: "Browse for Video"
+        video_size: "Video Size"
+        width: "Width"
+        height: "Height"
+        the_container_width_is_: "The container width is "
+        _pixels: " pixels."
+        insert_video: "Insert Video"
+        
+
+      asset_description: 
+        insert_a_link_to_a_file_that_youve_uploaded: "Insert a link to a file that you've uploaded. If you'd like to link to a file on another website, click on the external link tab."
+
+      template: 
+        templates: "Templates"
+        select_the_template_from_the_dropdown: "Select the template from the dropdown that you'd like to use and then click the insert button. The dotted borders that appear in the templates below are for reference, and will not appear once the content is saved."
+        template_selection: "Template Selection"
+        template_preview: "Template Preview"
+        
+      source_editor: 
+        html_editor: "HTML Editor"
+        edit_your_html: "Edit your HTML. This requires knowledge of HTML and is intended for advanced users."
+
+      highlight_code: 
+        highlight_code: "Highlight Code"
+        select_the_language_of_your_code: "Select the language of your code"
+        language: "Language"
+        
+
+      charmap: 
+        select_custom_character: "Select custom character"
+        html_code: "HTML Code"
+        numerical_code: "Numerical Code"
+        
+
+      link: 
+        insert_link: "Insert Link"
+        external: "External"
+        page: "Page"
+        email: "Email"
+        file: "File"
+        insert_link: "Insert Link"
+        
+
+      email_description: 
+        insert_a_link_to_an_email_address: "Insert a link to an email address so that users can contact you."
+
+      image: 
+        insert_image: "Insert Image"
+        
+
+

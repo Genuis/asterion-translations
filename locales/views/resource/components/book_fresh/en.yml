@@ -1,0 +1,22 @@
+--- 
+en: 
+  resource: 
+    components: 
+      book_fresh: 
+        create: 
+          add_bookfresh_component: "Add BookFresh Component"
+          
+        settings: 
+          bookfresh_component_settings: "BookFresh Component Settings"
+          
+        embed: 
+          there_is_a_problem_with_your_component: "There is a problem with your component."
+
+        form: 
+          to_customize_your_bookfresh_account_settings_you: |
+            To customize your BookFresh account settings you will need to login to your account on %{bookfreshcom}.
+            From there you will be able to add new appointment types, manage staff accounts, and more. The component on your website will update automatically!
+          
+          background_color: "Background color"
+          border_color: "Border color"
+

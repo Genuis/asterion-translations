@@ -1,0 +1,19 @@
+--- 
+en: 
+  resource: 
+    blog: 
+      rss: 
+        manage: 
+          blog_posts: "Blog Posts"
+          categories: "Categories"
+          rss: "RSS"
+          
+          labels: "Labels"
+          import_posts: "Import posts"
+          general: "General"
+          rss_feeds_for_your_most_recent_blog_posts_and_comments: "RSS feeds for your most recent blog posts and comments."
+          most_recent_posts: "Most recent posts"
+          most_recent_comments: "Most recent comments"
+          categories: "Categories"
+          rss_feeds_for_your_blog_categories: "RSS feeds for your blog categories."
+

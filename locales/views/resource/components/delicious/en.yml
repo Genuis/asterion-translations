@@ -1,0 +1,27 @@
+--- 
+en: 
+  resource: 
+    components: 
+      delicious: 
+        create: 
+          add_delicious_component: "Add Del.icio.us Component"
+          
+          
+
+        settings: 
+          delicious_component_settings: "Del.icio.us Component Settings"
+          
+          
+
+        embed: 
+          there_were_no_bookmarks_found_this_will: "There were no bookmarks found. This will only be visible once there are bookmarks to be displayed."
+
+        form: 
+          display_settings: "Display Settings"
+          delicious_username: "Delicious Username"
+          tag_filter: "Tag Filter"
+          number_of_bookmarks_to_display: "Number of Bookmarks to Display"
+          show_all: "Show All"
+          display_all: "Display all"
+          all_tags: "All tags"
+

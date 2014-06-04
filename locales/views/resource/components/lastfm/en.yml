@@ -1,0 +1,45 @@
+--- 
+en: 
+  resource: 
+    components: 
+      lastfm: 
+        top_tracks: 
+          there_are_no_top_tracks_currently_available: "There are no top tracks currently available."
+          by_trackartist: "by %{artist}"
+          payed: "Played %{play_count} times"
+
+        recent_tracks: 
+          no_tracks_have_recently_been_played: "No tracks have recently been played."
+          by_trackartist: "by #{track.artist}"
+          played_on: "Played on %{played_on}"
+
+        top_artists: 
+          there_are_no_top_artists_currently_available: "There are no top artists currently available."
+          played:  "Played %{play_count} songs"
+          
+
+        embed: {}
+
+        create: 
+          add_lastfm_component: "Add Last.fm Component"
+          
+          
+
+        top_albums: 
+          there_are_no_top_albums_currently_available: "There are no top albums currently available."
+          album_artist: "by %{album_artist}"
+          played: "Played %{play_count} songs"
+
+        settings: 
+          lastfm_component_settings: "Last.fm Component Settings"
+          
+          
+
+        form: 
+          
+          lastfm_username: "Last.fm Username"
+          display_content: "Display Content"
+          
+          number_to_display: "Number to display"
+          link_artist_and_song_names: "Link artist and song names"
+

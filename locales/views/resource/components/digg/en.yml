@@ -1,0 +1,25 @@
+--- 
+en: 
+  resource: 
+    components: 
+      digg: 
+        create: 
+          add_digg_component: "Add Digg Component"
+          
+          
+          
+
+        settings: 
+          digg_component_settings: "Digg Component Settings"
+          
+          
+
+        embed: 
+          you_have_no_diggs_to_display_please: "You have no diggs to display. Please ensure that you have this component configured properly."
+
+        form: 
+          display_settings: "Display Settings"
+          
+          number_to_display: "Number to display"
+          display_diggs_from: "Display diggs from"
+

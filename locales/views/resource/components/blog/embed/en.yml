@@ -1,0 +1,10 @@
+--- 
+en: 
+  resource: 
+    components: 
+      blog: 
+        embed: 
+          minimal: {}
+
+          full: {}
+

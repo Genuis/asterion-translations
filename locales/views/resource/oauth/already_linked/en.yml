@@ -1,0 +1,17 @@
+--- 
+en: 
+  resource: 
+    oauth: 
+      already_linked: 
+        twitter: 
+          account_already_linked: "Account Already Linked"
+          the_account_you_tried_to_link: "The account you tried to link has already been linked with this account."
+          weve_detected_the_account: "We've detected the account has already been linked and has been updated to match the latest credentials. If you meant to link a different account, click the continue button to go to the Linked Accounts dialog."
+          you_may_need_to_log_out: "You may need to log out of Twitter to link a different account."
+          continue: "Continue"
+        facebook: 
+          account_already_linked: "Account Already Linked"
+          the_account_you_tried_to_link: "The account you tried to link has already been linked with this account."
+          weve_detected_the_account: "We've detected the account has already been linked and has been updated to match the latest credentials. If you meant to link a different account, click the continue button to go to the Linked Accounts dialog."
+          you_may_need_to_log_out: "You may need to log out of Facebook to link a different account."
+          continue: "Continue"

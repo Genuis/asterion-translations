@@ -1,0 +1,45 @@
+--- 
+en: 
+  resource: 
+    blog: 
+      category: 
+        reassign_and_delete: 
+          reassign_posts: "Reassign posts"
+          select_category: "Select category"
+          the_category_that_youre_attempting_to_remove: "The category that you're attempting to remove has posts associated with it. In order to remove the category, please select a new category to assign the posts to."
+          assign_posts_to: "Assign posts to:"
+          this_will_move_blog_posts_from: "This will move blog posts from"
+        manage: 
+          manage_categories: "Manage Categories"
+          blog_posts: "Blog Posts"
+          categories: "Categories"
+          rss: "RSS"
+          
+          labels: "Labels"
+          import_posts: "Import posts"
+          categories: "Categories"
+          view: "View"
+          locked: "Locked"
+          unlocked: "Unlocked"
+          rename: "Rename"
+          
+          delete_category: "Delete category"
+          create_a_new_category: "Create a New Category"
+          create_category: "Create Category"
+          category_name: "Category Name"
+          rename_category: "Rename Category"
+          
+          
+          
+          separating_your_posts: "Separating your posts into categories allows you to display different posts on different sections of your website, or simply to allow visitors to browse your posts by topics of their interest."
+          are_you_sure_you_want_to_remove_this_category: "Are you sure you want to remove this category?"
+          really_delete_the: "Really delete the"
+          category: "category?"
+          delete_category: "Delete Category"
+          
+        form: 
+          name: "Name"
+          
+        category: 
+          delete: "delete"
+

@@ -1,0 +1,10 @@
+--- 
+en: 
+  resource: 
+    components: 
+      image: 
+        create: 
+          add_image_component: "Add Image Component"
+          
+          
+

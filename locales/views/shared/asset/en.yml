@@ -1,0 +1,16 @@
+--- 
+en: 
+  shared: 
+    asset: 
+      collection_preview: 
+        show_images_from_which_folder: "Show Images From Which Folder?"
+        upload_images: "Upload images"
+        manage_images: "Manage images"
+        selected_images: "Selected Images"
+        there_are_no_images_in_the_folder: "There are no images in the folder that you've selected, "
+        you_currently_have_no_images_uploaded: "You currently have no images uploaded."
+        upload_some_images: "Upload Some Images."
+        more: "more"
+        more_images: "more images ..."
+        total: "total"
+

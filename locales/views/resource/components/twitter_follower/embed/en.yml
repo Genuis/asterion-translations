@@ -1,0 +1,10 @@
+--- 
+en: 
+  resource: 
+    components: 
+      twitter_follower: 
+        embed: 
+          friends: {}
+
+          followers: {}
+

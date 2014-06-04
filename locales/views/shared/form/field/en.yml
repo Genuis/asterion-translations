@@ -1,0 +1,24 @@
+--- 
+en: 
+  shared: 
+    form: 
+      field: 
+        _text_field: {}
+
+        _text_area: {}
+
+        _heading: {}
+
+        check_box: 
+          unchecked: "Unchecked"
+          checked: "Checked"
+
+        submit: 
+          spam_check: "Spam check"
+
+        _radio: {}
+
+        _select_box: {}
+
+        _paragraph: {}
+

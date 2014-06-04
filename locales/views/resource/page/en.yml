@@ -1,0 +1,108 @@
+--- 
+en: 
+  resource: 
+    page: 
+      not_found: 
+        page_not_found: "Page not found"
+        you_have_not_yet_created_a_page: "You have not yet created a page at "
+        please_select_one_of_the_following_options: "Please select one of the following options: "
+        create_a_new_page: "Create a new page"
+        edit_the_custom_404_page: "Edit the custom 404 page"
+        return_to_your_site: "Return to your site"
+
+      modify_header: 
+        edit_page_head_tag: "Edit Page Head Tag"
+        page_head_tag: "Page Head Tag"
+        this_requires_knowledge_of_html_and_is: "This requires knowledge of HTML and is intended for advanced users. Code will be appended inside <head></head>"
+        
+        
+        locked: "Locked"
+        unlocked: "Unlocked"
+
+      delete: {}
+
+      escaped_fragment: {}
+
+      basic_form: 
+        name: "Name"
+        this_will_be_used_in_the_navigation: "This will be used in the navigation of your site, as well as on any links to this page."
+        location: "Location"
+        this_is_the_path_to_the_page: "This is the path to the page that the user will see in the address bar when visiting your website."
+        default_page_cannot_be_unpublished: "Default page cannot be unpublished."
+        published: "Published"
+        add_to_main_menu: "Add to Main Menu"
+
+      manage_path: 
+        locked: "Locked"
+        unlocked: "Unlocked"
+        
+        protect_all_pages_in_folder: "Protect All Pages in Folder"
+        delete_folder: "Delete Folder"
+        unpublished: "unpublished"
+        home_page: "Home Page"
+        unpublished: "Unpublished"
+        
+        view: "View"
+        view_page: "View page"
+        
+        make_home: "Make Home"
+        delete_this_page: "Delete this page."
+        
+      manage: 
+        manage_website_pages: "Manage Website Pages"
+        website_pages: "Website Pages"
+        pageurl_redirects: "Page/URL Redirects"
+        create_a_new_page: "Create a New Page"
+        pages: "Pages"
+        protect_entire_site: "Protect Entire Site"
+        are_you_sure_you_want_to_delete_this_group: "Are you sure you want to delete this group?"
+        this_will_remove_any_pages_inside_this_group_as_well: "This will remove any pages inside this group as well!"
+        delete_group: "Delete Group"
+
+      create: 
+        create_a_new_page: "Create A New Page"
+        create_page: "Create Page"
+        
+
+      settings: 
+        edit_page_settings: "Edit Page Settings"
+        
+        
+
+      seo: 
+        edit_page_seo: "Edit Page SEO"
+        keywords: "Keywords"
+        keywords_that_describe_your_website_for_search: "Keywords that describe your website for search engines, comma seperated (eg: sports,hockey)"
+        keywords_are_a_comma_separated_list_of: "Keywords are a comma separated list of words that describe your site to search engines. (eg. sports, hockey, nhl, news, canucks)"
+        description: "Description"
+        description_of_your_website_for_search_engines: "Description of your website for search engines"
+        your_site_description_should_be_a_regular: "Your site description should be a regular paragraph that describes what your site is about. Do not use lists of keywords here."
+        
+        
+        
+      tabs: 
+        basic: "Basic"
+        page_seo: "Page SEO"
+        head_tag: "Head Tag"
+
+      form: 
+        page_name: "Page Name"
+        this_will_be_used: "This will be used in the navigation of your site, as well as on any links to this page."
+        default_page_cannot_be_unpublished: "Default page cannot be unpublished."
+        publish_now: "Publish Now"
+        add_to_main_menu: "Add to main menu"
+        page_url: "Page URL"
+        this_is_the_path: "This is the path to the page that the user will see in the address bar when visiting your website."
+        the_page_will_look: "The page will look like this in your browser's address bar: "
+        redirect_your_old_page: "Redirect Your Old Page"
+        you_are_changing_the_url: "You are changing the URL of this page.  If you want the old location to still work it may be a good idea to redirect it to this new location."
+        redirect_type: "Redirect Type"
+        redirect: "Redirect"
+
+      login: 
+        authentication_required: "Authentication Required"
+        authentication_is_required_to_view_this_page: "Authentication is required to view this page."
+        password_: "Password: "
+        login: "Login"
+        password_is_incorrect: "Password is incorrect."
+

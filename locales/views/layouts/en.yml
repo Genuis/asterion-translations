@@ -1,0 +1,26 @@
+--- 
+en: 
+  layouts: 
+    popout: {}
+
+    component: {}
+
+    whitebox: {}
+
+    modal: {}
+
+    assets:
+      your_uploaded_files: 'Your Uploaded Files'
+      stock_photo_library: "Stock Photo Library"
+      manage_folders: 'Manage Folders'
+      upload_new_files: "Upload New Files"
+      help: 'Help'
+    editor: {}
+
+    setup: {}
+
+    basic: {}
+
+    dialog:
+      help: 'Help'
+

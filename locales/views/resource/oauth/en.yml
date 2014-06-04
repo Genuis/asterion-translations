@@ -1,0 +1,13 @@
+--- 
+en: 
+  resource: 
+    oauth: 
+      error: 
+        an_error_occurred: "An Error Occurred"
+        
+      already_linked:
+        account_already_linked: "Account Already Linked"
+
+      denied: 
+        authorization_request_denied: "Authorization Request Denied"
+

@@ -1,0 +1,11 @@
+--- 
+en: 
+  resource: 
+    component: 
+      remove: 
+        blog_component: {}
+
+        image_component: {}
+
+        friend_component: {}
+

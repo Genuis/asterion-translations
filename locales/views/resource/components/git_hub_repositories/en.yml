@@ -1,0 +1,28 @@
+--- 
+en: 
+  resource: 
+    components: 
+      git_hub_repositories: 
+        create: 
+          add_github_repositories_component: "Add GitHub Repositories Component"
+          
+          
+
+        settings: 
+          github_repositories_component_settings: "GitHub Repositories Component Settings"
+          
+          
+
+        embed: 
+          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+
+        form: 
+          
+          github_username: "Github Username"
+          show_gravatar: "Show Gravatar"
+          repositories: "Repositories"
+          show_all: "Show all"
+          show_the_most_recent: "Show the most recent"
+          click_behaviour: "Click Behaviour"
+          select_what_happens_when_a_user_clicks: "Select what happens when a user clicks on the name of a Repository"
+

@@ -1,0 +1,14 @@
+--- 
+en: 
+  resource: 
+    components: 
+      paypal: 
+        embed: 
+          buynow: {}
+
+          donate: {}
+
+          viewcart: {}
+
+          cart: {}
+

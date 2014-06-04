@@ -1,0 +1,26 @@
+--- 
+en: 
+  resource: 
+    components: 
+      reddit: 
+        create: 
+          add_reddit_component: "Add Reddit Component"
+          
+          
+
+        settings: 
+          reddit_component_settings: "Reddit Component Settings"
+          
+          
+
+        embed: 
+          you_have_no_reddits_to_display_please: "You have no reddits to display. Please ensure that you have this component configured properly."
+
+        form: 
+          
+          subreddits: "Subreddits"
+          subreddit: "Subreddit"
+          a_subreddit_is_a_category_on_redditcom: "A Subreddit is a category on reddit.com. For example: programming, technology, sports, etc."
+          items_per_page: "Items Per Page"
+          sort_by: "Sort By"
+

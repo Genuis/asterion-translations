@@ -1,0 +1,24 @@
+--- 
+en: 
+  resource: 
+    component: 
+      component: 
+        drag_me: "Drag Me"
+
+      components: 
+        there_was_nothing_found_matching_your_filter: "There was nothing found matching your filter."
+        select_a_category_then_drag_items_to_your_page: "Select a category then drag items to your page."
+
+      remove: 
+        are_you_sure: "Are you sure?"
+        deleting_a_block_will_remove_it_from_the_page: "Deleting a block will remove it from the page."
+        are_you_sure_you_want_to_remove_this_block: "Are you sure you want to remove this block?"
+
+      select: 
+        content_categories: "Content Categories"
+        close: "Close"
+
+      copy: 
+        copy_to_page: "Copy to Page:"
+        current_page: "(current page)"
+

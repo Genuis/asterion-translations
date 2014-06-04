@@ -1,0 +1,59 @@
+--- 
+en: 
+  resource: 
+    components: 
+      audio_player: 
+        popout: {}
+
+        collection: 
+          new_audio_player_component: "New Audio Player Component"
+          next_step: "Next Step"
+
+        player: 
+          sorry_this_playlist_is_no_longer_available: "Sorry, this playlist is no longer available."
+
+        create: 
+          add_audio_player_component: "Add Audio Player Component"
+          
+          back: "Back"
+
+        settings: 
+          audio_player_component_settings: "Audio Player Component Settings"
+          
+          
+
+        embed: 
+          playlist: "Playlist"
+          there_are_no_audio_files_selected_this: 
+            text: "There are no audio files selected. This will not show up on your website until you have %{uploaded_some} mp3s."
+            uploaded_some: "uploaded some"
+          pop_out_player: "Pop Out Player"
+
+        audio_files: 
+          audio_player_component_playlist: "Audio Player Component Playlist"
+          
+          
+
+        form: 
+          
+          number_of_songs_to_show: "Number of Songs to Show"
+          
+          auto_play_on_page_load: "Auto play on page load"
+          enable_pop_out_player: "Enable Pop Out Player?"
+          shuffle_playlist: "Shuffle playlist"
+          repeat_playlist: "Repeat playlist"
+
+        collection_preview: 
+          build_playlist: "Build Playlist"
+          upload_music: "Upload Music"
+          manage_music: "Manage Music"
+          total: "%{mp3_size} total"
+          all_audio_files: "All audio files"
+          you_currently_have_no_mp3_audio_files: "You currently have no MP3 audio files uploaded."
+          selected_audio_files: "Selected Audio Files"
+          there_are_no_mp3_audio_files_in: "There are no MP3 audio files in the folder that you've selected."
+          upload_some_audio_files: "Upload Some Audio Files."
+          file: "file"
+          files: "files"
+          mp3_files: "MP3 files"
+

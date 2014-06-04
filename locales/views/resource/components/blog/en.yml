@@ -1,0 +1,49 @@
+--- 
+en: 
+  resource: 
+    components: 
+      blog: 
+        create: 
+          add_blog_post_component: "Add Blog Post Component"
+
+        settings: 
+          blog_post_component_settings: "Blog Post Component Settings"
+
+        embed: 
+          new_post: "New Post"
+          
+          
+          this_is_a_blog_component: 
+            text: |
+              This is a blog component, you do not currently have any posts to display. 
+              This will not show up on your website until posts have been added. 
+              You can %{write_your_first_post} , %{import_posts_from_another_service} or delete the component.
+            
+            write_your_first_post: "write your first post"
+            import_posts_from_another_service: "import posts from another service"
+
+          delete_blog_post: "Delete Blog Post"
+          delete_post: "Delete Post"
+          are_you_sure_you_want_to_delete: "Are you sure you want to delete this blog post?"
+          subscribe_to_this_blog: "Subscribe to this Blog"
+          view_older_posts_raquo: "View older posts &raquo;"
+        form: 
+          to_manage_blog_posts_categories_rss_custom: "To manage Blog Posts, Categories, RSS, Custom Labels, Blog Settings as well as import Posts, in the top toolbar go to  Manage Website >"
+          blog: "Blog"
+          
+          format: "Format"
+          title_only: "Title Only"
+          summarized_post: "Summarized Post"
+          the_entire_post: "The Entire Post"
+          summary_length: "Summary Length"
+          enable_feed_autodiscovery_so_people_can_subscribe: "Enable feed auto-discovery so people can subscribe to your blog."
+          enable_xml_subscribe_link_on_posts: "Enable XML subscribe link on posts."
+          post_selection: "Post Selection"
+          number_of_posts: "Number of posts"
+          start_at_post: "Start at post #"
+          display_link_for_older_posts: "Display link for older posts"
+          show_posts_from_specific_categories: "Show Posts From Specific Categories"
+          select_how_many_blog_posts_are_displayed: "Select how many blog posts are displayed on your page"
+          set_an_offset_if_you_want_to: "Set an offset if you want to start showing older posts"
+          categories: "Categories"
+          
