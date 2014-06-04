@@ -1,0 +1,39 @@
+--- 
+ar: 
+  resource: 
+    guestbook_comment: 
+      posted: 
+        your_comment_has_been_posted: "Your comment has been posted."
+        your_comment_has_been_submitted: "Your comment has been submitted. It will appear on this site  when it is approved by the site owner."
+
+      content: 
+        modify: "Modify"
+        remove: "Remove"
+        are_you_sure: "Are you sure?"
+
+      comment_component_toolbar: 
+        comment: "Comment%{suspected_spam}"
+        _suspected_spam: " (suspected spam)"
+
+      comment: {}
+
+      modify: 
+        update: "Update"
+        your_comment_is_being_updated: "Your comment is being updated..."
+
+      form: 
+        name_: "Name: "
+        email_: "Email: "
+        website_: "Website: "
+        enter_text_only_if_you_are_not_human: "Enter text only if you are not human:"
+        comment_: "Comment: "
+        spam_check: "Spam check:"
+        submit: "Submit"
+        your_comment_is_being_posted: "Your comment is being posted..."
+
+      spam: {}
+
+      count: 
+        comment: "comment"
+        unapproved: "unapproved"
+

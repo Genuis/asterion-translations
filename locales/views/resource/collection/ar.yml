@@ -1,0 +1,33 @@
+--- 
+ar: 
+  resource: 
+    collection: 
+      edit: 
+        edit_folder: "Edit Folder"
+        folder: "Folder"
+        name: "Name"
+        
+        
+
+      manage: 
+        photo_and_media_manager: "Photo and Media Manager"
+        folders: "Folders"
+        rename: "Rename"
+        
+        you_currently_have_no_folders_to_display: "You currently have no folders to display."
+        create_a_new_folder: "Create a New Folder"
+        create_folder: "Create Folder"
+        rename_folder: "Rename Folder"
+        delete_folder: "Delete Folder"
+        delete_: "Delete "
+        really_delete_the_folder: "Really delete the folder?"
+        your_files_will_be_moved_to_the_unsorted_folder: "Your files will be moved to the 'Unsorted' folder."
+
+      create:
+        folder: "Folder"
+        new_folder: "New Folder"
+        create: "Create"
+        
+
+      folder: {}
+

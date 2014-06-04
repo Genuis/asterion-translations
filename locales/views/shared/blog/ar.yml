@@ -1,0 +1,14 @@
+--- 
+ar: 
+  shared: 
+    blog: 
+      _post: 
+        this_post_is_not_published: "This post is not published"
+        to_view_the_contents_of_this: 
+          text: "%{login_in} to view the contents of this password-protected post"
+          log_in: "Log in"
+          
+        publish: "Publish"
+        blog_post: "Blog post"
+        this_will_be_published_on: "This will be published on"
+

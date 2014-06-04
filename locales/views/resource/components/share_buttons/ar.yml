@@ -1,0 +1,37 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      share_buttons: 
+        icons: {}
+
+        create: 
+          add_share_buttons_component: "Add Share Buttons Component"
+          
+          
+
+        settings: 
+          share_buttons_component_settings: "Share Buttons Component Settings"
+          
+          
+
+        embed: 
+          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+          
+
+        form: 
+          display_settings: "Display Settings"
+          
+          icon_size: "Icon Size"
+          large_32_pixels: "Large (32 pixels)"
+          small_16_pixels: "Small (16 pixels)"
+          preview: "Preview"
+          drag_to_sort: "Drag to sort."
+          popular_icons: "Popular Icons"
+          click_to_add_to_your_list: "Click to add to your list."
+          more: "more"
+          all_icons: "All Icons"
+          click_to_add_to_your_list: "Click to add to your list."
+          less: "less"
+          
+

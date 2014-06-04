@@ -1,0 +1,29 @@
+--- 
+ar: 
+  resource: 
+    flickr: 
+      photos: 
+        flickr_user_not_found: "Flickr user not found."
+        please_enter_a_username_to_browse_photos: "Please enter a username to browse photos."
+
+      preview:
+        flickr_image_preview: "Flickr Image Preview"
+        preview_of_: "Preview of "
+        owner_: "Owner: "
+        uploaded_: "Uploaded: "
+        description_: "Description: "
+        back: "Back"
+
+      photosets: 
+        all_photographs: "All Photographs"
+        
+
+      photo: 
+        use_this_image: "Use This Image"
+
+      browse:
+        flickr_photo_browser: "Flickr Photo Browser"
+        username: "Username:"
+        photosets: "Photosets:"
+        
+

@@ -1,0 +1,95 @@
+--- 
+ar: 
+  resource: 
+    toolbar: 
+      page_actions: 
+        page_settings: "Page Settings"
+        change_header_image: "Change Header Image"
+        page_seo: "Page SEO"
+        delete_page: "Delete Page"
+        add_new_page: "Add New Page"
+        collapse_blocks: "Collapse Blocks"
+
+      edit_theme: 
+        edit_fonts: "Edit Fonts"
+        edit_background: "Edit Background"
+        change_website_theme: "Change Website Theme"
+        edit_theme_source_code: "Edit Theme Source Code"
+        uploaddownload_a_theme: "Upload/Download A Theme"
+
+      layouts: 
+        this_page_is_using: "This page is using the %{name} layout."
+        this_page:
+          text: "This page %{in_use} the %{layout_name} layout."
+          is_already_using: "is already using"
+          will_use: "will use"
+        
+
+      site_content: 
+        site_content: "Site Content"
+        manage_blog: "Manage Blog"
+        manage_guestbooks: "Manage Guestbooks"
+        visitor_messages: "Visitor Messages"
+        manage_pages: "Manage Pages"
+        manage_photos_and_media: "Manage Photos and Media"
+        
+
+      orphaned_components: 
+        restore_components: "Restore Components"
+        some_of_your_components_are_stuck_in: |
+          Some of your components are stuck in a column that doesn't exist anymore.<br /><br />
+          This can happen when you change your theme or page layout.<br /><br />
+          Would you like to put these lost components back on your page?
+        restore_your_hidden_components: "Restore Your Hidden Components?" 
+        yes_restore_my_components: "Yes, Restore My Components"
+        
+        
+      _orphaned_component: {}
+
+      add_block: 
+        add_content_to_page: "Add Content to Page"
+
+      my_website: 
+        manage_website: "Manage Website"
+        sitewide_settings: "Site-wide Settings"
+        pages: "Pages"
+        photos_and_media: "Photos and Media"
+        blog: "Blog"
+        sitewide_seo: "Site-wide SEO"
+        statistics: "Statistics"
+        linked_accounts: "Linked Accounts"
+        guestbooks: "Guestbooks"
+        visitor_comments: "Visitor Comments"
+
+      toolbar_colours: {}
+
+      comments: 
+        comment: "Comment"
+        comments: "Comments"
+        new: "New"
+
+      pages: 
+        pages: "Pages:"
+        select_a_page: "Select a page"
+        add_new_page: "Add New Page"
+        
+      show:
+        website_builder: "Website Builder"
+        website_suspended: "WEBSITE SUSPENDED!"
+        exit_safe_mode: "Exit Safe Mode"
+        help: "Help"
+        what39s_new: "What&#39;s New"
+        account: "Account"
+        logout: "Logout"
+        view_site: "View Site"
+        feedback: "Feedback"
+
+      page_selection: 
+        select_a_page: "Select a page"
+        scroll_up: "Scroll Up"
+        scroll_down: "Scroll Down"
+        add_new_page: "Add New Page"
+
+      fonts: 
+        site_fonts: "Site Fonts"
+

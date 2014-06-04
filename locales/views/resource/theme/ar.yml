@@ -1,0 +1,86 @@
+--- 
+ar: 
+  resource: 
+    theme: 
+      edit_html: 
+        edit_file: "Edit File: %{file}"
+        
+      tags: {}
+
+      edit: 
+        editing_file: "Editing File: %{file}"
+
+      upload_theme: 
+        select_your_theme_zip_file: "Select your theme zip file:"
+        upload_theme: "Upload theme"
+
+      advanced: 
+        upload_theme__download_theme: "Upload Theme / Download Theme"
+        customize_html: "Customize HTML"
+        creating_your_own_theme: "Creating Your Own Theme"
+        to_make_a_custom_theme_all_you: "To make a custom theme, all you need to know is HTML and CSS. There is no new templating language to learn!"
+        please_refer_to_our: 
+          text: "Please refer to our %{theme_documentation} in our wiki for help with customizing your theme or creating a new one."
+          theme_documentation: "theme documentation"
+        download_themes: "Download Themes"
+        blank_theme: "Blank Theme"
+        the_blank_theme_is_intended_to_be: "The blank theme is intended to be used as a starting point. It comes with a basic html file with comments, a sample directory structure, and some documentation to help get you going."
+        current_theme: "Current Theme"
+        download_a_copy_of_the_currently_installed: "Download a copy of the currently installed theme, allowing you to edit it on your computer. This will include all the themes assets (images, css, html, etc.)."
+        upload_theme: "Upload Theme"
+        select_your_theme_zip_file: "Select Your Theme .zip File"
+        you_have_not_yet_selected_any_files: "You have not yet selected any files to upload."
+        there_was_a_problem_with_your_theme: "There was a problem with your theme:"
+        upgrade_to_pro: "Upgrade to Pro "
+        for_custom_themes: "for custom themes."
+        upgrade_now: "Upgrade Now"
+        
+      toolbar: 
+        search: "Search:"
+
+      customize: 
+        customize_html: "Customize HTML"
+        upload_theme__download_theme: "Upload Theme / Download Theme"
+        css_files: "CSS Files"
+        html_file: "HTML File"
+        stylesheet: "Stylesheet"
+        javascript_file: "Javascript File"
+        theme_files: "Theme Files"
+        upgrade_to_pro: "Upgrade to Pro "
+        to_edit_html_and_js_files: "to edit .html and .js files."
+        upgrade_now: "Upgrade Now"
+        customizing_your_theme: "Customizing Your Theme"
+        these_are_all_of_the_html_and: "These are all of the html and css files in your theme."
+        customizing_your_theme_requires_knowledge_of_html: "Customizing your theme requires knowledge of HTML and CSS and is intended for advanced users. "
+        if_you_just_want_to_change_your: 
+          text: "If you just want to change your theme, you should %{select_a_new_theme} from our existing library instead."
+          select_a_new_theme: "select a new theme"
+        for_in_depth_documentation_you_can_view: 
+          text: "For in depth documentation, you can view the %{theme_documentation} at any time."
+          theme_documentation: "theme documentation"
+        you_can_download_an_archive_of_this: "You can download an archive of this theme and all of its assets (images, css, html) if you would like to further customize it or edit it on your computer. If you would prefer to create a new theme from scratch, we have a blank theme template with instructions available as well."
+        either_of_these_can_be_downloaded_by: 
+          text: "Either of these can be downloaded by going to the %{upload_theme} section."
+          upload_theme__download_theme: "Upload Theme / Download Theme"
+        
+      update: 
+        update_theme: "Update Theme"
+        would_you_like_to_reinstall_your_theme: "Would you like to re-install your theme now?"
+        updating_a_theme_may_cause_some_slight: |
+          Updating a theme may cause some slight visual changes to your website, 
+          but will ensure you have the latest version of the theme.
+
+      select: 
+        select_theme: "Select Theme"
+        switching_themes_will_delete_your_content_click: "Switching themes will delete your content. Click OK to proceed anyway or CANCEL to save your work"
+        
+        loading_themes: "Loading themes ..."
+
+      theme: 
+        this_theme_features_editable_header_image: "This theme features editable header image!"
+        this_theme_has_a_responsive_layout: "This theme has a responsive layout!"
+        current_theme: "Current Theme"
+        reinstall: "Reinstall"
+        install: "Install"
+        page_layouts_for: "Page Layouts for %{theme_name}"
+

@@ -1,0 +1,33 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      paypal: 
+        edit: 
+          edit_description: "Edit Description"
+          
+          
+
+        create_paypal_settings: 
+          add_paypal_component: "Add PayPal Component"
+          next_step: "Next Step"
+          
+
+        create: 
+          add_paypal_component: "Add PayPal Component"
+          
+          
+
+        settings: 
+          paypal_component_settings: "PayPal Component Settings"
+          
+          
+
+        embed: 
+          
+          
+          paypal__the_safer_easier_way_to: "PayPal - The safer, easier way to pay online"
+
+        form: {}
+
+

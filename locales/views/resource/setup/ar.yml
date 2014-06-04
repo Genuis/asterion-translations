@@ -1,0 +1,6 @@
+--- 
+ar: 
+  resource: 
+    setup: 
+      index: {}
+

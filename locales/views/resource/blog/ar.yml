@@ -1,0 +1,16 @@
+--- 
+ar: 
+  resource: 
+    blog: 
+      category: {}
+
+      post: {}
+
+      manage: {}
+
+      rss: {}
+
+      import: {}
+
+      comment: {}
+

@@ -1,0 +1,90 @@
+--- 
+ar: 
+  resource: 
+    statistics: 
+      referrers: 
+        website_statistics: "Website Statistics"
+        overview: "Overview"
+        page_views: "Page Views"
+        top_pages: "Top Pages"
+        top_referrers: "Top Referrers"
+        upgrade_your_account_to_pro: "Upgrade your account to Pro "
+        to_view_all_of_your_referrers_current: "to view all of your referrers (current limit: 7)."
+        upgrade_now: "Upgrade Now"
+        top_referrers: "Top Referrers"
+        a_referring_site_is_a_web_page: "A Referring Site is a web page URL that is linking to a page on your site and has referred you visitors."
+        referring_site: "Referring Site"
+        page_name: "Page Name"
+        view_more: "View More ..."
+        
+
+      pageviews: 
+        website_statistics: "Website Statistics"
+        overview: "Overview"
+        page_views: "Page Views"
+        top_pages: "Top Pages"
+        top_referrers: "Top Referrers"
+        upgrade_your_account_to_pro: "Upgrade your account to Pro "
+        to_access_all_of_your_statistics_current: "to access all of your statistics (current limit: 7 days)."
+        upgrade_now: "Upgrade Now"
+        traffic_breakdown_for_last: "Traffic Breakdown For Last %{number_of_days_ago} Days"
+        page_views_is_the_number_of_times: "Page Views is the number of times individual pages have been viewed. Unique Visits is the number of unique people have viewed your website."
+        7_days: "7 days"
+        1_month: "1 month"
+        3_months: "3 months"
+        6_months: "6 months"
+        1_year: "1 year"
+        2_years: "2 years"
+        3_years: "3 years"
+        daily_breakdown: "Daily Breakdown"
+        week_day: "Week Day"
+        weekend: "weekend"
+        
+        
+      chart: 
+        page_views: "Page Views"
+        unique_visits: "Unique Visits"
+
+      index: 
+        overview: "Overview"
+        website_statistics: "Website Statistics"
+        page_views: "Page Views"
+        top_pages: "Top Pages"
+        top_referrers: "Top Referrers"
+        upgrade_your_account_to_pro: "Upgrade your account to Pro "
+        to_access_all_of_your_statistics_current: "to access all of your statistics (current limit: 7 days)."
+        upgrade_now: "Upgrade Now"
+        a_page_view_is_the_number_of: "A Page View is the number of times individual pages have been viewed, and Unique Visits reports how many unique people have viewed your website."
+        trafic_overview: "Traffic Overview For %{number_of_days_ago} Days"
+        page_views_in_the_last: "Page Views in the last %{number_of_days_ago} days:"
+        average_page_views_per_day: "Average Page Views per Day:"
+        unique_visits: "Unique Visits"
+        total_visits: "Total Visits"
+        7_days: "7 days"
+        1_month: "1 month"
+        3_months: "3 months"
+        6_months: "6 months"
+        1_year: "1 year"
+        2_years: "2 years"
+        3_years: "3 years"
+        page_views: "Page Views"
+        total_page_views: "Total Page Views:"
+        visits_in_the_last: "Visits in the last %{number_of_days_ago} days:"
+        average_visits_per_day: "Average Visits per Day:"
+        
+
+      pages: 
+        website_statistics: "Website Statistics"
+        overview: "Overview"
+        page_views: "Page Views"
+        top_pages: "Top Pages"
+        top_referrers: "Top Referrers"
+        upgrade_your_account_to_pro: "Upgrade your account to Pro "
+        to_view_all_of_the_most_popular: "to view all of the most popular pages visited on your site (current limit: 7)."
+        upgrade_now: "Upgrade Now"
+        top_pages: "Top Pages"
+        this_is_a_list_of_your_most: "This is a list of your most popular pages viewed in the last 30 days."
+        page_name: "Page Name"
+        view_more: "View More ..."
+        
+

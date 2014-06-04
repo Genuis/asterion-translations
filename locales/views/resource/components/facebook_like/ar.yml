@@ -1,0 +1,31 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      facebook_like: 
+        create: 
+          add_facebook_like_component: "Add Facebook Like Component"
+          
+          
+
+        settings: 
+          facebook_like_component_settings: "Facebook Like Component Settings"
+          
+          
+
+        embed: 
+          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+
+        form: 
+          
+          like_url: "Like URL"
+          this_is_the_address_of_the_page: "This is the address of the page you want users to like."
+          display_settings: "Display Settings"
+          layout_style: "Layout Style"
+          verb_to_display: "Verb to display"
+          font: "Font"
+          colour_scheme: "Colour Scheme"
+          show_faces: "Show faces?"
+          component_size: "Component Size"
+          width: "Width"
+

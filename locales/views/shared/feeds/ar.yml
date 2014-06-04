@@ -1,0 +1,42 @@
+--- 
+ar: 
+  shared: 
+    feeds: 
+      no_feeds: 
+        you_currently_have_no_feeds_added: "You currently have no feeds added."
+        
+
+      feed: 
+        feed_has_no_title: "Feed has no title"
+        never: "Never"
+        refresh: "Refresh"
+        remove: "Remove"
+
+      edit: 
+        edit_feeds: "Edit Feeds"
+        add_or_remove_as_many_feeds_as: "Add or remove as many feeds as you'd like the component to display below. Once you're done click the save button."
+        feed_selection: "Feed selection"
+        currently_added_feeds: "Currently added feeds"
+        save: "save"
+        cancel: "cancel"
+
+      feed_table: 
+        
+        url: "URL"
+        last_updated: "Last updated"
+
+      feed_form: 
+        add_feed: "Add Feed"
+        this_can_be_either_a_website_url: "This can be either a website URL or a feed URL."
+        example: "Example: "
+
+      multiple_feeds_selection: 
+        multiple_feeds_discovered: "Multiple feeds discovered"
+        discovered_feeds: "Discovered Feeds"
+        multiple_feeds_have_been_discovered_on_the: "Multiple feeds have been discovered on the URL you entered, please select which feeds you'd like added to your component"
+        
+        url: "URL"
+        add: "Add"
+        next: "Next"
+        back: "Back"
+

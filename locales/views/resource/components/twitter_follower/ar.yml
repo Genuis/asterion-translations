@@ -1,0 +1,26 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      twitter_follower: 
+        create: 
+          add_twitter_followers_component: "Add Twitter Followers Component"
+          
+          
+
+        settings: 
+          twitter_followers_component_settings: "Twitter Followers Component Settings"
+          
+          
+
+        embed: 
+          uh_oh_it_looks_like_there_was: "Uh oh, it looks like there was a problem fetching your Twitter data. Twitter may be experiencing technical difficulties, or you can check your "
+
+        form: 
+          
+          twitter_account: "Twitter Account"
+          what_to_show: "What to Show"
+          people_following_me: "people following me"
+          people_im_following: "people I'm following"
+          number_of_followers_to_display: "Number of Followers to Display"
+

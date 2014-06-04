@@ -1,0 +1,35 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      form: 
+        component_form: 
+          account_activation_required: "Account Activation Required"
+          you_need_to_click_the_link_in: "You need to click the link in your activation email in order to have this email form function. Feel free to test it on your site, but it will not send email until you have activated your account. You can have the activation email resent to you from your main account (dashboard)."
+          form_title: "Form Title"
+          spam_protection: "Spam Protection"
+          enable_captcha_spam_protection: "Enable Captcha (Spam Protection)"
+          this_helps_prevent_spam_by_requiring_users: "This helps prevent spam by requiring users to enter a security code before submitting your form"
+          form_settings: "Form Settings"
+          your_email_address: "Your Email Address"
+          cc_address: "CC Address"
+          your_email_will_not_be_used_until: "Your email will not be used until you activate your account."
+          upgrade_to_pro: "Upgrade to Pro "
+          upgrade_now: "Upgrade Now"
+          for_custom_email_and_cc: "For custom email and cc."
+          email_subject_line: "Email Subject Line"
+          message_to_display_after_form_submission: "Message to Display After Form Submission"
+
+        create: 
+          add_form_component: "Add Form Component"
+          
+          
+
+        settings: 
+          form_component_settings: "Form Component Settings"
+          
+          
+
+        embed: 
+          fields: "Fields"
+

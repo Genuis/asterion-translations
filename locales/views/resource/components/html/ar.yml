@@ -1,0 +1,22 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      html: 
+        edit: 
+          edit_html_block: "Edit HTML Block"
+          
+          
+
+        create: 
+          add_html_code_block: "Add HTML Code Block"
+          
+          
+
+        embed: {}
+
+        form: 
+          
+          html_block: "HTML Block"
+          
+

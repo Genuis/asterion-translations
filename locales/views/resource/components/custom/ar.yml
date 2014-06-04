@@ -1,0 +1,18 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      custom: 
+        edit: 
+          edit_content_block: "Edit Content Block"
+          
+          
+
+        create: 
+          add_content_block: "Add Content Block"
+          
+          
+
+        embed: 
+          
+

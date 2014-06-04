@@ -1,0 +1,10 @@
+--- 
+ar: 
+  shared: 
+    linked_account: 
+      twitter: 
+        link_your_twitter_account: "Link your Twitter account"
+        account_linking_instructions: "Account Linking Instructions"
+        in_order_for_us_to_be_able: "In order for us to be able to access your Twitter information, we'll need to redirect you to the Twitter website so that you can authorize us."
+        after_the_account_has_been_authorized_you: "After the account has been authorized you will be redirected back."
+

@@ -1,0 +1,57 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      flickr_gallery: 
+        set_list: 
+          display_images_from: "Display images from"
+          photostreams: "Photostreams"
+          photosets: "Photosets"
+          groups: "Groups"
+          no_user_was_found: "No user was found."
+
+        create: 
+          add_flickr_gallery_component: "Add Flickr Gallery Component"
+          
+          
+
+        settings: 
+          flickr_gallery_component_settings: "Flickr Gallery Component Settings"
+          
+          
+
+        embed: 
+          there_are_no_images_to_be_displayed: "There are no images to be displayed. This will not show up on your website until there are images to display. "
+
+        form: 
+          
+          flickr_user_name: "Flickr User Name"
+          enter_your_flickr_screen_name_or_the: "Enter your Flickr screen name or the email you signed up to Flickr with"
+          image_selection: "Image Selection"
+          loading_data_from_flickr: "Loading data from Flickr..."
+          please_enter_your_username_above_to_select: "Please enter your username above to select which images to show."
+          show_all_images: "Show All Images"
+          show_the_most_recent: "Show the most recent"
+          images: "images"
+          image_size: "Image Size"
+          cropped_square_75x75: "Cropped Square (75x75)"
+          thumbnail_max_100px: "Thumbnail (max 100px)"
+          small_max_240px: "Small (max 240px)"
+          medium_max_500px: "Medium (max 500px)"
+          large_max_1024px: "Large (max 1024px)"
+          open_lightbox: "Open lightbox"
+          link_to_image: "Link to image"
+          link_to_flickr: "Link to Flickr"
+          no_click_action: "No click action"
+          select_what_happens_when_a_user_clicks: "Select what happens when a user clicks on an image in the gallery"
+          lightbox_settings: "Lightbox Settings"
+          theme: "Theme"
+          change_the_look_of_the_lightbox_that: "Change the look of the lightbox that displays your photos"
+          display_text_with_image: "Display text with image"
+          titles: "Titles"
+          descriptions: "Descriptions"
+          slideshow_delay: "Slideshow delay"
+          enter_a_value_to_enable_automatic_advancing: "Enter a value to enable automatic advancing of the images"
+          _seconds: " seconds"
+          click_behaviour: "Click Behaviour"
+

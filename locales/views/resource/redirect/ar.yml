@@ -1,0 +1,39 @@
+--- 
+ar: 
+  resource: 
+    redirect: 
+      delete: {}
+
+      edit: 
+        edit_redirect: "Edit Redirect"
+        
+        
+
+      manage: 
+        manage_pageurl_redirects: "Manage Page/URL Redirects"
+        website_pages: "Website Pages"
+        pageurl_redirects: "Page/URL Redirects"
+        current_redirects: "Current Redirects"
+        location: "Location"
+        redirects_to: "Redirects to"
+        type: "Type"
+        moved_temporarily: "Moved Temporarily"
+        moved_permanently: "Moved Permanently"
+        
+        delete_page: "Delete page"
+        about_url_redirects: "About URL Redirects"
+        redirects_allow_you_to_make_a_web: 
+          text: |
+            Redirects allow you to make a web page available on more than one URL. For example if your old site had a page called %{page} it could redirect to your new page %{new_page}
+        redirects_let_search_engines_know_that_a: "Redirects let search engines know that a page has moved instead of seeing it as a dead link. This helps with search engine ranking and indexing your site."
+        create_a_redirect: "Create a Redirect"
+        create_redirect: "Create Redirect"
+        
+        are_you_sure_you_want_to_remove: "Are you sure you want to remove this redirect?"
+        delete_redirect: "Delete Redirect"
+        
+      form: 
+        page_location: "Page Location"
+        redirect_to: "Redirect To"
+        redirect_type: "Redirect Type"
+

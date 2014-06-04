@@ -1,0 +1,42 @@
+--- 
+ar: 
+  shared: 
+    richtext: {}
+
+    blog: {}
+
+    feeds: {}
+
+    _banner: {}
+
+    linked_account: {}
+
+    component_error: 
+      component_error: "Component error"
+      an_error_occurred_while_rendering_this_component: |
+        An error occurred while rendering this component. 
+        This error has been logged and will be looked at shortly, and this component will remain hidden from your visitors until the issue has been resolved.
+      in_the_meantime_you_can_refresh_this: "In the meantime you can refresh this page clicking the red button below or click delete to remove the component and try again."
+      click_here_to_refresh_page: "Click Here to Refresh Page"
+      
+
+    form: {}
+
+    recaptcha: 
+      incorrect_please_try_again: "Incorrect, please try again"
+      enter_the_words_you_see: "Enter the words you see:"
+      enter_the_words_you_hear: "Enter the words you hear:"
+      get_an_audio_captcha: "Get an audio CAPTCHA"
+      get_a_text_captcha: "Get a text CAPTCHA"
+
+    upgrade_notice: 
+      upgrade_required: "Upgrade Required"
+      click_the_button_below_to_upgrade_your: "Click the button below to upgrade your account."
+      
+      action_cannot_be_completed: "Action Cannot Be Completed"
+
+    asset: {}
+
+    container_width: 
+      the_container_width_is: "The container width is %{span} pixels."
+

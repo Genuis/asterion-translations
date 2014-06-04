@@ -1,0 +1,112 @@
+--- 
+ar: 
+  resource: 
+    asset: 
+      fetch_asset_list: {}
+
+      create_folder: 
+        create_a_new_folder: "Create a New Folder"
+        new_folder_name: "New Folder Name"
+
+      upload_swfobject: 
+        1_choose_a_folder: "1. Choose a Folder"
+        
+        _saved_when_you_click_upload: " (saved when you click upload)"
+        2_choose_files_from_your_computer: "2. Choose Files From Your Computer"
+        select_files_to_upload: "Select Files to Upload"
+        use_basic_uploader: "Use Basic Uploader"
+        file_size_limit: "File Size Limit"
+        storage_space_remaining: "Storage Space Remaining"
+        filename: "Filename"
+        size: "Size"
+        status: "Status"
+        you_have_not_yet_selected_any_files_to_upload: "You have not yet selected any files to upload."
+        0_files_in_queue: "0 file(s) in queue."
+        total_file_size_0_bytes: "Total file size: 0 Bytes"
+        
+        
+
+      thumbnail: {}
+
+      upload_upgrade_flash:
+        uploading_files:
+          text: |
+            Uploading files is much faster and easier with the latest version of Adobe 
+            Flash Player. You may 
+            %{install_flash_10_now}
+            or use the non-flash %{basic_uploader}.
+          install_flash_10_now: "install Flash 10 now"
+          basic_uploader: "basic uploader"
+
+      list_item: {}
+
+      upload: 
+        photo_and_media_manager: "Photo and Media Manager"
+
+      manage: 
+        photo_and_media_manager: "Photo and Media Manager"
+
+      show_video: {}
+
+      show_other: {}
+
+      show_image: {}
+
+      no_files: 
+        you_searched_for_: "You searched for %{filter}, but nothing was found."
+        back_to: "Back to"
+        unsorted: "Unsorted"
+        there_are_no_: "There are no %{type} files in the %{collection}"
+        unsorted: "Unsorted"
+        view_all_file_types: "View All File Types"
+        the_: "The %{collection} folder is empty."
+        you_have_no_unsorted_files: "You have no Unsorted files."
+        please_select_a_folder_on_the_left: "Please select a folder on the left."
+        select_stock_photos: "Select Stock Photos"
+        upload_new_files: "Upload New Files"
+
+      show: 
+        file_details: "File Details"
+        back: "Back"
+        
+        use_selected: "Use Selected"
+        use_selected_file: "Use Selected File"
+        file: "File"
+
+      select_index: {}
+
+      upload_basic:
+        1_choose_a_folder: "1. Choose a Folder"
+        new_folder: "New folder"
+        
+        _saved_when_you_click_upload: " (saved when you click upload)"
+        file_size_limit: "File Size Limit"
+        storage_space_remaining: "Storage Space Remaining"
+        2_choose_files_from_your_computer: "2. Choose Files From Your Computer"
+        upload_files: "Upload Files"
+
+
+      show_document: {}
+
+      show_audio: {}
+
+      container_toolbar: 
+        edit_selected: "Edit Selected"
+        remove_selected: "Remove Selected"
+        view_all_file_types: "View All File Types"
+        view_images: "View Images"
+        view_videos: "View Videos"
+        view_music_and_sound: "View Music and Sound"
+        view_documents: "View Documents"
+        view_other_file_types: "View Other File Types"
+
+      assets_container: {}
+
+      container_sidebar:
+        folders: "Folders"
+
+      file_info_form: 
+        file: "File"
+        
+        description: "Description"
+

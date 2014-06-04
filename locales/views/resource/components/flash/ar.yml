@@ -1,0 +1,23 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      flash: 
+        create: 
+          add_flash_component: "Add Flash Component"
+
+        settings: 
+          flash_component_settings: "Flash Component Settings"
+     
+        embed: 
+          there_is_no_flash_file_to_display: "There is no flash file to display, perhaps it was deleted? This will not show up on your website until a flash file has been selected."
+
+        form: 
+          select_a_swf_file: "Select a SWF file"
+          swf_file: "SWF File"
+          required_flash_version: "Required flash version"
+          you_can_specify_the_required_flash_player: "You can specify the required Flash Player version required to play the SWF. Example: 9.0.124"
+          embed_size: "Embed size"
+          width: "Width"
+          height: "Height"
+

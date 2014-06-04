@@ -1,0 +1,44 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      ebay_items: 
+        item: 
+          no_image: "No Image"
+          left: "%{time_left} left"
+
+        create: 
+          add_ebay_listings_component: "Add eBay Listings Component"
+          
+          
+
+        settings: 
+          ebay_listings_component_settings: "eBay Listings Component Settings"
+          
+          
+
+        embed: {}
+
+        form: 
+          
+          ebay_username: "eBay Username"
+          country: "Country"
+          the_country_you_select_causes_the_price: "The country you select causes the price for items to be displayed in your country's currency."
+          display_settings: "Display Settings"
+          auction_items_only: "Auction Items Only"
+          fixed_price_items_only: "Fixed Price Items Only"
+          store_items_only: "Store Items Only"
+          auction_and_fixed_price_items: "Auction and Fixed Price Items"
+          all_items: "All Items"
+          items_per_page: "Items per page"
+          order_by: "Order by"
+          price: "Price"
+          time_left: "Time Left"
+          listing_date: "Listing Date"
+          from: "from  "
+          lowest_to_highest: "Lowest to highest"
+          highest_to_lowest: "Highest to lowest"
+
+        listing: 
+          no_items_currently_for_sale: "No items currently for sale."
+

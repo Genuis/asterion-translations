@@ -1,0 +1,10 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      feed: 
+        embed: 
+          minimal: {}
+
+          full: {}
+

@@ -1,0 +1,15 @@
+--- 
+ar: 
+  resource: 
+    uri_namespace: 
+      settings: 
+        security_settings: "Security Settings"
+        password_protection: "Password Protection"
+        if_you_would_like_to_change_the: "If you would like to change the password for this page, you can do so by entering a new password here."
+        enable_password_protection: "Enable password protection for %{password_protection}."
+        new_password: "New Password"
+        password: "Password"
+        confirmation: "Confirmation"
+        
+        
+

@@ -1,0 +1,38 @@
+--- 
+ar: 
+  account_activation_required: "Account Activation Required"
+  in_order_to_access_your_website_we: |
+    In order to access your website we need you to activate your account. 
+    You will have received an email with an activation link.
+    If you did not receive this email please log into your account and you will be able to have the activation email resent."
+  website_suspended: "Website Suspended"
+  this_website_has_been_deactivated: "This website has been deactivated"
+  website_not_setup_yet: "Website not setup yet"
+  this_website_has_been_created_but_is: "This website has been created, but is not setup yet."
+  
+  nothing_was_uploaded: "Nothing was uploaded"
+  must_be_a_zip_file: "Must be a .zip file"
+  could_not_find_help_resources_for: "Could not find help resources for %{path}."
+  no_results_found_for: "No results found for: %{query}"
+  nothing_was_uploaded: "Nothing was uploaded"
+  must_be_a_ico_file: "Must be a .ico file"
+  message_cannot_be_blank: "Message cannot be blank"
+  could_not_find_any_help_documents_in: "Could not find any help documents in the %{category} category."
+  youve_already_created_the_maximum_number_of: "You've already created the maximum number of pages your account allows."
+  invalid_folder_name: "Invalid folder name."
+  password_protection_has_not_been_enabled_on: "Password protection has not been enabled on your account."
+  the_stock_photo_has_been_added: "The Stock Photo has been added."
+  your_account_does_not_allow_for_downloads: "Your account does not allow for downloads of content in the Image Library."
+  
+  untitled_post: "Untitled Post"
+  import_complete: "Import Complete"
+  invalid_category_name: "Invalid category name."
+  blog_posts: "Blog Posts"
+  
+  replace_this_line_with_your_own_embed: "Replace this line with your own embed code."
+  cannot_submit_message_until_account_activated: "Cannot submit message until account activated."
+  use_this_space_to_design_your_product: "Use this space to design your product display page."
+  title_of_your_product_listing: "Title of your Product Listing"
+  
+  
+  

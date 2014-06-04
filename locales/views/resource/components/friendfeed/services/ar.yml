@@ -1,0 +1,46 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      friendfeed: 
+        services: 
+          stumbleupon: {}
+
+          reddit: 
+            liked_a_story_on: "liked a story on "
+            reddit: "Reddit"
+            
+
+          blog: 
+            posted_a_blog_entry_on: "posted a blog entry on "
+
+          delicious: {}
+
+          picasa: {}
+
+          flickr: 
+            published_a_photo_on: "published a photo on "
+            flickr: "Flickr"
+
+          default: {}
+
+          youtube: 
+            published_a_movie_on: "published a movie on "
+            youtube: "YouTube"
+
+          seesmic: {}
+
+          digg: 
+            dugg_a_story_on: "dugg a story on "
+            digg: "Digg"
+
+          vimeo: {}
+
+          twitter: 
+            posted_a_message_on: "posted a message on "
+            twitter: "Twitter"
+
+          lastfm: 
+            listened_to_a_song_on: "listened to a song on "
+            lastfm: "Last.fm"
+

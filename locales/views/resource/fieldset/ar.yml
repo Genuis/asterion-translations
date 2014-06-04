@@ -1,0 +1,47 @@
+--- 
+ar: 
+  resource: 
+    fieldset: 
+      validation: 
+        email_user_must_enter_an_email_address: "<b>Email</b>  (user must enter an email address)"
+        telephone_number_allows_only: "<b>Telephone Number</b> (allows only phone number characters)"
+        number_user_may_only_enter_digits: "<b>Number</b> (user may only enter digits)"
+        none_default__no_validation: "<b>None</b> (default ‚Äì no validation)"
+        required: "Required"
+
+      edit: 
+        form_design: "Form Design"
+
+      create_field: 
+        dialog_heading:
+            text:  "Create %{field_type} Field"
+        field_details: "Field details"
+        label: "Label:"
+        create: "Create"
+
+      create: 
+        form_design: "Form Design"
+        next_step: "Next Step"
+        
+
+      form:
+        single_line_input: "Single Line Input"
+        paragraph_input: "Paragraph Input"
+        radio_select: "Radio Select"
+        check_box: "Check Box"
+        dropdown_select: "Dropdown Select"
+        title_text: "Title Text"
+        paragraph_text: "Paragraph Text"
+        drag: "Drag"
+        items_to_add_them_to_your_form: "%{drag} items to add them to your form."
+        resize: "Resize"
+        items_by_dragging_the_arrow_to_the_right_of_each_field: "%{resize} items by dragging the arrow to the right of each field."
+
+      edit_field: 
+        dialog_heading:
+            text:  "Edit %{field_type} Field"
+            field_details: "Field details"
+            label: "Label:"
+
+      forms: {}
+

@@ -1,0 +1,10 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      youtube: 
+        create: 
+          add_youtube_component: "Add YouTube Component"
+          
+          
+

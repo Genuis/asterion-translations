@@ -1,0 +1,22 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      page_counter: 
+        create: 
+          add_page_counter: "Add Page Counter"
+
+        settings: 
+          page_counter_settings: "Page Counter Settings"
+          
+          
+
+        embed: {}
+
+        form: 
+          
+          what_to_show: "What to Show?"
+          
+          
+          
+

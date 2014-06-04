@@ -1,0 +1,33 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      friend: 
+        friends_with_icons: {}
+
+        friends_without_icons: {}
+
+        create: 
+          add_friend_component: "Add Friend Component"
+
+        settings: 
+          friend_component_settings: "Friend Component Settings"
+     
+        embed: 
+          manage_friends: "Manage friends"
+          this_is_a_friend_component_you_do: 
+            text: "This is a friend component, you do not currently have any friends to display. This will not show up on your website until friends have been added. You can %{mange_your_friends} or %{remove_the_component}"
+            mange_your_friends: "mange your friends"
+            remove_the_component: "remove the component"
+          
+        form: 
+          
+          number_of_friends_to_display: "Number of Friends to Display"
+          show_all: "Show All"
+          order: "Order"
+          random: "Random"
+          by_nickname_az: "By nickname, A-Z"
+          by_nickname_za: "By nickname, Z-A"
+          buddy_icons: "Buddy Icons"
+          display_buddy_icons: "Display Buddy Icons"
+

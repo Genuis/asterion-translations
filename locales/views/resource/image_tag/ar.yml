@@ -1,0 +1,39 @@
+--- 
+ar: 
+  resource: 
+    image_tag: 
+      flickr_form: 
+        image_selection: "Image selection"
+        enter_your_flickr_username: "Enter your flickr username to browse your flickr photos."
+        browse_images: "Browse images"
+        image_details: "Image details"
+        alternative_text: "Alternative text"
+
+      image_cropper:
+        crop_and_resize: "Crop and Resize"
+        change_image: "Change Image"
+        crop: "Crop"
+        my_images: "My Images"
+        upload_image: "Upload Image"
+        stock_photos: "Stock Photos"
+
+      external_form: 
+        image_selection: "Image selection"
+        url: "URL"
+        image_details: "Image details"
+        alternative_text: "Alternative text"
+        width: "Width"
+        height: "Height"
+        image_size: "Image Size"
+
+      asterion_form: 
+        image_border: "Image Border"
+        alt_text: "Alt Text"
+        quick_sizes: "Quick Sizes"
+        alternative_text: "Alternative Text"
+        rectangular_images: "Rectangular Images"
+
+      _form: {}
+
+      _quicksizes: {}
+

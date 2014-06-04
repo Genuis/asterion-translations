@@ -1,0 +1,17 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      image_slideshow: 
+        collection: {}
+
+        images: {}
+
+        create: {}
+
+        settings: {}
+
+        embed: {}
+
+        form: {}
+

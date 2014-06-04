@@ -1,0 +1,88 @@
+---
+ar:
+  resource:
+    blog:
+      post:
+        announce_to:
+          select_account_: "Select account: "
+          link_account: "link account"
+
+        list: {}
+
+        no_component:
+          notice: "Notice"
+          you_currently_have_no_blog_component: "You currently have no blog component, so no one will be able to see your posts!"
+          would_you_like_to_add_a_blog_component: "Would you like to add a blog component?"
+          yes: "Yes"
+          no: "No"
+
+        edit:
+          publish_live: "Publish Live"
+          save_as_draft: "Save as Draft"
+          _autosave_every_minute: " Auto-Save Every Minute"
+          edit_blog_post: "Edit Blog Post"
+          close: "Close"
+          saving_draft: "Saving Draft..."
+          save_as_draft: "Save as Draft"
+          draft_saved_at_: "Draft saved at "
+
+        manage:
+          manage_blog_posts: "Manage Blog Posts"
+          blog_posts: "Blog Posts"
+          categories: "Categories"
+          rss: "RSS"
+
+          labels: "Labels"
+          import_posts: "Import posts"
+          compose_a_new_blog_post: "Compose a New Blog Post"
+
+          date_published: "Date Published"
+          comments: "Comments"
+          you_currently_have_no_blog_posts_to_display: "You currently have no blog posts to display."
+          draft: "Draft"
+          pending_publish: "Pending Publish"
+          view: "View"
+
+
+          view_post: "View post"
+          edit_post: "Edit post"
+          delete_post: "Delete post"
+          are_you_sure_you_want_to_delete_this_blog_post: "Are you sure you want to delete this blog post?"
+
+        create:
+          publish_live: "Publish Live"
+          save_as_draft: "Save as Draft"
+          _autosave_every_minute: " Auto-Save Every Minute"
+          back: "Back"
+          close: "Close"
+          save_as_draft: "Save as Draft"
+          draft_saved_at: "Draft saved at"
+          saving_draft: "Saving Draft..."
+          create_new_blog_post: "Create New Blog Post"
+
+        show: {}
+
+        form:
+          blog_post_text: "Blog Post Text"
+          blog_post_options: "Blog Post Options"
+          manage_blog_posts: "Manage Blog Posts"
+
+          allow_readers_to_post_comments: "Allow readers to post comments"
+          permalink: "Permalink"
+          publish_date: "Publish Date"
+          organization: "Organization"
+          category: "Category"
+          new_category: "New category"
+          category: "Category"
+
+          tags: "Tags"
+          seperate_multiple_tags_with_commas: "Seperate multiple tags with commas"
+          announce_blog_post_to: "Announce blog post to"
+          announce_pingomatic: "announce_pingomatic"
+          keywords: "Keywords"
+          keywords_that_describe_your_blog_post: "Keywords that describe your blog post for search engines, comma seperated (eg: sports,hockey)"
+          keywords_are_a_comma_separated_list: "Keywords are a comma separated list of words that describe your blog post to search engines. (eg. sports, hockey, nhl, news, canucks)"
+          description: "Description"
+          description_of_your_blog_post_for_search_engines: "Description of your blog post for search engines"
+          your_description_should_be_a_regular_paragraph: "Your description should be a regular paragraph that describes what your blog post is about. Do not use lists of keywords here."
+

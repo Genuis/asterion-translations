@@ -1,0 +1,50 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      feed: 
+        edit: 
+          feed_component_sources: "Feed Component Sources"
+          new_feed_location: "New Feed Location"
+          current_feeds: "Current Feeds"
+          
+          
+
+        component_form: 
+          
+          display_settings: "Display Settings"
+          how_to_show_the_feed: "How to Show the Feed?"
+          titles_only: "Titles Only"
+          summarized_articles: "Summarized Articles"
+          full_articles: "Full Articles"
+          select_the_amount_of_information_to_display: "Select the amount of information to display from each entry"
+          show_feed_titles: "Show Feed Titles"
+          display_as_text: "Display as text"
+          display_as_link: "Display as link"
+          do_not_display: "Do not display"
+          the_feed_title_is_the_title_provided: "The feed title is the title provided by the website"
+          number_to_display: "Number to Display"
+          show_all: "Show All"
+
+        create: 
+          add_feed_component: "Add Feed Component"
+          
+          back: "Back"
+
+        settings: 
+          feed_component_settings: "Feed Component Settings"
+          
+          
+
+        select_feeds: 
+          new_feed_component: "New Feed Component"
+          new_feed_location: "New Feed Location"
+          current_feeds: "Current Feeds"
+          next: "Next"
+          
+
+        embed: 
+          there_are_no_feeds_added_this_will: "There are no feeds added.  This will not show up on your website until you "
+          add_a_feed: "add a feed"
+          this_feed_currently_has_no_entries: "This feed currently has no entries."
+

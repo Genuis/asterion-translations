@@ -1,0 +1,40 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      paypal: 
+        form: 
+          buynow: 
+            product_settings: "Product Settings"
+            item_name: "Item Name"
+            enter_a_short_description_of_the_item: "Enter a short description of the item customers will be purchasing"
+            currency: "Currency"
+            this_is_the_currency_in_which_you: "This is the currency in which you will receive your payments"
+            price: "Price"
+            if_selected_the_buyer_can_select_how: "If selected, the buyer can select how many of your product to purchase"
+            weight: "Weight"
+            allow_buyer_to_specify_quantity: "Allow buyer to specify quantity"
+            require_a_shipping_address: "Require a shipping address"
+            return_page: "Return page"
+            this_is_where_your_customers_will_be: "This is where your customers will be returned to after their transaction"
+
+          form: 
+            paypal_settings: "PayPal Settings"
+            button: "Button"
+            account_email: "Account Email"
+            enter_the_email_address_that_you_use: "Enter the email address that you use for your paypal account"
+
+          donate: 
+            donation_settings: "Donation Settings"
+            currency: "Currency"
+            this_is_the_currency_in_which_you: "This is the currency in which you will receive your payments"
+            organization_name: "Organization Name"
+            donors_enter_their_own_contribution_amount: "Donors enter their own contribution amount."
+            donors_contribute_a_fixed_amount: "Donors contribute a fixed amount."
+            price: "Price"
+
+          viewcart: 
+            adding_a_view_cart_button_allows_customers: "Adding a View Cart button allows customers to navigate back to their shopping cart for checkout."
+
+          cart: {}
+

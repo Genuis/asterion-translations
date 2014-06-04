@@ -1,0 +1,30 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      video_player: 
+        create: 
+          add_video_player_component: "Add Video Player Component"
+          
+          
+          
+        settings: 
+          video_player_component_settings: "Video Player Component Settings"
+          
+          
+
+        embed: 
+          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+
+        form: 
+          
+          video_file: "Video File"
+          select_a_video_file: "Select a Video File"
+          h264_mp4_and_flv_files: "H.264 (MP4) and FLV files"
+          
+          caption: "Caption"
+          auto_play_on_page_load: "Auto play on page load"
+          embed_size: "Embed Size"
+          width: "Width"
+          height: "Height"
+

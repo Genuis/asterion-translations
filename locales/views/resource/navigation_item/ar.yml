@@ -1,0 +1,27 @@
+--- 
+ar: 
+  resource: 
+    navigation_item: 
+      asset_form: 
+        asset: "Asset"
+        you_can_link_to_files: "You can link to files (word, excel, pdf, etc.) that you have uploaded into your file manager."
+        selected_file_: "Selected file: "
+        open_link_in_a_new_browser_window: "Open link in a new browser window"
+        browse_your_uploaded_files: "Browse Your Uploaded Files"
+
+      page_form: 
+        select_a_page: "Select a Page"
+
+      external_form: 
+        website_url: "Website URL"
+        open_link_in_a_new_browser_window: "Open link in a new browser window"
+
+      group_form: 
+        submenu_link: "Submenu Link"
+        dont_link__only_display_an_unclickable_label: "Don't Link - Only Display an Un-Clickable Label"
+
+      form: {}
+
+      email_form: 
+        email_address: "Email Address"
+

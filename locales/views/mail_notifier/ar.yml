@@ -1,0 +1,9 @@
+--- 
+ar: 
+  mail_notifier: 
+    feedback: {}
+
+    blog_comment_notice:
+      you_have_received_a_new_blog_comment: "You have received a new blog comment"
+      someone_has_commented_on_one_of_your_blog_posts: "Someone has commented on one of your blog posts"
+

@@ -1,0 +1,44 @@
+--- 
+ar: 
+  resource: 
+    blog: 
+      import: 
+        blogger:
+          blogger_import: "Blogger Import"
+          import_blog_posts_and_comments_from_a_blogger_account: "Import blog posts and comments from a Blogger account."
+          select_a_blog_that_you_want_to_import_posts_and_comments_from: "Select a blog that you want to import posts and comments from."
+          blog: "Blog"
+          import_into: "Import into"
+          import: "Import"
+
+        wordpress_success: 
+          unfortunately_no_posts: "Unfortunately no posts could be imported with the data provided."
+          successfully_imported:
+              text: "You have successfully imported %{post_count} posts and %{comment_count} comments."
+        wordpress: 
+          import_wordpress: "Import Wordpress"
+          upload_exported_data: "Upload exported data"
+          wordpress_export: "Wordpress Export"
+          upload_file: "Upload file"
+          for_information_on: "For information on how to export your existing Wordpress data, you can "
+          click_here_to_find_out_more: "click here to find out more"
+
+        blogger_request_access: 
+          import_from_blogger: "Import from Blogger"
+          import_blog_posts_and_comments_from_a_blogger_account: "Import blog posts and comments from a Blogger account."
+          in_order_to_import_your_posts_from_blogger: "In order to import your posts from Blogger, you will need to grant Jigsy access to read your posts."
+          to_do_this_simply_click_the_next_button: | 
+            To do this, simply click the "Next" button below. This will send you to Google, who owns Blogger, asking
+            for authorization. Once you have authorized Jigsy, you will be returned and can continue the process.
+
+        index: 
+          import_posts: "Import posts"
+          blog_posts: "Blog Posts"
+          categories: "Categories"
+          rss: "RSS"
+          
+          labels: "Labels"
+          we_allow_you_to_easily_import: "We allow you to easily import your existing blog data from other blogging services."
+          dont_see_your_current_blogging_service: "Don't see your current blogging service listed to import from? Let us know and we'll work on getting it added!"
+          
+

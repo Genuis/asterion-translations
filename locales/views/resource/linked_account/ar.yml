@@ -1,0 +1,80 @@
+--- 
+ar: 
+  resource: 
+    linked_account: 
+      twitter: 
+        link_your_twitter_account: "Link your Twitter account"
+        account_linking_instructions: "Account Linking Instructions"
+        in_order_for_us_to_be_able_to_access_your_facebook: "In order for us to be able to access your Facebook information, we'll need to redirect you to the Facebook website so that you can authorize us."
+        allowing_us_offline_access: "Allowing us offline access will let us pull your profile information, photos, and allow you to post to your wall from your website."
+        connect_with_twitter: "Connect With Twitter"
+        next_step: "Next Step"
+        
+        
+      facebook_app: 
+        add_your_website_to_facebook: "Add your website to Facebook"
+        add_your_website_to_facebook_in_4_easy_steps: "Add your website to Facebook in 4 easy steps."
+        account_details: "Account Details"
+        app_id: "App ID"
+        app_secret: "App Secret"
+        
+        
+        step_1: "Step 1"
+        navigate_to_: "Navigate to %{facebook}  (Requires login)"
+        step_2: "Step 2"
+        click_the_create_new_app_button: "Click the 'Create New App' button, create your app name and namespace."
+        step_3: "Step 3"
+        add_your_website_domain_: | 
+          Add your website domain %{hostname}
+           to 'App Domains' and to 'Website with Facebook Login' prepend 'http://' and click the 'Save Changes' button.
+        step_4: "Step 4"
+        get_the_app_id_and_secret: "Get the app ID and secret at the top of the screen, return here and enter them into the form on the left."
+
+      manage: 
+        linked_accounts: "Linked Accounts"
+        link_to_your_accounts: "Link to Your Accounts"
+        add_your_accounts: "Add your accounts from other websites here so you can use their services on your site."
+        available_services: "Available Services"
+        website: "Website"
+        description: "Description"
+        add_account: "Add Account"
+        
+        are_you_sure: "Are you sure you want to remove this linked account?"
+        delete_linked_account: "Delete Linked Account"
+
+      book_fresh: 
+        bookfresh_setup: "BookFresh Setup"
+
+      linked_account: 
+        remove: "Remove"
+
+      ecwid: 
+        ecwid_setup: "Ecwid Setup"
+        ecwid: "Ecwid"
+        makes_it_easy_to_create: | makes it easy to create your own online shopping cart. Setup your account by entering your email
+          address and store name below followed by a password. If you do not have a Ecwid account, one will be created for you for free!
+        email_address: "Email Address"
+        create_a_new_ecwid_account: "Create a New Ecwid Account"
+        store_name: "Store Name"
+        password: "Password"
+        password_confirmation: "Password Confirmation"
+        use_an_existing_ecwid_account: "Use an Existing Ecwid Account"
+        ecwid_store_id: "Ecwid Store ID"
+        find_your_store_id_by_logging_into_your_: "Find your Store ID by logging into your "
+        ecwid_account: "Ecwid Account"
+        your_store_id_will_a_number_something_like_553258: "Your Store ID will a number, something like: '553258'."
+        next_step: "Next Step"
+        create_account: "Create Account"
+        
+
+      denied: {}
+
+      facebook: 
+        link_your_facebook_account: "Link your Facebook Account"
+        account_linking_instructions: "Account Linking Instructions"
+        in_order_for_us: "In order for us to be able to access your Facebook information, we'll need to redirect you to the Facebook website so that you can authorize us."
+        allowing_us_offline_access: "Allowing us offline access will let us pull your profile information, photos, and allow you to post to your wall from your website."
+        connect_with_facebook: "Connect With Facebook"
+        next_step: "Next Step"
+        
+

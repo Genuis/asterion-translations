@@ -1,0 +1,31 @@
+--- 
+ar: 
+  resource: 
+    fieldset: 
+      forms: 
+        text_field: {}
+
+        text_area: {}
+
+        heading: 
+          the_h3_heading: "The <H3> heading allows you to define sections of your form. The heading will be displayed on the form and in the email recieved."
+          heading: "Heading"
+
+        check_box: {}
+
+        submit: 
+          button_type: "Button type"
+          image_selection: "Image selection"
+          _or_: " or "
+          upload_a_file: "Upload a file"
+
+        radio: 
+          radio_options: "Radio Options"
+
+        select_box: 
+          dropdown_items: "Dropdown Items"
+
+        paragraph: 
+          the_paragraph_allows: "The paragraph allows you to display a message to the user, the paragraph will appear in the form and in the email received."
+          paragraph: "Paragraph"
+

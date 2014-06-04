@@ -1,0 +1,19 @@
+--- 
+ar: 
+  resource: 
+    oauth: 
+      error: 
+        twitter: 
+          unable_to_link_account: "Unable to Link Account"
+          the_request_to_authorize_your_account_has_failed: "The request to authorize your account has failed."
+          click_the_next_button: "Click the next button to try to authorize your account again, or click back to go back to the Linked Accounts dialog."
+          next: "Next"
+          back: "Back"
+
+        facebook: 
+          unable_to_link_account: "Unable to Link Account"
+          the_request_to_authorize_your_account_has_failed: "The request to authorize your account has failed."
+          click_the_next_button: "Click the next button to try to authorize your account again, or click back to go back to the Linked Accounts dialog."
+          next: "Next"
+          back: "Back"
+

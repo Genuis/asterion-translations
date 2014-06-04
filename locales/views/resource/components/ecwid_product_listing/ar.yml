@@ -1,0 +1,29 @@
+--- 
+ar: 
+  resource: 
+    components: 
+      ecwid_product_listing: 
+        create: 
+          add_ecwid_product_listing_component: "Add Ecwid Product Listing Component"
+
+        settings: 
+          ecwid_product_listing_component_settings: "Ecwid Product Listing Component Settings"
+          
+        embed: 
+          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+          you_must_set_up_an: 
+            text: "You must set up an %{ecwid_account} before this component will become visible."
+            ecwid_account: "Ecwid Account"
+
+        form: 
+          to_customize_your_ecwid_account_settings_you: |
+            To customize your Ecwid account settings you will need to login to your account on %{ecwidcom}
+            From there you will be able to add new products to your online store. The component on your website will update automatically!
+          
+          categories_per_row: "Categories Per Row"
+          product_layout_options: "Product Layout Options"
+          select_a_layout_and_the_number_of: "Select a layout and the number of products to display."
+          images_and_text: "Images and Text"
+          text_only: "Text Only"
+          grid_style: "Grid Style"
+
