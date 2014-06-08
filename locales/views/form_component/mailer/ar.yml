@@ -2,5 +2,5 @@
 ar: 
   form_component: 
     mailer:
-      someone_just_submitted_a_form_on_your_site: "Someone just submitted a form on your site"
+      someone_just_submitted_a_form_on_your_site: "شخص قدم إستمارة على موقعك"
 
