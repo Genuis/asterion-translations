@@ -4,7 +4,7 @@ ar:
     components: 
       image: 
         create: 
-          add_image_component: "Add Image Component"
+          add_image_component: "عنصر إضافة صورة"
           
           
 
