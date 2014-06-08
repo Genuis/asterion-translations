@@ -1,10 +1,10 @@
 --- 
 ar: 
-  resource: 
-    components: 
+  resource: "مورد"
+    components: "عناصر"
       blog: 
         embed: 
-          minimal: {}
+          minimal: "ادنى"
 
-          full: {}
+          full: "كامل"
 
