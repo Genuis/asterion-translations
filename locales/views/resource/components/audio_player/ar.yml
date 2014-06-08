@@ -38,7 +38,7 @@ ar:
           
           number_of_songs_to_show: "عدد الاغاني للعرض"
           
-          auto_play_on_page_load: "التشغيل التلقائي في تحميل الصفحة"
+          auto_play_on_page_load: "التشغيل التلقائي عند تحميل الصفحة"
           enable_pop_out_player: "تمكين إظهار المشغل؟"
           shuffle_playlist: "خلط قائمة التشغيل"
           repeat_playlist: "تكرار قائمة التشغيل"
