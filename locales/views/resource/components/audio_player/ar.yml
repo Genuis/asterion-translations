@@ -6,54 +6,54 @@ ar:
         popout: {}
 
         collection: 
-          new_audio_player_component: "شسيبشيبلس بلسيبل  شقلش"
-          next_step: "Next Step"
+          new_audio_player_component: "عنصر مشغل صوت جديد"
+          next_step: "الخطوة التالية"
 
         player: 
-          sorry_this_playlist_is_no_longer_available: "Sorry, this playlist is no longer available."
+          sorry_this_playlist_is_no_longer_available: "عذرا، قائمةالتشغيل هذه لم تعد متوفرة"
 
         create: 
-          add_audio_player_component: "Add Audio Player Component"
+          add_audio_player_component: "عنصر إضافة مشغل الصوت"
           
-          back: "Back"
+          back: "السابق"
 
         settings: 
-          audio_player_component_settings: "Audio Player Component Settings"
+          audio_player_component_settings: "عنصر إعدادات مشغل الصوت"
           
           
 
         embed: 
-          playlist: "Playlist"
+          playlist: "قائمة التشغيل"
           there_are_no_audio_files_selected_this: 
-            text: "There are no audio files selected. This will not show up on your website until you have %{uploaded_some} mp3s."
-            uploaded_some: "uploaded some"
-          pop_out_player: "Pop Out Player"
+            text: "لا توجد ملفات صوت محددة. هذه لن تظهر على الموقع الخاص بك حتى تكون قد قمت برفع بعض ملفات صوت"
+            uploaded_some: "رفع بعض"
+          pop_out_player: "إظهار مشغل"
 
         audio_files: 
-          audio_player_component_playlist: "Audio Player Component Playlist"
+          audio_player_component_playlist: "عنصر مشغل صوت قائمة التشغيل"
           
           
 
         form: 
           
-          number_of_songs_to_show: "Number of Songs to Show"
+          number_of_songs_to_show: "عدد الاغاني للعرض"
           
-          auto_play_on_page_load: "Auto play on page load"
-          enable_pop_out_player: "Enable Pop Out Player?"
-          shuffle_playlist: "Shuffle playlist"
-          repeat_playlist: "Repeat playlist"
+          auto_play_on_page_load: "التشغيل التلقائي في تحميل الصفحة"
+          enable_pop_out_player: "تمكين إظهار المشغل؟"
+          shuffle_playlist: "خلط قائمة التشغيل"
+          repeat_playlist: "تكرار قائمة التشغيل"
 
         collection_preview: 
-          build_playlist: "Build Playlist"
-          upload_music: "Upload Music"
-          manage_music: "Manage Music"
-          total: "%{mp3_size} total"
-          all_audio_files: "All audio files"
-          you_currently_have_no_mp3_audio_files: "You currently have no MP3 audio files uploaded."
-          selected_audio_files: "Selected Audio Files"
-          there_are_no_mp3_audio_files_in: "There are no MP3 audio files in the folder that you've selected."
-          upload_some_audio_files: "Upload Some Audio Files."
-          file: "file"
-          files: "files"
-          mp3_files: "MP3 files"
+          build_playlist: "بناء قائمة التشغيل"
+          upload_music: "رفع الموسيقى"
+          manage_music: "إدارة الموسيقى"
+          total: "%{mp3_size} مجموع"
+          all_audio_files: "جميع الملفات الصوتية"
+          you_currently_have_no_mp3_audio_files: "مرفوعة MP3 انت حاليا ليس لديك ملفات"
+          selected_audio_files: "ملفات الصوت المحددة"
+          there_are_no_mp3_audio_files_in: "في المجلد الذي قمت بتحديده MP3 لا توجد ملفات صوت"
+          upload_some_audio_files: "رفع بعض ملفات الصوت"
+          file: "ملف"
+          files: "ملفات"
+          mp3_files: "MP3 ملفات"
 
