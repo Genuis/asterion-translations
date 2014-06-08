@@ -15,7 +15,7 @@ ar:
           
 
         embed: 
-          this_component_is_not_visible_this_will: "هذا العنصر غير مرئي. هذا المحتوى لن يظهر على الموقع الخاص بك"
+          this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
 
         form: 
           
