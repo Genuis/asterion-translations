@@ -1,24 +1,24 @@
 --- 
 ar: 
   resource: 
-    components: 
-      audio_player: 
+    components: "عناصر"
+      audio_player: "مشغل الصوت"
         popout: {}
 
         collection: 
-          new_audio_player_component: "عنصر مشغل صوت جديد"
+          new_audio_player_component: "تشغيل صوت جديد"
           next_step: "الخطوة التالية"
 
         player: 
-          sorry_this_playlist_is_no_longer_available: "عذرا، قائمةالتشغيل هذه لم تعد متوفرة"
+          sorry_this_playlist_is_no_longer_available: "عذراً،قائمة التشغيل هذه لم تعد متوفرة"
 
         create: 
-          add_audio_player_component: "عنصر إضافة مشغل الصوت"
+          add_audio_player_component: "إضافة مشغل صوت"
           
           back: "السابق"
 
-        settings: 
-          audio_player_component_settings: "عنصر إعدادات مشغل الصوت"
+        settings: "الضبط"
+          audio_player_component_settings: "إعدادات الصوت"
           
           
 
@@ -29,12 +29,12 @@ ar:
             uploaded_some: "رفع بعض"
           pop_out_player: "إظهار مشغل"
 
-        audio_files: 
-          audio_player_component_playlist: "عنصر مشغل صوت قائمة التشغيل"
+        audio_files: "ملفات الصوت"
+          audio_player_component_playlist: "لائحة تشغيل الملفات الصوتية"
           
           
 
-        form: 
+        form: "شكل"
           
           number_of_songs_to_show: "عدد الاغاني للعرض"
           
