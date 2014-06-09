@@ -1,23 +1,22 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      ecwid_product_search: 
-        create: 
-          add_ecwid_product_search_component: "Add Ecwid Product Search Component"
+ar: "عربي"
+  resource: "مورد"
+    components: "عناصر    "
+    ecwid_product_search: "البحث عن منتجات اكويد"
+        create: "اضافة جديدة"
+          add_ecwid_product_search_component: "اضافة اكويد للبحث عن منتج مكون"
           
-        settings: 
-          ecwid_product_search_component_settings: "Ecwid Product Search Component Settings"
+        settings: "الضبط"
+          ecwid_product_search_component_settings: "البحث عن منتج واعدادات المكونات "
           
-        embed: 
-          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
-          you_must_set_up_an: 
-            text: "You must set up an %{ecwid_account} before this component will become visible."
-            ecwid_account: "Ecwid Account"
+        embed: "تضمين"
+          this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن يظهر على موقع الويب الخاص بك"
+          you_must_set_up_an: " يجب عليك البدء "
+            text: "يجب عليك اعداد حساب اكويد وبعدها سوف يصبح المكون مرئياً"
+            ecwid_account: "حساب اكويد"
 
-        form: 
-          to_customize_your_ecwid_account_settings_you: |
-            To customize your Ecwid account settings you will need to login to your account on %{ecwidcom}.
-            From there you will be able to add new products to your online store. The component on your website will update automatically!
+        form: "شكل"
+          to_customize_your_ecwid_account_settings_you: | لتخصيص حسابات الخاص بك على اكويد
+           لتخصيص اعدادات حساب اكويد الخاص بك سوف تحتاج لتسجيل الدخول الى حسابك على ecwidcom من هناك سوف تكون قادرا على اضافة منتجات جديدة لمتجرك على الانترنت وسوف يقوم الموقع بتحديث المكون الخاص بك تلقائياً
           
 
