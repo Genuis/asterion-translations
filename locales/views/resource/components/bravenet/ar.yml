@@ -1,32 +1,32 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      bravenet: 
-        edit: 
-          edit_bravenet_web_app: "Edit Bravenet Web App"
+ar: "عربي"
+  resource: "مورد"
+    components: "مكونات"
+      bravenet: "بريفنت"
+        edit: "تحرير"
+          edit_bravenet_web_app: "تحرير بريفنت الويب"
           
-        create: 
-          add_a_bravenet_web_app: "Add A Bravenet Web App"
+        create: "اضافة جديدة"
+          add_a_bravenet_web_app: "اضافة بريفنت الويب"
           
-        embed: {}
+        embed: "تضمين"
 
-        form: 
+        form: "شكل"
           
-          bravenet_service_code_copypaste_code: "Bravenet Service Code (Copy/Paste Code)"
-          we_have_detected_that_your_bravenet_copypaste: "We have detected that your Bravenet Copy/Paste code is invalid. Please check that you've entered it correctly.<br/><br/>Please do not insert additional html or javascript, it may be detected as invalid."
-          invalid_copypaste_code: "Invalid Copy/Paste Code"
-          ok: "OK"
-          bravenet_provides: "Bravenet provides "
-          message_boards: "Message Boards"
-          guestbooks: "Guestbooks"
-          mailing_lists: "Mailing Lists"
-          chat_rooms: "Chat Rooms"
-          web_polls: "Web Polls"
-          _and_many_other: ", and many other "
-          free_web_tools: "free web tools"
-          use_the_form_to_the_left_to: "Use the form to the left  to paste your Bravenet Service Code (HTML code provided by Bravenet when you register for a service). This will embed your Bravenet web tool into your site."
-          login: "Login"
-          to_your_bravenet_account: "%{login} to your Bravenet Account"
+          bravenet_service_code_copypaste_code: "رمز خدمة البريفنت(نسخ\لصق)"
+          we_have_detected_that_your_bravenet_copypaste: "تلقى الموقع عملية النسخ واللصق لديك في البريفنت"
+          invalid_copypaste_code: "خطأ في عملية النسخ واللصق"
+          ok: "تم"
+          bravenet_provides: "توفير البريفنت "
+          message_boards: "لوحة الرسائل"
+          guestbooks: "سجل الزوار"
+          mailing_lists: "قوائم البريد"
+          chat_rooms: "غرف الدردشة"
+          web_polls: "استطلاعات الراي على الويب"
+          _and_many_other: ", وغيره الكثير "
+          free_web_tools: "الادوات المجانية على الويب"
+          use_the_form_to_the_left_to: "اكتشف الموقع ان البريفنت الخاص بهذا الرمز :نسخ\لصق غير صالح، يرجى التحقق من ان كنت دخلت عليه بشكل صحيح، الرجاء عدم إدراج HTML او جافا سكريبت، كيلا يتم الكشف عن انها غير صالحة"
+          login: "دخول"
+          to_your_bravenet_account: "تسجل الدخول الى حساب البريفنت"
           bravenetcom: "Bravenet.com"
-          visit: "Visit %{bravenet} for Web Apps"
+          visit: "زيارة البريفنت لـ تطبيقات الانترنت"
