@@ -1,27 +1,27 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      delicious: 
-        create: 
-          add_delicious_component: "Add Del.icio.us Component"
+ar: "عربي"
+  resource: "مورد"
+    components: "مكونات"
+      delicious: "لذيذ"
+        create: "اضافة جديدة"
+          add_delicious_component: "Del.icio.us اضافة مكون"
           
           
 
-        settings: 
-          delicious_component_settings: "Del.icio.us Component Settings"
+        settings: "الضبط"
+          delicious_component_settings: "Del.icio.usضبط مورد "
           
           
 
-        embed: 
-          there_were_no_bookmarks_found_this_will: "There were no bookmarks found. This will only be visible once there are bookmarks to be displayed."
+        embed: "تضمين"
+          there_were_no_bookmarks_found_this_will: "لا توجد اي عناوين ليتم عرضها"
 
-        form: 
-          display_settings: "Display Settings"
-          delicious_username: "Delicious Username"
-          tag_filter: "Tag Filter"
-          number_of_bookmarks_to_display: "Number of Bookmarks to Display"
-          show_all: "Show All"
-          display_all: "Display all"
-          all_tags: "All tags"
+        form: "شكل"
+          display_settings: "عرض الاعدادات"
+          delicious_username: "اسم المستخدم اللذيذ"
+          tag_filter: "تصفية العلامة"
+          number_of_bookmarks_to_display: "عرض عدد الاشعارات المرجعية"
+          show_all: "اظهار الكل"
+          display_all: "عرض الكل"
+          all_tags: "جميع العلامات"
 
