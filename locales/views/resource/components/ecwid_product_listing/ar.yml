@@ -1,29 +1,28 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      ecwid_product_listing: 
-        create: 
-          add_ecwid_product_listing_component: "Add Ecwid Product Listing Component"
+ar: "عربي"
+  resource: "مورد"
+    components: "مكونات"
+      ecwid_product_listing: "قائمة المنتجات"
+        create: "اضافة جديدة"
+          add_ecwid_product_listing_component: "اضافة المنتج لقائمة المكونات"
 
-        settings: 
-          ecwid_product_listing_component_settings: "Ecwid Product Listing Component Settings"
+        settings: "الضبط"
+          ecwid_product_listing_component_settings: "قائمة اعداد المنتج المكون"
           
-        embed: 
-          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
-          you_must_set_up_an: 
-            text: "You must set up an %{ecwid_account} before this component will become visible."
-            ecwid_account: "Ecwid Account"
+        embed: "تضمين"
+          this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن يظهر على موقع الويب الخاص بك"
+          you_must_set_up_an: "يجب عليك الاعداد لـ an"
+            text: "يجب اعداد حساب {ecwid account} وسوف تصبح مرئية"
+            ecwid_account: "حساب الاكويد"
 
-        form: 
-          to_customize_your_ecwid_account_settings_you: |
-            To customize your Ecwid account settings you will need to login to your account on %{ecwidcom}
-            From there you will be able to add new products to your online store. The component on your website will update automatically!
+        form: "شكل"
+          to_customize_your_ecwid_account_settings_you: "تخصيص اعدادت الحساب الخاص بك اكويد" |لتخصيص اعدادات الحساب الخاص بك سوف تحتاج لتسجيل الدخول الى حسابك على اكويد ، وبعد التسجيل ستكون قادرا على اضافه منتجات جديدة لمتجرك على الانترنت، والمكون سيقوم بتحديث الويب الخاص بك تلقائياً
+            
           
-          categories_per_row: "Categories Per Row"
-          product_layout_options: "Product Layout Options"
-          select_a_layout_and_the_number_of: "Select a layout and the number of products to display."
-          images_and_text: "Images and Text"
-          text_only: "Text Only"
-          grid_style: "Grid Style"
+          categories_per_row: "فئات الصف"
+          product_layout_options: "خيارات لتخطيط المنتج"
+          select_a_layout_and_the_number_of: "حدد لتخطيط الاعداد من النمنتجات لعرضه"
+          images_and_text: "الصورة والنص"
+          text_only: "النص فقط"
+          grid_style: "طريقة الشبكة"
 
