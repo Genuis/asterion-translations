@@ -4,22 +4,22 @@ ar:
     components: 
       google_docs_viewer: 
         create: 
-          add_google_docs_viewer_component: "Add Google Docs Viewer Component"
+          add_google_docs_viewer_component: "إضافة عارض مستندات جوجل"
           
           
 
         settings: 
-          google_docs_viewer_component_settings: "Google Docs Viewer Component Settings"
+          google_docs_viewer_component_settings: "إعدادات عارض مستندات جوجل"
           
           
 
         embed: 
-          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+          this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
 
         form: 
-          select_a_document: "Select a Document"
-          document: "Document"
-          embed_size: "Embed Size"
-          width: "Width"
-          height: "Height"
+          select_a_document: "اختر مستند"
+          document: "مستند"
+          embed_size: "ضبط الحجم"
+          width: "العرض"
+          height: "الإرتفاع"
 
