@@ -1,22 +1,21 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      book_fresh: 
-        create: 
-          add_bookfresh_component: "Add BookFresh Component"
+ar: "عربي"
+  resourc: "مورد"
+    componeents: "العناصر"
+      book_fresh: "كتاب جديد"
+        create: "جديد"
+          add_bookfresh_component: "اضافة عناصر الى كتاب جديد"
           
-        settings: 
-          bookfresh_component_settings: "BookFresh Component Settings"
+        settings: "الضبط"
+          bookfresh_component_settings: "ضبط اضافة العناصر الى كتاب جديد"
           
-        embed: 
-          there_is_a_problem_with_your_component: "There is a problem with your component."
+        embed: "تضمين"
+          there_is_a_problem_with_your_component: "هناك مشكلة مع المكون الخاص بك"
 
-        form: 
-          to_customize_your_bookfresh_account_settings_you: |
-            To customize your BookFresh account settings you will need to login to your account on %{bookfreshcom}.
-            From there you will be able to add new appointment types, manage staff accounts, and more. The component on your website will update automatically!
-          
-          background_color: "Background color"
-          border_color: "Border color"
+        form: "شكل"
+          to_customize_your_bookfresh_account_settings_you: "ضبط "| on %{bookfreshcom}.
+            
+            من هنا سوف تكون قادراً على اضافة انواع تعين جديدة، وادارة حسابات الموظفين، واكثر من ذلك سوف يقوم المكون بتحديث موقع الويب الخاص بك تلقائياً
+          background_color: "لون الخلفية"
+          border_color: "لون الجوانب"
 
