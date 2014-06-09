@@ -1,42 +1,42 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      blogroll: 
-        edit: 
-          add_a_blog_feed: "Add a Blog Feed"
-          current_blogs: "Current Blogs"
+ar: "عرض"
+  resource: "مورد"
+    components: "عناصر"
+      blogroll: "المدونات"
+        edit: "تعديل"
+          add_a_blog_feed: "اضافة بلوق التخزين"
+          current_blogs: "البلوق الحالي"
           
           
 
-        create: 
-          add_blogroll_component: "Add Blogroll Component"
+        create: "اضافة جديد"
+          add_blogroll_component: "اضافة مكون المدونات"
           
-          back: "Back"
+          back: "العودة"
 
-        settings: 
-          blogroll_component_settings: "Blogroll Component Settings"
+        settings: "الضبط"
+          blogroll_component_settings: "ضبط مكون المدونات"
           
           
 
-        select_feeds: 
-          new_blogroll_component: "New Blogroll Component"
-          this_component_allows_you_to_list_and: "This component allows you to list and link to your favorite blogs. Enter the address you'd like to add to your list, and then click on the Add Feed button. Repeat this for as many blogs you'd like to add to your list."
-          add_a_blog_feed: "Add a Blog Feed"
-          current_blogs: "Current Blogs"
-          next_step: "Next Step"
+        select_feeds: "اختيار التخزين"
+          new_blogroll_component: "مكون المدونات الجديدة"
+          this_component_allows_you_to_list_and: "هذه القائمة يسمح لك بالوصول الى مكون الشبكة المفضلة لديك، ادخل العنوان الذي تريد اضافته الى القائمة المفضلة، ثم انقر على زر التخزين، كرر هذا للعديد من البلوق الذي ترغب باضافتها الى المفضلة"
+          add_a_blog_feed: "اضافة بلوق التخزين"
+          current_blogs: "البلوق الحالي"
+          next_step: "الخطوة التالية"
           
           
-        embed: 
-          there_are_no_blogs_added_this_will: "There are no blogs added.  This will not show up on your website until you "
-          add_a_blog: "add a blog"
+        embed: "تضمين"
+          there_are_no_blogs_added_this_will: "لا يوجد بلوق مضاف، لن يظهر على موقع الويب الخاص حتى تقوم باختيار البلوق "
+          add_a_blog: "اضافة بلوق"
 
-        form: 
+        form: "شكل"
           
-          number_to_display: "Number to Display"
-          display_settings: "Display Settings"
-          display_blog_icon: "Display blog icon"
-          display_the_title_of_the_last_post: "Display the title of the last post in each blog"
-          display_a_short_summary_of_the_last: "Display a short summary of the last post in each blog"
-          display_when_each_blog_was_last_updated: "Display when each blog was last updated"
+          number_to_display: "اختيار عدد العرض"
+          display_settings: "ضبط العرض"
+          display_blog_icon: "عرض ايقونة البلوق"
+          display_the_title_of_the_last_post: "اظهار عنوان اخر ملصق"
+          display_a_short_summary_of_the_last: "اظهار موجز قصير من اخر مشاركة في كل بلوق"
+          display_when_each_blog_was_last_updated: "اظهار عندما يقوم البلوق بالتحديث"
 
