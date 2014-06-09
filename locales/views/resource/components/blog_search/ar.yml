@@ -1,20 +1,19 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      blog_search: 
-        create: 
+ar: "عربي"
+  resource: "مورد"
+    components: "العناصر"
+      blog_search: "شبكة البحث"
+        create: "تكوين"
           add_blog_search_component: "إضافة بحث في المدونة"
           
           
 
-        settings: 
+        settings: "الضبط"
           blog_search_component_settings: "إعدادات البحث في المدونة"
           
           
 
-        embed: {}
-
-        form: 
+        embed: "تضمين"
+        form: "شكل"
           
 
