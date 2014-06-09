@@ -4,10 +4,10 @@ ar:
     components: 
       page_counter: 
         create: 
-          add_page_counter: "Add Page Counter"
+          add_page_counter: "إضافة عداد الصفحات"
 
         settings: 
-          page_counter_settings: "Page Counter Settings"
+          page_counter_settings: "إعدادات عداد الصفحات"
           
           
 
@@ -15,7 +15,7 @@ ar:
 
         form: 
           
-          what_to_show: "What to Show?"
+          what_to_show: "ما يراد للعرض؟"
           
           
           
