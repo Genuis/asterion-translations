@@ -4,23 +4,23 @@ ar:
     components: 
       tweet_button: 
         create: 
-          add_tweet_button_component: "Add Tweet Button Component"
+          add_tweet_button_component: "إضافة زر التغريد"
           
           
 
         settings: 
-          tweet_button_component_settings: "Tweet Button Component Settings"
+          tweet_button_component_settings: "إعدادات زر التغريد"
           
           
 
         embed: 
-          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+          this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
 
         form: 
           
-          contributor: "Contributor"
-          tweet_content: "Tweet Content"
-          tweet_text: "Tweet Text"
-          url_to_tweet: "URL to tweet"
-          button_layout: "Button Layout"
+          contributor: "مشارك"
+          tweet_content: "محتوى التغريدة"
+          tweet_text: "نص التغريدة"
+          url_to_tweet: "رابط للتغريدة"
+          button_layout: "تنسيق الزر"
 
