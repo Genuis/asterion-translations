@@ -4,12 +4,12 @@ ar:
     components: 
       gamercard: 
         create: 
-          add_gamer_card_component: "Add Gamer Card Component"
+          add_gamer_card_component: "إضافة بطاقة اللاعب"
           
           
 
         settings: 
-          gamer_card_component_settings: "Gamer Card Component Settings"
+          gamer_card_component_settings: "إعدادات بطاقة اللاعب"
           
           
 
@@ -17,6 +17,6 @@ ar:
 
         form: 
           
-          xbox_gamertag: "Xbox Gamertag"
-          this_is_the_name_that_you_log: "This is the name that you log in to your Xbox Live account with."
+          xbox_gamertag: "اسم لاعب الإكس بوكس"
+          this_is_the_name_that_you_log: "هذا هو الاسم الذي تقوم بتسجيل الدخول به في الحساب الخاص بك في إكس بوكس لايف"
 
