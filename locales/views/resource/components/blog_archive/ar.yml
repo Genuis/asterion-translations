@@ -1,28 +1,27 @@
---- 
+---
 ar: 
-  resource: 
-    components: 
-      blog_archive: 
-        create: 
-          add_blog_archive_component: "Add Blog Archive Component"
+  resource: "المورد"
+    components: "العناصر"
+      blog_archive : "عناصر الارشيف"
+          add_blog_archive_component: "اضافة شبكة او عنصر"
+          
+        
+
+        settings: "الضبط"
+          blog_archive_component_settings: "ارشيف اعدادات المكونات"
           
           
 
-        settings: 
-          blog_archive_component_settings: "Blog Archive Component Settings"
-          
-          
+        embed: "تضمين"
+          show_all: "اظهار الكل"
 
-        embed: 
-          show_all: "Show all..."
-
-        form: 
+        form: "الشكل"
           
-          list_by: "List By..."
-          categories: "Categories"
-          tags: "Tags"
-          months: "Months"
-          include_empty_archive_links: "Include empty archive links   "
-          this_allows_you_to_specify_whether_youd: "This allows you to specify whether you'd like the archive list to display months or categories that have no blog posts. The month or category will show a zero beside it, if you have no posts for it."
-          select_certain_categories_to_show: "Select certain categories to show."
-          limit_number_of_items_shown: "Limit Number of Items Shown"
+          list_by: "اظهار عن طريق"
+          categories: "الفئات"
+          tags: "الشعار"
+          months: "أشهر"
+          include_empty_archive_links: "وصلات الأرشيف الفارغة   "
+          this_allows_you_to_specify_whether_youd: "يسمح لك بتحديد ما اذا كنت ترغب في قائمة المحفوظات لعرض الأشهر والفئات التي ليس لها أي وظيفة، الشهر او الفئة يظهر الرقم صفر بجانبه، اذا لم يكن له أي وظيفة"
+          select_certain_categories_to_show: "تحديد أو اظهار فئات معينة"
+          limit_number_of_items_shown: "الحد من عدد الأصناف المعروضة"
