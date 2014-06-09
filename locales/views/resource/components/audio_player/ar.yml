@@ -1,18 +1,18 @@
 --- 
-ar: 
-  resource: 
+ar: "عربي"
+  resource: "مورد"
     components: "عناصر"
       audio_player: "مشغل الصوت"
-        popout: {}
+        popout: "غادر فجأة"
 
-        collection: 
+        collection: "مجموعة"
           new_audio_player_component: "تشغيل صوت جديد"
           next_step: "الخطوة التالية"
 
-        player: 
+        player: "مشغل"
           sorry_this_playlist_is_no_longer_available: "عذراً،قائمة التشغيل هذه لم تعد متوفرة"
 
-        create: 
+        create: "اضافة جديدة"
           add_audio_player_component: "إضافة مشغل صوت"
           
           back: "السابق"
@@ -22,9 +22,9 @@ ar:
           
           
 
-        embed: 
+        embed: "تضمين"
           playlist: "قائمة التشغيل"
-          there_are_no_audio_files_selected_this: 
+          there_are_no_audio_files_selected_this: "لا يوجد ملف صوت تم اختياره"
             text: "لا توجد ملفات صوت محددة. هذه لن تظهر على الموقع الخاص بك حتى تكون قد قمت برفع بعض ملفات صوت"
             uploaded_some: "رفع بعض"
           pop_out_player: "إظهار مشغل"
