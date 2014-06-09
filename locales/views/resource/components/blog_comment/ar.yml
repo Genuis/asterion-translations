@@ -1,21 +1,21 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      blog_comment: 
+ar: "عربي"
+  resource: "مورد"
+    components: "عناصر"
+      blog_comment: "شبكة التعليق"
         create: 
           add_blog_comment_component: "إضافة تعليق في المدونة"
           
           
 
-        settings: 
+        settings: "الضبط"
           blog_comment_component_settings: "إعدادات التعليق في المدونة"
           
           
 
-        embed: {}
+        embed: "تضمين"
 
-        form: 
+        form: "الشكل"
           
           options: "خيارات"
           number_to_display: "العدد المراد عرضه"
