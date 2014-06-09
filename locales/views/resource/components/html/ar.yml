@@ -4,12 +4,12 @@ ar:
     components: 
       html: 
         edit: 
-          edit_html_block: "Edit HTML Block"
+          edit_html_block: "HTML تحرير كتلة"
           
           
 
         create: 
-          add_html_code_block: "Add HTML Code Block"
+          add_html_code_block: "HTML إضافة رمز كتلة"
           
           
 
@@ -17,6 +17,6 @@ ar:
 
         form: 
           
-          html_block: "HTML Block"
+          html_block: "HTML كتلة"
           
 
