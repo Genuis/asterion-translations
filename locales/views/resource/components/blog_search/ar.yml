@@ -4,12 +4,12 @@ ar:
     components: 
       blog_search: 
         create: 
-          add_blog_search_component: "Add Blog Search Component"
+          add_blog_search_component: "إضافة بحث في المدونة"
           
           
 
         settings: 
-          blog_search_component_settings: "Blog Search Component Settings"
+          blog_search_component_settings: "إعدادات البحث في المدونة"
           
           
 
