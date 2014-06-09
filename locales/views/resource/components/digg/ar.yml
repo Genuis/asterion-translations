@@ -4,22 +4,22 @@ ar:
     components: 
       digg: 
         create: 
-          add_digg_component: "Add Digg Component"
+          add_digg_component: "إضافة ديغ"
           
           
           
 
         settings: 
-          digg_component_settings: "Digg Component Settings"
+          digg_component_settings: "إعدادات ديغ"
           
           
 
         embed: 
-          you_have_no_diggs_to_display_please: "You have no diggs to display. Please ensure that you have this component configured properly."
+          you_have_no_diggs_to_display_please: "لا يوجد لديك ديغ لعرضه. يرجى التأكد من أن هذا العنصر مكون لديك بشكل صحيح"
 
         form: 
-          display_settings: "Display Settings"
+          display_settings: "إعدادات العرض"
           
-          number_to_display: "Number to display"
-          display_diggs_from: "Display diggs from"
+          number_to_display: "العدد المراد عرضه"
+          display_diggs_from: "عرض ديغ من"
 
