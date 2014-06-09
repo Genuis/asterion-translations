@@ -4,12 +4,12 @@ ar:
     components: 
       blog_comment: 
         create: 
-          add_blog_comment_component: "Add Blog Comment Component"
+          add_blog_comment_component: "إضافة تعليق في المدونة"
           
           
 
         settings: 
-          blog_comment_component_settings: "Blog Comment Component Settings"
+          blog_comment_component_settings: "إعدادات التعليق في المدونة"
           
           
 
@@ -17,8 +17,8 @@ ar:
 
         form: 
           
-          options: "Options"
-          number_to_display: "Number to display"
-          enable_feed_autodiscovery_for_recent_blog_comments: "Enable feed auto-discovery for recent blog comments"
-          display_comments_inline: "Display comments inline?"
+          options: "خيارات"
+          number_to_display: "العدد المراد عرضه"
+          enable_feed_autodiscovery_for_recent_blog_comments: "تمكين تغذية الإكتشاف التلقائي لآخر التعليقات في المدونة"
+          display_comments_inline: "عرض التعليقات المضمنة؟"
 
