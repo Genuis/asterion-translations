@@ -1,29 +1,29 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      facebook_status: 
-        create: 
-          add_facebook_status_component: "Add Facebook Status Component"
+ar: "عربي"
+  resource: "مورد"
+    components: "مكونات"
+      facebook_status: "حالة الفيس بوك"
+        create: "اضافة جديدة"
+          add_facebook_status_component: "اضافة مكون حالة الفيس بوك"
 
-        settings: 
-          facebook_status_component_settings: "Facebook Status Component Settings"
+        settings: "الضبط"
+          facebook_status_component_settings: "ضبط مكون حالة الفيس بوك"
 
-        embed: 
-          uh_oh_it_looks_like_there_was: "Uh oh, it looks like there was a problem fetching your Facebook data."
-          this_can_occur_if_you_have_revoked: 
-            text: | 
-              This can occur if you have revoked access from within Facebook. If you have, you will need to %{link_your_facebook_account} again (and possibly update your component settings).
-            link_your_facebook_account: "Link your facebook account"
-          facebook_status_error: "Facebook Status Error"
+        embed: "تضمين"
+          uh_oh_it_looks_like_there_was: "اوه! يبدو أن هناك مشكلة في جلب بيانات الفيس بوك الخاص بك"
+          this_can_occur_if_you_have_revoked: "يمكنك الغاء هذا"
+            text: | الرسالة
+            يمكن ان يحدث هذا اذا كنت قد الغيت الوصول من حسابك في الفيس بوك، وسوف تحتاج الى ربط حساب الفيس بوك الخاص بك بهذا الموقع .
+            link_your_facebook_account: "ربط حساب الفيس بوك"
+          facebook_status_error: "خطا بحالة الفيس بوك"
 
-          you_do_not_have_any_status_updates: "You do not have any status updates on the Facebook account that this component is linked with. This will not show up on your website untill you do."
+          you_do_not_have_any_status_updates: "لا توجد تحديثات على حساب الفيس بوك مرتبطة مع هذا المكون، لن تظهر التعليقات على الموقع الويب الخاص بك حتى تقوم بذلك"
 
-        form:
-          facebook_account: "Facebook Account"
-          number_of_statuses_to_show: "Number of Statuses to Show"
+        form: "شكل"
+          facebook_account: "حساب الفيس بوك"
+          number_of_statuses_to_show: "اظهار الحالة او الرقم"
 
-        link: 
-          next_step: "Next Step"
+        link: "الرابط"
+          next_step: "الخطوة التالية"
           
 
