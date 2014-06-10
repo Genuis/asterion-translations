@@ -1,31 +1,31 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      facebook_like: 
-        create: 
-          add_facebook_like_component: "Add Facebook Like Component"
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      facebook_like: "مثل الفيس بوك"
+        create: "اضافة جديدة"
+          add_facebook_like_component: "اضافة مكون مثل الفيس بوك"
           
           
 
-        settings: 
-          facebook_like_component_settings: "Facebook Like Component Settings"
+        settings: "الضبط"
+          facebook_like_component_settings: "ضبط المكون مثل الفيس بوك"
           
           
 
-        embed: 
-          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+        embed: "تضمين"
+          this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، لن يظهر على موقع الويب الخاص بك"
 
-        form: 
+        form: "شكل"
           
-          like_url: "Like URL"
-          this_is_the_address_of_the_page: "This is the address of the page you want users to like."
-          display_settings: "Display Settings"
-          layout_style: "Layout Style"
-          verb_to_display: "Verb to display"
-          font: "Font"
-          colour_scheme: "Colour Scheme"
-          show_faces: "Show faces?"
-          component_size: "Component Size"
-          width: "Width"
+          like_url: " URLمثل"
+          this_is_the_address_of_the_page: "عنوان الصفحة التي تريد من المستخدمين الاعجاب فيها"
+          display_settings: "عرض الاعدادات"
+          layout_style: "تخطيط الستايل"
+          verb_to_display: "عرض الفعل"
+          font: "الخط"
+          colour_scheme: "مخطط اللون"
+          show_faces: "اظهار الوجوه"
+          component_size: "مكون الحجم"
+          width: "عرض"
 
