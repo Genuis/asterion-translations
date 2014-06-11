@@ -1,32 +1,32 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      friendfeed: 
-        create: 
-          add_friendfeed_component: "Add Friendfeed Component"
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      friendfeed: "تغذية صديق"
+        create: "اضافة جديدة"
+          add_friendfeed_component: "اضافة مكون تغذية الصديق"
           
-          enables_you_to_discover_and_discuss: 
-            text: "%{friendfeed} enables you to discover and discuss the interesting stuff your friends find on the web."
+          enables_you_to_discover_and_discuss: "تمكنك من مناقشة واكتشاف"
+            text: "الرساله" "الرسالة" "يمكنك من اكتشاف ومناقشة الاشياء المثيرة للاهتمام مع اصدقائك عبر شبكة الانترنت"
             friendfeed: "FriendFeed"
      
-        settings: 
+        settings: "الضبط"
           friendfeed_component_settings: "Friendfeed Component Settings"
      
-        embed: 
-          your_friendfeed_account_couldnt_be_contacted_please: "Your Friendfeed account couldn\'t be contacted. Please ensure that you have a valid remote key."
-          there_are_no_entries_to_be_displayed: "There are no entries to be displayed. This will not show up on your website until there are entries."
+        embed: "تضمين"
+          your_friendfeed_account_couldnt_be_contacted_please: "حساب اصدقائك لم نستطع الاتصال به، الرجاء التاكد من ان لديك صلاحية التحكم."
+          there_are_no_entries_to_be_displayed: "لاتوجد مقالات ليتم عرضها، يمكنك اضافة المقالات وسيتم عرضها في موقع الويب."
 
-        form: 
+        form: "شكل"
           
-          friendfeed_settings: "Friendfeed Settings"
-          username: "Username"
-          remote_key: "Remote key"
-          your_friendfeed_username_is_what_you_log: "Your Friendfeed username is what you log in to http://friendfeed.com with."
-          the_remote_key_allows_us_to_access: "The remote key allows us to access your Friendfeed data if you've selected to keep your data private at Friendfeed. You will need to enter your remote key, if your data is set to be private. http://www.friendfeed.com/remotekey"
-          view_your_remote_key: "View Your Remote Key"
-          services_to_display: "Services to Display"
-          number_to_display: "Number to Display"
+          friendfeed_settings: "ضبط تغذية الصديق"
+          username: "اسم المستخدم"
+          remote_key: "مفتاح التحكم"
+          your_friendfeed_username_is_what_you_log: " http://friendfeed.comاسم مستخدم الفليكر الخاص بك قم بتسجيل الدخول من ."
+          the_remote_key_allows_us_to_access: "مفتاح عن البعد يسمح لك بالوصول الى البيانات الخاصة بك، اذا دخلت بحسابك الفليكر،"
+          view_your_remote_key: "اظهار مفتاحك للتحكم عن البعد"
+          services_to_display: "اظهار للشبكات"
+          number_to_display: "رقم العرض"
           
-        services: {}
+        services: "الشبكات"
 
