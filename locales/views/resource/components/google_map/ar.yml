@@ -1,42 +1,42 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      google_map: 
-        feed: 
-          kml_or_georss_feed: "KML or GeoRSS Feed"
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      google_map: "خريطة جوجل"
+        feed: "تغذية"
+          kml_or_georss_feed: ""
 
-        create: 
-          add_google_map_component: "Add Google Map Component" 
-          next: "Next"
+        create: "اضافة جديدة"
+          add_google_map_component: "اضافة مكون خريطة جوجل" 
+          next: "التالي"
           
 
-        settings: 
-          google_map_component_settings: "Google Map Component Settings"
+        settings: "الضبط"
+          google_map_component_settings: "ضبط مكون خريطة جوجل""
 
-        set_location: 
-          google_map_component_position: "Google Map Component Position"
+        set_location: "تحديد الموقع"
+          google_map_component_position: "وظيفة مكون خريطة جوجل"
 
-        embed: 
-          loading: "Loading..."
-          find_route: "Find route"
-          directions: "Directions"
+        embed: "تضمين"
+          loading: "جاري..."
+          find_route: "ايجاد المسار"
+          directions: "الاتجاهات"
 
-        lookup: 
-          lookup_address: "Lookup Address"
-          find_address: "Find Address"
-          loading: "Loading..."
+        lookup: "ابحث"
+          lookup_address: "ابحث المواقع"
+          find_address: "جد المواقع"
+          loading: "جاري..."
 
-        form: 
-          map_settings: "Map Settings"
-          width: "Width"
-          height: "Height"
-          the_container_width_is: "The container width is %{span} pixels."
-          enable_directions_to_your_location: "Enable directions to your location?"
-          allows_visitors_to_your_website_to_easily: "Allows visitors to your website to easily find a route to your location. Great for businesses and events."
-          this_is_what_appears_in_the_message: "This is what appears in the message dialog when you click on the marker."
-          kml_or_georss_feed: "KML or GeoRSS Feed"
+        form: "شكل"
+          map_settings: "ضبط الخريطة"
+          width: "العرض"
+          height: "الارتفاع"
+          the_container_width_is: "عرض الحاوية."
+          enable_directions_to_your_location: "تمكين الاتجاهات لموقعك?"
+          allows_visitors_to_your_website_to_easily: "يسمح ويستطيع الزوار ان يجدوا الطريق الى موقعك."
+          this_is_what_appears_in_the_message: "هذا مايظهر في حوار الرساله عند النقر على العلامة."
+          kml_or_georss_feed: "تغذية"
 
-        show_admin_map: 
-          loading: "Loading..."
+        show_admin_map: "اظهار خريطة الآدمن" 
+          loading: "جاري..."
 
