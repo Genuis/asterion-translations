@@ -1,33 +1,33 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      friend: 
-        friends_with_icons: {}
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      friend: "صديق"
+        friends_with_icons: "اصدقاء بالرموز"
 
-        friends_without_icons: {}
+        friends_without_icons: "اصدقاء بدون رموز  "
 
-        create: 
-          add_friend_component: "Add Friend Component"
+        create: "اضافة جديدة"
+          add_friend_component: "اضافة اصدقاء بالمكون"
 
-        settings: 
-          friend_component_settings: "Friend Component Settings"
+        settings: "الضبط"
+          friend_component_settings: "ضبط اعدادات اصدقاء المكون"
      
-        embed: 
-          manage_friends: "Manage friends"
-          this_is_a_friend_component_you_do: 
-            text: "This is a friend component, you do not currently have any friends to display. This will not show up on your website until friends have been added. You can %{mange_your_friends} or %{remove_the_component}"
-            mange_your_friends: "mange your friends"
-            remove_the_component: "remove the component"
+        embed: "تضمين"
+          manage_friends: "ادارة الاصدقاء"
+          this_is_a_friend_component_you_do: "هذا مكون الاصدقاء الذي قمت به"
+            text: "النص" "ليس لديك اي اصدقاء لعرضهم، لن يظهر شيئاً على موقع الويب الخاص بك حتى تقوم باضافة الاصدقاء، يمكنك اداره اصدقائك أو ازالة المكون"
+            mange_your_friends: " ادارة الاصدقاء"
+            remove_the_component: "ازالة المكون"
           
-        form: 
+        form: "شكل"
           
-          number_of_friends_to_display: "Number of Friends to Display"
-          show_all: "Show All"
-          order: "Order"
-          random: "Random"
-          by_nickname_az: "By nickname, A-Z"
-          by_nickname_za: "By nickname, Z-A"
-          buddy_icons: "Buddy Icons"
-          display_buddy_icons: "Display Buddy Icons"
+          number_of_friends_to_display: "اظهار عدد الاصدقاء"
+          show_all: "اظهار الكل"
+          order: "طلب"
+          random: "عشوائي"
+          by_nickname_az: "ترتيب حسب اللقب - أ - ي"
+          by_nickname_za: "ترتيب حسب اللقب ي - أ"
+          buddy_icons: "ايقونة الاصدقاء"
+          display_buddy_icons: "اظهار ايقونة الاصدقاء"
 
