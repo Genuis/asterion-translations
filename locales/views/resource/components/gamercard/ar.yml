@@ -1,21 +1,21 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      gamercard: 
-        create: 
-          add_gamer_card_component: "إضافة بطاقة اللاعب"
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      gamercard: "بطاقة اللاعب"
+      create: "اضافة جديدة"
+          add_gamer_card_component: "اضافة مكون بطاقة اللاعب"
           
           
 
-        settings: 
+        settings: "الضبط"
           gamer_card_component_settings: "إعدادات بطاقة اللاعب"
           
           
 
-        embed: {}
+        embed: "تضمين"
 
-        form: 
+        form: "شكل"
           
           xbox_gamertag: "اسم لاعب الإكس بوكس"
           this_is_the_name_that_you_log: "هذا هو الاسم الذي تقوم بتسجيل الدخول به في الحساب الخاص بك في إكس بوكس لايف"
