@@ -1,22 +1,22 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      tweet_button: 
-        create: 
+ar: "عربي"
+  resource: "مورد" 
+    components: "المكونات"
+      tweet_button: "زر التغريد"
+        create: "اضافة جديدة"
           add_tweet_button_component: "إضافة زر التغريد"
           
           
 
-        settings: 
+        settings: "الضبط"
           tweet_button_component_settings: "إعدادات زر التغريد"
           
           
 
-        embed: 
+        embed: "التضمين"
           this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
 
-        form: 
+        form: "الشكل"
           
           contributor: "مشارك"
           tweet_content: "محتوى التغريدة"
