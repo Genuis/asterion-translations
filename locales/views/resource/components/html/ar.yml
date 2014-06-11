@@ -1,21 +1,21 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      html: 
-        edit: 
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      html: Html
+        edit: "تعديل"
           edit_html_block: "HTML تحرير كتلة"
           
           
 
-        create: 
+        create: "اضافة جديدة"
           add_html_code_block: "HTML إضافة رمز كتلة"
           
           
 
-        embed: {}
+        embed: "تضمين"
 
-        form: 
+        form: "شكل"
           
           html_block: "HTML كتلة"
           
