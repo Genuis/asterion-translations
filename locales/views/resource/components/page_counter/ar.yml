@@ -1,19 +1,19 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      page_counter: 
-        create: 
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      page_counter: "عداد الصفحة"
+        create: "اضافة جديدة"
           add_page_counter: "إضافة عداد الصفحات"
 
-        settings: 
+        settings: "الضبط"
           page_counter_settings: "إعدادات عداد الصفحات"
           
           
 
-        embed: {}
+        embed: "التضمين"
 
-        form: 
+        form: "الشكل"
           
           what_to_show: "ما يراد عرضه؟"
           
