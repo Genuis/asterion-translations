@@ -1,22 +1,22 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      reddit: 
-        create: 
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      reddit: "ريدت"
+        create: "اضافة جديدة"
           add_reddit_component: "إضافة ريديت"
           
           
 
-        settings: 
+        settings: "الضبط"
           reddit_component_settings: "إعدادات ريديت"
           
           
 
-        embed: 
+        embed: "التضمين"
           you_have_no_reddits_to_display_please: "لا يوجد ريديت لعرضه. يرجى التأكد أن هذا العنصر مكون عندك بشكل صحيح"
 
-        form: 
+        form: "الشكل"
           
           subreddits: "فروع ريديت"
           subreddit: "ريديت فرعي"
