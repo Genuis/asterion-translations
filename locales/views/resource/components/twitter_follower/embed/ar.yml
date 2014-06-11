@@ -1,10 +1,10 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      twitter_follower: 
-        embed: 
-          friends: {}
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      twitter_follower: متابع تويتر"
+        embed: "التضمين"
+          friends: "الاصدقاء"
 
-          followers: {}
+          followers: "المتابعين"
 
