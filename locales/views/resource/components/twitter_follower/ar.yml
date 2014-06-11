@@ -1,22 +1,22 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      twitter_follower: 
-        create: 
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      twitter_follower: "متابع تويتر"
+        create: "اضافة جديدة"
           add_twitter_followers_component: "إضافة متابعين تويتر"
           
           
 
-        settings: 
+        settings: "الضبط"
           twitter_followers_component_settings: "إعدادات متابعين تويتر"
           
           
 
-        embed: 
+        embed: "التضمين"
           uh_oh_it_looks_like_there_was: "أه أوه، يبدو أن هناك مشكلة في جلب بيانات تويتر الخاصة بك. تويتر قد تكون تعاني من صعوبات فنية، أو يمكنك التحقق من الإعدادات الخاصة بك"
 
-        form: 
+        form: "الشكل"
           
           twitter_account: "حساب تويتر"
           what_to_show: "ماذا سيعرض"
