@@ -1,22 +1,22 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      google_docs_viewer: 
-        create: 
+ar: "عربي"
+  resource: "مورد" 
+    components: "المكونات"
+      google_docs_viewer: "معرض مستندات قوقل"
+        create: "اضافة جديدة"
           add_google_docs_viewer_component: "إضافة عارض مستندات جوجل"
           
           
 
-        settings: 
+        settings: "الضبط"
           google_docs_viewer_component_settings: "إعدادات عارض مستندات جوجل"
           
           
 
-        embed: 
+        embed: "تضمين"
           this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
 
-        form: 
+        form: "شكل"
           select_a_document: "اختر مستند"
           document: "مستند"
           embed_size: "ضبط الحجم"
