@@ -1,9 +1,9 @@
 --- 
-ar: 
+ar: "عربي"
   resource: "مورد"
     components: "عناصر"
-      blog: 
-        embed: 
+      blog: "بلوق"
+        embed: "تضمين"
           minimal: "ادنى"
 
           full: "كامل"
