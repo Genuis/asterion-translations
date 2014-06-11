@@ -1,25 +1,25 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      share_buttons: 
-        icons: {}
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      share_buttons: "ازرار المشاركة"
+        icons: "الايقونات"
 
-        create: 
+        create: "اضافة جديدة"
           add_share_buttons_component: "إضافة زر المشاركة"
           
           
 
-        settings: 
+        settings: "الضبط"
           share_buttons_component_settings: "إعدادات زر المشاركة"
           
           
 
-        embed: 
+        embed: "تضمين"
           this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
           
 
-        form: 
+        form: "شكل"
           display_settings: "إعدادات العرض"
           
           icon_size: "حجم الأيقونة"
