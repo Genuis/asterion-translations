@@ -1,46 +1,46 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      friendfeed: 
-        services: 
-          stumbleupon: {}
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      friendfeed: "تغذية الاصدقاء"
+        services: "شبكات"
+          stumbleupon: "سبورل"
 
-          reddit: 
-            liked_a_story_on: "liked a story on "
-            reddit: "Reddit"
+          reddit: "ريدت"
+            liked_a_story_on: "اعجبك القصة على"
+            reddit: "ريدت"
             
 
-          blog: 
-            posted_a_blog_entry_on: "posted a blog entry on "
+          blog: "بلوق"
+            posted_a_blog_entry_on: "ملصق الدخول على البلوق"
 
-          delicious: {}
+          delicious: "لذيذ"
 
-          picasa: {}
+          picasa: "بيكاسا"
 
-          flickr: 
-            published_a_photo_on: "published a photo on "
+          flickr: "فليكر"
+            published_a_photo_on: "نشرت الصورة على"
             flickr: "Flickr"
 
-          default: {}
+          default: "الافتراضي"
 
-          youtube: 
-            published_a_movie_on: "published a movie on "
-            youtube: "YouTube"
+          youtube: "يوتيوب"
+            published_a_movie_on: "نشر الفيلم على "
+            youtube: "يوتيوب"
 
           seesmic: {}
 
-          digg: 
-            dugg_a_story_on: "dugg a story on "
-            digg: "Digg"
+          digg: "ديغ"
+            dugg_a_story_on: "  قصة على دوق "
+            digg: "ديغ"
 
-          vimeo: {}
+          vimeo: "فيميو"
 
-          twitter: 
-            posted_a_message_on: "posted a message on "
-            twitter: "Twitter"
+          twitter: "تويتر"
+            posted_a_message_on: "نشرت رسالة على  "
+            twitter: "تويتر"
 
-          lastfm: 
-            listened_to_a_song_on: "listened to a song on "
-            lastfm: "Last.fm"
+          lastfm: "لاست اف ام"
+            listened_to_a_song_on: "استمع الى اغنية على "
+            lastfm: "لاست اف ام"
 
