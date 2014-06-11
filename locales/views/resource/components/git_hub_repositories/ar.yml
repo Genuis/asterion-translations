@@ -1,28 +1,28 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      git_hub_repositories: 
-        create: 
-          add_github_repositories_component: "Add GitHub Repositories Component"
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      git_hub_repositories: "مستودعات ال قيت هوب"
+        create: "اضافة جديدة"
+          add_github_repositories_component: "اضافة مكونات لـ قيت هوب"
           
           
 
-        settings: 
-          github_repositories_component_settings: "GitHub Repositories Component Settings"
+        settings: "الضبط"
+          github_repositories_component_settings: "ضبط مكونات الـ قيت هوت"
           
           
 
-        embed: 
-          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+        embed: "تضمين"
+          this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن تظهر على موقع الويب الخاص بك."
 
-        form: 
+        form: "شكل"
           
-          github_username: "Github Username"
-          show_gravatar: "Show Gravatar"
-          repositories: "Repositories"
-          show_all: "Show all"
-          show_the_most_recent: "Show the most recent"
-          click_behaviour: "Click Behaviour"
-          select_what_happens_when_a_user_clicks: "Select what happens when a user clicks on the name of a Repository"
+          github_username: "اسم المستخدم لـ قيت هوب"
+          show_gravatar: "عرض الغرفتر"
+          repositories: "المستودعات"
+          show_all: "اظهار الكل"
+          show_the_most_recent: "اظهار الاحدث"
+          click_behaviour: "انقر للسلوك"
+          select_what_happens_when_a_user_clicks: "حدد ما يحدث عندما ينقر المستخدم على المستودع"
 
