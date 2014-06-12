@@ -1,44 +1,44 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      nivo_slideshow: 
-        collection: 
-          new_slideshow_component: "New Slideshow Component"
-          next_step: "Next Step"
+ar: "عربي"
+  resource: "مورد"
+    components: "المحتويات"
+      nivo_slideshow: "عرض شرائح"
+        collection: "المجموعة"
+          new_slideshow_component: "محتوى جديد للشرائح"
+          next_step: "الخطوة التالية"
           
 
-        images: 
-          slideshow_component_images: "Slideshow Component Images"
-          select_images: "Select Images"
-          slideshow_settings: "Slideshow Settings"
-          
-          
-
-        create: 
-          add_image_slideshow_component: "Add Image Slideshow Component"
-          
-          back: "Back"
-
-        settings: 
-          image_slideshow_component_settings: "Image Slideshow Component Settings"
+        images: "الصور"
+          slideshow_component_images: "محتوى شرائح الصور"
+          select_images: "اختيار الصورة"
+          slideshow_settings: "ضبط الشرائح"
           
           
 
-        embed: 
-          there_are_no_images_to_be_displayed: "There are no images to be displayed. This will not show up on your website until there are images to display. "
-          upload_images: "Upload images"
+        create: "انشاء"
+          add_image_slideshow_component: "اضافة محتوى لصور الشرائح"
+          
+          back: "العودة"
+
+        settings: "الضبط"
+          image_slideshow_component_settings: "اعدادات مكونات عرض الشرائح"
+          
           
 
-        form: 
+        embed: "تضمين"
+          there_are_no_images_to_be_displayed: "لا توجد صورة لعرضها. "
+          upload_images: "تحميل صورة"
           
-          slideshow_size: "Slideshow Size"
-          slideshow_settings: "Slideshow Settings"
-          effects: "Effects"
-          time_between_images: "Time between Images"
-          animation_speed: "Animation Speed"
-          show_titles: "Show Titles"
-          show_navigation_prevnext: "Show Navigation (prev/next)" 
-          show_navigation_dots_spanmiddot_middot_middotspan: "Show Navigation Dots (<span>&middot; &middot; &middot;</span>)"
-          randomize_image_order: "Randomize Image Order"
+
+        form: "شكل"
+          
+          slideshow_size: "حجم الشرائح"
+          slideshow_settings: "اعدادات الشرائح"
+          effects: "الاثار"
+          time_between_images: "الفترة مابين الصور"
+          animation_speed: "سرعة المؤقت"
+          show_titles: "عرض العناوين"
+          show_navigation_prevnext: "عرض الانتقالات (التالي\السابق)" 
+          show_navigation_dots_spanmiddot_middot_middotspan: "عرض زر الانتقالات"
+          randomize_image_order: "ترتيب الصور العشوائية"
 
