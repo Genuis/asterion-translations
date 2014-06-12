@@ -1,60 +1,60 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      image_gallery: 
-        collection: 
-          new_image_gallery_component: "New Image Gallery Component"
-          next_step: "Next Step"
+ar: "عربي"
+  resource: "مورد"
+    components: "المكونات"
+      image_gallery: "صورة الاستوديو"
+        collection: "مجموعة"
+          new_image_gallery_component: "مكون صورة الاستوديو جديد"
+          next_step: "الخطوة التالية"
           
 
-        images: 
-          image_gallery_component_images: "Image Gallery Component Images"
-          select_images: "Select Images"
-          gallery_settings: "Gallery Settings"
-          
-          
-
-        create: 
-          add_image_gallery_component: "Add Image Gallery Component"
-          
-          back: "Back"
-
-        settings: 
-          image_gallery_component_settings: "Image Gallery Component Settings"
-          select_images: "Select Images"
-          gallery_settings: "Gallery Settings"
+        images: "صور"
+          image_gallery_component_images: "معرض مكون الصور"
+          select_images: "اختيار الصور"
+          gallery_settings: "اعدادات الاستوديو"
           
           
 
-        embed: 
-          there_are_no_images_to_be_displayed: "There are no images to be displayed. This will not show up on your website until there are images to display. "
-          upload_images: "Upload images"
-
-        form: 
+        create: "انشاء"
+          add_image_gallery_component: "اضافة مكون لصور الاستوديو"
           
-          how_many_images: "How Many Images?"
-          how_many: "How Many: "
-          randomize_image_order: "Randomize Image Order"
-          load_images_as_they_appear: "Load images as they appear"
-          all_images: "All Images"
-          set_number: "Set Number"
-          thumbnail_settings: "Thumbnail Settings"
-          thumbnail_style: "Thumbnail Style"
-          thumbnail_sizes: "Thumbnail Sizes"
-          space_between_thumbnails: "Space Between Thumbnails"
-          _pixels: " pixels"
-          title_and_description: "Title and Description"
-          display_the_title_and_description_below_each: "Display the title and description below each image."
-          clicking_an_image_will: "Clicking An Image Will..."
-          start_fullscreen_slideshow: "Start Fullscreen Slideshow"
-          directly_open_the_image: "Directly Open The Image"
-          do_nothing_no_clicks_allowed: "Do Nothing (No Clicks Allowed)"
-          select_what_happens_when_a_user_clicks: "Select what happens when a user clicks on an image in the gallery"
-          slideshow_rotation_speed: "Slideshow Rotation Speed"
-          no_rotation: "No Rotation"
-          how_long_will_the_image_be_displayed: "How long will the image be displayed for before switching to the next one?"
-          show_image_titles_and_descriptions: "Show Image Titles and Descriptions"
-          show_a_download_image_button: "Show a Download Image Button"
-          gallery_settings: "Gallery Settings"
+          back: "الرجوع"
+
+        settings: "الضبط"
+          image_gallery_component_settings: "اعدادات مكون صور الاستوديو"
+          select_images: "اختيار الصور"
+          gallery_settings: "اعدادات الاستوديو"
+          
+          
+
+        embed: "تضمين"
+          there_are_no_images_to_be_displayed: "لا توجد صور ليتم عرضها، لن يظهر شيئاً على الويب الخاص بك حتى تقوم باضافة صور. "
+          upload_images: "تحميل الصور"
+
+        form: "شكل"
+        
+          how_many_images: "كم عدد الصور?"
+          how_many: "كم عدد: "
+          randomize_image_order: "ترتيب صور عشوائية"
+          load_images_as_they_appear: "تحميل الصور كما تظهر"
+          all_images: "جميع الصور"
+          set_number: "ادخل رقم"
+          thumbnail_settings: "اعدادات الصور المصغرة"
+          thumbnail_style: "اسلوب الصور المصغرة"
+          thumbnail_sizes: "حجم الصور المصغرة"
+          space_between_thumbnails: "المسافة بين الصور المصغرة"
+          _pixels: " بيكسل"
+          title_and_description: "الوصف والعنوان"
+          display_the_title_and_description_below_each: "عرض العنوان والوصف اسفل كل صورة."
+          clicking_an_image_will: "انقر على الصورة وسوف..."
+          start_fullscreen_slideshow: "بدء عرض الشرائح وملء الشاشة"
+          directly_open_the_image: "فتح الصورة مباشرة"
+          do_nothing_no_clicks_allowed: "لا تقم بشيء(الزيارات غير مسموحة)"
+          select_what_happens_when_a_user_clicks: "حدد ما سيحدث عند نقر المستخدم على الصورة في المعرض"
+          slideshow_rotation_speed: "سرعة مؤقت عرض الشرائح"
+          no_rotation: "لا دوران"
+          how_long_will_the_image_be_displayed: "ماهي المدة التي تريد ابقاء الصورة معروضة؟"
+          show_image_titles_and_descriptions: "عرض اوصاف وعناوين الصورة"
+          show_a_download_image_button: "اظهار زر تحميل الصورة"
+          gallery_settings: "اعدادات الاستوديو"
 
