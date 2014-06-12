@@ -5,24 +5,24 @@ ar:
       fetch_asset_list: {}
 
       create_folder: 
-        create_a_new_folder: "Create a New Folder"
-        new_folder_name: "New Folder Name"
+        create_a_new_folder: "إنشاء مجلد جديد"
+        new_folder_name: "اسم المجلد الجديد"
 
       upload_swfobject: 
-        1_choose_a_folder: "1. Choose a Folder"
+        1_choose_a_folder: "1. إختر مجلد"
         
-        _saved_when_you_click_upload: " (saved when you click upload)"
-        2_choose_files_from_your_computer: "2. Choose Files From Your Computer"
-        select_files_to_upload: "Select Files to Upload"
-        use_basic_uploader: "Use Basic Uploader"
-        file_size_limit: "File Size Limit"
-        storage_space_remaining: "Storage Space Remaining"
-        filename: "Filename"
-        size: "Size"
-        status: "Status"
-        you_have_not_yet_selected_any_files_to_upload: "You have not yet selected any files to upload."
-        0_files_in_queue: "0 file(s) in queue."
-        total_file_size_0_bytes: "Total file size: 0 Bytes"
+        _saved_when_you_click_upload: " (حفظ عند النقر على الرفع)"
+        2_choose_files_from_your_computer: "2. اختيار الملفات من جهاز الكمبيوتر الخاص بك"
+        select_files_to_upload: "تحديد الملفات المراد رفعها"
+        use_basic_uploader: "اختيار برنامج الرفع الأساسي"
+        file_size_limit: "حد حجم الملف"
+        storage_space_remaining: "مساحة التخزين المتبقية"
+        filename: "اسم الملف"
+        size: "الحجم"
+        status: "الحالة"
+        you_have_not_yet_selected_any_files_to_upload: "لم تقم بتحديد أي ملف حتى الآن لرفعها."
+        0_files_in_queue: "لا يوجد ملفات في قائمة الإنتظار"
+        total_file_size_0_bytes: "إجمالي حجم الملف: 0 بايت"
         
         
 
@@ -35,8 +35,8 @@ ar:
             Flash Player. You may 
             %{install_flash_10_now}
             or use the non-flash %{basic_uploader}.
-          install_flash_10_now: "install Flash 10 now"
-          basic_uploader: "basic uploader"
+          install_flash_10_now: "تثبيت فلاش 10 الآن"
+          basic_uploader: "برنامج الرفع الأساسي"
 
       list_item: {}
 
@@ -66,24 +66,24 @@ ar:
         upload_new_files: "Upload New Files"
 
       show: 
-        file_details: "File Details"
-        back: "Back"
+        file_details: "تفاصيل الملف"
+        back: "خلف"
         
-        use_selected: "Use Selected"
-        use_selected_file: "Use Selected File"
-        file: "File"
+        use_selected: "استخدام المحدد"
+        use_selected_file: "استخدام الملف المحدد"
+        file: "ملف"
 
       select_index: {}
 
       upload_basic:
-        1_choose_a_folder: "1. Choose a Folder"
-        new_folder: "New folder"
+        1_choose_a_folder: "1. اختر مجلد"
+        new_folder: "مجلد جديد"
         
-        _saved_when_you_click_upload: " (saved when you click upload)"
-        file_size_limit: "File Size Limit"
-        storage_space_remaining: "Storage Space Remaining"
-        2_choose_files_from_your_computer: "2. Choose Files From Your Computer"
-        upload_files: "Upload Files"
+        _saved_when_you_click_upload: " (حفظ عند النقر على الرفع)"
+        file_size_limit: "حد حجم الملف"
+        storage_space_remaining: "مساحة التخزين المتبقية"
+        2_choose_files_from_your_computer: "2. اختيار الملفات من جهاز الكمبيوتر الخاص بك"
+        upload_files: "رفع الملفات"
 
 
       show_document: {}
@@ -91,22 +91,22 @@ ar:
       show_audio: {}
 
       container_toolbar: 
-        edit_selected: "Edit Selected"
-        remove_selected: "Remove Selected"
-        view_all_file_types: "View All File Types"
-        view_images: "View Images"
-        view_videos: "View Videos"
-        view_music_and_sound: "View Music and Sound"
-        view_documents: "View Documents"
-        view_other_file_types: "View Other File Types"
+        edit_selected: "تعديل المحدد"
+        remove_selected: "إزالة المحدد"
+        view_all_file_types: "عرض جميع أنواع الملفات"
+        view_images: "عرض الصور"
+        view_videos: "عرض الفيديو"
+        view_music_and_sound: "عرض الموسيقى والصوت"
+        view_documents: "عرض المستندات"
+        view_other_file_types: "عرض أنواع الملفات الأخرى"
 
       assets_container: {}
 
       container_sidebar:
-        folders: "Folders"
+        folders: "مجلدات"
 
       file_info_form: 
-        file: "File"
+        file: "ملف"
         
-        description: "Description"
+        description: "وصف"
 
