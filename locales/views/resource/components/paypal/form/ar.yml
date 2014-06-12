@@ -1,40 +1,40 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      paypal: 
-        form: 
-          buynow: 
-            product_settings: "Product Settings"
-            item_name: "Item Name"
-            enter_a_short_description_of_the_item: "Enter a short description of the item customers will be purchasing"
-            currency: "Currency"
-            this_is_the_currency_in_which_you: "This is the currency in which you will receive your payments"
-            price: "Price"
-            if_selected_the_buyer_can_select_how: "If selected, the buyer can select how many of your product to purchase"
-            weight: "Weight"
-            allow_buyer_to_specify_quantity: "Allow buyer to specify quantity"
-            require_a_shipping_address: "Require a shipping address"
-            return_page: "Return page"
-            this_is_where_your_customers_will_be: "This is where your customers will be returned to after their transaction"
+ar: "عربي"
+  resource: "مورد"
+    components: "المحتويات"
+      paypal: "الدفع"
+        form: "شكل"
+          buynow: "اشتر الآن"
+            product_settings: "اعدادات المنتج"
+            item_name: "اسم البند"
+            enter_a_short_description_of_the_item: "ادخل وصفا موجزاً لهذا البند ليراه المشترين"
+            currency: "عملة"
+            this_is_the_currency_in_which_you: "هذه العملة سوف تؤخذ من مدفوعاتك الخاصة"
+            price: "السعر"
+            if_selected_the_buyer_can_select_how: "اذا قمت بالتحديد، يمكن للمشتري اختيار عدد من المنتجات لشراءه"
+            weight: "الوزن"
+            allow_buyer_to_specify_quantity: "السماح للمشتري تحديد الكمية"
+            require_a_shipping_address: "تتطلب منك عنوان الشحن"
+            return_page: "الصفحة الماضية"
+            this_is_where_your_customers_will_be: "المكان الذي سيتم ارجاع الزبائن بعد انهاء معاملاتهم"
 
-          form: 
-            paypal_settings: "PayPal Settings"
-            button: "Button"
-            account_email: "Account Email"
-            enter_the_email_address_that_you_use: "Enter the email address that you use for your paypal account"
+          form: "شكل"
+            paypal_settings: "ضبط الدفع"
+            button: "ايقونة"
+            account_email: "حساب البريد الالكتروني"
+            enter_the_email_address_that_you_use: "ادخل حساب البريد الالكتروني الذي تستخدمه"
 
-          donate: 
-            donation_settings: "Donation Settings"
-            currency: "Currency"
-            this_is_the_currency_in_which_you: "This is the currency in which you will receive your payments"
-            organization_name: "Organization Name"
-            donors_enter_their_own_contribution_amount: "Donors enter their own contribution amount."
-            donors_contribute_a_fixed_amount: "Donors contribute a fixed amount."
-            price: "Price"
+          donate: "تبرع"
+            donation_settings: "اعدادات التبرع"
+            currency: "العملة"
+            this_is_the_currency_in_which_you: "هذه هي العملة التي ستتلقى المدفوعات الخاصة بك"
+            organization_name: "اسم المنظمة"
+            donors_enter_their_own_contribution_amount: "ادخال مبلغ المساهمة للجهات المانحة."
+            donors_contribute_a_fixed_amount: "المبلغ الثابت للجهات المانحة."
+            price: "السعر"
 
-          viewcart: 
-            adding_a_view_cart_button_allows_customers: "Adding a View Cart button allows customers to navigate back to their shopping cart for checkout."
+          viewcart: "اظهار الكرت"
+            adding_a_view_cart_button_allows_customers: "اضافة زر لعرض العربة، يتيح للعملاء الانتقال الى عربة التسوق الخاص بهم."
 
-          cart: {}
+          cart: "انشاء"
 
