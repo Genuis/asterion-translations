@@ -1,17 +1,17 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      image_slideshow: 
-        collection: {}
+ar: "عربي"
+  resource: "مورد"
+    components: "محتوى"
+      image_slideshow: "عرض الشرائح"
+        collection: "مجموعة"
 
-        images: {}
+        images: "صور"
 
-        create: {}
+        create: "انشاء"
 
-        settings: {}
+        settings: "الضبط"
 
-        embed: {}
+        embed: "تضمين"
 
-        form: {}
+        form: "شكل"
 
