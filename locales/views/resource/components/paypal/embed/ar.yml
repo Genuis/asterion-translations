@@ -1,14 +1,14 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      paypal: 
-        embed: 
-          buynow: {}
+ar: "عربي"
+  resource: "مورد"
+    components: "المحتويات"
+      paypal: "الدفع"
+        embed: "تضمين"
+          buynow: "اشتر الآن"
 
-          donate: {}
+          donate: "تبرع"
 
-          viewcart: {}
+          viewcart: "معاينة البطاقة"
 
-          cart: {}
+          cart: "البطاقة"
 
