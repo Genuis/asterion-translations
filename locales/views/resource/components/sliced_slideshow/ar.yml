@@ -1,52 +1,52 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      sliced_slideshow: 
-        collection: 
-          3d_slideshow_component: "3D Slideshow Component"
-          next_step: "Next Step"
+ar: "عربي"
+  resource: "مورد"
+    components: "المحتويات"
+      sliced_slideshow: "عرض على شكل شرائح"
+        collection: "مجموعة"
+          3d_slideshow_component: "عرض محتوى الشرائح بـ ثري دي"
+          next_step: "الخطوة التالية"
           
 
-        images: 
-          3d_slideshow_component_images: "3D Slideshow Component Images"
-          select_images: "Select Images"
-          slideshow_settings: "Slideshow Settings"
-          
-          
-
-        create: 
-          add_image_slideshow_component: "Add Image Slideshow Component"
-          
-          back: "Back"
-
-        settings: 
-          3d_slideshow_settings: "3D Slideshow Settings"
+        images: "صور"
+          3d_slideshow_component_images: "عرض صور الشرائح بـ ثري دي"
+          select_images: "اختيار الصور"
+          slideshow_settings: "اعدادات الشرائح"
           
           
 
-        embed:
-          upload_images: "Upload images"
-          images: "Images"
-          there_are_no_images_to_be_displayed: "There are no images to be displayed. This will not show up on your website until there are images to display. "
-
-        form:
+        create: "انشاء"
+          add_image_slideshow_component: "اضافة صورة لمحتوى الشرائح"
           
-          slideshow_size: "Slideshow Size"
-          slideshow_settings: "Slideshow Settings"
-          effects: "Effects"
-          number_of_slices: "Number of Slices"
-          time_between_images: "Time between Images"
-          choose_from_a_vareity_of_effects: "Choose from a vareity of effects."
-          number_of_slices: "Number of slices"
-          this_is_the_time_paused_between_images: "This is the time paused between images, no rotation means user must click."
-          this_is_how_fast_the_effectanimation_will: "This is how fast the effect/animation will take."
-          note: "Note: "
-          3d_effects_will_not_work_in_internet: "3D Effects will not work in Internet Explorer, they will default to a simple fade. "
-          show_titles: "Show Titles"
-          show_shadow: "Show Shadow"
-          show_navigation_prevnext: "Show Navigation (prev/next)"
-          show_navigation_dots_spanmiddot_middot_middotspan: "Show Navigation Dots (<span>&middot; &middot; &middot;</span>)"
-          randomize_image_order: "Randomize Image Order"
-          height: "Height"
+          back: "العودة"
+
+        settings: "الضبط"
+          3d_slideshow_settings: "ضبط محتوى الشرائح"
+          
+          
+
+        embed: "تضمين"
+          upload_images: "تحميل الصور"
+          images: "الصور"
+          there_are_no_images_to_be_displayed: "لاتوجد صور ليتم عرضها، لايوجد شيء لعرضه في موقع الويب الخاص بك "
+
+        form: "شكل"
+          
+          slideshow_size: "حجم الموظفين"
+          slideshow_settings: "ضبط الشرائح"
+          effects: "الاثار"
+          number_of_slices: "عدد الشرائح"
+          time_between_images: "الفترة بين الصور"
+          choose_from_a_vareity_of_effects: "الاختيار مجموعة متنوعة من الاثار."
+          number_of_slices: "عدد الشرائح"
+          this_is_the_time_paused_between_images: "يجب ان ينقر المستخدم هذه المرة للتوقف بين الصور."
+          this_is_how_fast_the_effectanimation_will: "هذا هو مدى الذي سيستغرقه تاثير الرسوم المتحركة."
+          note: "مذكرة: "
+          3d_effects_will_not_work_in_internet: "اثار الثري دي لا تعمل على انترنت اكسبلور. "
+          show_titles: "عرض العناوين"
+          show_shadow: "عرض الخلفية"
+          show_navigation_prevnext: "اظهار التنقل(السابق\التالي)"
+          show_navigation_dots_spanmiddot_middot_middotspan: "اظهار نقاط التنقل"
+          randomize_image_order: "ترتيب الصور العشوائية"
+          height: "اعلى"
 
