@@ -1,45 +1,45 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      lastfm: 
-        top_tracks: 
-          there_are_no_top_tracks_currently_available: "There are no top tracks currently available."
-          by_trackartist: "by %{artist}"
-          payed: "Played %{play_count} times"
+ar: "عربي"
+  resource: "مورد"
+    components: "المحتويات"
+      lastfm: "لاست اف ام"
+        top_tracks: "اعلى المسارات"
+          there_are_no_top_tracks_currently_available: "لاتوجد مسارات متاحة حالياُ."
+          by_trackartist: "من الفنان"
+          payed: "اختيار تشغيل عدد المرات"
 
-        recent_tracks: 
-          no_tracks_have_recently_been_played: "No tracks have recently been played."
-          by_trackartist: "by #{track.artist}"
-          played_on: "Played on %{played_on}"
+        recent_tracks: "مسارات اخيرة"
+          no_tracks_have_recently_been_played: "لا توجد مسارات تم تشغيلها."
+          by_trackartist: "تشغيل عن طريق"
+          played_on: "يشتغل الآن"
 
-        top_artists: 
-          there_are_no_top_artists_currently_available: "There are no top artists currently available."
-          played:  "Played %{play_count} songs"
+        top_artists: "اعلى المسارات"
+          there_are_no_top_artists_currently_available: "لاتوجد مسارات متاحة حالياُ."
+          played:  "تشغيل "
           
 
-        embed: {}
+        embed: "تضمين"
 
-        create: 
-          add_lastfm_component: "Add Last.fm Component"
-          
-          
-
-        top_albums: 
-          there_are_no_top_albums_currently_available: "There are no top albums currently available."
-          album_artist: "by %{album_artist}"
-          played: "Played %{play_count} songs"
-
-        settings: 
-          lastfm_component_settings: "Last.fm Component Settings"
+        create: "انشاء"
+          add_lastfm_component: "اضافة محتوى لاست اف ام"
           
           
 
-        form: 
+        top_albums: "اعلى الالبومات"
+          there_are_no_top_albums_currently_available: "لاتوجد اعلى البومات متاحة حالياُ."
+          album_artist: "البوم الفنان"
+          played: "تشغيل الاغنية"
+
+        settings: "الضبط" 
+          lastfm_component_settings: "ضبط محتوى لاست اف ام"
+          
+          
+
+        form: "شكل"
           
           lastfm_username: "Last.fm Username"
           display_content: "Display Content"
           
-          number_to_display: "Number to display"
-          link_artist_and_song_names: "Link artist and song names"
+          number_to_display: "عرض عدد الشرائح"
+          link_artist_and_song_names: "رابط الفنان واسم الاغنية"
 
