@@ -1,33 +1,32 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      paypal: 
-        edit: 
-          edit_description: "Edit Description"
+ar: "عربي"
+  resource: "مورد"
+    components: "المحتويات"
+      paypal: "الدفع"
+        edit: "تعديل"
+          edit_description: "تحرير الوصف"
           
           
 
-        create_paypal_settings: 
-          add_paypal_component: "Add PayPal Component"
-          next_step: "Next Step"
+        create_paypal_settings: "ضبط انشاء الدفع"
+          add_paypal_component: "اضافة مكون الدفع"
+          next_step: "الخطوة التالية"
           
 
-        create: 
-          add_paypal_component: "Add PayPal Component"
-          
-          
-
-        settings: 
-          paypal_component_settings: "PayPal Component Settings"
+        create: "انشاء"
+          add_paypal_component: "اضافة مكون الدفع"
           
           
 
-        embed: 
+        settings: "الضبط"
+          paypal_component_settings: "ضبط محتوى الدفع"
           
           
-          paypal__the_safer_easier_way_to: "PayPal - The safer, easier way to pay online"
 
-        form: {}
+        embed: "تضمين"
+          
+          
+          paypal__the_safer_easier_way_to: "باي بال، اكثر امانا وأسهل طريقة للدفع عبر الانترنت"
 
+        form: "شكل"
 
