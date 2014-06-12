@@ -1,14 +1,14 @@
 --- 
-ar: 
-  resource: 
-    components: 
-      twitter: 
-        embed: 
-          timeline: 
-            in: "in "
-            reply_to: "reply to %{screen_name}"
-            follow: "Follow %{account} on Twitter"
+ar: "عربي"
+  resource: "مورد" 
+    components: "المكونات"
+      twitter: "تويتر"
+        embed: "تضمين"
+          timeline: "الجدول الزمني"
+            in: "في "
+            reply_to: "اعادة ارسال"
+            follow: "اتبع"
 
-          friend: 
-            in: "in "
-            reply_to: "reply to %{screen_name}"
+          friend: "صديق"
+            in: "في "
+            reply_to: "اعادة "
