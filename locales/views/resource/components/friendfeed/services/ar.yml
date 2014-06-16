@@ -1,46 +1,46 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      friendfeed: "تغذية الاصدقاء"
-        services: "شبكات"
-          stumbleupon: "سبورل"
+ar: 
+  resource: 
+    components:
+      friendfeed: 
+        services: 
+          stumbleupon: {}
 
-          reddit: "ريدت"
+          reddit: 
             liked_a_story_on: "اعجبك القصة على"
             reddit: "ريدت"
             
 
-          blog: "بلوق"
+          blog: 
             posted_a_blog_entry_on: "ملصق الدخول على البلوق"
 
-          delicious: "لذيذ"
+          delicious: {}
 
-          picasa: "بيكاسا"
+          picasa: {}
 
-          flickr: "فليكر"
+          flickr: 
             published_a_photo_on: "نشرت الصورة على"
-            flickr: "Flickr"
+            flickr: "فليكر"
 
-          default: "الافتراضي"
+          default: {}
 
-          youtube: "يوتيوب"
+          youtube: 
             published_a_movie_on: "نشر الفيلم على "
             youtube: "يوتيوب"
 
           seesmic: {}
 
-          digg: "ديغ"
+          digg: 
             dugg_a_story_on: "  قصة على دوق "
             digg: "ديغ"
 
-          vimeo: "فيميو"
+          vimeo: {}
 
-          twitter: "تويتر"
+          twitter:
             posted_a_message_on: "نشرت رسالة على  "
             twitter: "تويتر"
 
-          lastfm: "لاست اف ام"
+          lastfm: 
             listened_to_a_song_on: "استمع الى اغنية على "
             lastfm: "لاست اف ام"
 
