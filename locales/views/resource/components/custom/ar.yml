@@ -1,18 +1,18 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "العناصر"
-      custom: "عرف"
-        edit: "تعديل"
+ar: 
+  resource: 
+    components: 
+      custom: 
+        edit: 
           edit_content_block: "تعديل كتلة المحتوى"
           
           
 
-        create: "اضافة جديدة"
+        create: 
           add_content_block: "اضافة كتلة محتوى"
           
           
 
-        embed: "تضمين"
+        embed: 
           
 
