@@ -1,9 +1,9 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "عناصر    "
-    ecwid_product_search: "البحث عن منتجات اكويد"
-        create: "اضافة جديدة"
+ar: 
+  resource: 
+    components: 
+    ecwid_product_search: 
+        create: 
           add_ecwid_product_search_component: "اضافة اكويد للبحث عن منتج مكون"
           
         settings: "الضبط"
@@ -15,7 +15,7 @@ ar: "عربي"
             text: "يجب عليك اعداد حساب اكويد وبعدها سوف يصبح المكون مرئياً"
             ecwid_account: "حساب اكويد"
 
-        form: "شكل"
+        form: 
           to_customize_your_ecwid_account_settings_you: | لتخصيص حسابات الخاص بك على اكويد
            لتخصيص اعدادات حساب اكويد الخاص بك سوف تحتاج لتسجيل الدخول الى حسابك على ecwidcom من هناك سوف تكون قادرا على اضافة منتجات جديدة لمتجرك على الانترنت وسوف يقوم الموقع بتحديث المكون الخاص بك تلقائياً
           
