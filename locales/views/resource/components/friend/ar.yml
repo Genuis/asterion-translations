@@ -1,26 +1,26 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      friend: "صديق"
-        friends_with_icons: "اصدقاء بالرموز"
+ar: 
+  resource: 
+    components:
+      friend: 
+        friends_with_icons: {}
 
-        friends_without_icons: "اصدقاء بدون رموز  "
+        friends_without_icons: {}
 
-        create: "اضافة جديدة"
+        create: 
           add_friend_component: "اضافة اصدقاء بالمكون"
 
-        settings: "الضبط"
+        settings: 
           friend_component_settings: "ضبط اعدادات اصدقاء المكون"
      
-        embed: "تضمين"
+        embed: 
           manage_friends: "ادارة الاصدقاء"
           this_is_a_friend_component_you_do: "هذا مكون الاصدقاء الذي قمت به"
             text: "النص" "ليس لديك اي اصدقاء لعرضهم، لن يظهر شيئاً على موقع الويب الخاص بك حتى تقوم باضافة الاصدقاء، يمكنك اداره اصدقائك أو ازالة المكون"
             mange_your_friends: " ادارة الاصدقاء"
             remove_the_component: "ازالة المكون"
           
-        form: "شكل"
+        form: 
           
           number_of_friends_to_display: "اظهار عدد الاصدقاء"
           show_all: "اظهار الكل"
