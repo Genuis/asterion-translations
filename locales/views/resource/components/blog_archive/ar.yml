@@ -1,21 +1,22 @@
 ---
 ar: 
-  resource: "المورد"
-    components: "العناصر"
-      blog_archive : "عناصر الارشيف"
+  resource: 
+    components: 
+      blog_archive : 
+    
           add_blog_archive_component: "اضافة شبكة او عنصر"
           
         
 
-        settings: "الضبط"
+        settings: 
           blog_archive_component_settings: "ارشيف اعدادات المكونات"
           
           
 
-        embed: "تضمين"
+        embed: 
           show_all: "اظهار الكل"
 
-        form: "الشكل"
+        form: 
           
           list_by: "اظهار عن طريق"
           categories: "الفئات"
