@@ -1,29 +1,29 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      flickr_gallery:  "استوديو فليكر"
-        set_list: "وضع جدول"
+ar: 
+  resource: 
+    components:
+      flickr_gallery: 
+        set_list: 
           display_images_from: "عرض الصور من"
           photostreams: "دفق الصور"
           photosets: "مجموعات الصور"
           groups: "مجموعات"
           no_user_was_found: "لم يتم ايجاد اي مستخدم"
 
-        create: "اضافة جديدة"
+        create: 
           add_flickr_gallery_component: "اضافة مكون فليكر للاستوديو"
           
           
 
-        settings: "الضبط"
+        settings:
           flickr_gallery_component_settings: "ضبط مكون فليكر للاستوديو"
           
           
 
-        embed: "تضمين"
+        embed: 
           there_are_no_images_to_be_displayed: "لا توجد صور ليتم عرضها، قم بوضع صور ليتم عرضها في موقع الويب الخاص بك"
 
-        form: "شكل"
+        form: 
           
           flickr_user_name: "اسم مستخدم الفليكر"
           enter_your_flickr_screen_name_or_the: "دخول باسم فليكر الخاص بك او بـ البريد الالكتروني"
