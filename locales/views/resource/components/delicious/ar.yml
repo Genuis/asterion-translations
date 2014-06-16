@@ -1,22 +1,22 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "مكونات"
-      delicious: "لذيذ"
-        create: "اضافة جديدة"
+ar: 
+  resource: 
+    components: 
+      delicious: 
+        create: 
           add_delicious_component: "Del.icio.us اضافة مكون"
           
           
 
-        settings: "الضبط"
+        settings: 
           delicious_component_settings: "Del.icio.usضبط مورد "
           
           
 
-        embed: "تضمين"
+        embed: 
           there_were_no_bookmarks_found_this_will: "لا توجد اي عناوين ليتم عرضها"
 
-        form: "شكل"
+        form: 
           display_settings: "عرض الاعدادات"
           delicious_username: "اسم المستخدم اللذيذ"
           tag_filter: "تصفية العلامة"
