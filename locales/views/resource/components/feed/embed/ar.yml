@@ -1,10 +1,10 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      feed: "تغذية|"
-        embed: "تضمين"
-          minimal: "اقل"
+ar: 
+  resource: 
+    components: 
+      feed: 
+        embed: 
+          minimal: {}
 
-          full: "كامل"
+          full: {}
 
