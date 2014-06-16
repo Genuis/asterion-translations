@@ -1,33 +1,33 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      google_map: "خريطة جوجل"
-        feed: "تغذية"
-          kml_or_georss_feed: ""
+ar: 
+  resource: 
+    components: 
+      google_map: 
+        feed: 
+          kml_or_georss_feed: 
 
-        create: "اضافة جديدة"
+        create: 
           add_google_map_component: "اضافة مكون خريطة جوجل" 
           next: "التالي"
           
 
-        settings: "الضبط"
+        settings:
           google_map_component_settings: "ضبط مكون خريطة جوجل""
 
-        set_location: "تحديد الموقع"
+        set_location: 
           google_map_component_position: "وظيفة مكون خريطة جوجل"
 
-        embed: "تضمين"
+        embed:
           loading: "جاري..."
           find_route: "ايجاد المسار"
           directions: "الاتجاهات"
 
-        lookup: "ابحث"
+        lookup: 
           lookup_address: "ابحث المواقع"
           find_address: "جد المواقع"
           loading: "جاري..."
 
-        form: "شكل"
+        form: 
           map_settings: "ضبط الخريطة"
           width: "العرض"
           height: "الارتفاع"
@@ -37,6 +37,6 @@ ar: "عربي"
           this_is_what_appears_in_the_message: "هذا مايظهر في حوار الرساله عند النقر على العلامة."
           kml_or_georss_feed: "تغذية"
 
-        show_admin_map: "اظهار خريطة الآدمن" 
+        show_admin_map: 
           loading: "جاري..."
 
