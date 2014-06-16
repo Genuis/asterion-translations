@@ -1,10 +1,10 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المحتويات"
-      paypal: "الدفع"
-        form: "شكل"
-          buynow: "اشتر الآن"
+ar: 
+  resource: 
+    components: 
+      paypal: 
+        form: "
+          buynow: 
             product_settings: "اعدادات المنتج"
             item_name: "اسم البند"
             enter_a_short_description_of_the_item: "ادخل وصفا موجزاً لهذا البند ليراه المشترين"
@@ -18,13 +18,13 @@ ar: "عربي"
             return_page: "الصفحة الماضية"
             this_is_where_your_customers_will_be: "المكان الذي سيتم ارجاع الزبائن بعد انهاء معاملاتهم"
 
-          form: "شكل"
+          form: 
             paypal_settings: "ضبط الدفع"
             button: "ايقونة"
             account_email: "حساب البريد الالكتروني"
             enter_the_email_address_that_you_use: "ادخل حساب البريد الالكتروني الذي تستخدمه"
 
-          donate: "تبرع"
+          donate:
             donation_settings: "اعدادات التبرع"
             currency: "العملة"
             this_is_the_currency_in_which_you: "هذه هي العملة التي ستتلقى المدفوعات الخاصة بك"
@@ -33,8 +33,8 @@ ar: "عربي"
             donors_contribute_a_fixed_amount: "المبلغ الثابت للجهات المانحة."
             price: "السعر"
 
-          viewcart: "اظهار الكرت"
+          viewcart: 
             adding_a_view_cart_button_allows_customers: "اضافة زر لعرض العربة، يتيح للعملاء الانتقال الى عربة التسوق الخاص بهم."
 
-          cart: "انشاء"
+          cart: 
 
