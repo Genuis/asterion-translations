@@ -1,22 +1,22 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "مكونات"
-      bravenet: "بريفنت"
-        edit: "تحرير"
+ar: 
+  resource:
+    components: 
+      bravenet: 
+        edit: 
           edit_bravenet_web_app: "تحرير بريفنت الويب"
           
-        create: "اضافة جديدة"
+        create: 
           add_a_bravenet_web_app: "اضافة بريفنت الويب"
           
-        embed: "تضمين"
+        embed: {}
 
-        form: "شكل"
+        form: 
           
           bravenet_service_code_copypaste_code: "رمز خدمة البريفنت(نسخ\لصق)"
           we_have_detected_that_your_bravenet_copypaste: "تلقى الموقع عملية النسخ واللصق لديك في البريفنت"
           invalid_copypaste_code: "خطأ في عملية النسخ واللصق"
-          ok: "تم"
+          ok: "OK"
           bravenet_provides: "توفير البريفنت "
           message_boards: "لوحة الرسائل"
           guestbooks: "سجل الزوار"
