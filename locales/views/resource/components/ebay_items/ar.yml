@@ -1,25 +1,25 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "مكونات"
-      ebay_items: "بنود الايباي"
-        item: "بنود"
+ar: 
+  resource: 
+    components: 
+      ebay_items: 
+        item: 
           no_image: "لاتوجد صورة"
           left: "الباقي"
 
-        create: "اضافة جديدة"
+        create: 
           add_ebay_listings_component: "اضافة مكون ايباي للقوائم"
           
           
-
-        settings: "الضبط"
+          
+        settings: 
           ebay_listings_component_settings: "ضبط مكون ايباي  "
           
           
 
-        embed: "تضمين"
+        embed: {}
 
-        form: "شكل"
+        form: 
           
           ebay_username: "اسم المستخدم لـ ايباي"
           country: "البلد"
@@ -39,6 +39,6 @@ ar: "عربي"
           lowest_to_highest: "من الاقل الى الاعلى"
           highest_to_lowest: "من الاعلى الى الاقل"
 
-        listing: "القائمة" 
+        listing: 
           no_items_currently_for_sale: "لا توجد اصناف للبيع حاليا"
 
