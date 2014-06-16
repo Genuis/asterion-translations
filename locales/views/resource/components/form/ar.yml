@@ -1,9 +1,9 @@
 --- 
-ar: "عربي"
-  resource: "مورد" 
-    components: "المكونات"
-      form: "شكل"
-        component_form: "شكل المكون" 
+ar: 
+  resource: 
+    components: 
+      form: 
+        component_form: 
           account_activation_required: "تنشيط الحساب مطلوب"
           you_need_to_click_the_link_in: "انقر على الرابط في البريد الالكتروني لتنشيط حسابك، لن تستطيع ارسال او استعمال اي شيء في الموقع حتى تقوم بتنشيط حسابك، "
           form_title: "شكل العنوان"
@@ -20,16 +20,16 @@ ar: "عربي"
           email_subject_line: "سطر الموضوع في البريد الالكتروني"
           message_to_display_after_form_submission: "عرض الرساله بعد تقديم النموذج"
 
-        create: "اضافة جديدة"
+        create: 
           add_form_component: "اضافة شكل المكون"
           
           
 
-        settings: "الضبط"
+        settings: 
           form_component_settings: "ضبط شكل المكون"
           
           
 
-        embed: "تضمين"
+        embed: 
           fields: "الحقول"
 
