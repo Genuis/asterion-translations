@@ -1,41 +1,41 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المحتويات"
-      lastfm: "لاست اف ام"
-        top_tracks: "اعلى المسارات"
+ar: 
+  resource: 
+    components: 
+      lastfm: 
+        top_tracks: 
           there_are_no_top_tracks_currently_available: "لاتوجد مسارات متاحة حالياُ."
           by_trackartist: "من الفنان"
           payed: "اختيار تشغيل عدد المرات"
 
-        recent_tracks: "مسارات اخيرة"
+        recent_tracks:
           no_tracks_have_recently_been_played: "لا توجد مسارات تم تشغيلها."
           by_trackartist: "تشغيل عن طريق"
           played_on: "يشتغل الآن"
 
-        top_artists: "اعلى المسارات"
+        top_artists: "
           there_are_no_top_artists_currently_available: "لاتوجد مسارات متاحة حالياُ."
           played:  "تشغيل "
           
 
-        embed: "تضمين"
+        embed: {}
 
-        create: "انشاء"
+        create:
           add_lastfm_component: "اضافة محتوى لاست اف ام"
           
           
 
-        top_albums: "اعلى الالبومات"
+        top_albums: 
           there_are_no_top_albums_currently_available: "لاتوجد اعلى البومات متاحة حالياُ."
           album_artist: "البوم الفنان"
           played: "تشغيل الاغنية"
 
-        settings: "الضبط" 
+        settings: 
           lastfm_component_settings: "ضبط محتوى لاست اف ام"
           
           
 
-        form: "شكل"
+        form:
           
           lastfm_username: "Last.fm Username"
           display_content: "Display Content"
