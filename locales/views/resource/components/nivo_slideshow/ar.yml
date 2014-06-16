@@ -1,36 +1,36 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المحتويات"
-      nivo_slideshow: "عرض شرائح"
-        collection: "المجموعة"
+ar: 
+  resource:
+    components: 
+      nivo_slideshow: 
+        collection:
           new_slideshow_component: "محتوى جديد للشرائح"
           next_step: "الخطوة التالية"
           
 
-        images: "الصور"
+        images: 
           slideshow_component_images: "محتوى شرائح الصور"
           select_images: "اختيار الصورة"
           slideshow_settings: "ضبط الشرائح"
           
           
 
-        create: "انشاء"
+        create: 
           add_image_slideshow_component: "اضافة محتوى لصور الشرائح"
           
           back: "العودة"
 
-        settings: "الضبط"
+        settings: 
           image_slideshow_component_settings: "اعدادات مكونات عرض الشرائح"
           
           
 
-        embed: "تضمين"
+        embed: 
           there_are_no_images_to_be_displayed: "لا توجد صورة لعرضها. "
           upload_images: "تحميل صورة"
           
 
-        form: "شكل"
+        form: 
           
           slideshow_size: "حجم الشرائح"
           slideshow_settings: "اعدادات الشرائح"
