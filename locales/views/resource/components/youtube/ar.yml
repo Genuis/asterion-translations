@@ -1,9 +1,9 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      youtube: "يوتيوب"
-        create: "انشاء"
+ar: 
+  resource: 
+    components: 
+      youtube: 
+        create: 
           add_youtube_component: "إضافة محتوى من اليوتيوب"
           
           
