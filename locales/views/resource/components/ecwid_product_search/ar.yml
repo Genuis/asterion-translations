@@ -6,10 +6,10 @@ ar:
         create: 
           add_ecwid_product_search_component: "اضافة اكويد للبحث عن منتج مكون"
           
-        settings: "الضبط"
+        settings: 
           ecwid_product_search_component_settings: "البحث عن منتج واعدادات المكونات "
           
-        embed: "تضمين"
+        embed: 
           this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن يظهر على موقع الويب الخاص بك"
           you_must_set_up_an: " يجب عليك البدء "
             text: "يجب عليك اعداد حساب اكويد وبعدها سوف يصبح المكون مرئياً"
