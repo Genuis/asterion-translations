@@ -1,22 +1,22 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      git_hub_repositories: "مستودعات ال قيت هوب"
-        create: "اضافة جديدة"
+ar: 
+  resource: 
+    components:
+      git_hub_repositories: 
+        create: 
           add_github_repositories_component: "اضافة مكونات لـ قيت هوب"
           
           
 
-        settings: "الضبط"
+        settings:
           github_repositories_component_settings: "ضبط مكونات الـ قيت هوت"
           
           
 
-        embed: "تضمين"
+        embed: "
           this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن تظهر على موقع الويب الخاص بك."
 
-        form: "شكل"
+        form: 
           
           github_username: "اسم المستخدم لـ قيت هوب"
           show_gravatar: "عرض الغرفتر"
