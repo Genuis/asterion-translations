@@ -1,25 +1,25 @@
 --- 
-ar: "عرض"
-  resource: "مورد"
-    components: "عناصر"
-      blogroll: "المدونات"
-        edit: "تعديل"
+ar: 
+  resource: 
+    components: 
+      blogroll: 
+        edit: 
           add_a_blog_feed: "اضافة بلوق التخزين"
           current_blogs: "البلوق الحالي"
           
           
 
-        create: "اضافة جديد"
+        create: 
           add_blogroll_component: "اضافة مكون المدونات"
           
-          back: "العودة"
+          back: "back"
 
-        settings: "الضبط"
+        settings: 
           blogroll_component_settings: "ضبط مكون المدونات"
           
           
 
-        select_feeds: "اختيار التخزين"
+        select_feeds: 
           new_blogroll_component: "مكون المدونات الجديدة"
           this_component_allows_you_to_list_and: "هذه القائمة يسمح لك بالوصول الى مكون الشبكة المفضلة لديك، ادخل العنوان الذي تريد اضافته الى القائمة المفضلة، ثم انقر على زر التخزين، كرر هذا للعديد من البلوق الذي ترغب باضافتها الى المفضلة"
           add_a_blog_feed: "اضافة بلوق التخزين"
@@ -27,11 +27,11 @@ ar: "عرض"
           next_step: "الخطوة التالية"
           
           
-        embed: "تضمين"
+        embed: 
           there_are_no_blogs_added_this_will: "لا يوجد بلوق مضاف، لن يظهر على موقع الويب الخاص حتى تقوم باختيار البلوق "
           add_a_blog: "اضافة بلوق"
 
-        form: "شكل"
+        form: 
           
           number_to_display: "اختيار عدد العرض"
           display_settings: "ضبط العرض"
