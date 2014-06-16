@@ -1,18 +1,18 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      flash: "فلاش"
-        create: "اضافة جديدة"
+ar: 
+  resource: 
+    components: 
+      flash: 
+        create: 
           add_flash_component: "اضافة مكون فلاش"
 
-        settings: "الضبط"
+        settings: 
           flash_component_settings: "اعدادات مكون الفلاش"
      
-        embed: "تضمين"
+        embed:
           there_is_no_flash_file_to_display: "لا توجد اي ملفات فلاش لعرضها"
 
-        form: "شكل"
+        form: 
           select_a_swf_file: "اختيار ملف SWF"
           swf_file: "ملف SWF"
           required_flash_version: "يتطلب اصدار فلاش"
