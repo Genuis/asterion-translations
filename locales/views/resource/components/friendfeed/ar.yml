@@ -1,23 +1,23 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      friendfeed: "تغذية صديق"
-        create: "اضافة جديدة"
+ar: 
+  resource: 
+    components: 
+      friendfeed: 
+        create: 
           add_friendfeed_component: "اضافة مكون تغذية الصديق"
           
-          enables_you_to_discover_and_discuss: "تمكنك من مناقشة واكتشاف"
+          enables_you_to_discover_and_discuss: 
             text: "الرساله" "الرسالة" "يمكنك من اكتشاف ومناقشة الاشياء المثيرة للاهتمام مع اصدقائك عبر شبكة الانترنت"
-            friendfeed: "FriendFeed"
+            friendfeed: "تغذية صديق"
      
-        settings: "الضبط"
+        settings: 
           friendfeed_component_settings: "Friendfeed Component Settings"
      
-        embed: "تضمين"
+        embed: 
           your_friendfeed_account_couldnt_be_contacted_please: "حساب اصدقائك لم نستطع الاتصال به، الرجاء التاكد من ان لديك صلاحية التحكم."
           there_are_no_entries_to_be_displayed: "لاتوجد مقالات ليتم عرضها، يمكنك اضافة المقالات وسيتم عرضها في موقع الويب."
 
-        form: "شكل"
+        form: 
           
           friendfeed_settings: "ضبط تغذية الصديق"
           username: "اسم المستخدم"
@@ -28,5 +28,5 @@ ar: "عربي"
           services_to_display: "اظهار للشبكات"
           number_to_display: "رقم العرض"
           
-        services: "الشبكات"
+        services: {}
 
