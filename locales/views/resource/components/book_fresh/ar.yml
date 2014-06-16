@@ -1,19 +1,19 @@
 --- 
-ar: "عربي"
-  resourc: "مورد"
-    componeents: "العناصر"
-      book_fresh: "كتاب جديد"
-        create: "جديد"
+ar: 
+  resourc: 
+    componeents: 
+      book_fresh: 
+        create: 
           add_bookfresh_component: "اضافة عناصر الى كتاب جديد"
           
-        settings: "الضبط"
+        settings: 
           bookfresh_component_settings: "ضبط اضافة العناصر الى كتاب جديد"
           
-        embed: "تضمين"
+        embed: 
           there_is_a_problem_with_your_component: "هناك مشكلة مع المكون الخاص بك"
 
-        form: "شكل"
-          to_customize_your_bookfresh_account_settings_you: "ضبط "| on %{bookfreshcom}.
+        form: 
+          to_customize_your_bookfresh_account_settings_you: |
             
             من هنا سوف تكون قادراً على اضافة انواع تعين جديدة، وادارة حسابات الموظفين، واكثر من ذلك سوف يقوم المكون بتحديث موقع الويب الخاص بك تلقائياً
           background_color: "لون الخلفية"
