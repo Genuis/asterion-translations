@@ -1,23 +1,23 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      vimeo: "فيميو"
-        _video_embed: "ادراج فيديو"
+ar: 
+  resource:
+    components: 
+      vimeo: 
+        _video_embed: 
           video_player_url: "رابط مشغل الفيديو"
 
-        create: "انشاء"
+        create: 
           add_vimeo_component: "إضافة محتوى من فيميو"
 
-        settings: "الضبط"
+        settings: 
           vimeo_component_settings: "إعدادات مكون فيميو"
           
           
 
-        embed: "تضمين"
+        embed: 
           this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
 
-        form: "شكل"
+        form: 
           
           video_url: "رابط الفيديو"
           eg: "مثال"
