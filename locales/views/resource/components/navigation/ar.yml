@@ -1,19 +1,18 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المحتويات"
-      navigation: "الملاحة"
-        group: "القروب"
+ar: 
+  resource: 
+    components: 
+      navigation: 
+        group: {}
 
-        edit: "تعديل"
+        edit: 
           navigation_component: "محتوى الملاحة"
           
           
 
-        create: "انشاء"
+        create: 
           navigation_component: "محتوى الملاحة"
           
           
 
-        embed: "تضمين"
-
+        embed: {}
