@@ -1,25 +1,25 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      twitter: "تويتر"
-        create: "انشاء"
+ar: 
+  resource: 
+    components: 
+      twitter: 
+        create: 
           add_twitter_component: "اضافة مكون تويتر"
           
           
 
-        settings: "الضبط"
+        settings: 
           twitter_component_settings: "ضبط مكون التويتر"
           
           
 
-        embed: "تضمين"
+        embed: 
           some_important_improvements_have_been_made_to: "تحسين بعض المحتويات الهامة تتطلب منك ربط حسابك بالتويتر. "
           click_here_to_link_your_account: "انقر هنا لربط حسابك"
           uh_oh_it_looks_like_there_was: "اوه ! يبدو ان هناك مشكلة في جلب بيانات التغريدة."
           twitter_may_be_experiencing_technical_difficulties_or: " قد يواجه تويتر بعض الصعوبات الفنية"
         
-        form: "شكل"
+        form: 
           
           twitter_account: "حساب التويتر"
           select_the_account_to_use_you_can: "اختر الحساب لاستخدامه، يمكنك تحديد حساب جديد من الاعدادات"
@@ -34,7 +34,7 @@ ar: "عربي"
           number_of_tweets_to_display: "عرض رقم التغريدة"
           show_all: "اظهار الكل"
 
-        link: "رابط"
+        link: 
           next: "التالي"
           
 
