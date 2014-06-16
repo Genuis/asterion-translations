@@ -1,21 +1,21 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "مكونات"
-      ecwid_product_listing: "قائمة المنتجات"
-        create: "اضافة جديدة"
+ar: 
+  resource: 
+    components: 
+      ecwid_product_listing: 
+        create: 
           add_ecwid_product_listing_component: "اضافة المنتج لقائمة المكونات"
 
-        settings: "الضبط"
+        settings: 
           ecwid_product_listing_component_settings: "قائمة اعداد المنتج المكون"
           
-        embed: "تضمين"
+        embed: 
           this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن يظهر على موقع الويب الخاص بك"
-          you_must_set_up_an: "يجب عليك الاعداد لـ an"
-            text: "يجب اعداد حساب {ecwid account} وسوف تصبح مرئية"
+          you_must_set_up_an: 
+            text: "يجب تسجيل الدخول بحساب آن، وبعدها سيصبح التعليق مرئيا"
             ecwid_account: "حساب الاكويد"
 
-        form: "شكل"
+        form: 
           to_customize_your_ecwid_account_settings_you: "تخصيص اعدادت الحساب الخاص بك اكويد" |لتخصيص اعدادات الحساب الخاص بك سوف تحتاج لتسجيل الدخول الى حسابك على اكويد ، وبعد التسجيل ستكون قادرا على اضافه منتجات جديدة لمتجرك على الانترنت، والمكون سيقوم بتحديث الويب الخاص بك تلقائياً
             
           
