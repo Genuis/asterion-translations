@@ -1,23 +1,23 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "مكونات"
-      digg: "ديغ"
+ar: 
+  resource: 
+    components: "
+      digg: 
         create: 
-          add_digg_component: "إضافة ديغ"
+          add_digg_component: 
           
           
           
 
-        settings: "الضبط"
+        settings: 
           digg_component_settings: "إعدادات ديغ"
           
           
 
-        embed: "تضمين"
+        embed: 
           you_have_no_diggs_to_display_please: "لا يوجد لديك ديغ لعرضه. يرجى التأكد من أن هذا العنصر مكون لديك بشكل صحيح"
 
-        form: "شكل"
+        form: 
           display_settings: "إعدادات العرض"
           
           number_to_display: "العدد المراد عرضه"
