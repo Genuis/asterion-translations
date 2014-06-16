@@ -1,16 +1,16 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      feed: "تغذية"
-        edit: "تعديل"
+ar: 
+  resource:
+    components: 
+      feed: 
+        edit: 
           feed_component_sources: "تغذية مصادر العنصر"
           new_feed_location: "تغذية موقع جديد"
           current_feeds: "التغذية الحالية"
           
           
 
-        component_form: "مصدر المكون"
+        component_form: 
           
           display_settings: "عرض الضبط"
           how_to_show_the_feed: "كيفية اظهار التغذية؟"
@@ -26,10 +26,10 @@ ar: "عربي"
           number_to_display: "عرض الارقام"
           show_all: "عرض الكل"
 
-        create: "اضافة جديدة"
+        create: 
           add_feed_component: "اضافة مغذي للمكون"
           
-          back: "العودة"
+          back: "back"
 
         settings: "الضبط"
           feed_component_settings: "تغذية مكون الضبط"
@@ -43,7 +43,7 @@ ar: "عربي"
           next: "الى الامام"
           
 
-        embed: "تضمين"
+        embed: 
           there_are_no_feeds_added_this_will: "لا توجد التغذية المضافة، لن تظهر على الموقع حتى تقوم انت بذلك"
           add_a_feed: "اضافة تغذية"
           this_feed_currently_has_no_entries: "لا يحتوي الادخال على اي تغذية."
