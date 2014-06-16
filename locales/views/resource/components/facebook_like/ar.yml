@@ -1,22 +1,22 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المكونات"
-      facebook_like: "مثل الفيس بوك"
-        create: "اضافة جديدة"
+ar: 
+  resource: 
+    components: 
+      facebook_like: 
+        create: 
           add_facebook_like_component: "اضافة مكون مثل الفيس بوك"
           
           
 
-        settings: "الضبط"
+        settings: 
           facebook_like_component_settings: "ضبط المكون مثل الفيس بوك"
           
           
 
-        embed: "تضمين"
+        embed: 
           this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، لن يظهر على موقع الويب الخاص بك"
 
-        form: "شكل"
+        form: 
           
           like_url: " URLمثل"
           this_is_the_address_of_the_page: "عنوان الصفحة التي تريد من المستخدمين الاعجاب فيها"
