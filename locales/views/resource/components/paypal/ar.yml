@@ -1,32 +1,32 @@
 --- 
-ar: "عربي"
-  resource: "مورد"
-    components: "المحتويات"
-      paypal: "الدفع"
-        edit: "تعديل"
+ar: 
+  resource: 
+    components: 
+      paypal: 
+        edit: 
           edit_description: "تحرير الوصف"
           
           
 
-        create_paypal_settings: "ضبط انشاء الدفع"
+        create_paypal_settings: 
           add_paypal_component: "اضافة مكون الدفع"
           next_step: "الخطوة التالية"
           
 
-        create: "انشاء"
+        create: 
           add_paypal_component: "اضافة مكون الدفع"
           
           
 
-        settings: "الضبط"
+        settings: 
           paypal_component_settings: "ضبط محتوى الدفع"
           
           
 
-        embed: "تضمين"
+        embed:
           
           
           paypal__the_safer_easier_way_to: "باي بال، اكثر امانا وأسهل طريقة للدفع عبر الانترنت"
 
-        form: "شكل"
+        form: {}
 
