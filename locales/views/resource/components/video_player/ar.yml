@@ -1,22 +1,22 @@
 --- 
-ar: "عربي"
-  resource: "مورد" 
-    components: "المكونات"
-      video_player: "مشغل الفيديو"
-        create: "انشاء"
+ar: 
+  resource: 
+    components: 
+      video_player: 
+        create: 
           add_video_player_component: "إضافة مشغل فيديو"
           
           
           
-        settings: "الضبط"
+        settings: 
           video_player_component_settings: "إعدادات مشغل الفيديو"
           
           
 
-        embed: "تضمين"
+        embed: 
           this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
 
-        form: "شكل"
+        form: 
           
           video_file: "ملف فيديو"
           select_a_video_file: "حدد ملف فيديو"
