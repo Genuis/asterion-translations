@@ -1,10 +1,10 @@
 --- 
-ar: 
+en: 
   resource: 
     components: 
       gamercard: 
-      create: 
-          add_gamer_card_component: "اضافة مكون بطاقة اللاعب"
+        create: 
+          add_gamer_card_component: "اضافة مكون اللاعب"
           
           
 
