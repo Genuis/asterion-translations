@@ -11,12 +11,12 @@ ar:
           
         embed: 
           this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن يظهر على موقع الويب الخاص بك"
-          you_must_set_up_an: " يجب عليك البدء "
+          you_must_set_up_an: 
             text: "يجب عليك اعداد حساب اكويد وبعدها سوف يصبح المكون مرئياً"
             ecwid_account: "حساب اكويد"
 
         form: 
-          to_customize_your_ecwid_account_settings_you: | لتخصيص حسابات الخاص بك على اكويد
+          to_customize_your_ecwid_account_settings_you: |
            لتخصيص اعدادات حساب اكويد الخاص بك سوف تحتاج لتسجيل الدخول الى حسابك على ecwidcom من هناك سوف تكون قادرا على اضافة منتجات جديدة لمتجرك على الانترنت وسوف يقوم الموقع بتحديث المكون الخاص بك تلقائياً
           
 
