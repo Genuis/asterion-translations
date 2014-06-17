@@ -1,20 +1,20 @@
 --- 
-ar: "عربي"  
-  resource: "مورد"
-    components: "المكونات"
-      blog: "بلوق"
-        create: "اضافة جديدة"
-          add_blog_post_component: "اضافة مكون لبلوق الملصقt"
+ar: 
+  resource: 
+    components: 
+      blog: 
+        create: 
+          add_blog_post_component: "اضافة محتوى لملصق البلوق"
 
-        settings: "الضبط"
+        settings: 
           blog_post_component_settings: "ضبط اضافة مكون بلوق الملصق"
 
-        embed: "تضمين"
+        embed: 
           new_post: "ملصق جديد"
           
           
           this_is_a_blog_component: "هذا البلوق مكون" 
-            text: |"النص"
+            text: |
              ليس لديك حالياً اي ردود لتجاهلها، لن يظهر شيء على موقع الويب الخاص بك حتى يتم اضافة المشاركات، يمكنك ارسال مشاركتك الأولى، عن طريق {مشاركات الاستيراد من خدمة اخرىْ} او حذف العنصر
              
              
@@ -26,7 +26,7 @@ ar: "عربي"
           are_you_sure_you_want_to_delete: "هل انت متاكد بانك تريد الحذف؟"
           subscribe_to_this_blog: "الاشتراك في هذا البلوق"
           view_older_posts_raquo: "اظهار مشاركات اقدم"
-        form: "شكل"
+        form: 
           to_manage_blog_posts_categories_rss_custom: "لاداره التدونيات،التصنيفات،التسميات المخصصة، وكذلك اعدادات المدونة واستيراد المشاركات، اذهب الى شريط الادوات ومن ثم الى ادارة الموقع"
           blog: "بلوق"
           
