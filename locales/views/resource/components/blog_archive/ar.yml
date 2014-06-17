@@ -1,12 +1,12 @@
----
-ar: 
+--- 
+en: 
   resource: 
     components: 
-      blog_archive : 
-    
+      blog_archive: 
+        create: 
           add_blog_archive_component: "اضافة شبكة او عنصر"
           
-        
+          
 
         settings: 
           blog_archive_component_settings: "ارشيف اعدادات المكونات"
