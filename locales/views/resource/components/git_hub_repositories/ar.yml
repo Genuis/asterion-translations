@@ -1,19 +1,19 @@
 --- 
-ar: 
+en: 
   resource: 
-    components:
+    components: 
       git_hub_repositories: 
         create: 
-          add_github_repositories_component: "اضافة مكونات لـ قيت هوب"
+          add_github_repositories_component: "اضافة محتويات لـ قيت هوب"
           
           
 
-        settings:
-          github_repositories_component_settings: "ضبط مكونات الـ قيت هوت"
+        settings: 
+          github_repositories_component_settings: "ضبط محتويات الـ قيت هوب"
           
           
 
-        embed: "
+        embed: 
           this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن تظهر على موقع الويب الخاص بك."
 
         form: 
@@ -25,4 +25,3 @@ ar:
           show_the_most_recent: "اظهار الاحدث"
           click_behaviour: "انقر للسلوك"
           select_what_happens_when_a_user_clicks: "حدد ما يحدث عندما ينقر المستخدم على المستودع"
-
