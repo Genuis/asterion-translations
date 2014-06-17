@@ -16,7 +16,7 @@ ar:
         embed: 
           you_have_no_reddits_to_display_please: "لا يوجد ريديت لعرضه. يرجى التأكد أن هذا العنصر مكون عندك بشكل صحيح"
 
-        form: "
+        form: 
           
           subreddits: "فروع ريديت"
           subreddit: "ريديت فرعي"
