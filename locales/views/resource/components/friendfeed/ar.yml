@@ -6,8 +6,8 @@ ar:
         create: 
           add_friendfeed_component: "اضافة مكون تغذية الصديق"
           
-          enables_you_to_discover_and_discuss: 
-            text: "الرساله" "الرسالة" "يمكنك من اكتشاف ومناقشة الاشياء المثيرة للاهتمام مع اصدقائك عبر شبكة الانترنت"
+          enables_you_to_discover_and_discuss:
+            text:  "يمكنك من اكتشاف ومناقشة الاشياء المثيرة للاهتمام مع اصدقائك عبر شبكة الانترنت"
             friendfeed: "تغذية صديق"
      
         settings: 
@@ -29,4 +29,3 @@ ar:
           number_to_display: "رقم العرض"
           
         services: {}
-
