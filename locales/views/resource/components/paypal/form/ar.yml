@@ -3,7 +3,7 @@ ar:
   resource: 
     components: 
       paypal: 
-        form: "
+        form: 
           buynow: 
             product_settings: "اعدادات المنتج"
             item_name: "اسم البند"
