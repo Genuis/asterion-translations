@@ -31,12 +31,12 @@ ar:
           
           back: "back"
 
-        settings: "الضبط"
+        settings:
           feed_component_settings: "تغذية مكون الضبط"
           
           
 
-        select_feeds: "اختيار التغذية"
+        select_feeds:
           new_feed_component: "عنصر تغذية جديد"
           new_feed_location: "موقع تغذية جديد"
           current_feeds: "التغذية الحالية"
