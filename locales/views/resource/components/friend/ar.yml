@@ -15,7 +15,7 @@ ar:
      
         embed: 
           manage_friends: "ادارة الاصدقاء"
-          this_is_a_friend_component_you_do: "هذا مكون الاصدقاء الذي قمت به"
+          this_is_a_friend_component_you_do: |
             text: "النص" "ليس لديك اي اصدقاء لعرضهم، لن يظهر شيئاً على موقع الويب الخاص بك حتى تقوم باضافة الاصدقاء، يمكنك اداره اصدقائك أو ازالة المكون"
             mange_your_friends: " ادارة الاصدقاء"
             remove_the_component: "ازالة المكون"
@@ -30,4 +30,3 @@ ar:
           by_nickname_za: "ترتيب حسب اللقب ي - أ"
           buddy_icons: "ايقونة الاصدقاء"
           display_buddy_icons: "اظهار ايقونة الاصدقاء"
-
