@@ -5,44 +5,37 @@ ar:
       blog: 
         create: 
           add_blog_post_component: "اضافة محتوى لملصق البلوق"
-
-        settings: 
-          blog_post_component_settings: "ضبط اضافة مكون بلوق الملصق"
-
         embed: 
-          new_post: "ملصق جديد"
-          
-          
-          this_is_a_blog_component: "هذا البلوق مكون" 
-            text: |
-             ليس لديك حالياً اي ردود لتجاهلها، لن يظهر شيء على موقع الويب الخاص بك حتى يتم اضافة المشاركات، يمكنك ارسال مشاركتك الأولى، عن طريق {مشاركات الاستيراد من خدمة اخرىْ} او حذف العنصر
-             
-             
-            write_your_first_post: "اكتب ملصقك الأول"
-            import_posts_from_another_service: "استيراد المشاركات من موقع آخر"
-
+          are_you_sure_you_want_to_delete: "هل انت متاكد بانك تريد الحذف؟"
           delete_blog_post: "حذف ملصق البلوق؟"
           delete_post: "حذف الملصق؟"
-          are_you_sure_you_want_to_delete: "هل انت متاكد بانك تريد الحذف؟"
+          new_post: "ملصق جديد"
           subscribe_to_this_blog: "الاشتراك في هذا البلوق"
+          this_is_a_blog_component: 
+            import_posts_from_another_service: "استيراد المشاركات من موقع آخر"
+            text: |
+                ليس لديك حالياً اي ردود لتجاهلها، لن يظهر شيء على موقع الويب الخاص بك حتى يتم اضافة المشاركات، يمكنك ارسال مشاركتك الأولى، عن طريق {مشاركات الاستيراد من خدمة اخرىْ} او حذف العنصر
+                لن يكون هذا ظاهراُ على الموقع الالكتروني حتى تقوم باضافته
+                يمكنك كتابة تعليقك الاول او يمكنك ايضا حذف التعليقات
+            write_your_first_post: "اكتب ملصقك الأول"
           view_older_posts_raquo: "اظهار مشاركات اقدم"
         form: 
-          to_manage_blog_posts_categories_rss_custom: "لاداره التدونيات،التصنيفات،التسميات المخصصة، وكذلك اعدادات المدونة واستيراد المشاركات، اذهب الى شريط الادوات ومن ثم الى ادارة الموقع"
           blog: "بلوق"
-          
-          format: "المحول"
-          title_only: "العنوان فقط"
-          summarized_post: "ملخص المشاركات"
-          the_entire_post: "الملصق الكامل"
-          summary_length: "مدى الملخص"
+          categories: "الفئات"
+          display_link_for_older_posts: "عرض رابط ملصقات اقدم"
           enable_feed_autodiscovery_so_people_can_subscribe: "تمكين تغذيه الاكتشاف التلقائي، حتى يتمكن الناس من الاشتراك في البلوق الخاص بك"
           enable_xml_subscribe_link_on_posts: "تمكين الاشتراك بصلة المشاركات على XML"
-          post_selection: "اختيار اخر"
+          format: "المحول"
           number_of_posts: "رقم الملصق"
-          start_at_post: "البدء بالملصق #"
-          display_link_for_older_posts: "عرض رابط ملصقات اقدم"
-          show_posts_from_specific_categories: "عرض المشاركات من فئات محددة"
+          post_selection: "اختيار اخر"
           select_how_many_blog_posts_are_displayed: "تحديد كيفية وظائف البلوق التي يتم عرضها على الصفحة الخاصة بك"
           set_an_offset_if_you_want_to: "تعيين الازاحة اذا كنت ترغب في بدء عرض المشاركات الاقدم"
-          categories: "الفئات"
-          
+          show_posts_from_specific_categories: "عرض المشاركات من فئات محددة"
+          start_at_post: "البدء بالملصق #"
+          summarized_post: "ملخص المشاركات"
+          summary_length: "مدى الملخص"
+          the_entire_post: "الملصق الكامل"
+          title_only: "العنوان فقط"
+          to_manage_blog_posts_categories_rss_custom: "لاداره التدونيات،التصنيفات،التسميات المخصصة، وكذلك اعدادات المدونة واستيراد المشاركات، اذهب الى شريط الادوات ومن ثم الى ادارة الموقع"
+        settings: 
+          blog_post_component_settings: "ضبط اضافة مكون بلوق الملصق"
