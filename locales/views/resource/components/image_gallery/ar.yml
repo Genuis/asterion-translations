@@ -3,7 +3,7 @@ ar:
   resource: 
     components: 
       image_gallery: 
-        collection: "
+        collection: 
           new_image_gallery_component: "مكون صورة الاستوديو جديد"
           next_step: "الخطوة التالية"
           
