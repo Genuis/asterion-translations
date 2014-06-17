@@ -1,18 +1,18 @@
 --- 
-ar: 
+en: 
   resource: 
     components: 
       google_map: 
         feed: 
-          kml_or_georss_feed: 
+          kml_or_georss_feed: "KML or GeoRSS Feed"
 
         create: 
-          add_google_map_component: "اضافة مكون خريطة جوجل" 
+          add_google_map_component: "اضافة مكون خريطة قوقل" 
           next: "التالي"
           
 
-        settings:
-          google_map_component_settings: "ضبط مكون خريطة جوجل""
+        settings: 
+          google_map_component_settings: "ضبط مكون خريطة قوقل"
 
         set_location: 
           google_map_component_position: "وظيفة مكون خريطة جوجل"
@@ -39,4 +39,3 @@ ar:
 
         show_admin_map: 
           loading: "جاري..."
-
