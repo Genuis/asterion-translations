@@ -3,35 +3,35 @@ ar:
   resource: 
     help: 
       search: 
-        help__search_results: "Help - Search Results"
-        search_results_for: "Search results for:"
+        help__search_results: "نتائج البحث - مساعدة"
+        search_results_for: "نتائج البحث عن:"
         
 
       category: 
-        help__category: "Help - Category"
-        category: "Category:"
+        help__category: "مساعدة - الفئة"
+        category: "فئة:"
         
 
       lookup: 
-        help_: "Help -"
-        categories: "Categories:"
+        help_: "مساعدة -"
+        categories: "الفئات:"
         
 
       search_form:
-        search: "Search"
+        search: "البحث"
 
       index: 
-        help__support: "Help & Support"
-        here_are_some_resources: "Here are some resources to help you build your website."
-        stuck_found_a_bug: "Stuck, found a bug, want to request a feature, or just interested in becoming part of the community? Post in the "
-        message_forums: "Message Forums"
-        if_you_are_looking_for_some_documentation: "If you are looking for some documentation, tips and tricks, or info on creating your own theme, look no further than our "
-        documentation_wiki: "Documentation Wiki"
+        help__support: "المساعدة والدعم"
+        here_are_some_resources: "هنا بعض الموارد لمساعدتك في بناء موقع الويب الخاص بك"
+        stuck_found_a_bug: "تريد ان تطلب الميزة؟ او اهتمام فقط او ان تصبح من المجتمع؟ اضف في "
+        message_forums: "رسالة المنتديات"
+        if_you_are_looking_for_some_documentation: "اذا كنت تبحث عن بعض الوثائق، والنصائح او المعلومات لإنشاء موضوع خاص بك، نحن نحقق لك ذلك"
+        documentation_wiki: "وثائق ويكي"
         
 
       missing: 
-        help__content_not_found: "Help - Content not found"
-        sorry_we_dont_have_content_for_this_yet: "Sorry, we don't have content for this yet!"
-        the_resources_below_may_be_able_to_assist_you: "The resources below may be able to assist you."
-        done: "done"
+        help__content_not_found: "مساعدة - لم يتم العثور على المحتوى"
+        sorry_we_dont_have_content_for_this_yet: "نعتذر ! ليس لدينا موضوع لهذا المحتوى حتى الان"
+        the_resources_below_may_be_able_to_assist_you: "الموارد ادناه قد تكون قادرا على مساعدتك."
+        done: "تم"
 
