@@ -10,11 +10,11 @@ ar:
         _heading: {}
 
         check_box: 
-          unchecked: "Unchecked"
-          checked: "Checked"
+          unchecked: "غير مفحوص"
+          checked: "تم فحصه"
 
         submit: 
-          spam_check: "Spam check"
+          spam_check: "فحص البريد المزعج"
 
         _radio: {}
 
