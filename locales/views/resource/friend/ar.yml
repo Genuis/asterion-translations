@@ -3,55 +3,55 @@ ar:
   resource: 
     friend: 
       contact: 
-        display_name: "Display name"
-        url: "URL"
-        full_name: "Full name"
-        email: "Email"
-        profile_image: "Profile Image"
-        city: "City"
-        country: "Country"
+        display_name: "عرض الاسم"
+        url: "يو ار ال"
+        full_name: "الاسم الكامل"
+        email: "البريد الالكتروني"
+        profile_image: "الصورة الشخصية"
+        city: "المدينة"
+        country: "الدولة"
 
       edit: 
-        edit_friend: "Edit Friend"
+        edit_friend: "تحرير صديق"
         
         
 
       confirm_details: 
-        confirm_friend_details: "Confirm Friend details"
-        create: "Create"
-        back: "Back"
+        confirm_friend_details: "تاكيد تفاصيل الصديق"
+        create: "انشاء"
+        back: "الرجوع"
 
       manage: 
-        manage_friends: "Manage Friends"
-        friends: "Friends"
-        my_profile: "My Profile"
-        add_friends_from_a_variety: "Add friends from a variety of social websites. If you'd like to display your friends on your website, you can add a Friend Component."
-        my_friends: "My Friends"
-        you_currently_have_no_friends_added: "You currently have no friends added."
-        name: "Name"
-        relationship: "Relationship"
+        manage_friends: "ادارة الاصدقاء"
+        friends: "الاصدقاء"
+        my_profile: "ملفي الشخصي"
+        add_friends_from_a_variety: "اضافة الاصدقاء من مجموعة متنوعة من المواقع الاجتماعية، اذا كنت ترغب في عرض اصدقائك على موقع الويب الخاص بك يمكنك اضافة مكون صديق.."
+        my_friends: "اصدقائي"
+        you_currently_have_no_friends_added: "ليس لديك حاليا اي صديق مضاف."
+        name: "الاسم"
+        relationship: "علاقة"
         
         
-        are_you_sure_you_want_to_delete_this_friend: "Are you sure you want to delete this friend?"
-        delete_friend: "Delete Friend"
-        add_a_new_friend: "Add a New Friend"
+        are_you_sure_you_want_to_delete_this_friend: "هل انت متاكد بانك تريد حذف هذا الصديق؟"
+        delete_friend: "حذف صديق"
+        add_a_new_friend: "اضافة صديق جديد"
 
       relationship: {}
 
       create: 
-        discover_friend: "Discover Friend"
-        network: "Network"
-        friend_details: "Friend Details"
-        click_on_the_network_confirm_their_details: "Click on the network that your friend is located on and type in the requested information. Once you click Search, we'll find as much information as we can about your friend and get you to confirm their details."
-        other: "Other"
-        url: "URL"
-        no_results_found: "No results found."
+        discover_friend: "استكشاف صديق"
+        network: "شبكة"
+        friend_details: "تفاصيل صديق"
+        click_on_the_network_confirm_their_details: "انر على الشبكة التي يقع على صديقك واكتب المعلومات المطلوبة، بمجرد النقر فوق بحث، سوف تجد اكبر قدر من المعلومات عن صديقك وتحصل على تاكيد بياناتهم."
+        other: "اخر"
+        url: "يو ار ال "
+        no_results_found: "لا توجد نتائج"
         
-        search: "Search"
-        username: "Username"
+        search: "بحث"
+        username: "اسم المستخدم"
         
       form: 
-        friend_info: "Friend Info"
-        relationship: "Relationship"
+        friend_info: "معلومات صديق"
+        relationship: "علاقة"
         
 
