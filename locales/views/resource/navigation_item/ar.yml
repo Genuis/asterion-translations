@@ -3,25 +3,25 @@ ar:
   resource: 
     navigation_item: 
       asset_form: 
-        asset: "Asset"
-        you_can_link_to_files: "You can link to files (word, excel, pdf, etc.) that you have uploaded into your file manager."
-        selected_file_: "Selected file: "
-        open_link_in_a_new_browser_window: "Open link in a new browser window"
-        browse_your_uploaded_files: "Browse Your Uploaded Files"
+        asset: "الاصول"
+        you_can_link_to_files: "يمكنك ربط ملفات (وورد،اكسل،إلخ..) التي قمت بتحميلها في مدير الملفات الخاصة بك."
+        selected_file_: "اختيار الملف "
+        open_link_in_a_new_browser_window: "فتح الرابط في نافذة جديدة"
+        browse_your_uploaded_files: "تصفح ملفاتك المحملة"
 
       page_form: 
-        select_a_page: "Select a Page"
+        select_a_page: "اختيار صفحة"
 
       external_form: 
-        website_url: "Website URL"
-        open_link_in_a_new_browser_window: "Open link in a new browser window"
+        website_url: "موقع يو ار ال "
+        open_link_in_a_new_browser_window: "فتح الرابط في نافذة جديدة"
 
       group_form: 
-        submenu_link: "Submenu Link"
-        dont_link__only_display_an_unclickable_label: "Don't Link - Only Display an Un-Clickable Label"
+        submenu_link: "رابط القائمة الفرعية"
+        dont_link__only_display_an_unclickable_label: "لا رابط، فقط عرض تسميةالعرض"
 
       form: {}
 
       email_form: 
-        email_address: "Email Address"
+        email_address: "عنوان البريد الالكتروني"
 
