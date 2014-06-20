@@ -8,24 +8,24 @@ ar:
         text_area: {}
 
         heading: 
-          the_h3_heading: "The <H3> heading allows you to define sections of your form. The heading will be displayed on the form and in the email recieved."
-          heading: "Heading"
+          the_h3_heading: "عنوان <اتش 3> يسمح لك تحديد اقسام النموذج الخاص بك، سيتم عرض عنوان على شكل مستلم في البريد الالكتروني"
+          heading: "عنوان"
 
         check_box: {}
 
         submit: 
-          button_type: "Button type"
-          image_selection: "Image selection"
-          _or_: " or "
-          upload_a_file: "Upload a file"
+          button_type: "نوع الايقونة"
+          image_selection: "اختيار الصورة"
+          _or_: " او "
+          upload_a_file: "تحميل ملف"
 
         radio: 
-          radio_options: "Radio Options"
+          radio_options: "خيارات الراديو"
 
         select_box: 
-          dropdown_items: "Dropdown Items"
+          dropdown_items: "عناصر القائمة"
 
         paragraph: 
-          the_paragraph_allows: "The paragraph allows you to display a message to the user, the paragraph will appear in the form and in the email received."
-          paragraph: "Paragraph"
+          the_paragraph_allows: "الفقرة يسمح لك عرض رسالة للمستخدم، وسوف تظهر الفقرة في البريد الالكتروني"
+          paragraph: "فقرة"
 
