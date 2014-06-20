@@ -3,44 +3,44 @@ ar:
   resource: 
     youtube: 
       search: 
-        youtube_video_browser: "Youtube Video Browser"
+        youtube_video_browser: "محرك بحث يوتيوب"
         
-        start_typing_to_search: "Start Typing to Search"
+        start_typing_to_search: "بدء الكتابة للبحث"
 
       _video_embed: {}
 
       _videos: 
-        there_was_a_problem_connecting_to_the: "There was a problem connecting to the Youtube servers, please try again later."
-        there_was_nothing_found_matching_your_filter: "There was nothing found matching your filter."
+        there_was_a_problem_connecting_to_the: "كان هناك مشكلة في الاتصال الى ملقمات يوتيوب، يرجى المحاولة مرة اخرى في وقت لاحق."
+        there_was_nothing_found_matching_your_filter: "لم يجد هناك شيء مطابق للفلتر"
 
       _categories: {}
 
       preview: 
-        youtube_video_preview: "Youtube Video Preview"
-        description: "Description"
+        youtube_video_preview: "معاينة فيديو اليوتيوب"
+        description: "وصف"
         author: "Author: "
-        published: "Published: "
-        views: "Views: "
-        duration: "Duration: "
-        rating: "Rating: "
-        not_rated_yet: "Not rated yet"
-        keywords: "Keywords: "
-        categories: "Categories: "
-        back: "Back"
+        published: "نشرت: "
+        views: "معاينة: "
+        duration: "مدة: "
+        rating: "تصنيف: "
+        not_rated_yet: "لم يتم التصويت عليها بعد"
+        keywords: "الكلمات الرئيسية: "
+        categories: "الفئات: "
+        back: "العودة"
 
       unavailable: 
-        youtube_error: "Youtube Error"
-        uh_oh_it_looks_like_there_was: "Uh oh! It looks like there was a problem when attempting to get this video from Youtube."
-        this_video_may_be_temporarly_unavailable_or: "This video may be temporarly unavailable, or is in the process of being removed from their system."
-        you_can_continue_where_you_were_browsing: "You can continue where you were browsing by clicking the back button below!"
+        youtube_error: "خطأ في اليوتيوب"
+        uh_oh_it_looks_like_there_was: "اوه !! يبدو ان هناك مشكلة عند محاولة الحصول على هذا الفيديو من يوتيوب"
+        this_video_may_be_temporarly_unavailable_or: "قد يكون هذا الفيدو غير متاح مؤقتاُ، او هو في طور ازالتها من النظام الخاص بهم"
+        you_can_continue_where_you_were_browsing: "يمكنك الاستمرار حيث كنت تتصفح من خلال النقر على الزر ادناه"
 
       browse: 
-        youtube_video_browser: "Youtube Video Browser"
-        search: "Search"
-        featured: "Featured"
-        top_rated: "Top Rated"
-        most_popular: "Most Popular"
-        most_viewed: "Most Viewed"
+        youtube_video_browser: "محرك بحث اليوتيوب"
+        search: "البحث"
+        featured: "متميز"
+        top_rated: "الاعلى تقييما"
+        most_popular: "الاكثر شعبية"
+        most_viewed: "الاكثر مشاهدة"
         
 
       _video: {}
