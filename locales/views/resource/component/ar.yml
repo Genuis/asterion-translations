@@ -3,22 +3,22 @@ ar:
   resource: 
     component: 
       component: 
-        drag_me: "Drag Me"
+        drag_me: "سحب البيانات"
 
       components: 
-        there_was_nothing_found_matching_your_filter: "There was nothing found matching your filter."
-        select_a_category_then_drag_items_to_your_page: "Select a category then drag items to your page."
+        there_was_nothing_found_matching_your_filter: "لم يتم ايجاد اي شيء مطابق لـ فلترك"
+        select_a_category_then_drag_items_to_your_page: "حدد الفئة ثم اسحب العناصر لصفحتك"
 
       remove: 
-        are_you_sure: "Are you sure?"
-        deleting_a_block_will_remove_it_from_the_page: "Deleting a block will remove it from the page."
-        are_you_sure_you_want_to_remove_this_block: "Are you sure you want to remove this block?"
+        are_you_sure: "هل انت متاكد؟"
+        deleting_a_block_will_remove_it_from_the_page: "حذف الكتلة يؤدي ازالته من الصفحة."
+        are_you_sure_you_want_to_remove_this_block: "هل انت متاكد بانك تريد ازالة هذه الكتلة"
 
       select: 
-        content_categories: "Content Categories"
-        close: "Close"
+        content_categories: "فئات المحتوى"
+        close: "اغلاق"
 
       copy: 
-        copy_to_page: "Copy to Page:"
-        current_page: "(current page)"
+        copy_to_page: "نسخ الى الصفحة"
+        current_page: "(الصفحة الحالية)"
 
