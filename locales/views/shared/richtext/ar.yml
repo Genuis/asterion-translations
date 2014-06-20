@@ -3,14 +3,14 @@ ar:
   shared: 
     richtext: 
       editor: 
-        visual_editor: "Visual Editor"
-        edit_html: "Edit HTML"
-        editor_resized: "Editor resized"
-        to_width_of: "to width of"
-        content_area: "content area"
+        visual_editor: "التحرير المرئي"
+        edit_html: "تحرير اتش تي ام ال "
+        editor_resized: "تحرير تغيير الحجم"
+        to_width_of: "لـ عرض "
+        content_area: "منطقة المحتوى"
 
       tiny_templates: 
-        content_templates: "Content Templates"
+        content_templates: "قوالب المحتوى"
 
       form: 
         
