@@ -10,11 +10,11 @@ ar:
     modal: {}
 
     assets:
-      your_uploaded_files: 'Your Uploaded Files'
-      stock_photo_library: "Stock Photo Library"
-      manage_folders: 'Manage Folders'
-      upload_new_files: "Upload New Files"
-      help: 'Help'
+      your_uploaded_files: 'تحميل الملفات الخاصة بك'
+      stock_photo_library: "مخزن مكتبة الصور"
+      manage_folders: 'إدارة المجلدات'
+      upload_new_files: "تحميل ملفات جددية"
+      help: 'مساعدة'
     editor: {}
 
     setup: {}
@@ -22,5 +22,5 @@ ar:
     basic: {}
 
     dialog:
-      help: 'Help'
+      help: 'مساعدة'
 
