@@ -3,12 +3,12 @@ ar:
   shared: 
     blog: 
       _post: 
-        this_post_is_not_published: "This post is not published"
+        this_post_is_not_published: "لم يتم نشر هذا الملصق"
         to_view_the_contents_of_this: 
-          text: "%{login_in} to view the contents of this password-protected post"
-          log_in: "Log in"
+          text: "قم بتسجيل الدخول لعرض محتويات، لانها محمية بكلمة مرور"
+          log_in: "تسجيل الدخول"
           
-        publish: "Publish"
-        blog_post: "Blog post"
-        this_will_be_published_on: "This will be published on"
+        publish: "نشر"
+        blog_post: "ملصق بلوق"
+        this_will_be_published_on: "سيتم نشر هذا على"
 
