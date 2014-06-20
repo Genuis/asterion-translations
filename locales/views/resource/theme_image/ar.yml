@@ -3,25 +3,25 @@ ar:
   resource: 
     theme_image: 
       manage: 
-        header_image_management: "Header Image Management"
-        sitewide: "Site-Wide"
-        change_the_header_image_that_will_be: "Change the header image that will be shown on all pages."
-        override_the_sitewide_header_image_for_this: "Override the Site-Wide header image for this page."
-        page_name: "`%{page_name}` Page"
-        sitewide_header_images_will_not_be_shown: "Site-Wide header images will not be shown."
-        this_page_will_not_show_a_header: "This page will not show a header image."
-        change_image: "Change Image"
-        use_default_theme_image: "Use Default Theme Image"
-        yes: "yes"
-        do_not_use_a_sitewide_header_image: "Do not use a Site-Wide Header Image"
-        change_image: "Change Image"
-        use_sitewide_image: "Use Site-Wide Image"
-        do_not_use_a_header: "Do not use a Header Image on '%{page_name}'"
+        header_image_management: "ادارة  راس الصورة"
+        sitewide: "الموقع على نطاق - واسع"
+        change_the_header_image_that_will_be: "تغيير صورة الراس الذي سيظهر على جميع الصفحات."
+        override_the_sitewide_header_image_for_this: "تجاوز صورة راس الموقع على نطاق واسع لهذه الصفحة."
+        page_name: "الصفحة \ اسم الصفحة"
+        sitewide_header_images_will_not_be_shown: "لن تظهر راس الصور على موقع اوسع"
+        this_page_will_not_show_a_header: "لن تظهر هذه الصفحة على الراس."
+        change_image: "تغيير الصورة"
+        use_default_theme_image: "استخدام افتراضي لـ ثيم الصورة"
+        yes: "نعم"
+        do_not_use_a_sitewide_header_image: "لا تستخدم الموقع على نطاق اوسع راس الصورة"
+        change_image: "تغيير الصورة"
+        use_sitewide_image: "استخدام الموقع على نطاق واسع"
+        do_not_use_a_header: "لا تستخدم راس الصورة على اسم الصفحة'"
         
         
         
       select: 
-        select_header_image: "Select Header Image"
+        select_header_image: "حدد راس الصورة"
         
-        insert_image: "Insert Image"
+        insert_image: "ادراج الصورة"
 
