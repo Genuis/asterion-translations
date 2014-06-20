@@ -4,18 +4,18 @@ ar:
     oauth: 
       denied: 
         twitter: 
-          request_denied: "Request Denied"
-          the_request_to_authorize: "The request to authorize your account has been denied."
-          in_order_for_us: "In order for us to be able to access your Twitter information, we'll need to redirect you to the Twitter website so that you can authorize us."
-          click_the_next_button: "Click the next button to continue and authorize your account, or click back to go back to the Linked Accounts dialog."
-          next: "Next"
-          back: "Back"
+          request_denied: "طلبك مرفوض"
+          the_request_to_authorize: "تم رفض طلب الاذن لحسـابك."
+          in_order_for_us: "حتى يتسنى لنا ان نكون قادرين على الوصول الى المعلومات الخاصة بك في تويتر، نحتاج الى الإذن منك في موقع تويتر للوصول الى معلوماتك."
+          click_the_next_button: "انقر على زر التالي للمواصلة والإذن لحسابك، او انقر مرة اخرى للعودة الى مربع الحسابات المرتبطة."
+          next: "التالي"
+          back: "العودة"
 
         facebook: 
-          request_denied: "Request Denied"
-          the_request_to_authorize: "The request to authorize your account has been denied."
-          in_order_for_us: "In order for us to be able to access your Facebook information, we'll need to redirect you to the Facebook website so that you can authorize us."
-          click_the_next_button: "Click the next button to continue and authorize your account, or click back to go back to the Linked Accounts dialog."
-          next: "Next"
-          back: "Back"
+          request_denied: "طلبك مرفوض"
+          the_request_to_authorize: "تم رفض طلب الاذن لـ حسـابك."
+          in_order_for_us: "حتى يتسنى لنا ان نكون قادرين على الوصول الى المعلومات الخاصة بك في الفيس بوك، نحتاج الى الاذن منك في موقع الفيس بوك للوصول الى معلوماتك."
+          click_the_next_button: "انقر على زر التالي للمواصلة والإذن لحسابك، او انقر مرة اخرى للعودة الى مربع الحسابات المرتبطة.""
+          next: "التالي"
+          back: "العودة"
 
