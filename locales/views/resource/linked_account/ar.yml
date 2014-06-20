@@ -3,41 +3,40 @@ ar:
   resource: 
     linked_account: 
       twitter: 
-        link_your_twitter_account: "Link your Twitter account"
-        account_linking_instructions: "Account Linking Instructions"
-        in_order_for_us_to_be_able_to_access_your_facebook: "In order for us to be able to access your Facebook information, we'll need to redirect you to the Facebook website so that you can authorize us."
-        allowing_us_offline_access: "Allowing us offline access will let us pull your profile information, photos, and allow you to post to your wall from your website."
-        connect_with_twitter: "Connect With Twitter"
-        next_step: "Next Step"
+        link_your_twitter_account: "ربط حساب التويتر"
+        account_linking_instructions: "ربط حساب التعليم"
+        in_order_for_us_to_be_able_to_access_your_facebook: "حتى يتسنى لنا الوصول الى المعلوماتك الخاصة بك على الفيسبوك، سوف نحتاج الى ان تقوم بالسماح لنا من الموقع"
+        allowing_us_offline_access: "يتيح لنا الوصول وسحب المعلومات من ملفك الشخصي والصور وتسمح لك الوظيفة على الحائط الخاص بك من موقع الويب الخاص بك."
+        connect_with_twitter: "الاتصال بـ حسابك في التويتر"
+        next_step: "الخطوة التالية"
         
         
       facebook_app: 
-        add_your_website_to_facebook: "Add your website to Facebook"
-        add_your_website_to_facebook_in_4_easy_steps: "Add your website to Facebook in 4 easy steps."
-        account_details: "Account Details"
-        app_id: "App ID"
-        app_secret: "App Secret"
+        add_your_website_to_facebook: "اضافة موقع الويب الخاص بك الى الفيس بوك"
+        add_your_website_to_facebook_in_4_easy_steps: "اضافة موقع الويب الخاص بك الى الفيس بوك بـ 4 خطوات سهلة"
+        account_details: "معلومات الحساب"
+        app_id: "تطبيق التعريف"
+        app_secret: "تطبيق السرية"
         
         
-        step_1: "Step 1"
-        navigate_to_: "Navigate to %{facebook}  (Requires login)"
-        step_2: "Step 2"
-        click_the_create_new_app_button: "Click the 'Create New App' button, create your app name and namespace."
-        step_3: "Step 3"
+        step_1: "الخطوة الاولى"
+        navigate_to_: "انتقل الى الفيسبوك {يتطلب تسجيل الدخول}"
+        step_2: "الخطوة الثانية"
+        click_the_create_new_app_button: "انقر على زر "انشاء تطبيق جديد" إنشاء اسم التطبيق الخاص بك ومساحة الإسم"
+        step_3: "الخطوة الثالثة"
         add_your_website_domain_: | 
-          Add your website domain %{hostname}
-           to 'App Domains' and to 'Website with Facebook Login' prepend 'http://' and click the 'Save Changes' button.
-        step_4: "Step 4"
-        get_the_app_id_and_secret: "Get the app ID and secret at the top of the screen, return here and enter them into the form on the left."
+         اضافة موقع الدومين، اسم المضيف، لـ تطبيق المجالات وإلى موقع الفيس بوك تسجيل الدخول مع برابيند الإلكتروني وإنقر على زر حفظ التغييرات
+        step_4: "الخطوة الرابعة"
+        get_the_app_id_and_secret: "الحصول على معرف التطبيق وسرية في الجزء العلوي من الشاشة والعودة هنا وادخالها في النموذج على اليسار"
 
       manage: 
-        linked_accounts: "Linked Accounts"
-        link_to_your_accounts: "Link to Your Accounts"
-        add_your_accounts: "Add your accounts from other websites here so you can use their services on your site."
-        available_services: "Available Services"
-        website: "Website"
-        description: "Description"
-        add_account: "Add Account"
+        linked_accounts: "حسابات مرتبطة"
+        link_to_your_accounts: "الرابط الى الحسابات الخاصة بك"
+        add_your_accounts: "اضافة حساباتك من مواقع اخرى هنا حتى تتمكن من استخدام خدماتها على موقع الويب الخاص بك"
+        available_services: "الخدمات المتوفرة"
+        website: "الموقع"
+        description: "وصف"
+        add_account: "اضافة حساب"
         
         are_you_sure: "Are you sure you want to remove this linked account?"
         delete_linked_account: "Delete Linked Account"
