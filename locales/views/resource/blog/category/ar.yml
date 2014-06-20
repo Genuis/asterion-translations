@@ -4,42 +4,42 @@ ar:
     blog: 
       category: 
         reassign_and_delete: 
-          reassign_posts: "Reassign posts"
-          select_category: "Select category"
-          the_category_that_youre_attempting_to_remove: "The category that you're attempting to remove has posts associated with it. In order to remove the category, please select a new category to assign the posts to."
-          assign_posts_to: "Assign posts to:"
-          this_will_move_blog_posts_from: "This will move blog posts from"
+          reassign_posts: "اعادة تعيين المشاركات"
+          select_category: "حدد الفئة"
+          the_category_that_youre_attempting_to_remove: "الفئة التي كنت تحاول ازاله المشاركات المرتبطة به، من اجل ازالة هذه الفئة، الرجاء اختيار فئة جديدة لتعيين وظائفها."
+          assign_posts_to: "تعيين المشاركات لـ:"
+          this_will_move_blog_posts_from: "هذا سيزيل ملصقات البلوق من"
         manage: 
-          manage_categories: "Manage Categories"
-          blog_posts: "Blog Posts"
-          categories: "Categories"
-          rss: "RSS"
+          manage_categories: "ادارة الفئات"
+          blog_posts: "بلوق المشاركات"
+          categories: "الفئات"
+          rss: "ار اس اس "
           
-          labels: "Labels"
-          import_posts: "Import posts"
-          categories: "Categories"
-          view: "View"
-          locked: "Locked"
-          unlocked: "Unlocked"
-          rename: "Rename"
+          labels: "تسميات"
+          import_posts: "استيراد المشاركات"
+          categories: "الفئات"
+          view: "اظهار"
+          locked: "مقفل"
+          unlocked: "مقفلة"
+          rename: "اعادة تسمية"
           
-          delete_category: "Delete category"
-          create_a_new_category: "Create a New Category"
-          create_category: "Create Category"
-          category_name: "Category Name"
-          rename_category: "Rename Category"
+          delete_category: "حذف فئة"
+          create_a_new_category: "انشاء فئة جديدة"
+          create_category: "انشاء فئة"
+          category_name: "اسم الفئة"
+          rename_category: "اعادة تسمية الفئة"
           
           
           
-          separating_your_posts: "Separating your posts into categories allows you to display different posts on different sections of your website, or simply to allow visitors to browse your posts by topics of their interest."
-          are_you_sure_you_want_to_remove_this_category: "Are you sure you want to remove this category?"
-          really_delete_the: "Really delete the"
-          category: "category?"
-          delete_category: "Delete Category"
+          separating_your_posts: "فصل مشاركاتك في فئات يسمح لك عرض المشاركات على مختلف اقسام من موقع الويب الخاص بك، او ببساطة السماح للزوار لتصفح مشاركاتك حسب الموضوعات ذات الاهتمام بهم"
+          are_you_sure_you_want_to_remove_this_category: "هل انت متاكد بانك تريد ازالة هذه الفئة؟"
+          really_delete_the: "حذف حقا"
+          category: "الفئة?"
+          delete_category: "حذف الفئة"
           
         form: 
-          name: "Name"
+          name: "اسم"
           
         category: 
-          delete: "delete"
+          delete: "حذف"
 
