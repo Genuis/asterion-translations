@@ -3,40 +3,40 @@ ar:
   shared: 
     feeds: 
       no_feeds: 
-        you_currently_have_no_feeds_added: "You currently have no feeds added."
+        you_currently_have_no_feeds_added: "ليس لديك حاليا اي تغذية مضافة"
         
 
       feed: 
-        feed_has_no_title: "Feed has no title"
-        never: "Never"
-        refresh: "Refresh"
-        remove: "Remove"
+        feed_has_no_title: "التغذية لا يوجد لديها لقب"
+        never: "ابدا"
+        refresh: "تحديث"
+        remove: "ازالة"
 
       edit: 
-        edit_feeds: "Edit Feeds"
-        add_or_remove_as_many_feeds_as: "Add or remove as many feeds as you'd like the component to display below. Once you're done click the save button."
-        feed_selection: "Feed selection"
-        currently_added_feeds: "Currently added feeds"
-        save: "save"
-        cancel: "cancel"
+        edit_feeds: "تعديل التغذية"
+        add_or_remove_as_many_feeds_as: "اضافة از ازالة العديد من التغذية كما ترغب، بمجرد الانتهاء من ذلك انقز على زر الحفظ"
+        feed_selection: "اختيار التغذية"
+        currently_added_feeds: "تم اضافة التغذية بالفعل"
+        save: "حفظ"
+        cancel: "الغاء"
 
       feed_table: 
         
-        url: "URL"
-        last_updated: "Last updated"
+        url: "يو ار ال"
+        last_updated: "اخر تحديث"
 
       feed_form: 
-        add_feed: "Add Feed"
-        this_can_be_either_a_website_url: "This can be either a website URL or a feed URL."
-        example: "Example: "
+        add_feed: "اضافة تغذية"
+        this_can_be_either_a_website_url: "يمكن ان يكون هذا الموقع بعنوان{يو ار الْ} او تغذية يو ار ال."
+        example: "مثـال : "
 
       multiple_feeds_selection: 
-        multiple_feeds_discovered: "Multiple feeds discovered"
-        discovered_feeds: "Discovered Feeds"
-        multiple_feeds_have_been_discovered_on_the: "Multiple feeds have been discovered on the URL you entered, please select which feeds you'd like added to your component"
+        multiple_feeds_discovered: "اكتشف خلاصات متعددة "
+        discovered_feeds: "اكتشف التغذية"
+        multiple_feeds_have_been_discovered_on_the: "تم اكتشاف تغذية متعدد على عنوان يو ار ال الذي ادخلته، الرجاء اختيار التغذية التي ترغب باضافتها الى مكون الخاص بك"
         
-        url: "URL"
-        add: "Add"
+        url: "يو ار ال"
+        add: "اضافة"
         next: "Next"
         back: "Back"
 
