@@ -3,25 +3,25 @@ ar:
   resource: 
     navigation_menu: 
       create_item:
-        create_navigation_item: "Create Navigation Item"
-        label: "Label"
-        create: "Create"
+        create_navigation_item: "انشاء تفاصيل ملامحة"
+        label: "ملصق"
+        create: "انشاء"
       
       form: 
-        link_to_a_page_in_my_site: "Link to a page in my site"
-        link_to_a_file_on_my_site: "Link to a file on my site"
-        link_to_another_website: "Link to another website"
-        link_to_an_email: "Link to an email"
-        add_a_submenu: "Add a submenu"
-        drag: "Drag"
-        items_to_add_them_to_your_menu: "%{drag} items to add them to your menu."
+        link_to_a_page_in_my_site: "رابط الصفحة في موقعي"
+        link_to_a_file_on_my_site: "رابط الملف على موقعي"
+        link_to_another_website: "رابط المواقع الاخرى"
+        link_to_an_email: "رابط البريد الالكتروني"
+        add_a_submenu: "اضافة قائمة فرعية"
+        drag: "سحب"
+        items_to_add_them_to_your_menu: "سحب بنود لاضافتها الى القائمة الخاصة بك"
 
       edit_item: 
-        edit_navigation_item: "Edit Navigation Item"
-        label: "Label"
+        edit_navigation_item: "تحرير اغلاق الملاحة"
+        label: "ملصق"
 
       form_item: 
-        drag: "Drag"
+        drag: "سحب"
         
         
 
