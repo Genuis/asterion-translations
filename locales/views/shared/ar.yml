@@ -12,31 +12,31 @@ ar:
     linked_account: {}
 
     component_error: 
-      component_error: "Component error"
+      component_error: "مكون الخطا"
       an_error_occurred_while_rendering_this_component: |
-        An error occurred while rendering this component. 
-        This error has been logged and will be looked at shortly, and this component will remain hidden from your visitors until the issue has been resolved.
-      in_the_meantime_you_can_refresh_this: "In the meantime you can refresh this page clicking the red button below or click delete to remove the component and try again."
-      click_here_to_refresh_page: "Click Here to Refresh Page"
+       حدث خطا اثناء تقديم هذا المكون.
+       تم تسجيل هذا الخطا، وسيبقى هذا المكون مخفية عن زوار موقعك حتى يتم حل المشكلة
+      in_the_meantime_you_can_refresh_this: "في هذه الاثناء يمكنك تحديث هذه الصفحة بالضغط على الزر الاحمر في الاسفل او انقر فوق حذف لازالة عنصر وحاول مرة اخرى."
+      click_here_to_refresh_page: "انقر هنا لتحديث الصفحة"
       
 
     form: {}
 
     recaptcha: 
-      incorrect_please_try_again: "Incorrect, please try again"
-      enter_the_words_you_see: "Enter the words you see:"
-      enter_the_words_you_hear: "Enter the words you hear:"
-      get_an_audio_captcha: "Get an audio CAPTCHA"
-      get_a_text_captcha: "Get a text CAPTCHA"
+      incorrect_please_try_again: "غير صحيح، الرجاء المحاولة مرة اخرى"
+      enter_the_words_you_see: "ادخل الكلمات التي تراها :"
+      enter_the_words_you_hear: "ادخل الكلمات التي تراها هنا :"
+      get_an_audio_captcha: "الحصول على  تسجيل صوت"
+      get_a_text_captcha: "الحصول على  كلمات"
 
     upgrade_notice: 
-      upgrade_required: "Upgrade Required"
-      click_the_button_below_to_upgrade_your: "Click the button below to upgrade your account."
+      upgrade_required: "الترقية مطلوبة"
+      click_the_button_below_to_upgrade_your: "انقر فوق الزر ادناه لترقية حسابك."
       
-      action_cannot_be_completed: "Action Cannot Be Completed"
+      action_cannot_be_completed: "عذراُ، طلبك لا يمكن انجازه"
 
     asset: {}
 
     container_width: 
-      the_container_width_is: "The container width is %{span} pixels."
+      the_container_width_is: "عرض الحاوية، {تمتد بكسل}."
 
