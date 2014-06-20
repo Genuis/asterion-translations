@@ -3,45 +3,45 @@ ar:
   resource: 
     fieldset: 
       validation: 
-        email_user_must_enter_an_email_address: "<b>Email</b>  (user must enter an email address)"
-        telephone_number_allows_only: "<b>Telephone Number</b> (allows only phone number characters)"
-        number_user_may_only_enter_digits: "<b>Number</b> (user may only enter digits)"
-        none_default__no_validation: "<b>None</b> (default ‚Äì no validation)"
-        required: "Required"
+        email_user_must_enter_an_email_address: "يجب ادخال عنوان البريد الالكتروني"
+        telephone_number_allows_only: "يسمح احرف وارقام فقط"
+        number_user_may_only_enter_digits: "ادخال الارقام فقط"
+        none_default__no_validation: ""
+        required: "مطلوب"
 
       edit: 
-        form_design: "Form Design"
+        form_design: "تصميم نموذج"
 
       create_field: 
         dialog_heading:
-            text:  "Create %{field_type} Field"
-        field_details: "Field details"
-        label: "Label:"
-        create: "Create"
+            text:  "انشاء نوع الحقل الميداني"
+        field_details: "التفاصيل الميدانية"
+        label: "ملصق:"
+        create: "انشاء"
 
       create: 
-        form_design: "Form Design"
-        next_step: "Next Step"
+        form_design: "شكل التصميم"
+        next_step: "الخطوة التالية"
         
 
       form:
-        single_line_input: "Single Line Input"
-        paragraph_input: "Paragraph Input"
-        radio_select: "Radio Select"
-        check_box: "Check Box"
-        dropdown_select: "Dropdown Select"
-        title_text: "Title Text"
-        paragraph_text: "Paragraph Text"
-        drag: "Drag"
-        items_to_add_them_to_your_form: "%{drag} items to add them to your form."
-        resize: "Resize"
-        items_by_dragging_the_arrow_to_the_right_of_each_field: "%{resize} items by dragging the arrow to the right of each field."
+        single_line_input: "ادخل خط واحد"
+        paragraph_input: "ادخال الفقرة"
+        radio_select: "اختر الراديو"
+        check_box: "تحقق الصندوق"
+        dropdown_select: "اختر القائمة"
+        title_text: "عنوان النص"
+        paragraph_text: "نص الفقرة"
+        drag: "سحب"
+        items_to_add_them_to_your_form: "{السحب} بنود لاضافتها الى النموذج الخاص بك."
+        resize: "تغيير الحجم"
+        items_by_dragging_the_arrow_to_the_right_of_each_field: "تغيير حجم العناصر عن طريق سحب السهم الى اليمين من كل حقل."
 
       edit_field: 
         dialog_heading:
-            text:  "Edit %{field_type} Field"
-            field_details: "Field details"
-            label: "Label:"
+            text:  "تحرير نوع الحقل الميداني"
+            field_details: "التفاصيل الميدانية"
+            label: "ملصق:"
 
       forms: {}
 
