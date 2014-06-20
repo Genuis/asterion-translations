@@ -3,17 +3,17 @@ ar:
   resource: 
     persona: 
       manage: 
-        my_profile: "My Profile"
-        friends: "Friends"
-        my_profile: "My Profile"
-        personal_information: "Personal Information"
-        full_name: "Full Name"
-        nickname: "Nickname"
-        email: "Email"
-        birth_date: "Birth Date"
-        gender: "Gender"
-        postal_code: "Postal Code"
-        country: "Country"
+        my_profile: "ملفي الشخصي"
+        friends: "الاصدقاء"
+        my_profile: "ملفي الشخصي"
+        personal_information: "معلومات شخصية"
+        full_name: "الاسم الكامل"
+        nickname: "الاسم المستعار"
+        email: "البريد الالكتروني"
+        birth_date: "تاريخ الولادة"
+        gender: "جنس"
+        postal_code: "الرمز البريدي"
+        country: "البلد"
         
         
 
