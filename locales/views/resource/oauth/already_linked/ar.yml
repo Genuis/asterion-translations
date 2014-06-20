@@ -4,14 +4,14 @@ ar:
     oauth: 
       already_linked: 
         twitter: 
-          account_already_linked: "Account Already Linked"
-          the_account_you_tried_to_link: "The account you tried to link has already been linked with this account."
-          weve_detected_the_account: "We've detected the account has already been linked and has been updated to match the latest credentials. If you meant to link a different account, click the continue button to go to the Linked Accounts dialog."
-          you_may_need_to_log_out: "You may need to log out of Twitter to link a different account."
-          continue: "Continue"
+          account_already_linked: "حساب مرتبط بالفعل"
+          the_account_you_tried_to_link: "تم بالفعل محاولة ربط الحساب بالارتباط مع هذا الحساب."
+          weve_detected_the_account: "لقد اكتشفنا بالفعل ربط حساب وتم تحديث لتتناسب مع احدث وثائق التفويض، اذا كنت تهدف الى ربط حساب مختلف انقر فوق زر مواصلة الذهاب الى حوار حسابات مرتبطة."
+          you_may_need_to_log_out: "قد تحتاج الى تسجيل الدخول من تويتر لربط حساب مختلف."
+          continue: "استمرار"
         facebook: 
-          account_already_linked: "Account Already Linked"
-          the_account_you_tried_to_link: "The account you tried to link has already been linked with this account."
-          weve_detected_the_account: "We've detected the account has already been linked and has been updated to match the latest credentials. If you meant to link a different account, click the continue button to go to the Linked Accounts dialog."
-          you_may_need_to_log_out: "You may need to log out of Facebook to link a different account."
-          continue: "Continue"
+          account_already_linked: "حساب مرتبط بالفعل"
+          the_account_you_tried_to_link: ".تم بالفعل محاولة ربط الحساب بالارتباط مع هذا الحساب."
+          weve_detected_the_account: "لقد اكتشفنا بالفعل ربط حساب وتم تحديث لتتناسب مع احدث وثائق التفويض، اذا كنت تهدف الى ربط حساب مختلف انقر فوق زر مواصلة الذهاب الى حوار حسابات مرتبطة.""
+          you_may_need_to_log_out: "قد تحتاج الى تسجيل الخروج من الفيسبوك لربط حساب مختلف."
+          continue: "استمرار"
