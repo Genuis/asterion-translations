@@ -13,8 +13,8 @@ ar:
     move_asset_title: Move or Copy Files
     move_asset_button: Move
     copy_asset_button: Copy
-    move_asset_confirm_msg_single: "Move or Copy this file to: <b>{{folder_name}}</b>"
-    move_asset_confirm_msg_multiple: "Move or Copy these files to: <b>{{folder_name}}</b>"
+    move_asset_confirm_msg_single: "نقل او نسخ الملف إلى :{{اسم المجلد}}"
+    move_asset_confirm_msg_multiple: "نقل او نسخ هذه الملفات إلى: {{اسم المجلد}}"
 
     delete_asset_title: Delete Files
     delete_asset_button_single: Delete This File
@@ -23,7 +23,7 @@ ar:
     delete_asset_confirm_msg_multiple: Really permanently delete all of these files?
 
     remove_asset_title: Remove or Delete Files
-    remove_asset_button: "Remove From: {{folder_name}}"
+    remove_asset_button: "إزالة من {{اسم الملف}}"
     remove_asset_confirm_msg_single: What would you like to do with this file?
     remove_asset_confirm_msg_multiple: What would you like to do with these files?
 
