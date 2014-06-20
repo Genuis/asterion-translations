@@ -6,16 +6,16 @@ ar:
         posted: {}
 
         content: 
-          modify: "Modify"
-          remove: "Remove"
+          modify: "تغير"
+          remove: "ازالة"
 
         comment_component_toolbar: 
           
-          approve: "Approve"
-          delete_spam: "Delete spam"
-          approve: "Approve"
-          feature: "Feature"
-          unfeature: "Unfeature"
+          approve: "وافق"
+          delete_spam: "حذف الرسائل الغير مرغوب بها"
+          approve: "وافق"
+          feature: "ميزة"
+          unfeature: "لا ميزة"
           comment: 
             text: "Comment %{suspected_spam}"
             suspected_spam: "(suspected spam)"
@@ -24,47 +24,47 @@ ar:
          
 
         manage: 
-          visitor_messages_blog_comments_and_guestbook_posts: "Visitor Messages (Blog Comments and Guestbook Posts)"
-          messages: "Messages"
+          visitor_messages_blog_comments_and_guestbook_posts: "رسائل الزوار(مدونة التعليقات وسجل الزوار والمشاركات)"
+          messages: "رسالة"
           
-          comments: "Comments"
-          view_all_comments: "View All Comments"
-          all_comments: "All Comments"
-          approved: "Approved"
-          spam: "Spam"
+          comments: "تعليقات"
+          view_all_comments: "عرض جميع التعليقات"
+          all_comments: "جميع التعليقات"
+          approved: "وافق"
+          spam: "البريد المزعج"
           
-          comment: "Comment"
-          commented_on: "Commented on"
-          by: "By"
-          status: "Status"
-          date: "Date"
-          you_currently_have_no_messages_to_display: "You currently have no messages to display."
-          posted_by_you: "Posted by you"
-          this_comment_is_featured: "This comment is featured"
-          this_comment_is_not_featured: "This comment is not featured"
-          approved: "Approved"
-          unapproved: "Unapproved"
-          are_you_sure: "Are you sure?"
-          please_confirm_deletion_of_selected_items: "Please confirm deletion of selected items"
-          confirm_delete: "Confirm Delete"
-          please_confirm_removing_selected_items_as_spam: "Please confirm removing selected items as spam"
-          remove_spam: "Remove Spam"
+          comment: "تعليق"
+          commented_on: "تعليق على"
+          by: "من قبل"
+          status: "حالة"
+          date: "تاريخ"
+          you_currently_have_no_messages_to_display: "ليس لديك حاليا اي رسائل لعرضها."
+          posted_by_you: "نشرت من قبله"
+          this_comment_is_featured: "هذا التعليق مميز"
+          this_comment_is_not_featured: "هذا التعليق ليس مميزا"
+          approved: "وافق"
+          unapproved: "لا توافق"
+          are_you_sure: "هل انت متاكد؟"
+          please_confirm_deletion_of_selected_items: "الرجاء التاكد من حذف العناصر المحددة"
+          confirm_delete: "تاكيد الحذف"
+          please_confirm_removing_selected_items_as_spam: "الرجاء التاكد من حذف العناصر المحددة في البريد المزعج"
+          remove_spam: "ازالة البريد المزعج"
 
         show: 
-          name: "Name"
-          comment_name: "%{name} (Your Comment)"
-          posted: "Posted"
-          email: "Email"
-          url: "URL"
-          posted_in: "Posted In"
-          comment: "Comment"
-          approve_this_comment: "Approve This Comment"
-          delete_this_comment: "Delete This Comment"
+          name: "اسم"
+          comment_name: "الاسم و تعليقك"
+          posted: "نشرت"
+          email: "البريد الالكتروني"
+          url: "يو ار ال"
+          posted_in: "نشرت في"
+          comment: "تعليق"
+          approve_this_comment: "وافق على هذا التعليق"
+          delete_this_comment: "حذف هذا التعليق"
+          report_as_spam: "تحديد كـ بريد مزعج"
+          are_you_sure_you_want_to_report_this_comment_as_spam: "هل انت متاكد بانك تريد الابلاغ عنه كـ تعليق مزعج؟"
+          are_you_sure_you_want_to_delete_this_comment: "هل انت متاكد بانك تريد حذف هذا التعليق؟"
           report_as_spam: "Report As Spam"
-          are_you_sure_you_want_to_report_this_comment_as_spam: "Are you sure you want to report this comment as spam?"
-          are_you_sure_you_want_to_delete_this_comment: "Are you sure you want to delete this comment?"
-          report_as_spam: "Report As Spam"
-          delete_comment: "Delete Comment"
+          delete_comment: "حذف التعليق"
 
 
         modify: {}
@@ -76,9 +76,9 @@ ar:
         count: {}
 
         comment_toolbar: 
-          display: "Display:"
-          all: "All"
-          approved: "Approved"
-          unapproved: "Unapproved"
-          spam: "Spam"
+          display: "عرض:"
+          all: "الكل"
+          approved: "وافق"
+          unapproved: "لاتوافق"
+          spam: "البريد المزعج"
 
