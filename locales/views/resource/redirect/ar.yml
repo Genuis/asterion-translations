@@ -5,35 +5,35 @@ ar:
       delete: {}
 
       edit: 
-        edit_redirect: "Edit Redirect"
+        edit_redirect: "تحرير اعادة توجيه"
         
         
 
       manage: 
-        manage_pageurl_redirects: "Manage Page/URL Redirects"
-        website_pages: "Website Pages"
-        pageurl_redirects: "Page/URL Redirects"
-        current_redirects: "Current Redirects"
-        location: "Location"
-        redirects_to: "Redirects to"
-        type: "Type"
-        moved_temporarily: "Moved Temporarily"
-        moved_permanently: "Moved Permanently"
+        manage_pageurl_redirects: "ادارة الصفحة \ يو ار ال الموجهات"
+        website_pages: "صفحات المواقع"
+        pageurl_redirects: "الموجهات الصفحة \ يو ار ال"
+        current_redirects: "الموجهات الحالية"
+        location: "الموقع"
+        redirects_to: "الموجهات الى"
+        type: "نوع"
+        moved_temporarily: "انتقلت مؤقتاً"
+        moved_permanently: "انتقلت بشكل دائم"
         
-        delete_page: "Delete page"
-        about_url_redirects: "About URL Redirects"
+        delete_page: "حذف الصفحة"
+        about_url_redirects: "حول اعادة توجيه \ يو ار ال"
         redirects_allow_you_to_make_a_web: 
           text: |
-            Redirects allow you to make a web page available on more than one URL. For example if your old site had a page called %{page} it could redirect to your new page %{new_page}
-        redirects_let_search_engines_know_that_a: "Redirects let search engines know that a page has moved instead of seeing it as a dead link. This helps with search engine ranking and indexing your site."
-        create_a_redirect: "Create a Redirect"
-        create_redirect: "Create Redirect"
+            الموجهات تسمح لك لجعل صفحة الويب المتاحة في \ يو ار ال اكثر من واحد. على سبيل المثال اذا كان موقعك القديم صفحة تسمى {الصفحة} انه يمكن اعادة توجيه الى الصفحة الخاصة بك {الجديدة}
+        redirects_let_search_engines_know_that_a: "الموجهات تسمح لمحركات البحث الانتقال الى الصفحة بدلا من رؤيتها كحلقة وصل، ويساعد هذا مع محرك البحث التصنيف وفهرسة موقعك"
+        create_a_redirect: "انشاء اعادة توجيه"
+        create_redirect: "انشاء اعادة توجيه"
         
-        are_you_sure_you_want_to_remove: "Are you sure you want to remove this redirect?"
-        delete_redirect: "Delete Redirect"
+        are_you_sure_you_want_to_remove: "هل انت متاكد بانك تريد ازالة اعادة التوجيه؟"
+        delete_redirect: "حذف اعادة التوجيه"
         
       form: 
-        page_location: "Page Location"
-        redirect_to: "Redirect To"
-        redirect_type: "Redirect Type"
+        page_location: "صفحة الموقع"
+        redirect_to: "اعادة التوجيه لـ"
+        redirect_type: "نوع اعادة التوجيه"
 
