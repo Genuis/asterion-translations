@@ -3,11 +3,11 @@ ar:
   resource: 
     oauth: 
       error: 
-        an_error_occurred: "An Error Occurred"
+        an_error_occurred: "حدث خطأ"
         
       already_linked:
-        account_already_linked: "Account Already Linked"
+        account_already_linked: "حسابك مرتبط بالفعل"
 
       denied: 
-        authorization_request_denied: "Authorization Request Denied"
+        authorization_request_denied: "طلب الإذن مرفوض"
 
