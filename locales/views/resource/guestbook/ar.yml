@@ -3,15 +3,15 @@ ar:
   resource: 
     guestbook: 
       manage: 
-        manage_guestbooks: "Manage Guestbooks"
-        with_a_guestbook_added: "With a Guestbook added to your site users can leave a public comment with their name, email address and website."
-        current_guestbooks: "Current Guestbooks"
-        name: "Name"
-        messages: "Messages"
-        you_currently_have_no_guestbooks_to_display: "You currently have no Guestbooks to display."
-        pending: "pending"
+        manage_guestbooks: "ادارة سجل الزوار"
+        with_a_guestbook_added: "مع زوار الزوار تضاف الى المستخدمين موقعك يمكنك ترك تعليق عام مع اسمائهم، وعنوان البريد الالكتروني والموقع البريد الالكتروني."
+        current_guestbooks: "سجلات الزوار الحالي"
+        name: "الاسم"
+        messages: "الرسالة"
+        you_currently_have_no_guestbooks_to_display: "ليس لديك حاليا اي سجل زوار لعرضها"
+        pending: "ريثما"
         
-        are_you_sure_you_want_to_delete_this_guestbook: "Are you sure you want to delete this Guestbook?"
-        delete_guestbook: "Delete Guestbook"
+        are_you_sure_you_want_to_delete_this_guestbook: "هل انت متاكد بانك تريد حذف سجل الزوار؟"
+        delete_guestbook: "حذف سجل الزوار"
         
 
