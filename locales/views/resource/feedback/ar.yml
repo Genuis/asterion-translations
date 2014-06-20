@@ -3,7 +3,7 @@ ar:
   resource: 
     feedback: 
       submit: 
-        help__feedback: "Help & Feedback"
-        give_us_your_feedback: "Give us your feedback - suggestions, ideas, bug reports, questions - we want it all!"
-        feedback__suggestions: "Feedback & Suggestions"
+        help__feedback: "مساعدة & اقتراحات"
+        give_us_your_feedback: "أعطنا رايك ! الاقتراحات وتقارير الشوائب والمسائل، نريد كل شيء !!"
+        feedback__suggestions: "ردود الفعل والاقتراحات"
 
