@@ -3,27 +3,27 @@ ar:
   resource: 
     flickr: 
       photos: 
-        flickr_user_not_found: "Flickr user not found."
-        please_enter_a_username_to_browse_photos: "Please enter a username to browse photos."
+        flickr_user_not_found: "لم يتم العثور على اسم المستخدم لـ فليكر"
+        please_enter_a_username_to_browse_photos: "يرجى ادخال اسم المستخدم لتصفح الصور."
 
       preview:
-        flickr_image_preview: "Flickr Image Preview"
-        preview_of_: "Preview of "
-        owner_: "Owner: "
-        uploaded_: "Uploaded: "
-        description_: "Description: "
-        back: "Back"
+        flickr_image_preview: "معاينة صور فليكر"
+        preview_of_: "معاينة "
+        owner_: "مالك: "
+        uploaded_: "تحميل: "
+        description_: "وصف: "
+        back: "الرجوع"
 
       photosets: 
-        all_photographs: "All Photographs"
+        all_photographs: "جميع الصور"
         
 
       photo: 
-        use_this_image: "Use This Image"
+        use_this_image: "استخدام هذه الصورة"
 
       browse:
-        flickr_photo_browser: "Flickr Photo Browser"
-        username: "Username:"
-        photosets: "Photosets:"
+        flickr_photo_browser: "متصفح صور فليكر"
+        username: "اسم المستخدم:"
+        photosets: "مجموعات الصور:"
         
 
