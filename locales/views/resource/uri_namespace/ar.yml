@@ -3,12 +3,12 @@ ar:
   resource: 
     uri_namespace: 
       settings: 
-        security_settings: "Security Settings"
-        password_protection: "Password Protection"
-        if_you_would_like_to_change_the: "If you would like to change the password for this page, you can do so by entering a new password here."
-        enable_password_protection: "Enable password protection for %{password_protection}."
-        new_password: "New Password"
-        password: "Password"
+        security_settings: "اعدادات الامان"
+        password_protection: "حماية كلمة المرور"
+        if_you_would_like_to_change_the: "اذا كنت ترغب في تغيير كلمة المرور لهذه الصفحة، يمكنك القيام بذلك عن طريق ادخال كلمة مرةر جديدة هنا."
+        enable_password_protection: "تمكين حماية كلمة السر لحماية كلمة السر"
+        new_password: "كلمة مرور جديد"
+        password: "كلمة مرور"
         confirmation: "Confirmation"
         
         
