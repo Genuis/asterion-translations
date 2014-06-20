@@ -3,46 +3,46 @@ ar:
   resource: 
     image_library: 
       images: 
-        no_images_were_found_matching_your_keyword: "No images were found matching your keyword."
+        no_images_were_found_matching_your_keyword: "لا توجد صور مطابقة للكلمات التي ادخلتها."
 
       image: {}
 
       terms: 
-        image_library_terms: "Image Library Terms"
-        you_should_carefully_read: "You should carefully read the following Terms of Use. Your use of our products implies that you have read and accepted these Terms of Use."
-        image_library_terms_of_use: "Image Library Terms of Use"
-        we_provide_our_collection_of_online_images: "We provide our collection of online images (the \"Image Library\") to our paying members for their sole use only, under the following guidelines, limitations and restrictions:"
-        the_images_and_any_other_elements_collectively_the_images_contained: \"The images and any other elements (collectively \"the Images\") contained in the Image Library are deemed to be licensed to you by Viviti Technologies (\"Viviti\"). Neither title nor intellectual property rights are transferred to you, but remain with Viviti, or its licensors, and are copyrighted, proprietary and protected by Canadian law, international treaty provisions and other applicable laws. Additionally, Viviti may have patents, patent applications, trademarks, or other intellectual property rights in the Images. All rights not expressly granted in writing are reserved."
-        subject_to_your_agreement_and_compliance: "Subject to your agreement and compliance with the terms of this Agreement, and pre-payment of all applicable fees, Viviti grants you a limited, non-exclusive, non-transferable, right to:"
-        use_the_images_solely_in_online_media: "Use the Images solely in \"Online Media\", limited exclusively to World Wide Web site display and online display; provided however that images from the Image Library may only be used for display in web sites (and web site services) hosted at Viviti;"
-        alter_the_images: "Alter the Images, including but not limited to adding or changing text and resizing or cropping images (hereafter \"Derivative Works\") for use in Online Media; provided, however, all ownership and any right, title and interest in and to such Derivative Works shall remain with Viviti and its licensors."
-        you_may_not: "You may not:"
-        loan_rent_sell_sublicense_lease_or_otherwise_transfer: "Loan, rent, sell, sub-license, lease, or otherwise transfer the right to use any Image to any other person or entity;"
-        reproduce_distribute_download_sell_broadcast_or_publish: "Reproduce, distribute, download, sell, broadcast, or publish (except as otherwise permitted in Section 2 above) any Images to anyone, without the express prior written consent of Viviti;"
-        download_use_or_copy_any_image_or_any_portion: "Download, use or copy any Image (or any portion thereof) for the purpose of creating a gallery or collection;"
-        offer_the_images_for_download: "Offer the Images for download from any web site nor place the Templates online for browse-to-buy or other type viewing purposes;"
-        download_use_or_copy_any_image: "Download, use or copy any Image (or any portion thereof) in any manner, except as permitted by the express terms of this Agreement;"
-        use_any_image_in_any_form_of_pornography: "Use any Image in any form of pornography, or in a defamatory, fraudulent or illegal manner;"
-        use_any_image_or_any_portion: "Use any Image or any portion thereof as a trademark or service mark, or claim any proprietary rights in any Image, or any portion thereof;"
-        use_any_images_in_any_product: "Use any Image(s) in any product or service which has the primary purpose of displaying the Image(s)."
-        you_shall_use_the_images: "You shall use the Images and the Image Library for lawful purposes only. You shall not use the Images and the Image Library in any manner which violates or infringes in any way upon the rights of others, which is unlawful, threatening, abusive, defamatory, invasive of privacy or publicity rights, vulgar, obscene, profane or otherwise objectionable, which encourages conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any law."
-        the_images_may_not_be_used: "The Images may not be used in any online display of sample web sites or pages. You may NOT extract elements of the Images to sell or distribute in any manner. You may NOT use any component of the Images or the Image Library or site content to produce what could be directly or indirectly considered a competitive venture against Viviti."
-        you_may_not_place_the_images: "You may NOT place the Images in whole or in part in any type of software whether online or offline nor on any type of media or server. This includes but is not limited to utilizing them as pick/choose designs in content management systems, hosting control panels or other build-your-site type programs for your customers. You are not permitted to offer the Imageses to anyone in whole or in part as any type of incentive to buy hosting, software, or other type products or services."
-        the_image_library_and_the_images: "The Image Library and the Images are provided on an \"as is\" basis without warranties or conditions of any kind, either expressed or implied, including, but not limited to, warranties or conditions of title or implied warranties of merchantability or fitness for a particular purpose, other than those warranties which are implied by and incapable of exclusion, restriction or modification under the laws applicable to this agreement."
-        we_reserve_the_right: "We reserve the right to change the Image Library Terms of Use at any time without prior notice."
+        image_library_terms: "شروط مكتبة الصور"
+        you_should_carefully_read: "يجب ان تقرا بعناية شروط الاستخدام التالية، استخدامك لمنتجاتنا يعني ان قد قرات ووافقت على شروط الاستخدام."
+        image_library_terms_of_use: "شروط استخدام مكتبة الصور"
+        we_provide_our_collection_of_online_images: "نحن نقدم مجموعة من الصور على الانترنت على \مكتبة الصور\ لدينا دفع اعضاء لاستخدامها:"
+        the_images_and_any_other_elements_collectively_the_images_contained: \"تعتبر الصور واية عناصر اخرى بشكل جماعي في صور الواردة في مكتبة الصور لتكون مرخصة لك من قبل تكنولوجيا. الملكية ولا حقوق الملكية الفكرية، ولكن تبقى مع فيفتي، او الجهات المرخصة لها وحقوق الطبع والنشر والملكيه ويحميها القانون الكندي، احكام المعاهدات الدولية والقوانين الاخرى المعمول بها، بالاضافة الى ذلك قد يكون براءات الاختراع طلبات براءات الاختراع والعلامات التجارية او حقوق الملكية الفكرية الاخرى في الصور، جميع الحقوق محفوظ."
+        subject_to_your_agreement_and_compliance: "يخضع موافقك والامتثال لبنود هذه الاتفاقية، وقبل سداد جميع الرسوم المطبقة، تمنحك محدود غير حصري وغير قابل للتحويل :"
+        use_the_images_solely_in_online_media: "استخدام الصور فقط في اون لاين ميديا، فقط حكرا على العالم على نطاق واسع عرض موقع ويب وعرض على شبكة الانترنت، ولكن شرط ان يكون الصور من مكتبة الصور يمكن ان تستخدم فقط للعرض في المواقع على شبكة الانترنت،(موقع على شبكة الانترنت والخدمات) "
+        alter_the_images: "تغيير الصور، بما في ذلك ولكن لا تقتصر على اضافة او تغيير النص وتغيير حجم الصور او الاقتصاص(الآخرى المشتقة الاشغال) للاستخدام في وسائل الاعلام عبر الانترنت، ولكن بشرط ان الملكية وحق الملكية والمصلحة في هذه الاشغال ومشتقات تظل مع فيفتي ."
+        you_may_not: "لا يمكن:"
+        loan_rent_sell_sublicense_lease_or_otherwise_transfer: "القرض والايجار او بيع او ترخيص، عقد الايجار او نقل حق استخدام اي صورة لاي شخص "
+        reproduce_distribute_download_sell_broadcast_or_publish: "اعادة انتاج او توزيع او تحميل او بيع او بث او نشر(باستثناء ماهو مسوح به الا في القسم 2 اعلاه) اي صور لاي شخص دون الحصول على موافقة خطيه مسبقة من فيفتي"
+        download_use_or_copy_any_image_or_any_portion: "تحميل استخدام او نسخ اي صرة(او اي جزء منه) لغرض انشاء معرض او مجموعة;"
+        offer_the_images_for_download: "تقديم الصور للتحميل من اي موقع او وضع قوالب عبر الانترنت لاغراض نوع اخر، او عرض شراء"
+        download_use_or_copy_any_image: "تحميل استخدام او نسخ اي صورة(اي اي جزء منه) في اي شكل من الاشكال باستثناء ماهو مسموح به بموجب احكام صريحة من هذا الاتفاق;"
+        use_any_image_in_any_form_of_pornography: "استخدام اي صورة في اي شكل من الاشكال في المواد الاباحية، او بطريقة تشهيرية او احتالية او غير قانونية"
+        use_any_image_or_any_portion: "استخدام اي صورة او اي جزء منها كعلامة تجارية او الخدمة، او المطالبة باي حوق ملكية في اي صور او اي جزء منه"
+        use_any_images_in_any_product: "استخدام اي صورة في اي منتج او خدمة والتي لديها الغرض الاساسي من عرض صورة."
+        you_shall_use_the_images: "يجب عليك استخدام الصور ومكتبة الصور لاغراض مشروعة فقط، لا يحق لك استخدام الصور ومكتبة الصور على اي نحو يخالف او ينتهك باي شكل من الاشكال على حقوق الاخرين، وهو امر غير قانوني، سواء كان فيه تهديد او اساءة او تشهير او انتهاك حقوق الدعاية المبتذلة او  صور عارية فاحشة ومدنسة او غير ذلك، والتي تشجع على السلوك الذي من شانه ان يشكل جريمة جنائية تؤدي الى المسؤولية المدنية او تخرق اي قانون"
+        the_images_may_not_be_used: "لا يجوز استخدام الصور في اي عرض على شبكة الانترنت من المواقع على شبكة الانترنت او صفحات عينة، لا يمكنك استخراج العناصر من الصور لبيع او توزيع باي شكل من الاشكال. لا يجوز استخدام اي عنصر من عناصر الصور او مكتبة الصور او محتوى موقع لانتاج مايمكن اعتباره بصورة مباشرة او غير مباشرة ضد مشروع تنافسية."
+        you_may_not_place_the_images: "لايمكنك وضع صور كليا او جزئيا في اي نوع من البرامج سواء عبر الانترنت او دون اتصال ولا على اي نوع من وسائل الاعلام او الخادم وهذا يشمل لكن لا يقتصر على الاستفادة منها على النحو ، اختيار التصاميم في انظمة ادارة المحتوى، لوحات التحكم استشافة او اكتب البرامج بناء موقعك لعملائك"
+        the_image_library_and_the_images: "يتم توفير مكتبة الصور دون ضمانات او شروط من اي نوع سواء كانت صريحة او ضمنية بما في ذلك ولكن ليس على سبيل الحصر ضمانات او شروط العنوان او الضمانات الضمنية الخاصة بالتجارة او الملاءمة ل غرض معين، عدا تلك الضمانات التي تنطوي عليها وغير قادرة على استثناء او تقييد او التعديل بموجب القوانين المعمول بها في هذا الاتفاق"
+        we_reserve_the_right: "نحن نحتفظ بالحق في تغيير شروط الاستخدام،مكتبة الصور في اي وقت دون اشعار مسبق"
         
         
       index: 
-        photo_and_media_manager: "Photo and Media Manager"
-        start_typing_to_search: "Start Typing to Search"
+        photo_and_media_manager: "مدير الصور والميديا"
+        start_typing_to_search: "بدء الكتابة للبحث"
         
         
         use_of_images : 
-          text: "Use of images in the Image Library are allowed on websites hosted by us. Please read the %{terms_of_use} for more information."
-          terms_of_use: "Terms of Use"
+          text: "يسمح استخدام الصور في مكتبة الصور على مواقع الانترنت التي استضافتها لنا، يرجى قراءة {طريقة الاستخدام}لمزيد من المعلومات"
+          terms_of_use: "شروط الاستخدام"
         your_account_does_not_allow_downloads: 
-           text: "Your account does not allow for downloads of content in the Image Library. If you would like to use any images you can %{upgrade_your_account} at any time."
-           upgrade_your_account: "upgrade your account"
+           text: "لايسمح حسابك لتنزيل محتوى في مكتبة الصور، اذا كنت ترغب في استخدام جميع الصور قم بـ {ترقية حسابك} في اي وقت."
+           upgrade_your_account: "ترقية حسابك"
 
       select:
         preview: "Preview"
