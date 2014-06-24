@@ -3,93 +3,93 @@ ar:
   resource: 
     toolbar: 
       page_actions: 
-        page_settings: "Page Settings"
-        change_header_image: "Change Header Image"
-        page_seo: "Page SEO"
-        delete_page: "Delete Page"
-        add_new_page: "Add New Page"
-        collapse_blocks: "Collapse Blocks"
+        page_settings: "اعدادات الصفحة"
+        change_header_image: "تغيير راس الصورة"
+        page_seo: "صفحة كبار المسؤولين الاقتصاديين"
+        delete_page: "حذف الصفحة"
+        add_new_page: "اضافة صفحة جديدة"
+        collapse_blocks: "انهيار كتل"
 
       edit_theme: 
-        edit_fonts: "Edit Fonts"
-        edit_background: "Edit Background"
-        change_website_theme: "Change Website Theme"
-        edit_theme_source_code: "Edit Theme Source Code"
-        uploaddownload_a_theme: "Upload/Download A Theme"
+        edit_fonts: "تحرير الخطوط"
+        edit_background: "تحرير الخلفية"
+        change_website_theme: "تغيير موضوع الموقع"
+        edit_theme_source_code: "تحرير موضوع كود المصدر"
+        uploaddownload_a_theme: "تحميل \ تنزيع موضوع"
 
       layouts: 
-        this_page_is_using: "This page is using the %{name} layout."
+        this_page_is_using: "هذه الصفحة تم استخدام اسم ( تخطيط."
         this_page:
-          text: "This page %{in_use} the %{layout_name} layout."
-          is_already_using: "is already using"
-          will_use: "will use"
+          text: "هذه الصفحة تخطيط اسم تخطيط."
+          is_already_using: "يستخدم بالفعل"
+          will_use: "سوف تستخدم"
         
 
       site_content: 
-        site_content: "Site Content"
-        manage_blog: "Manage Blog"
-        manage_guestbooks: "Manage Guestbooks"
-        visitor_messages: "Visitor Messages"
-        manage_pages: "Manage Pages"
-        manage_photos_and_media: "Manage Photos and Media"
+        site_content: "محتوى الموقع"
+        manage_blog: "ادارة مدونة"
+        manage_guestbooks: "ادارة صفحة الزوار"
+        visitor_messages: "رسائل الزوار"
+        manage_pages: "ادارة الصفحات"
+        manage_photos_and_media: "ادارة الصور والوسائط المتعددة"
         
 
       orphaned_components: 
-        restore_components: "Restore Components"
+        restore_components: "استعادة المحتويات"
         some_of_your_components_are_stuck_in: |
-          Some of your components are stuck in a column that doesn't exist anymore.<br /><br />
-          This can happen when you change your theme or page layout.<br /><br />
-          Would you like to put these lost components back on your page?
-        restore_your_hidden_components: "Restore Your Hidden Components?" 
-        yes_restore_my_components: "Yes, Restore My Components"
+          بعض المحتويات الخاصة بك عالةق في عمود لا وجود له بعد الآن
+          هذا يمكن ان يحدث عند تغيير الموضوع الخاص بك او تخطيط الصفحة
+         هل ترغب في وضع هذه المحتويات المفقودة مرة اخرى على الصفحة الخاصة بك؟
+        restore_your_hidden_components: "استعادة المحتويات المخفية الخاصة بك" 
+        yes_restore_my_components: "نعم، استعادة المحتويات الخاصة بي"
         
         
       _orphaned_component: {}
 
       add_block: 
-        add_content_to_page: "Add Content to Page"
+        add_content_to_page: "اضافة محتوى الى الصفحة"
 
       my_website: 
-        manage_website: "Manage Website"
-        sitewide_settings: "Site-wide Settings"
-        pages: "Pages"
-        photos_and_media: "Photos and Media"
-        blog: "Blog"
-        sitewide_seo: "Site-wide SEO"
-        statistics: "Statistics"
-        linked_accounts: "Linked Accounts"
-        guestbooks: "Guestbooks"
-        visitor_comments: "Visitor Comments"
+        manage_website: "ادارة الموقع"
+        sitewide_settings: "اعدادات مستوى الموقع"
+        pages: "صفحات"
+        photos_and_media: "الصور والوسائط المتعددة"
+        blog: "بلوق"
+        sitewide_seo: "مستوى الموقع"
+        statistics: "احصائيات"
+        linked_accounts: "حسابات مرتبطة"
+        guestbooks: "سجلات الزوار"
+        visitor_comments: "تعليقات الزوار"
 
       toolbar_colours: {}
 
       comments: 
-        comment: "Comment"
-        comments: "Comments"
-        new: "New"
+        comment: "تعليق"
+        comments: "تعليقات"
+        new: "جديد"
 
       pages: 
-        pages: "Pages:"
-        select_a_page: "Select a page"
-        add_new_page: "Add New Page"
+        pages: "صفحات:"
+        select_a_page: "اختر صفحة"
+        add_new_page: "اضافة صفحة جديدة"
         
       show:
-        website_builder: "Website Builder"
-        website_suspended: "WEBSITE SUSPENDED!"
-        exit_safe_mode: "Exit Safe Mode"
-        help: "Help"
-        what39s_new: "What&#39;s New"
-        account: "Account"
-        logout: "Logout"
-        view_site: "View Site"
-        feedback: "Feedback"
+        website_builder: "منشئ الموقع"
+        website_suspended: "الموقع متوقف !"
+        exit_safe_mode: "خروج بالوضع الآمن"
+        help: "مساعدة"
+        what39s_new: "ما الجديد؟"
+        account: "حساب"
+        logout: "تسجيل الخروج"
+        view_site: "عرض الموقع"
+        feedback: "ردود الفعل"
 
       page_selection: 
-        select_a_page: "Select a page"
-        scroll_up: "Scroll Up"
-        scroll_down: "Scroll Down"
-        add_new_page: "Add New Page"
+        select_a_page: "اختر صفحة"
+        scroll_up: "انتقل للاعلى"
+        scroll_down: "انتقل للاسفل"
+        add_new_page: "اضافة صفحة جديدة"
 
       fonts: 
-        site_fonts: "Site Fonts"
+        site_fonts: "مكان الخطوط"
 
