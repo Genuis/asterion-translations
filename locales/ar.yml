@@ -19,12 +19,12 @@ ar:
      read_more: "...ÇÞÑÃ ÇáãÒíÏ"
      cropped_square: "ÇÞÊÕÇÕ (ÓÇÍÉ)"
      custom_cropped: "ÇáÚÑÝ (ÇÞÊÕÇÕ)"
-     noncropped_maintain_aspect_ratio: "Non-Cropped (Maintain Aspect Ratio)"
-     original_size: "Original Size"
-     custom_noncropped: "Custom (Non-Cropped)"
-     custom: "custom..."
+     noncropped_maintain_aspect_ratio: "لا اقتصاص(المحافظة على نسبة الارتفاع)"
+     original_size: "الحجم الأصلي"
+     custom_noncropped: "عرف (لا اقتصاص)"
+     custom: "عرف..."
      laquo_newer: "&laquo; Newer"
-     older_raquo: "Older &raquo;"
+     older_raquo: "اقدم &raquo;"
   
   
   date:
@@ -88,17 +88,17 @@ ar:
       default: "%a, %d %b %Y %H:%M:%S %z"
       short: "%d %b %H:%M"
       long: "%B %d, %Y %H:%M"
-    am: "am"
-    pm: "pm"
+    am: "صباح"
+    pm: "مساء"
 
   support:
     array:
       words_connector: ", "
-      two_words_connector: " and "
-      last_word_connector: ", and "
+      two_words_connector: " , و"
+      last_word_connector: ", و "
 
     select:
-      prompt: "Please select"
+      prompt: "من فضلك أختر"
 
   number:
     format:
@@ -132,8 +132,8 @@ ar:
         format: "%n %u"
         units:
           byte:
-            one:   "Byte"
-            other: "Bytes"
+            one:   "بايت"
+            other: "بايتس"
           kb: "KB"
           mb: "MB"
           gb: "GB"
@@ -150,93 +150,93 @@ ar:
 
   datetime:
     distance_in_words:
-      half_a_minute: "half a minute"
+      half_a_minute: "نصف دقيقة"
       less_than_x_seconds:
-        one:   "less than 1 second"
-        other: "less than %{count} seconds"
+        one:   "أقل من 1 في الدقيقة"
+        other: "أقل من عدد في الثواني"
       x_seconds:
-        one:   "1 second"
-        other: "%{count} seconds"
+        one:   "ثانية واحدة"
+        other: "عدد ثواني"
       less_than_x_minutes:
-        one:   "less than a minute"
-        other: "less than %{count} minutes"
+        one:   "أقل من دقيقة"
+        other: "أقل من عدد دقائق"
       x_minutes:
-        one:   "1 minute"
-        other: "%{count} minutes"
+        one:   "دقيقة واحدة"
+        other: "عدد الدقائق"
       about_x_hours:
-        one:   "about 1 hour"
-        other: "about %{count} hours"
+        one:   "حوالي 1 ساعة"
+        other: "حول عدد ساعات"
       x_days:
-        one:   "1 day"
-        other: "%{count} days"
+        one:   "يوم 1"
+        other: "عدد ايام"
       about_x_months:
-        one:   "about 1 month"
-        other: "about %{count} months"
+        one:   "حوالي 1 شهر"
+        other: "حوالي عدد الشهر"
       x_months:
-        one:   "1 month"
-        other: "%{count} months"
+        one:   "شهر 1 "
+        other: "عدد أشهر"
       about_x_years:
-        one:   "about 1 year"
-        other: "about %{count} years"
+        one:   "حول 1 سنة"
+        other: "حول عدد سنوات"
       over_x_years:
-        one:   "over 1 year"
-        other: "over %{count} years"
+        one:   "اكثر من سنة"
+        other: "أكثر من عدد سنوات"
       almost_x_years:
-        one:   "almost 1 year"
-        other: "almost %{count} years"
+        one:   "تقريبا سنة واحدة"
+        other: "تقريبا عدد سنوات"
     prompts:
-      year:   "Year"
-      month:  "Month"
-      day:    "Day"
-      hour:   "Hour"
-      minute: "Minute"
-      second: "Seconds"
+      year:   "سنة"
+      month:  "شهر"
+      day:    "يوم"
+      hour:   "ساعة"
+      minute: "دقيقة"
+      second: "ثانية"
 
  
     
     select:
-      prompt: "Please select"
+      prompt: "من فضلك اختر"
 
     submit:
-      create: 'Create %{model}'
-      update: 'Update %{model}'
-      submit: 'Save %{model}'
+      create: 'إنشاء نموذج'
+      update: 'تحميل نموذج'
+      submit: 'حفظ نموذج'
       
   errors:
-    format: "%{attribute} %{message}"
+    format: "السمة__الرسالة"
     messages: &errors_messages
-      inclusion: "is not included in the list"
-      exclusion: "is reserved"
-      invalid: "is invalid"
-      confirmation: "doesn't match confirmation"
-      accepted: "must be accepted"
-      empty: "can't be empty"
-      blank: "can't be blank"
+      inclusion: "لم يتم تضمينه في القائمة"
+      exclusion: "محجوز"
+      invalid: "غير صالح"
+      confirmation: "لا يطابق التاكيد"
+      accepted: "يجب ان تكون مقبولا"
+      empty: "لا يمكن ان تكون فارغة"
+      blank: "لا يمكن ان تكون فارغا"
       too_long:
-        one: "is too long (maximum is 1 character)"
-        other: "is too long (maximum is %{count} characters)"
+        one: "طويل جداُ( الحد الاقصى هو حرف 1"
+        other: "طويل جدا الحد الاقصى هو عدد حرف"
       too_short:
-        one: "is too short (minimum is 1 character)"
-        other: "is too short (minimum is %{count} characters)"
+        one: "قصير جداً الحد الادنى ( هو حرف 1 "
+        other: "قصير جدا الحد الادنى هو عدد حرف"
       wrong_length:
-        one: "is the wrong length (should be 1 character)"
-        other: "is the wrong length (should be %{count} characters)"
-      not_a_number: "is not a number"
-      not_an_integer: "must be an integer"
-      greater_than: "must be greater than %{count}"
-      greater_than_or_equal_to: "must be greater than or equal to %{count}"
-      equal_to: "must be equal to %{count}"
-      less_than: "must be less than %{count}"
-      less_than_or_equal_to: "must be less than or equal to %{count}"
-      odd: "must be odd"
-      even: "must be even"
-      taken: "has already been taken"
-      record_invalid: "Validation failed: %{errors}"
+        one: "الطول خاطئ )يجب ان يكون حرف 1 "
+        other: "الطول خاطئ يجب ان يكون عدد حرف"
+      not_a_number: "ليس عدد"
+      not_an_integer: "يجب ان يكون عددا صحيحا"
+      greater_than: "يجب ان يكون اكبر من عدد"
+      greater_than_or_equal_to: "يجب ان يكون اكبر من او تساوي عدد"
+      equal_to: "يجب ان يكون مساويا لعدد"
+      less_than: "يجب ان يكون اقل من عدد"
+      less_than_or_equal_to: "يجب ان يكون اقل من او يساوي عدد"
+      odd: "يجب ان تكون غريبة"
+      even: "يجب ان يكون حتى"
+      taken: "وقد اتخذت بالفعل"
+      record_invalid: "فشل التحقق من الصحةأخطاء"
     template: &errors_template
       header:
-        one: "1 error prohibited this %{model} from being saved"
-        other: "%{count} errors prohibited this %{model} from being saved"
-      body: "There were problems with the following fields:"
+        one: "يحظر 1 الخطأ هذه نموذج من يتم حفظ"
+        other: "عدد اخطاء يحظر هذا النموذج "
+      body: "كانت هناك مشاكل مع الحقول التالية"
 
   activerecord:
     errors:
@@ -245,4 +245,4 @@ ar:
       template:
         <<: *errors_template
       full_messages:
-        format: "%{attribute} %{message}"
+        format: "السمة__الرسالة"
