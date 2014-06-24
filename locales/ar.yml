@@ -3,35 +3,35 @@
 # Use this as the base for the locale file of your language.
 
 ar:
-  done: "ãäÌÒ"
-  cancel: "ÅáÛÇÁ"
-  save: "ÍÝÙ"
-  save_changes: "ÍÝÙ ÇáÊÛííÑÇÊ"
-  create_component: "ÅäÔÇÁ ãßæä"
-  settings: "ÅÚÏÇÏÇÊ"
-  edit: "ÊÍÑíÑ"
-  delete: "ÍÐÝ"
-  title: "áÞÈ"
+  done: "تم"
+  cancel: "الغاء"
+  save: "حفظ"
+  save_changes: "حفظ التغييرات"
+  create_component: "انشاء محتوى"
+  settings: "الضبط"
+  edit: "تحرير"
+  delete: "حذف"
+  title: "لقب"
   
   
   helpers:
-     optional: "(ÇÎÊíÇÑí)"
-     read_more: "...ÇÞÑÃ ÇáãÒíÏ"
-     cropped_square: "ÇÞÊÕÇÕ (ÓÇÍÉ)"
-     custom_cropped: "ÇáÚÑÝ (ÇÞÊÕÇÕ)"
+     optional: "(اختياري)"
+     read_more: "اقرا المزيد"
+     cropped_square: "مربع الاقتصاص"
+     custom_cropped: "اقتصاص التعريف"
      noncropped_maintain_aspect_ratio: "لا اقتصاص(المحافظة على نسبة الارتفاع)"
      original_size: "الحجم الأصلي"
      custom_noncropped: "عرف (لا اقتصاص)"
      custom: "عرف..."
-     laquo_newer: "&laquo; Newer"
-     older_raquo: "اقدم &raquo;"
+     laquo_newer: "احدث القاو"
+     older_raquo: "اقدم اللقاو"
   
   
   date:
     formats:
-      default: "%Y-%m-%d"
-      short: "%b %d"
-      long: "%B %d, %Y"
+      default: "الافتراضي"
+      short: "قصير"
+      long: "طويل"
 
     day_names:
       - Sunday
@@ -85,9 +85,9 @@ ar:
 
   time:
     formats:
-      default: "%a, %d %b %Y %H:%M:%S %z"
-      short: "%d %b %H:%M"
-      long: "%B %d, %Y %H:%M"
+      default: "الافتراضي"
+      short: "قصير"
+      long: "طويل"
     am: "صباح"
     pm: "مساء"
 
