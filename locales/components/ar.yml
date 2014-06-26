@@ -11,67 +11,67 @@ ar:
       name: 3D Slideshow
       tags: slider, 3d, carousel, effect, images, pictures, photography, slideshow
       desc: |
-        Add a 3D slider to your website to display your images with interesting transition effects.
+        Add a 3D slider to your website to display your images with interesting transition effects. اضف منزلق ثلاثي الابعاد لموقعك لعرض الصور الخاصة بك تنقل بطريقة مثيرة للاهتمام
     audio_player:
       name: Audio Player
       tags: media,audio,mp3,music,song,playlist,tunes
       desc: |
-        This Component will allow you to display a playlist of mp3 files you have uploaded to be played either automatically when your page loads, or manually by the site visitor.
+        This Component will allow you to display a playlist of mp3 files you have uploaded to be played either automatically when your page loads, or manually by the site visitor.   ي ثري التي قمت بتحميلها وتشغيلها اما تلقائيا عند تحميل صفحتك أو يدويا من قبل 
     blog_archive:
       name: Blog Archive
       tags: blog,common,dynamic,journal,diary,post,entry,writing,archive,categories,months,tags
       desc: |
-        This component allows you to provide links to your archived posts by dates, tags or categories for organized and convenient access to your old blog posts.
+        This component allows you to provide links to your archived posts by dates, tags or categories for organized and convenient access to your old blog posts. هذا العنصر يسمح لك بتوفير وصلات إلى الوظائف المؤرشفة مع التواريخ، والعلامات أو الفئات للوصول الى مدوناتك القديمة بالشكل منظم وملاءم 
     blog_comment:
       name: Blog Comments
       tags: blog,comments,recent
       desc: |
-        This component will show recent comments made on your blog posts. By default, it will add a recent comments RSS feed to the page or pages that the component is on.
+        This component will show recent comments made on your blog posts. By default, it will add a recent comments RSS feed to the page or pages that the component is on. هذا العنصر يظهر لك التعليقات الأخيرة التي كتبت في مدونتك. بالشكل الافتراضي، فإنه يضيف لك آخر التعليقات الى الصفحة الرئيسية أو  الى الصفحات التي يوجد بها العنصر
     blog:
       name: Blog Posts
       tags: blog,common,dynamic,journal,diary,post,entry,writing
       desc: |
-        Embed your blog posts and choose how you want to display them, whether it be a list or full posts, among other options. Use this component to introduce a blog aspect to your site and use the settings to display only the posts you want, exactly how you want them.
+        Embed your blog posts and choose how you want to display them, whether it be a list or full posts, among other options. Use this component to introduce a blog aspect to your site and use the settings to display only the posts you want, exactly how you want them. قم بتضمين مشاركات المدونة واختر الطريقة التي تريد عرضها، سواء كانت قائمة أو مشاركات كاملة، من بين خيارات أخرى. استخدم هذا العنصر لوضع المدونة الى موقعك واستخدم الإعدادات لعرض المشاركات التي تريد عرضها فقط، بالضبط كما تريد ان تعرضها
     blog_search:
       name: Blog Search
       tags: blog,search,archive
       desc: |
-        Use this component to provide a search box for your blog so that visitors can search through your past posts by keyword.
+        Use this component to provide a search box for your blog so that visitors can search through your past posts by keyword. استخدم هذا العنصر لتوفير مربع البحث للمدونة الخاصة بك بحيث يمكن للزوار البحث عن المشاركات التي كتبها بكلمة أو احرف
     blogroll:
       name: Blogroll
       tags: news,rss,atom,feed,syndicatation,syndicate,blog
       desc: |
-        This component allows you to list and link to your favorite blogs. Display icons, titles and a short summary of the last post in each blog, among other options.
+        This component allows you to list and link to your favorite blogs. Display icons, titles and a short summary of the last post in each blog, among other options. يسمح لك هذا العنصر لوضع قائمة من مشاركاتك المفضلة. قم بعرض الرموز، وعناوين وملخص قصير لآخر مشاركة في كل مدونة، من بين خيارات أخرى
     bravenet:
       name: Bravenet Web Apps
       tags: bravenet, apps, web apps, tools, forum, calendar
       desc: |
-        Add Bravenet Web Apps to your site.
+        Add Bravenet Web Apps to your site. اضف التطبيقات برافانت الى موقعك
     book_fresh:
       name: BookFresh Scheduling
       tags: appointment,schedule,business,calendar
       desc: |
-        The Bookfresh component makes it easy to accept online appointments from new and existing clients. Just register a Bookfresh account and allow your visitors to schedule with your business in seconds!
+        The Bookfresh component makes it easy to accept online appointments from new and existing clients. Just register a Bookfresh account and allow your visitors to schedule with your business in seconds! بوكفريش هو عنصر يسهلك بقبول مواعيد على الانترنت من العملاء الحاليين والعملاء الجدد. فقط قم بانشاء حساب في بوكفريش ودع زوارك لحجز موعد في ثوان
     form:
       name: Contact Form
       tags: contact,request,email,form,submit,common
       desc: |
-        Display a contact form on your site that visitors can use to e-mail you submissions. Contact forms can be created using several entry field types to create a form as simple or complex as you want, including the ability to create a thank you page after submission.
+        Display a contact form on your site that visitors can use to e-mail you submissions. Contact forms can be created using several entry field types to create a form as simple or complex as you want, including the ability to create a thank you page after submission. اضعيبب اضغ نموذج اتصال على موقعك التي يمكن للزوار استخدامها لمراسلتك مباشرة على بريدك الاكتروني. يمكن إنشاء نموذج اتصال باستخدام عدة أنواع وأشكال من حقل لإنشاء نموذج بسيط أو معقد على النحو الذي تريد، بما في ذلك القدرة على انشاء رسالة شكر بعد عملية مراسلة
     delicious:
       name: Del.icio.us
       tags: bookmarks,delicious,social,links
       desc: |
-        Display a list of your recently bookmarked pages associated with your Del.icio.us account.
+        Display a list of your recently bookmarked pages associated with your Del.icio.us account. إعرض قائمة من صفحاتك المفضلة مؤخرا والمرتبط بحساب ديليسويس الخاص بك
     ebay_items:
       name: Ebay Listings
       tags: ebay,store,buy,shopping,sell,business
       desc: |
-        Display eBay items you`re selling filtered by auction or fixed price items only, store items only, or all items and set their order according to price, time left on the auctions or the date the items were listed.
+        Display eBay items you`re selling filtered by auction or fixed price items only, store items only, or all items and set their order according to price, time left on the auctions or the date the items were listed. إعرض العناصر التي تبيعها مع الإي باي وقم بتعيينها بالمزاد أو بالسعر المحدد فقط،  أو المخزن فقط، أو كل العناصر وقم بتعيين ترتيبها وفقا لسعر أو الوقت المتبقي على المزادات أو التاريخ
     ecwid_shopping_bag:
       name: Ecwid Shopping Bag
       tags: ecwid,ecommerce,buy,shopping,sell,payment,business,store,cart
       desc: |
-       Create a digital shopping bag for your website. This component will allow customers visiting your website to drag and drop-in items for checkout.
+       Create a digital shopping bag for your website. This component will allow customers visiting your website to drag and drop-in items for checkout. إنشئ حقيبة تسوق الرقمي لموقعك. هذا العنصر يتيح للعملاء الذين يزورون موقعك لسحب وإسقاط المواد للشراء
     ecwid_product_listing:
       name: Ecwid Product Listing
       tags: ecwid,ecommerce,buy,shopping,sell,payment,business,store,cart
