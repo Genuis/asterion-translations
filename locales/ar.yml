@@ -11,7 +11,7 @@ ar:
   settings: "الضبط"
   edit: "تحرير"
   delete: "حذف"
-  title: "لقب"
+  title: "عنوان"
   
   
   helpers:
@@ -27,8 +27,8 @@ ar:
      older_raquo: "اقدم اللقاو"
   
   
-  date:
-    formats:
+  date:  
+    formats: 
       default: "الافتراضي"
       short: "قصير"
       long: "طويل"
@@ -159,7 +159,7 @@ ar:
         other: "عدد ثواني"
       less_than_x_minutes:
         one:   "أقل من دقيقة"
-        other: "أقل من عدد دقائق"
+        other: "أقل منةعدد دقائق"
       x_minutes:
         one:   "دقيقة واحدة"
         other: "عدد الدقائق"
@@ -199,19 +199,19 @@ ar:
 
     submit:
       create: 'إنشاء نموذج'
-      update: 'تحميل نموذج'
+      update: 'تحديث نموذج'
       submit: 'حفظ نموذج'
       
   errors:
     format: "السمة__الرسالة"
     messages: &errors_messages
-      inclusion: "لم يتم تضمينه في القائمة"
-      exclusion: "محجوز"
+      inclusion: "تضمين"
+      exclusion: "استثناء"
       invalid: "غير صالح"
-      confirmation: "لا يطابق التاكيد"
-      accepted: "يجب ان تكون مقبولا"
-      empty: "لا يمكن ان تكون فارغة"
-      blank: "لا يمكن ان تكون فارغا"
+      confirmation: "تأكيد"
+      accepted: "مقبول"
+      empty: "فارغ"
+      blank: "فراغ"
       too_long:
         one: "طويل جداُ( الحد الاقصى هو حرف 1"
         other: "طويل جدا الحد الاقصى هو عدد حرف"
@@ -221,17 +221,17 @@ ar:
       wrong_length:
         one: "الطول خاطئ )يجب ان يكون حرف 1 "
         other: "الطول خاطئ يجب ان يكون عدد حرف"
-      not_a_number: "ليس عدد"
+      not_a_number: "ليس عددا"
       not_an_integer: "يجب ان يكون عددا صحيحا"
       greater_than: "يجب ان يكون اكبر من عدد"
       greater_than_or_equal_to: "يجب ان يكون اكبر من او تساوي عدد"
       equal_to: "يجب ان يكون مساويا لعدد"
       less_than: "يجب ان يكون اقل من عدد"
       less_than_or_equal_to: "يجب ان يكون اقل من او يساوي عدد"
-      odd: "يجب ان تكون غريبة"
-      even: "يجب ان يكون حتى"
-      taken: "وقد اتخذت بالفعل"
-      record_invalid: "فشل التحقق من الصحةأخطاء"
+      odd: "العدد الفردي"
+      even: "العدد الزوجي"
+      taken: "محجوز"
+      record_invalid: "سجل_خطاء"
     template: &errors_template
       header:
         one: "يحظر 1 الخطأ هذه نموذج من يتم حفظ"
@@ -245,4 +245,4 @@ ar:
       template:
         <<: *errors_template
       full_messages:
-        format: "السمة__الرسالة"
+        format: "الرسائل_ممتلئة"
