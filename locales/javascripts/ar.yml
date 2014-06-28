@@ -1,49 +1,49 @@
 ar:
   js:
     # Global
-    drag_to_move: Drag to Move
-    cancel: Cancel
-    delete: Delete
+    drag_to_move: إسحب لتحريك
+    cancel: إلغاء
+    delete: حذف
 
     # jquery.asterion.assetManager.js
-    unsort_asset_title: Move to Unsorted
-    unsort_asset_button: Unsort
-    unsort_asset_confirm_msg_single: Are you sure you want to unsort this file?<br />(This will remove it from all folders.)
-    unsort_asset_confirm_msg_multiple: Are you sure you want to unsort these files?<br />(This will remove them from all folders.)
-    move_asset_title: Move or Copy Files
-    move_asset_button: Move
-    copy_asset_button: Copy
-    move_asset_confirm_msg_single: "Move or Copy this file to: <b>{{folder_name}}</b>"
-    move_asset_confirm_msg_multiple: "Move or Copy these files to: <b>{{folder_name}}</b>"
+    unsort_asset_title: تحريك إلى غير مفرز
+    unsort_asset_button: عدم الفرز
+    unsort_asset_confirm_msg_single: هل أنت متأكد أنك تريد عدم فرز هذا الملف؟<br />(هذا سيزيل جميع المجلدات.)
+    unsort_asset_confirm_msg_multiple: هل أنت متأكد أنك تريد عدم فرز هذا الملفات؟<br />(This will remove them from all folders.)
+    move_asset_title: تحريك أو نسح الملفات
+    move_asset_button: تحريك
+    copy_asset_button: نسخ
+    move_asset_confirm_msg_single: "تحريك أو النسخ هذا الملف الى: <b>{{folder_name}}</b>"
+    move_asset_confirm_msg_multiple: "تحريك أو النسخ هذه الملفات الى: <b>{{folder_name}}</b>"
 
-    delete_asset_title: Delete Files
-    delete_asset_button_single: Delete This File
-    delete_asset_button_multiple: Delete These Files
-    delete_asset_confirm_msg_single: Permanently delete this file?
-    delete_asset_confirm_msg_multiple: Really permanently delete all of these files?
+    delete_asset_title: حذف الملفات
+    delete_asset_button_single: حذف هذا الملف
+    delete_asset_button_multiple: حذف هذه الملفات
+    delete_asset_confirm_msg_single: حذف هذا الملف بشكل دائم؟
+    delete_asset_confirm_msg_multiple: هل انت فعلا تريد حذف جميع هذه الملفات بشكل دائم؟
 
-    remove_asset_title: Remove or Delete Files
-    remove_asset_button: "Remove From: {{folder_name}}"
-    remove_asset_confirm_msg_single: What would you like to do with this file?
-    remove_asset_confirm_msg_multiple: What would you like to do with these files?
+    remove_asset_title: إزالة أو حذف هذا الملف
+    remove_asset_button: "حذف من: {{folder_name}}"
+    remove_asset_confirm_msg_single: ماذا تريد أن تفعل مع هذا الملف؟
+    remove_asset_confirm_msg_multiple: ماذا تريد أن تفعل مع هذه الملفات؟
 
-    move_asset_with_message_single: You have moved <b>{{count}} file</b> into your <b>{{folder_name}}</b> folder.
-    move_asset_with_message_multiple: You have moved <b>{{count}} files</b> into your <b>{{folder_name}}</b> folder.
+    move_asset_with_message_single: لقد قعت بتحريك <b>{{count}} file</b> into your <b>{{folder_name}}</b> folder.
+    move_asset_with_message_multiple: لقد قعت بتحريك <b>{{count}} files</b> into your <b>{{folder_name}}</b> folder.
 
-    copy_asset_with_message_single: You have copied <b>{{count}} file</b> into your <b>{{folder_name}}</b> folder.
-    copy_asset_with_message_multiple: You have copied <b>{{count}} files</b> into your <b>{{folder_name}}</b> folder.
+    copy_asset_with_message_single: لقد قمت بنسخ <b>{{count}} file</b> into your <b>{{folder_name}}</b> folder.
+    copy_asset_with_message_multiple: لقد قمت بنسخ <b>{{count}} files</b> into your <b>{{folder_name}}</b> folder.
 
-    remove_asset_with_message_single: You have removed <b>{{count}} file</b> from your <b>{{folder_name}}</b> folder.
-    remove_asset_with_message_multiple: You have removed <b>{{count}} files</b> from your <b>{{folder_name}}</b> folder.
+    remove_asset_with_message_single: لقد قمت بإزالة <b>{{count}} file</b> from your <b>{{folder_name}}</b> folder.
+    remove_asset_with_message_multiple: لقد قمت بإزالة <b>{{count}} files</b> from your <b>{{folder_name}}</b> folder.
 
     # jquery.asterion.behaviors.js
-    rte_preview: Preview
-    delete_blog_post_title: Delete Blog Post
-    delete_blog_post_confirm_msg: Really delete this blog post?  This cannot be undone.
-    delete_blog_post_button: Delete Blog Post
-    delete_blog_category_title: Delete Category
+    rte_preview: معاينة
+    delete_blog_post_title: حذف مشاركات المدونة
+    delete_blog_post_confirm_msg: هل تريد فعلا حذف هذه المشاركة؟ لا يمكنك التراجع
+    delete_blog_post_button: حذف المشاركة
+    delete_blog_category_title: حذف التصنيف
     delete_blog_category_confirm_msg: Really delete the {{name}} category?
-    delete_blog_category_button: Delete {{name}}
+    delete_blog_category_button: حذف {{name}}
 
     # jquery.asterion.component.js
     css_id: CSS ID
