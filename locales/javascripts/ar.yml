@@ -24,7 +24,7 @@ ar:
 
     remove_asset_title: إزالة أو حذف هذا الملف
     remove_asset_button: "حذف من: {{folder_name}}"
-    remove_asset_confirm_msg_single: ماذا تريد أن تفعل مع هذا الملف؟
+    remove_asset_confirm_msg_single:  ماذا تريد أن تفعل مع هذا الملف؟
     remove_asset_confirm_msg_multiple: ماذا تريد أن تفعل مع هذه الملفات؟
 
     move_asset_with_message_single: لقد قعت بتحريك <b>{{count}} file</b> into your <b>{{folder_name}}</b> folder.
