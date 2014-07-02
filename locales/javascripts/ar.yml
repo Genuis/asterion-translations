@@ -9,7 +9,7 @@ ar:
     unsort_asset_title: تحريك إلى غير مفرز
     unsort_asset_button: عدم الفرز
     unsort_asset_confirm_msg_single: هل أنت متأكد أنك تريد عدم فرز هذا الملف؟<br />(هذا سيزيل جميع المجلدات.)
-    unsort_asset_confirm_msg_multiple: هل أنت متأكد أنك تريد عدم فرز هذا الملفات؟<br />(This will remove them from all folders.)
+    unsort_asset_confirm_msg_multiple: هل أنت متأكد أنك تريد عدم فرز هذا الملفات؟<br />(هذا سيزيل كافة المجلدات)
     move_asset_title: تحريك أو نسح الملفات
     move_asset_button: تحريك
     copy_asset_button: نسخ
@@ -27,14 +27,14 @@ ar:
     remove_asset_confirm_msg_single:  ماذا تريد أن تفعل مع هذا الملف؟
     remove_asset_confirm_msg_multiple: ماذا تريد أن تفعل مع هذه الملفات؟
 
-    move_asset_with_message_single: لقد قعت بتحريك <b>{{count}} file</b> into your <b>{{folder_name}}</b> folder.
-    move_asset_with_message_multiple: لقد قعت بتحريك <b>{{count}} files</b> into your <b>{{folder_name}}</b> folder.
+    move_asset_with_message_single: لقد قعت بتحريك <b>{{count}} الملف</b> إلى <b>{{folder_name}}</b> المجلد
+    move_asset_with_message_multiple: لقد قعت بتحريك <b>{{count}} الملفات</b> إلى <b>{{folder_name}}</b> المجلد
 
-    copy_asset_with_message_single: لقد قمت بنسخ <b>{{count}} file</b> into your <b>{{folder_name}}</b> folder.
-    copy_asset_with_message_multiple: لقد قمت بنسخ <b>{{count}} files</b> into your <b>{{folder_name}}</b> folder.
+    copy_asset_with_message_single: لقد قمت بنسخ <b>{{count}} الملف</b> إلى <b>{{folder_name}}</b> المجلد
+    copy_asset_with_message_multiple: لقد قمت بنسخ <b>{{count}} الملفات</b> إلى <b>{{folder_name}}</b> المجلد
 
-    remove_asset_with_message_single: لقد قمت بإزالة <b>{{count}} file</b> from your <b>{{folder_name}}</b> folder.
-    remove_asset_with_message_multiple: لقد قمت بإزالة <b>{{count}} files</b> from your <b>{{folder_name}}</b> folder.
+    remove_asset_with_message_single: لقد قمت بإزالة <b>{{count}} الملف</b> من <b>{{folder_name}}</b> المجلد
+    remove_asset_with_message_multiple: لقد قمت بإزالة <b>{{count}} الملفات</b> من <b>{{folder_name}}</b> المجلد
 
     # jquery.asterion.behaviors.js
     rte_preview: معاينة
@@ -42,7 +42,7 @@ ar:
     delete_blog_post_confirm_msg: هل تريد فعلا حذف هذه المشاركة؟ لا يمكنك التراجع
     delete_blog_post_button: حذف المشاركة
     delete_blog_category_title: حذف التصنيف
-    delete_blog_category_confirm_msg: Really delete the {{name}} category?
+    delete_blog_category_confirm_msg: حقا حذف {{name}} التصنيف?
     delete_blog_category_button: حذف {{name}}
 
     # jquery.asterion.component.js
@@ -85,9 +85,9 @@ ar:
     error_loading_dialog: خطأ أثناء تحميل مربع الحوار
     ok: حسنا
     upgrade_now: قم بترقية الآن
-    dialog_submit_pro_only: ميزة للباقة المحترفة فقط. لن يتم حفظ أية تغييرات {{upgrade_now_link}}
+    dialog_submit_pro_only: ميزة الباقة المحترفة فقط. لن يتم حفظ أية تغييرات {{upgrade_now_link}}
     upgrade: ترقية
-    pro_only: للباقة المحترفين فقط
+    pro_only: الباقة المحترفين فقط
 
     # jquery.asterion.expandable.js
     no_template_found: لا يوجد اية قالب 
