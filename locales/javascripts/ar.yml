@@ -73,54 +73,52 @@ ar:
 
     # jquery.asterion.dialog.js
     discard_changes_msg: تنقل بعيدا عن هذا المربع سيتجاهل أي تغييرات غير محفوظة. ترك على أية حال؟
-    save_changes_msg: Save changes before leaving this form?
-    error_msg: An error occurred while processing this request.
-    auth_error_msg: Your session has expired.
-    save: Save
-    discard: Discard
-    save_changes: Save Changes?
-    yes: Yes
-    no: No
-    session_expired: Session Expired
-    error_loading_dialog: Error Loading Dialog
-    ok: Ok
-    upgrade_now: Upgrade now.
-    dialog_submit_pro_only: Pro Only Feature. Any changes will not be saved. {{upgrade_now_link}}
-    upgrade: Upgrade
-    pro_only: Pro Only
+    save_changes_msg: حفظ التغييرات قبل المغادرة من هنا؟
+    error_msg: حدث خطأ أثناء معالجة هذا الطلب
+    auth_error_msg:  انتهت الجلسة
+    save: حفظ
+    discard: تجاهل
+    save_changes: حفظ التغييرات؟
+    yes: نعم
+    no: لا
+    session_expired: انتهت الجلسة
+    error_loading_dialog: خطأ أثناء تحميل مربع الحوار
+    ok: حسنا
+    upgrade_now: قم بترقية الآن
+    dialog_submit_pro_only: ميزة للباقة المحترفة فقط. لن يتم حفظ أية تغييرات {{upgrade_now_link}}
+    upgrade: ترقية
+    pro_only: للباقة المحترفين فقط
 
     # jquery.asterion.expandable.js
-    no_template_found: no template found
+    no_template_found: لا يوجد اية قالب 
 
     # jquery.asterion.firstTimeHelp.js
     add_content_to_site: |
-      Use this button to add
-      content to your website.
+      إستخدم هذا الزر لاضافة محتوى الى موقعك
+      
     select_page_to_edit: |
-      Select a different page to edit on your website.
+      اختر صفحة مختلفة لتعديل على موقعك
     add_new_pages: |
-      Add new pages to your site quickly and easily.
+      أضف صفحات جديدة لموقعك بسرعة وسهولة
     manage_content: |
-      Upload files and Manage blog posts,
-      comments, and other content.
+      ارفغ الملفات وقم بإدارة المدون، والتعليقات، والمحتويات الأخرى
     change_site_wide_settings: |
-      Change your Site-wide settings, theme, and more.
+      قم بتغيير الإعدادات الخاصة بك على نطاق الموقع، والثيم، والمزيد
     hover_to_edit: |
-      Hover over content on your pages to edit it.
-      Drag the components to move them.
-    view_next_tip: View Next Tip
+      مرر الفارة فوق المحتوى على صفحاتك لتحريره. اسحب المكونات لنقلها
+    view_next_tip: عرض تلميح التالي
     tooltip_step_count: "{{current_step}} of {{number_of_steps}}"
-    done_tips: Done!
-    close_tips: close
-    next_tip: next tip
+    done_tips: تم
+    close_tips: إغلاق
+    next_tip: تلميح التالي
 
     # jquery.asterion.locationIndicators.js
-    location_empty: Location Empty
-    add_content: Add Content
+    location_empty: موقع فارغ
+    add_content: أضف محتوى
 
     # jquery.asterion.mapComponent.js
-    could_not_find_address: "Could not find address specified: {{status}}"
-    could_not_find_route: "Sorry, we couldn't find a route!"
+    could_not_find_address: "لا يمكن العثور على عنوان محدد: {{status}}"
+    could_not_find_route: "عذرا، لم نتمكن من العثور على المسار"
 
     # jquery.asterion.misc.js
     guestbook_component: Guestbook Component
