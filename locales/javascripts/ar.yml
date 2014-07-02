@@ -49,30 +49,30 @@ ar:
     css_id: CSS ID
 
     # jquery.asterion.componentEditor.js
-    moving_component_type: Moving {{type_placeholder}}
+    moving_component_type: متحرك {{type_placeholder}}
     drag_this_block: |
-      Drag this block to a new location.
-      Red areas will appear on all pages.
-      Drop it outside the page to cancel.
+      اسحب هذه الكتلة إلى موقع جديد
+      سوف تظهر المناطق الحمراء على كافة الصفحات
+      أسقطه خارج الصفحة لإلغاء
 
-    modify: Modify
-    theme_image: Theme Image
-    copyright: Copyright
-    edit: Edit
-    powered_by: Powered By
-    remove_powered_by: Remove Powered By Text
-    remove_powered_by_pro_only: Please upgrade to remove the Powered By message.
-    main_title: Main Title
-    sub_title: Sub Title
-    primary_navigation: Primary Navigation
+    modify: تعديل
+    theme_image: صورة الثيم
+    copyright: حقوق النشر
+    edit: تحرير
+    powered_by: مدعومة من
+    remove_powered_by: إزالة رسالة - مدعومة من
+    remove_powered_by_pro_only: الرجاء ترقية حسابك لإزالة رسالة - مدعومة من 
+    main_title: عنوان الرئيسي
+    sub_title: عنوان الفرعي
+    primary_navigation: الإنتقال الأولية
 
     # jquery.asterion.componentIndicators.js
-    place_on_every_page: Place Here - On Every Page
-    place_on_sub_page: All sub pages of {{page}}
-    place_on_this_page: Place Here - This Page Only
+    place_on_every_page: وضع هنا - في كل صفحة
+    place_on_sub_page: كل الصفحات الفرعية {{page}}
+    place_on_this_page: وضع هنا - هذه الصفحة فقط
 
     # jquery.asterion.dialog.js
-    discard_changes_msg: Navigating away from this dialog will discard any unsaved changes. Leave anyway?
+    discard_changes_msg: تنقل بعيدا عن هذا المربع سيتجاهل أي تغييرات غير محفوظة. ترك على أية حال؟
     save_changes_msg: Save changes before leaving this form?
     error_msg: An error occurred while processing this request.
     auth_error_msg: Your session has expired.
