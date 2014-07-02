@@ -121,45 +121,44 @@ ar:
     could_not_find_route: "عذرا، لم نتمكن من العثور على المسار"
 
     # jquery.asterion.misc.js
-    guestbook_component: Guestbook Component
-    only_one_guestbook: Only one Guestbook allowed per page
-    no_blog_component: No blog component
+    guestbook_component: عنصر سجل الزوار
+    only_one_guestbook: يسمح بـسجل زوار واحد لكل صفحة
+    no_blog_component: لا توجد عناصر المدونة
     no_blog_component_msg: |
-      You currently have no blog component, so no one will be able to see your posts!
-      Would you like to add a blog component?
-    yes_add_blog: Yes, Add Blog
-    no_add_blog: No Thanks
-    remove_component: Remove Component
-    readonly_component: Readonly!
-    cannot_delete_component: Deleting this component has been disabled
-    copy_component: Copy Component
-    cannot_copy_component: Copying this component has been disabled
-    restore_theme_image: Restore Theme Image to Default
+       لا توجد لديك أي عنصر للمدونة حاليا، لذلك لن يتمكن احد من رؤية مشاركاتك
+      هل تريد إضالة عنصر المدونة؟
+    yes_add_blog: نعم, أضف المدونة
+    no_add_blog: لا شكرا
+    remove_component: إزالة العنصر
+    readonly_component: للقراءة فقط
+    cannot_delete_component: تم تعطيل حذف هذا العنصر 
+    copy_component: نسخ العنصر
+    cannot_copy_component: تم تعطيل نسخ هذا العنصر
+    restore_theme_image:  استعادة الصورة إلى الافتراضي
     restore_theme_image_msg: |
-      This will remove the custom image you have chosen for this location and restore the default image for the theme.
-    use_default_image: Use Default Image
-    delete_page: Delete Page
+      سيؤدي ذلك إلى إزالة صورة مخصصة الذي اخترته لهذا المكان وسيعيد الصورة الافتراضية للثيم
+    use_default_image: استخدام صورة افتراضية
+    delete_page: حذف الصفحة
     delete_page_msg: |
-      Removing this page will irreversibly remove the page and all components associated with it.
-      Are you sure you want to remove this page?
-    delete_message: Delete Message
+      إزالة هذه الصفحة سيزيل الصفحة وكافة العناصر المرتبطة به. هل أنت متأكد بأنك تريد إزالة هذه الصفحة؟
+    delete_message: حذف الرسالة
     delete_message_msg: |
-      Really delete this message? This cannot be undone.
+      حل تريد فعلا حذف هذه الرسالة؟ لا يمكنك التراجع
     time:
-      just_now: just now
-      one_minute_ago: 1 minute ago
-      n_minutes_ago: "{{n}} minutes ago"
-      one_hour_ago: 1 hour ago
-      n_hours_ago: "{{n}} hours ago"
-      yesterday: yesterday
-      n_days_ago: "{{n}} days ago"
-      n_weeks_ago: "{{n}} weeks ago"
-      n_months_ago: "{{n}} months ago"
-      n_years_ago: "{{n}} years ago"
-    hidden_editor_msg: While the toolbar is hidden, all editing features are disabled.
-    show_editor: Show Editor
-    expand_blocks: Expand Blocks
-    collapse_blocks: Collapse Blocks
-    default_confirm_title: Confirmation
-    default_confirm_msg: Really do this?
-    default_confirm_action_button: Do It
+      just_now: الآن
+      one_minute_ago: قبل 1 دقيقة
+      n_minutes_ago: "{{n}} قبل عدة دقائق"
+      one_hour_ago: قبل 1 ساعة
+      n_hours_ago: "{{n}} قبل عدة ساعات"
+      yesterday: أمس
+      n_days_ago: "{{n}} قبل عدة أيام"
+      n_weeks_ago: "{{n}} قبل عدة اسابيع"
+      n_months_ago: "{{n}} قبل عدة أشهر"
+      n_years_ago: "{{n}} قبل عدة سنوات"
+    hidden_editor_msg: في حين أن شريط الأدوات مخفيا، كافة ميزات التحرير متعطلة
+    show_editor: عرض المحرر
+    expand_blocks: توسع الكتلات
+    collapse_blocks: إنهيار الكتلات
+    default_confirm_title: تأكيد
+    default_confirm_msg: فعلا قم بهذا؟
+    default_confirm_action_button: تم
