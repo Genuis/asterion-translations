@@ -3,84 +3,84 @@ ar:
   resource: 
     theme: 
       edit_html: 
-        edit_file: "Edit File: %{file}"
+        edit_file: "عدل الملف: %{file}"
         
       tags: {}
 
       edit: 
-        editing_file: "Editing File: %{file}"
+        editing_file: "تعديل الملف: %{file}"
 
       upload_theme: 
-        select_your_theme_zip_file: "Select your theme zip file:"
-        upload_theme: "Upload theme"
+        select_your_theme_zip_file: "حدد ثيمك في ملف مضغوط:"
+        upload_theme: "رفع ثيمات"
 
       advanced: 
-        upload_theme__download_theme: "Upload Theme / Download Theme"
-        customize_html: "Customize HTML"
-        creating_your_own_theme: "Creating Your Own Theme"
-        to_make_a_custom_theme_all_you: "To make a custom theme, all you need to know is HTML and CSS. There is no new templating language to learn!"
+        upload_theme__download_theme: "رفع الثيم / تحميل الثيم"
+        customize_html: "اش تي ام ال مخصص"
+        creating_your_own_theme: "إنشاء ثيمك بنفسك"
+        to_make_a_custom_theme_all_you: "لإنشاء ثيم مخصص، كل ما تحتاج إلى معرفته هو اش تي ام أو سي اس اس. ليس هناك لغة النموذجيه جديدة للتعلم"
         please_refer_to_our: 
-          text: "Please refer to our %{theme_documentation} in our wiki for help with customizing your theme or creating a new one."
-          theme_documentation: "theme documentation"
-        download_themes: "Download Themes"
-        blank_theme: "Blank Theme"
-        the_blank_theme_is_intended_to_be: "The blank theme is intended to be used as a starting point. It comes with a basic html file with comments, a sample directory structure, and some documentation to help get you going."
-        current_theme: "Current Theme"
-        download_a_copy_of_the_currently_installed: "Download a copy of the currently installed theme, allowing you to edit it on your computer. This will include all the themes assets (images, css, html, etc.)."
-        upload_theme: "Upload Theme"
-        select_your_theme_zip_file: "Select Your Theme .zip File"
-        you_have_not_yet_selected_any_files: "You have not yet selected any files to upload."
-        there_was_a_problem_with_your_theme: "There was a problem with your theme:"
-        upgrade_to_pro: "Upgrade to Pro "
-        for_custom_themes: "for custom themes."
-        upgrade_now: "Upgrade Now"
+          text: " يرجى الرجوع إلى موقعنا في ويكي للحصول على المساعدة في تخصيص ثيمك أو إنشاء واحدة جديدة "
+          theme_documentation: "توثيق الثيم"
+        download_themes: "تحميل الثيمات"
+        blank_theme: "ثيم فارغ"
+        the_blank_theme_is_intended_to_be: "يهدف الثيم الفارغ لإستخدام كنقطة انطلاق.  يأتي مع ملف اش تي ام ال الأساسي مع التعليقات، عيّنة بنية دليل، وبعض الوثائق للمساعدتك في البدأ"
+        current_theme: "الثيم الحالي"
+        download_a_copy_of_the_currently_installed: "قم بتحميل نسخة من الثيم المثبت حاليا، مما يسمح لك لتحريره على كمبيوترك . سيشمل ذلك جميع أصول الثيمات - الصور، سي اس اس، أتش تي أم أل، الخ"
+        upload_theme: "رفع الثيم"
+        select_your_theme_zip_file: "اختر ثيمك بملف مضغوط"
+        you_have_not_yet_selected_any_files: "لم تقم بتحديد أي ملفات حتى الآن للرفع"
+        there_was_a_problem_with_your_theme: "كانت هناك مشكلة مع ثيمك:"
+        upgrade_to_pro: "ترقية حسابك إلى باقة محترفين "
+        for_custom_themes: "للثيمات المخصصة"
+        upgrade_now: "ترقية حساب"
         
       toolbar: 
-        search: "Search:"
+        search: "بحث"
 
       customize: 
-        customize_html: "Customize HTML"
-        upload_theme__download_theme: "Upload Theme / Download Theme"
-        css_files: "CSS Files"
-        html_file: "HTML File"
-        stylesheet: "Stylesheet"
-        javascript_file: "Javascript File"
-        theme_files: "Theme Files"
-        upgrade_to_pro: "Upgrade to Pro "
-        to_edit_html_and_js_files: "to edit .html and .js files."
-        upgrade_now: "Upgrade Now"
-        customizing_your_theme: "Customizing Your Theme"
-        these_are_all_of_the_html_and: "These are all of the html and css files in your theme."
-        customizing_your_theme_requires_knowledge_of_html: "Customizing your theme requires knowledge of HTML and CSS and is intended for advanced users. "
+        customize_html: "تخصيص اش تي ام ال"
+        upload_theme__download_theme: "ارفع الثيم / تحميل الثيم"
+        css_files: "ملف سي اس اس"
+        html_file: "ملف اش تي ام ال"
+        stylesheet: "ورقة نمط"
+        javascript_file: "ملف حافا سكربت"
+        theme_files: "ملفات الثيم"
+        upgrade_to_pro: "ترقية حسابك إلى باقة محترفين "
+        to_edit_html_and_js_files: "لتعديل على الملفات اش تي ام ال وجي اس"
+        upgrade_now: "ترقية حساب"
+        customizing_your_theme: "تخصيص ثيمك"
+        these_are_all_of_the_html_and: "هذه كلها من ملفات اش تي ام ال و السي اس اس في ثيمك"
+        customizing_your_theme_requires_knowledge_of_html: "تخصيص ثيم مخصص يتطلب معرفة اش تي ام ال و سي اس اس - وهو موصى فقط للمستخدمين المتقدمين "
         if_you_just_want_to_change_your: 
-          text: "If you just want to change your theme, you should %{select_a_new_theme} from our existing library instead."
-          select_a_new_theme: "select a new theme"
+          text: "إذا ترغب فقط في تغيير ثيمك، يجب عليك اختيار ثيم جديد من مكتبتنا الحالية"
+          select_a_new_theme: "اختر ثيم جديد"
         for_in_depth_documentation_you_can_view: 
-          text: "For in depth documentation, you can view the %{theme_documentation} at any time."
-          theme_documentation: "theme documentation"
-        you_can_download_an_archive_of_this: "You can download an archive of this theme and all of its assets (images, css, html) if you would like to further customize it or edit it on your computer. If you would prefer to create a new theme from scratch, we have a blank theme template with instructions available as well."
+          text: "للتوثيق المتعمق، يمكنك عرض توثيق الثيم في أي وقت"
+          theme_documentation: "توثيق الثيم"
+        you_can_download_an_archive_of_this: "يمكنك تحميل أرشيفا من هذا الثيم وجميع أصولها (الصور، سي اس اس، أتش تي أم أل) إذا كنت ترغب في تخصيصة أو تحريره بشكل اوسع على كمبيوترك. إذا كنت تفضل إنشاء ثيم جديد من الصفر، لدينا قالب ثيم فارغ مع تعليمات المتاحة"
         either_of_these_can_be_downloaded_by: 
-          text: "Either of these can be downloaded by going to the %{upload_theme} section."
-          upload_theme__download_theme: "Upload Theme / Download Theme"
+          text: "أي من هذه يمكن تحميلها  بالذهاب إلى قسم رفع ثيم"
+          upload_theme__download_theme: "رفع الثيم / تحميل الثيم"
         
       update: 
-        update_theme: "Update Theme"
-        would_you_like_to_reinstall_your_theme: "Would you like to re-install your theme now?"
+        update_theme: "تحيث ثيم"
+        would_you_like_to_reinstall_your_theme: "هل تريد إعادة تثبيت ثيمك الآن؟"
         updating_a_theme_may_cause_some_slight: |
-          Updating a theme may cause some slight visual changes to your website, 
-          but will ensure you have the latest version of the theme.
+          تحديث ثيمك قد يسبب بعض التغيرات البصرية لموقعك،
+          ولكن سوف يضمن لك الحصول على أحدث نسخة من الثيم
 
       select: 
-        select_theme: "Select Theme"
-        switching_themes_will_delete_your_content_click: "Switching themes will delete your content. Click OK to proceed anyway or CANCEL to save your work"
+        select_theme: "اختر ثيم"
+        switching_themes_will_delete_your_content_click: " التحويل بين الثيمات سيحذف محتوياتك. اختر موافق للمتابعة أو إلغاء لحفظ عملك"
         
-        loading_themes: "Loading themes ..."
+        loading_themes: "جاري تحميل الثيم..."
 
       theme: 
-        this_theme_features_editable_header_image: "This theme features editable header image!"
-        this_theme_has_a_responsive_layout: "This theme has a responsive layout!"
-        current_theme: "Current Theme"
-        reinstall: "Reinstall"
-        install: "Install"
-        page_layouts_for: "Page Layouts for %{theme_name}"
+        this_theme_features_editable_header_image: "هذا الثيم يضم صورة الرأس قابلة للتعديل"
+        this_theme_has_a_responsive_layout: "هذا الثيم يحتوي على تصميم مستجب"
+        current_theme: "الثيم الحالي"
+        reinstall: "إعادة تثبيت"
+        install: "تثبيت"
+        page_layouts_for: "تصميمات الصفحة لاسم الموضوع"
 
