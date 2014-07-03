@@ -162,10 +162,10 @@ ar:
       code_highlighting_theme_preview: {}
 
       code_highlighting_theme: 
-        select_code_highlighting_theme: "Select Code Highlighting Theme"
-        select_theme: "Select Theme"
-        with_code_highlighting_we_will_automatically_colorcode: "With Code Highlighting, we will automatically color-code any snippets of programming code you include in blog posts or custom content blocks. The theme you select here determines the color scheme we will use for highlighting your code."
-        code_highlighting_theme: "Code Highlighting Theme"
-        preview: "Preview"
+        select_code_highlighting_theme: "اختر ثيم لتبريز الكود"
+        select_theme: "اختر الثيم"
+        with_code_highlighting_we_will_automatically_colorcode: "مع تبريز الكود، نحن سنلون تلقائيا أي قصاصات تبرمج الرمز التي تدرجه في المدونة أو في كتل محتوى مخصص.  الثيم الذي تختاره هنا سيحدد نظام الألوان الذي نستخدمه لتبريز اكوادك"
+        code_highlighting_theme: "ثيم مبرز الكود"
+        preview: "معاينة"
         
         
