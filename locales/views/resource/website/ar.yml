@@ -4,8 +4,7 @@ ar:
     website: 
       modify_header: 
         html_editor: "محرر أش تي أم ال"
-        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفينOnly pages in navigation"
-         all_pages: "All pages" "
+        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين"
         and_gain_the_ability_to_insert_html: "واكتسب القدرة على إدراج اش تي ام ال أو جافا سكريبت في رموز اخرى من موقعك"
         upgrade_now: "ترقية حسابكن"
         website_head_tag: "علامة رئيسية للموقع"
