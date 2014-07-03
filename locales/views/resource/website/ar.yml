@@ -3,27 +3,28 @@ ar:
   resource: 
     website: 
       modify_header: 
-        html_editor: "HTML Editor"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
-        and_gain_the_ability_to_insert_html: "and gain the ability to insert html or javascript into the &lt;head&gt; tag of your site."
-        upgrade_now: "Upgrade Now"
-        website_head_tag: "Website Head Tag"
-        this_requires_knowledge_of_html_and_is: "This requires knowledge of HTML and is intended for advanced users. Code will be appended inside <head></head>"
+        html_editor: "محرر أش تي أم ال"
+        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفينOnly pages in navigation"
+         all_pages: "All pages" "
+        and_gain_the_ability_to_insert_html: "واكتسب القدرة على إدراج اش تي ام ال أو جافا سكريبت في رموز اخرى من موقعك"
+        upgrade_now: "ترقية حسابكن"
+        website_head_tag: "علامة رئيسية للموقع"
+        this_requires_knowledge_of_html_and_is: "هذا يتطلب معرفة اش تي ام ال، ويقصد للمستخدمين المتقدمين. سيتم إلحاق التعليمات البرمجية داخل <head></head>"
         
         
 
       metatags: 
-        sitewide_seo_settings: "Site-wide SEO Settings"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
-        to_add_a_sitewide_description_and_keywords: "to add a site-wide description and keywords."
-        setting_up_keywords_and_a_description_of: "Setting up keywords and a description of your website can improve search engine ranking."
-        upgrade_now: "Upgrade Now"
-        keywords: "Keywords"
-        keywords_are_a_comma_separated_list_of: "Keywords are a comma separated list of words that describe your site to search engines. (eg. sports, hockey, nhl, news, canucks)"
-        keywords_that_describe_your_website_for_search: "Keywords that describe your website for search engines, comma seperated (eg: sports,hockey)"
-        description: "Description"
-        your_site_description_should_be_a_regular: "Your site description should be a regular paragraph that describes what your site is about. Do not use lists of keywords here."
-        description_of_your_website_for_search_engines: "Description of your website for search engines"
+        sitewide_seo_settings: "إعدادات مستوى الموقع و SEO"
+        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين "
+        to_add_a_sitewide_description_and_keywords: "لإضافة وصف والكلمات الرئيسية على نطاق موقع "
+        setting_up_keywords_and_a_description_of: "يمكن وضع كلمات ووصف موقعك لتحسين محرك البحث وتصنيفه"
+        upgrade_now: "ترقية حساب"
+        keywords: "الكلمات الرئيسية"
+        keywords_are_a_comma_separated_list_of: "الكلمات الرئيسية هي قائمة مفصولة بفواصل من الكلمات التي تصف موقعك لمحركات البحث. (مثل الرياضة، والهوكي، والأخبار، كانوكس)"
+        keywords_that_describe_your_website_for_search: "الكلمات الرئيسية التي تصف موقعك لمحركات البحث، مفصولة بفواصل - مثل: الرياضة، والهوكي"
+        description: "وصف"
+        your_site_description_should_be_a_regular: "يجب أن يكون وصف موقعك فقرة عادية التي تصف موقعك. لا تستخدم قوائم الكلمات الرئيسية هنا"
+        description_of_your_website_for_search_engines: "وصّف موقعك لمحركات البحث"
         
         
 
@@ -32,36 +33,35 @@ ar:
       robots_block: {}
 
       modify_sitemap: 
-         editing_website_sitemapxml: "Editing Website Sitemap.xml"
-         a_sitemap_allows_you_to_inform_search: "A sitemap allows you to inform search engines about pages on your website that are available for crawling."
-         sitemap_display: "Sitemap Display"
-         select_what_gets_displayed_in_your_sitemap: "Select what gets displayed in your sitemap."
-         sitemap_content: "Sitemap Content"
-         only_pages_in_navigation: "Only pages in navigation"
-         all_pages: "All pages"
-         custom_sitemap: "Custom Sitemap"
-         copy_and_paste_your_sitemapxml_here: "Copy and paste your sitemap.xml here"
+         editing_website_sitemapxml: "تحرير خريطة الموقع. أكس ام ال"
+         a_sitemap_allows_you_to_inform_search: "خريطة الموقع يسمح لك لإبلاغ محركات البحث عن صفحات على موقعك التي تمكنك من زحف"
+         sitemap_display: "عرض خريطة الموقع"
+         select_what_gets_displayed_in_your_sitemap: "حدد ما يتم عرضه في موقعك"
+         sitemap_content: "محتوى خريطة الموقع"
+         only_pages_in_navigation: فقط في صفحات متنقلة
+         custom_sitemap: "خريطة موقع إفتراضي"
+         copy_and_paste_your_sitemapxml_here: "انسخ والصق كود أكس ام ال هنا"
          
          
 
       primary_navigation: {}
 
       modify_robotstxt: 
-        sitewide_seo_settings: "Site-wide SEO Settings"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
-        to_modify_your_robotstxt_file: "to modify your robots.txt file."
-        you_can_use_a_robotstxt_file_to: "You can use a robots.txt file to tell search engines which pages of your site to avoid, or which ones to look at."
-        upgrade_now: "Upgrade Now"
-        robotstxt_file_contents: "Robots.txt File Contents"
-        you_can_use_a_robotstxt_file_to: "You can use a robots.txt file to tell search engines which pages of your site to avoid, or which ones to look at."
-        more_information_on_robotstxt_and_how_to: "More information on robots.txt and how to use it."
+        sitewide_seo_settings: "إعدادات مستوى الموقع و SEO"
+        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين "
+        to_modify_your_robotstxt_file: "لتعديل ملف robots.txt"
+        you_can_use_a_robotstxt_file_to: " robots.txt يمكنك استخدام ملف روبوتس لإبلاغ محركات البحث عن الصفحات التي تريد تجنبه، أو الصفحات التي تريد النظر اليها"
+        upgrade_now: "ترقية حساب"
+        robotstxt_file_contents: "robots.txt متحويات ملف الروبوتس"
+        you_can_use_a_robotstxt_file_to: "robots.txt يمكنك استخدام ملف روبوتس لإبلاغ محركات البحث عن الصفحات التي تريد تجنبه، أو الصفحات التي تريد النظر الي"
+        more_information_on_robotstxt_and_how_to: "مزيد من المعلومات حول ملف روبوتس وكيفية استخدامه"
         
         
 
       heading: 
-        sitewide_settings: "Site-wide Settings"
-        website_heading_type: "Website Heading Type"
-        choose_a_text_title_and_subtitle_an: "Choose a text title and sub-title, an image, or no heading at all."
+        sitewide_settings: "إعدادات مستوى الموقع"
+        website_heading_type: "نوع عنوان الموقع"
+        choose_a_text_title_and_subtitle_an: ""
         image_heading: "Image Heading"
         browse_files: "Browse Files"
         main_title: "Main Title"
