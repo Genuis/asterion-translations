@@ -96,16 +96,16 @@ ar:
         do_you_want_to_remove_the_link: "هل تريد إزالة رابط الهامش؟"
         yes_remove_the_link: "نعم, إزالة الرابط"
         no_leave_it_alone: "لا,اتركه كما هو"
-        if_you_upgrade_you_can_remove_the: "If you upgrade you can remove the link to us in the footer and get access to a lot more features."
+        if_you_upgrade_you_can_remove_the: "ترقية حسابك تمكنك من إزالة الرابط في الهامش والحصول على الكثير من الميزات"
         
         
 
       custom_sitemap: 
-        editing_website_sitemapxml: "Editing Website Sitemap.xml"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
-        to_modify_your_sitemap: "to modify your sitemap."
-        a_sitemap_allows_you_to_inform_search: "A sitemap allows you to inform search engines about pages on your website that are available for crawling."
-        upgrade_now: "Upgrade Now"
+        editing_website_sitemapxml: "تحرير موقع اكس أم ال"
+        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين "
+        to_modify_your_sitemap: "لتعديل على خريطة موقعك"
+        a_sitemap_allows_you_to_inform_search: "خريطة الموقع يسمح لك لإبلاغ محركات البحث عن صفحات على موقعك التي تمكنك من زحف"
+        upgrade_now: "ترقية حساب"
        
 
       copyright: 
@@ -113,51 +113,51 @@ ar:
         
 
       tabs: 
-        basic: "Basic"
-        heading: "Heading"
-        favicon: "Favicon"
-        head_tag: "Head Tag"
+        basic: "أساسي"
+        heading: "عنوان"
+        favicon: "فافيكون"
+        head_tag: "علامة الرئيسية"
 
       sub_navigation: {}
 
       news: 
-        whats_new: "What's New"
+        whats_new: ما الجديد؟"
 
       robots: {}
 
       navigation: 
-        primary_navigation: "Primary Navigation"
+        primary_navigation: "الملاحة الإفتراضية"
         
         
 
       feedback: 
-        feedback__suggestions: "Feedback & Suggestions"
-        give_us_your_feedback__suggestions_praises: "Give us your feedback - suggestions, praises, ideas, bug reports - we want to hear what you think!"
-        your_message: "Your Message"
-        your_message_will_not_be_replied: "* Your message will not be replied to, please contact support instead for assistance."
+        feedback__suggestions: "اراء واقتراحات"
+        give_us_your_feedback__suggestions_praises: "شاركونا رأيكم - اقتراحاتكم, اطرائتكم وأفكاركم أو اية ملاحظات اخرى  - نريد السماع منكم"
+        your_message: "رسالتك"
+        your_message_will_not_be_replied: "* لا يتم الرد على رسالتك، الرجاء الاتصال بالدعم بدلا للحصول على المساعدةدة"
 
       favicon: 
-        sitewide_settings: "Site-wide Settings"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
-        to_change_the_favicon_of_your_site: "to change the favicon of your site, or upload a custom favicon."
-        upgrade_now: "Upgrade Now"
-        a_favicon_represents_your_website_browsers_display: "A favicon represents your website. Browsers display it in the browser address bar and next to the page name in a list of bookmarks."
+        sitewide_settings: "إعدادات مستوى الموقع"
+        upgrade_your_account_to_pro: "ترقية حساب الى باقة المحترفين "
+        to_change_the_favicon_of_your_site: "لتغيير فافيكون موقعك، أو تحميل فافيكون مخصص"
+        upgrade_now: "ترقية حساب"
+        a_favicon_represents_your_website_browsers_display: "يمثل فافيكون موقعك الاكتروني.  سيعرض متصفح ويب هذا الرمز في شريط عنوان المتصفح وبجانب اسم الصفحة في قائمة العلامات"
         your_favicon: "Your Favicon"
-        favicon_will_take_time_to_update: "Favicon will take time to update due to the caching done by the browser. Don\'t worry if it doesn\'t change right away."
+        favicon_will_take_time_to_update: "تحميل وتحديث فافيكون يستغرق وقتا طويلا لسبب التخزين المؤقت الذي يقوم به المتصفح. لا تقلق إذا لا يتغير فورا"
         
         
         
-        upload_a_favicon: "Upload a Favicon"
-        select_file_to_upload: "Select File to Upload"
-        you_have_not_yet_selected_any_files: "You have not yet selected any files to upload."
-        favicon_a_16x16_pixel_ico_file: "Favicon: a 16x16 pixel .ico file."
-        favicon_library: "Favicon Library"
-        you_can_also_choose_your_favicon_from: "You can also choose your favicon from our library:"
+        upload_a_favicon: "تحميل فافيكون"
+        select_file_to_upload: "اختر ملف لتحميل"
+        you_have_not_yet_selected_any_files: "لم تقم بتحديد أي ملفات حتى الآن لتحميل"
+        favicon_a_16x16_pixel_ico_file: "حجم الفافيكون 16في 16 بكسل واسم الملف ico file"
+        favicon_library: "مكتبة فافيكون"
+        you_can_also_choose_your_favicon_from: "يمكنك ايضا اختيار الفافيوكو من مكتبتنا:"
         
       seo_tabs: 
-        metatags: "Metatags"
-        robots: "Robots"
-        sitemap: "Sitemap"
+        metatags: "الكلمات الوصفية"
+        robots: "روبوتس"
+        sitemap: "خريطة الموقع"
 
       code_highlighting_theme_preview: {}
 
