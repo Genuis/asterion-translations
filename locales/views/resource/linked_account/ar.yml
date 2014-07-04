@@ -38,42 +38,41 @@ ar:
         description: "وصف"
         add_account: "اضافة حساب"
         
-        are_you_sure: "Are you sure you want to remove this linked account?"
-        delete_linked_account: "Delete Linked Account"
+        are_you_sure: "هل أنت متأكد أنك تريد إزالة هذا الحساب المرتبط؟"
+        delete_linked_account: "إزالة الحساب المرتبط"
 
       book_fresh: 
-        bookfresh_setup: "BookFresh Setup"
+        bookfresh_setup: "اعدادات بوكفريش"
 
       linked_account: 
-        remove: "Remove"
+        remove: "إزالة"
 
       ecwid: 
-        ecwid_setup: "Ecwid Setup"
+        ecwid_setup: "Ecwid إعدادات"
         ecwid: "Ecwid"
-        makes_it_easy_to_create: | makes it easy to create your own online shopping cart. Setup your account by entering your email
-          address and store name below followed by a password. If you do not have a Ecwid account, one will be created for you for free!
-        email_address: "Email Address"
-        create_a_new_ecwid_account: "Create a New Ecwid Account"
-        store_name: "Store Name"
-        password: "Password"
-        password_confirmation: "Password Confirmation"
-        use_an_existing_ecwid_account: "Use an Existing Ecwid Account"
-        ecwid_store_id: "Ecwid Store ID"
-        find_your_store_id_by_logging_into_your_: "Find your Store ID by logging into your "
-        ecwid_account: "Ecwid Account"
-        your_store_id_will_a_number_something_like_553258: "Your Store ID will a number, something like: '553258'."
-        next_step: "Next Step"
-        create_account: "Create Account"
+        makes_it_easy_to_create: | إجعل إنشاء الحساب سهل للتسوق عبر النت. قم بإعداد حسابك بإدخال البريد الإلكتروني الخاص بك واسم المتجر أدناه متبوعا بكلمة مرور. إذا لم يكن لديك حساب، سنقوم بإنشائه لك مجانا في ecwid
+        email_address: "البريد الألكتروني"
+        create_a_new_ecwid_account: "إنشاء حساب جديد في ecwid"
+        store_name: "اسم المتجر"
+        password: "كلمة المرور"
+        password_confirmation: "تأكيد كلمة المرور"
+        use_an_existing_ecwid_account: "استخدام حساب موجود في ecwid"
+        ecwid_store_id: "رقم مستخدم لمتجر ecwid"
+        find_your_store_id_by_logging_into_your_: "ابحث عن رقم متجرك عن طريق الدخول إلى حسابك "
+        ecwid_account: "Ecwid حساب"
+        your_store_id_will_a_number_something_like_553258: "رقم متجرك سيكون 555345 شي من هذا القبيل"
+        next_step: "الخطوة التالية"
+        create_account: "إنشاء حساب"
         
 
       denied: {}
 
       facebook: 
-        link_your_facebook_account: "Link your Facebook Account"
-        account_linking_instructions: "Account Linking Instructions"
-        in_order_for_us: "In order for us to be able to access your Facebook information, we'll need to redirect you to the Facebook website so that you can authorize us."
-        allowing_us_offline_access: "Allowing us offline access will let us pull your profile information, photos, and allow you to post to your wall from your website."
-        connect_with_facebook: "Connect With Facebook"
-        next_step: "Next Step"
+        link_your_facebook_account: "اربط حسابك في الفيسبوك"
+        account_linking_instructions: "تعليمات ربط الحساب"
+        in_order_for_us: "حتى يتسنى لنا الوصول إلى معلوماتك في الفيسبوك، سوف نوجهك إلى موقع الفيسبوك حتى تتمكن بإعطائنا إذن "
+        allowing_us_offline_access: "سماحك لنا للوصول الغير متصل عاى حسابك يمكننا  في سحب معلومات ملفك الشخصي، والصور، ويسمح لك بوضعها على صفحتك من موقعك"
+        connect_with_facebook: "تواصل مع الفيسبوك"
+        next_step: "الخطوة التالية"
         
 
