@@ -1,234 +1,234 @@
 ar:
   g:
-    blogging: Blogging
-    content: Content
-    ecommerce: Ecommerce
-    multimedia: Multimedia
-    social: Social
+    blogging: تدوين
+    content: محتوى
+    ecommerce: تجارة الكترونية
+    multimedia: مالتيميديا
+    social: اجتماعي
 
   c:
     sliced_slideshow:
-      name: 3D Slideshow
-      tags: slider, 3d, carousel, effect, images, pictures, photography, slideshow
+      name: عرض الصور ثلاثي الأبعاد
+      tags: المنزلق، ثلاثي الأبعاد، دائري، تأثير، الصور، فوتوغرافية, عرض الشرائح
       desc: |
-        Add a 3D slider to your website to display your images with interesting transition effects.
-    audio_player:
-      name: Audio Player
-      tags: media,audio,mp3,music,song,playlist,tunes
+        معأضف منزلق ثلاثي الأبعاد "ثري دي" لموقعك لعرض صورك بطريقة مثالية حيث تتغير الصور بشكل مذهل ورائعام
+    audio_player: 
+      name: مشّغل الصوت
+      tags: وسائل الإعلام، الصوت، أم بي ثري، الموسيقى، الغناء، التشغيل، الإيقاعات
       desc: |
-        This Component will allow you to display a playlist of mp3 files you have uploaded to be played either automatically when your page loads, or manually by the site visitor.
+         يسمح لك هذا العنصر بعرض قائمة من الملفات الصوتية "ام بي ثري" التي قمت بتحميلها. أن يتم تشغيله إما تلقائيا عند تحميل الموقعك، أو يدويا من قبل زوار موقعك
     blog_archive:
-      name: Blog Archive
-      tags: blog,common,dynamic,journal,diary,post,entry,writing,archive,categories,months,tags
+      name: ارشيف المدونة
+      tags: المدونة، مشترك، داينميك، مجلة، مذكرات، تعليقات، الدخول، الكتابة، الأرشيف، التصنيفات، أشهر، العلامات
       desc: |
-        This component allows you to provide links to your archived posts by dates, tags or categories for organized and convenient access to your old blog posts.
+        يسمح لك هذا العنصر بتوفير وصلات إلى المدخلات المؤرشفة بالتاريخ، والعلامات أو الفئات لكي تتمكن بالوصول الى مدوناتك القديمة بالشكل منظم وملاءماءم 
     blog_comment:
-      name: Blog Comments
-      tags: blog,comments,recent
+      name: تعليقات المدونة
+      tags: المدونة, التعليقات, الاخير
       desc: |
-        This component will show recent comments made on your blog posts. By default, it will add a recent comments RSS feed to the page or pages that the component is on.
+         هذا العنصر يظهر لك التعليقات الأخيرة التي كتبت في مدونتك. بالشكل الافتراضي، فإنه يضيف لك آخر التعليقات الى الصفحة الرئيسية أو  الى الصفحات التي يوجد بها العنصر
     blog:
-      name: Blog Posts
-      tags: blog,common,dynamic,journal,diary,post,entry,writing
+      name: تقبيسات المدونة
+      tags: المدونة، المشتركة، داينميكة، المجلة، مذكرات، تعليقات، دخول، الكتابة
       desc: |
-        Embed your blog posts and choose how you want to display them, whether it be a list or full posts, among other options. Use this component to introduce a blog aspect to your site and use the settings to display only the posts you want, exactly how you want them.
+         قم بتضمين مشاركات المدونة واختر الطريقة التي تريد عرضها، سواء كانت قائمة أو مشاركات كاملة، من بين خيارات أخرى. استخدم هذا العنصر لوضع المدونة الى موقعك واستخدم الإعدادات لعرض المشاركات التي تريد عرضها فقط، بالضبط كما تريد ان تعرضها
     blog_search:
-      name: Blog Search
-      tags: blog,search,archive
+      name: بحث مدونة
+      tags: المدونة, البحث, الأرشيف
       desc: |
-        Use this component to provide a search box for your blog so that visitors can search through your past posts by keyword.
+         استخدم هذا العنصر لتوفير مربع البحث للمدونة الخاصة بك بحيث يمكن للزوار البحث عن المشاركات التي كتبها بكلمة أو احرف
     blogroll:
-      name: Blogroll
-      tags: news,rss,atom,feed,syndicatation,syndicate,blog
+      name: المدونات
+      tags: أخبار، أر أس أس، الأعلاف, القروض المشتركة، النقابة، المدونة
       desc: |
-        This component allows you to list and link to your favorite blogs. Display icons, titles and a short summary of the last post in each blog, among other options.
+         يسمح لك هذا العنصر لوضع قائمة من مشاركاتك المفضلة. قم بعرض الرموز، وعناوين وملخص قصير لآخر مشاركة في كل مدونة، من بين خيارات أخرى
     bravenet:
-      name: Bravenet Web Apps
-      tags: bravenet, apps, web apps, tools, forum, calendar
+      name: تطبيقات ويب برافانت
+      tags: برافانت، تطبيقات، تطبيقات الويب، أدوات، منتدى، تقويم
       desc: |
-        Add Bravenet Web Apps to your site.
+         اضف التطبيقات برافانت الى موقعك
     book_fresh:
-      name: BookFresh Scheduling
-      tags: appointment,schedule,business,calendar
+      name: محدد مواعيد بوكفريش
+      tags: موعد، الجدول الزمني، الأعمال ، التقويم
       desc: |
-        The Bookfresh component makes it easy to accept online appointments from new and existing clients. Just register a Bookfresh account and allow your visitors to schedule with your business in seconds!
+         بوكفريش هو عنصر يسهلك بقبول مواعيد على الانترنت من العملاء الحاليين والعملاء الجدد. فقط قم بانشاء حساب في بوكفريش ودع زوارك لحجز موعد في ثوان
     form:
-      name: Contact Form
-      tags: contact,request,email,form,submit,common
+      name: نموذج إتصال
+      tags: الاتصال، طلب، البريد الإلكتروني، النموذج، التقديم، المشتركة
       desc: |
-        Display a contact form on your site that visitors can use to e-mail you submissions. Contact forms can be created using several entry field types to create a form as simple or complex as you want, including the ability to create a thank you page after submission.
+        اضعيبب اضغ نموذج اتصال على موقعك التي يمكن للزوار استخدامها لمراسلتك مباشرة على بريدك الاكتروني. يمكن إنشاء نموذج اتصال باستخدام عدة أنواع وأشكال من حقل لإنشاء نموذج بسيط أو معقد على النحو الذي تريد، بما في ذلك القدرة على انشاء رسالة شكر بعد عملية مراسلة
     delicious:
       name: Del.icio.us
-      tags: bookmarks,delicious,social,links
+      tags: العناوين المحفوظة، لذيذ, الاجتماعية، روابط
       desc: |
-        Display a list of your recently bookmarked pages associated with your Del.icio.us account.
+         إعرض قائمة من صفحاتك المفضلة مؤخرا والمرتبط بحساب ديليسويس الخاص بك
     ebay_items:
-      name: Ebay Listings
-      tags: ebay,store,buy,shopping,sell,business
+      name: قائمة إي باي
+      tags: ايباي، متجر، شراء، تسوق، بيع، الأعمال
       desc: |
-        Display eBay items you`re selling filtered by auction or fixed price items only, store items only, or all items and set their order according to price, time left on the auctions or the date the items were listed.
+        إعرض العناصر التي تبيعها مع الإي باي وقم بتعيينها بالمزاد أو بالسعر المحدد فقط،  أو المخزن فقط، أو كل العناصر وقم بتعيين ترتيبها وفقا لسعر أو الوقت المتبقي على المزادات أو التاريخ
     ecwid_shopping_bag:
-      name: Ecwid Shopping Bag
-      tags: ecwid,ecommerce,buy,shopping,sell,payment,business,store,cart
+      name: Ecwid حقيبة تسوق
+      tags: ecwid التجارة الإلكترونية، شراء، التسوق، بيع، دفع، أعمال، متجر، عربة تسوق
       desc: |
-       Create a digital shopping bag for your website. This component will allow customers visiting your website to drag and drop-in items for checkout.
+        إنشئ حقيبة تسوق الرقمي لموقعك. هذا العنصر يتيح للعملاء الذين يزورون موقعك لسحب وإسقاط المواد للشراء
     ecwid_product_listing:
-      name: Ecwid Product Listing
-      tags: ecwid,ecommerce,buy,shopping,sell,payment,business,store,cart
+      name: Ecwid قائمة المنتجات
+      tags: ecwid التجارة الإلكترونية، شراء، التسوق، بيع، دفع، أعمال، متجر، عربة تسو
       desc: |
-        Display products from your Ecwid.com online store. This component will allow customers visiting your website to select and purchase items.
+        إعرض منتجاتك من متاجر ايسي دلبيو. هذا العنصر يتيح لزوار موقعك الإختيار وشراء المواد  ecwid.com
     ecwid_product_search:
-      name: Ecwid Product Search
-      tags: ecwid,ecommerce,buy,shopping,sell,payment,business,store,cart
+      name: Ecwid بحث عن منتج
+      tags: ecwid التجارة الإلكترونية، شراء، التسوق، بيع، دفع، أعمال، متجر، عربة تسو
       desc: |
-        Create a search box for the products you sell. This component will allow customers visiting your website to easily browse through items in your Ecwid.com online store.
+        إنشئ مربع البحث على المنتجات التي تقوم ببيعها. ستتيح هذه الخاصية للعملاء موقعك التصفح بكل سهولة من خلال السلع الموجودة في متجر إي سي دبليو أي دي
     facebook_activity:
-      name: Facebook Site Activity
-      tags: social,widget,activity,updates,facebook
+      name: نشاط موقع فيسبوك
+      tags: الاجتماعية، الويجت، النشاطات التحديثات، الفيسبوك
       desc: |
-        The Facebook Activity component displays the most interesting recent activity taking place on your Facebook page. The activity feed displays stories both when users like content on your site and when users share content from your site back to Facebook.
+          مكون الفيسبوك يعرض لك النشاط الأخير ومثير للاهتمام التي تجري على صفحتك في الفيسبوك. يعرض النشاط القصص سواء عند اعجابهم أي محتوى على موقعك أو عند قيامهم بمشاركة المحتوى من موقعك إلى الفيسبوك
     facebook_like:
-      name: Facebook Like Button
-      tags: social,widget,like,facebook,button
+      name: زر اعجاب فيسبوك
+      tags: الاجتماعية، الويجت، الأعجاب، الفيسبوك, الزر
       desc: |
-        This component enables users to make connections to your pages and share content back to their friends on Facebook with one click. Set display, font, colors, layout style and more!
+        هذا المكون يمكن المستخدمين من اتصال لصفحات موقعك ومشاركة المحتوى لأصدقائهم في الفيسبوك بنقرة واحدة. تعيين العرض والخط والألوان ونمط التخطيط والمزيد
     facebook_status:
-      name: Facebook Status Updates
-      tags: social,widget,updates,status,facebook
+      name: تحديث حالات الفيسبوك
+      tags: الاجتماعية، الويجت، التحديثات, الحالة, الفيسبوك,
       desc: |
-        Display your recent status updates from Facebook on your website! Visitors can also visit the update directly on Facebook by clicking it`s time stamp below the update, to comment on or like it.
+        ق إعرض تحديثات "الحالة"  الأخيرة من الفيسبوك على موقعك! يمكن للزوار أيضا زيارة رسالة "الحالة" مباشرة بالضغط على الطابع الزمني أدناه، لترك تعليق أو الضغط على اعجاب
     flash:
-      name: Embed Flash
-      tags: flash,embed,interactive,swf
+      name:  فلاش مضمن
+      tags: الفلاش, ايمبد, متفاعل, swf
       desc: |
-        Add a Flash file in SWF format to your website. Perfect for flash animations, games or slideshows created elsewhere.
+         اضف ملفات فلاش بصيغة اس دبليو اف إلى موقعك التي تكون مثالية للصور المتحركة، والألعاب أو عرض الشرائح التي تم إنشاؤها في أماكن أخرى
     flickr_gallery:
-      name: Flickr Gallery
-      tags: media,images,pictures,photography,gallery,slideshow,lightboxi,flickr
+      name: صور فليكر
+      tags: وسائل الاعلام, الصور، الصور، التصوير الفوتوغرافي، معرض، عرض الصور، فليكر
       desc: |
-        Display a collection of images from a Flickr account in a customizable gallery on your site. Choose themes, description and set up a slideshow of images from your account!
+        إعرض مجموعة من الصور من حساب فليكر في معرض الصور المخصص على موقعك. إختر الثيمات والوصف وقم بإنشاء عرض شرائح الصور من حسابك
     friend:
-      name: Friend List
-      tags: social,flickr,friends,linkedin,hcard,links
+      name: قائمة الاصدقاء
+      tags: الاجتماعية، فليكر، الأصدقاء، لينكدين، روابط, hcard
       desc: |
-        Add a list of friends to your site from various web sites including Flickr, LiveJournal, LinkedIn, or any URL.
+        أضف قائمة من الأصدقاء لموقعك من مواقع مختلفة بما في ذلك فليكر، لايف جورنال، لينكدين، أو أي موقع اخر
     friendfeed:
-      name: Friendfeed
-      tags: social,links,widget,aggregator,friends,friendfeed
+      name: فريند فيد
+      tags: الاجتماعية، الروابط، الويدجت، المجمع، الأصدقاء، فليكر
       desc: |
-        Use this to display your recent activity online from a variety of other websites via Friendfeed.com.
+        إستخدم هذا لعرض نشاطاتك الأخيرة على الانترنت من مجموعة متنوعة من المواقع الأخرى عبر Friendfeed.com
     git_hub_repositories:
-      name: Github Repositories
-      tags: social,sharing,github,widget
+      name: مستودعات جيتثب
+      tags: الاجتماعية، المشاركة، جيثب، الويدجت
       desc: |
-       This component will display a list of recent GitHub repositories for a GitHub user. Set title, gravatar, and choose from three different display options.
+       هذا العنصر يعرض لك قائمة من مستودعات الأخيرة في حسابك على جيثب. تعيين عنوان، غرفتر، وإختر من بين ثلاثة خيارات عرض المختلفة
     google_docs_viewer:
-      name: Google Docs Viewer
-      tags: document,viewer,google,widget
+      name: عارض المستدات جوجل
+      tags: الوثيقة، المشاهد، الجوجل، الويدجت
       desc: |
-        Display an uploaded document on your website quickly and easily using Google`s document viewing software.
+        إعرض ملف الذي رفعته على موقعك بسرعة وبكل سهولة باستخدام برنامج عرض الوثائق الخاص لجوجل
     google_map:
-      name: Google Maps
-      tags: maps,location,address,google,widget,business
+      name: خارطة جوجل
+      tags: الخرائط، الموقع، العنوان، الجوجل، الويدجت، الأعمال
       desc: |
-        This Component offers the ability to add a Google Map to your website, allowing you to display a location. For businesses, this is a great tool to show customers where you`re located!
+        يقدم هذا العنصر القدرة على إضافة خريطة جوجل لموقعك الاكتروني، مما يسمح الأخرين بعرض مكانك على الخارطة .وتعتبر هذه الخاصية عظيمة بالنسبة للشركات لتمكن عملائهم بتحديد عنوانهمهم
     guestbook:
-      name: Guestbook
-      tags: guestbook, comments, guest, book, comment, review, visitor
+      name: سجل زوار
+      tags: سجل الزوار، تعليقات، زوار، كتاب، تعليق، استعراض، الزائر
       desc: |
-        Add a guestbook to your site, allow visitors to leave a comment.
+        أضف سجل الزوار إلى موقعك، وإسمح للزوار بترك تعليق
     image:
-      name: Single Image
-      tags: media,images,pictures,photos,photography,common
+      name: صورة واحدة
+      tags: وسائل الاعلام, الصور، صور، الصور، التصوير الفوتوغرافي، مشتركة
       desc: |
-        A quick way to add a single image to your website when needed. Includes several options for customisation and the ability to use an external image, or image found in your Flickr account.
+        طريقة سريعة لإضافة صورة واحدة إلى موقعك عند الحاجة. يتضمن عدة خيارات للتخصيص والقدرة على استخدام صورة خارج موقعك، أو الصورة الموجودة في حسابك في فليكر
     image_gallery:
-      name: Image Gallery
-      tags: media,images,pictures,photography,gallery,lightbox
+      name: معرض الصور
+      tags: وسائل الاعلام, الصور، صور، الصور، التصوير الفوتوغرافي، لايتبوكس
       desc: |
-        Add a collection of images in a snap with this component and display them in a gallery. A variety of sizing and display options can be configured to create the perfect gallery for your site.
+        أضف مجموعة من الصور في لقطة مع هذا العنصر وإعرضها في معرض الصور. يمكن تهيئة الصور بمجموعة مختلفة من التحجيم وعرض خيارات لإنشاء معرض صور مثالية لموقعكك
     nivo_slideshow:
-      name: Image Slideshow
-      tags: media,images,pictures,photography,slideshow,lightbox
+      name: عرض شرائح
+      tags: وسائل الاعلام, الصور، صور، التصوير الفوتوغرافي، سلايدشو, لايتبوكس
       desc: |
-        Add a collection of images to a slideshow viewer. Options are available to modify the size and speed of the slideshow as it flips through your images.
+        أضف مجموعة من الصور الى عارض شرائح الصور. تتوفر خيارات عديدة منها تعديل حجم وسرعة عرض الشرائح عند تقلبها من صورة الى صورة اخرى
     lastfm:
-      name: Last.FM
-      tags: music,media,scrobbler,audio,tunes,lastfm
+      name: لاست أف ام
+      tags: الموسيقى, الإعلام, سكروبلر, الصوت, الإيقاعات، لاست أف ام
       desc: |
-        This Component will gather the listening habits that you have scrobbled to you Last.fm account and display them on your site. Connect it to your Last.fm account, choose what type of information you want to display (top artists, recent tracks, etc) and show your visitors what you`re listening to!
+        هذا العنصر يجمع عاداتك في الاستماع من خلال لاست اف إم وعرضها على موقعك. قم بتوصيله إلى حسابك في لاست أف إم, وحدد المعلومات التي تريد عرضها (كبار الفنانين، والمسارات الأخيرة، الخ) وإعرض ما تستمع اليه لزوار موقعكموقعك
     navigation:
-      name: Navigation
-      tags: link,structure,navigation,menu
+      name: الملاحة
+      tags: رابط، هيكل، الملاحة، القائمة
       desc: |
-        A navigation component is used for adding navigation items in the form of lists of links. This service works in the same way as the website navigation section on your website toolbar, but with an added `Add a Submenu` option and the ability to be added to any content location of your website.
+        يستخدم عنصر الملاحة لإضافة عناصر التنقل على شكل قائمة من الروابط. تعمل هذه الخدمة بنفس الطريقة الموجدة في قسم "شريط أدوات" في موقعك، ولكن مع ميزة اضافية وهي 'إضافة قائمة فرعية' والقدرة على إضافته إلى أي محتوى في موقعك
     page_counter:
-      name: Page Counter
-      tags: counter,stats,statistics,hits
+      name: عداد الصفحة
+      tags: عداد, الإحصائيات, الإحصاءات، باي بال
       desc: |
-        Use this component to display total site visits or page views on your site. Add a counter to your site with just a few clicks!
+        إستخدم هذا العنصر لمشاهدة عدد الزيارات الإجمالية لموقعك أو مشاهدة عدد الزيارات في صفحات الفرعية. أضف هذه الخاصية على موقعك بعدة نقرات
     paypal:
-      name: PayPal
-      tags: ecommerce,buy,shopping,sell,payment,business,store,paypal,donation,donate,cart
+      name: باي بال
+      tags: التجارة الإلكترونية،  شراء،  التسوق،  بيع،  دفع،  الأعمال، متجر، باي بال، التبرع، تبرع، عربة
       desc: |
-        This Component will allow you to take payments, donations, or add a paypal shopping cart to your website.
+        هذا العنصر يسمح لك بإستلام المبالغ المالية، التبرعات، أو إضافة عربة التسوق "باي بال" لموقعكك
     reddit:
-      name: Reddit
-      tags: reddit,news,stories,widget,links,feed
+      name: ريديت
+      tags: رديت، الأخبار، القصص، ويدجت، وصلات، الأعلاف
       desc: |
-        This component will allow you to display stories from Reddit.com on your website using filters to display only what content you want to show.
+        هذا العنصر يسمح لك بعرض قصص من "ريديت دوت كوم" على موقعك بإستخدام مرشحات لعرض المحتوى التي تريد عرضها
     html:
-      name: Javascript or HTML Code
-      tags: advanced,source,code,copy,paste,html,javascript,widget
+      name: كود جافاسكربت أو اش تي ام ال
+      tags: المتقدم، المصدر، رمز، نسخ، لصق, اش تي ام ال, جافا سكريبت، ويدجت
       desc: |
-        Used for adding custom lines of HTML code or Javascript. Perfect for inserting code given to you by another website, or writing some custom HTML.
+        تستخدم لإضافة خطوط مخصصة من البرمجة "اش تي ام ال" أو "جافا سكريبت". مثالية لإدراج رموز "الاكواد" المنسوخة من موقع آخر، أو كتابة بعض الأجزاء بٌــ"اش تي ام ال" المخصص 
     share_buttons:
-      name: Social Sharing Buttons
-      tags: social, share, buttons, facebook, twitter, linkedin, bookmark, favourite, favorite, email
+      name: أزرار المشاركة الاجتماعية
+      tags: الاجتماعية، حصة، أزرار، الفيسبوك، لينكدين، المرجعية، المفضلة، المفضلة، البريد الإلكتروني
       desc: |
-        Share your content and web pages with the most popular social networks.
+        شارك محتوياتك وصفحاتك مع الشبكات التواصل الإجتماعية
     custom:
-      name: Text/Content Block
-      tags: custom,content,text,image,wysiwyg,common
+      name: النص / كتلة المحتوى 
+      tags: مخصص، المحتوى، النص, الصورة، وسوغ، مشتركة
       desc: |
-        A custom component is used for text and/or images. It is for creating generic content blocks where you can place whatever content you wish.
+        يتم استخدام عنصر مخصص للنص و / أو للصور.  إنشاء مربعات فارغة المحتوى حيث يمكنك أن تضع فيه أي محتوى الذي تريده
     tweet_button:
-      name: Tweet Button
-      tags: social,sharing,twitter,widget
+      name: زر التغريدة
+      tags: الاجتماعية، تبادل، تويتر، ويدجت
       desc: |
-        Allow users to share your site content via tweets using this fully customizable component with several display and content options.
+        إسمح للمستخدمين بمشاركة محتويات موقعك عبر تويتر باستخدام هذه الخاصية القابلة للتخصيص مع العديد من الخيارات العرض والخيارات المحتوى 
     twitter_follower:
-      name: Twitter Followers
-      tags: social,widget,friends,followers,twitter
+      name: متابعون تويتر
+      tags: الاجتماعية، تويتر، الأصدقاء، متابعين، تويتر
       desc: |
-        This component will display the icons of people following you or people you`re following via your Twitter account. Choose one of these options, set the number to display and you`re set!
+        هذا العنصر يعرض رموز الأشخاص الذين يتابعونك أو الأشخاص الذين تتابعهم في تويتر. اختر واحد من هذه الخيارات، قم بتعيين العدد الذي تريد عرضه وانطلق
     twitter:
-      name: Twitter Timeline
-      tags: social,widget,friends,twitter,tweet
+      name: جدول الزمني لتويتر
+      tags: الاجتماعية، ويدجت، الأصدقاء، تويتر، تغريدة
       desc: |
-        Use this component to display the recent Twitter entries you`ve made. Connect it to your Twitter account, show your site viewers your most recent tweets, and add a link for them to follow you!
+        استخدم هذا العنصر لعرض التغريدات الأخيرة في تويتر. قم بتوصيله إلى حسابك في تويتر، أظهر لزوار موقعك تغريداتك الأخيرة، وأضف لهم رابطا لمتابعتك
     video_player:
-      name: Video Player
-      tags: flash, video, quicktime, media
+      name: مشغل الفيديو
+      tags: فلاش، الفيديو، كويك تايم، وسائل الإعلام
       desc: |
-        This Component will allow you to display a video in mp4 format on your website. Add a title, video caption, and more!
+        يسمح لك هذا العنصر بعرض الفيديو بصيغة "ام بي فور" على موقعك. قم بإضافة عنوان الفيديو..... والمزيد
     vimeo:
-      name: Vimeo
-      tags: social,sharing,vimeo,video
+      name: فيميو
+      tags: الاجتماعية، مشاركة، فيميو، الفيديو
       desc: |
-        Add a Vimeo video player to your website.  Choose any video from Vimeo.com to add to your site.
+        أضف المشغل الفيديو "فيميو" إلى موقعك. إختر أي فيديو من "فيميو دوت كوم" واضفه الى موقعك
     feed:
-      name: Web Feed (RSS)
-      tags: common,rss,atom,feed,syndicatation,syndicate,news
+      name: تلقيم ويب
+      tags: المشترك، تلقيمات، الذرة، الأعلاف، أخبار
       desc: |
-        Add content from websites that publish RSS or similar feeds of their content. Display options allow you to display the feed content just the way you want it.
+        أضف محتوى من المواقع التي تنشر تلقيمات "أر أس أس" أو خلاصات مماثلة من محتواها. خيارات عرض تسمح لك لعرض محتوى بالطريقة التي تريدها
     gamercard:
-      name: Xbox Gamer Card
-      tags: widget,xbox,microsoft,gaming,games
+      name: كرت لعبة إكسبوكس
+      tags: ويدجت، اكس بوكس​​، مايكروسوفت، الألعاب، الألعاب 
       desc: |
-        Add this component to your site to show off your scores by configuring it with your XBOX GamerTag.
+        أضف هذا العنصر إلى موقعك لاظهار نتائج الالعاب التي تلعبه بتكوينه مع "اكس بوكس" أو "قيمر تاغ"
     youtube:
-      name: Youtube Video
-      tags: media,video,movies,youtube
+      name: فيديو يوتوب
+      tags: وسائل الإعلام، الفيديو، الأفلام، يوتيوب
       desc: |
-        Use this Component to insert a YouTube video into your website. Size and color customization options are available and text can be added around the video using the visual editor.
+        إستخدم هذا العنصر لإدراج فيديو من يوتيوب إلى موقعك. خيارات الحجم واللون متاحة ويمكنك إضافة النص حول الفيديو باستخدام محرر البصري
