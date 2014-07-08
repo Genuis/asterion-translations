@@ -1,13 +1,10 @@
 --- 
-en: 
+ar: 
   resource: 
     components: 
       git_hub_repositories: 
         create: 
           add_github_repositories_component: "اضافة محتويات لـ قيت هوب"
-          
-          
-
         settings: 
           github_repositories_component_settings: "ضبط محتويات الـ قيت هوب"
           

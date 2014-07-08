@@ -24,12 +24,12 @@ ar:
 
         embed: 
           playlist: "قائمة التشغيل"
-          there_are_no_audio_files_selected_this: "لا يوجد ملف صوت تم اختياره"
+          there_are_no_audio_files_selected_this: 
             text: "لا توجد ملفات صوت محددة. هذه لن تظهر على الموقع الخاص بك حتى تكون قد قمت برفع بعض ملفات صوت"
             uploaded_some: "رفع بعض"
           pop_out_player: "إظهار مشغل"
 
-        audio_files: "ملفات الصوت"
+        audio_files:
           audio_player_component_playlist: "لائحة تشغيل الملفات الصوتية"
           
           
