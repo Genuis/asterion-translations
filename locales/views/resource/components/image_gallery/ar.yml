@@ -1,38 +1,33 @@
---- 
-ar: 
-  resource: 
-    components: 
-      image_gallery: 
-        collection: 
+---
+ar:
+  resource:
+    components:
+      image_gallery:
+        collection:
           new_image_gallery_component: "مكون صورة الاستوديو جديد"
           next_step: "الخطوة التالية"
-          
 
-        images: 
+        images:
           image_gallery_component_images: "معرض مكون الصور"
           select_images: "اختيار الصور"
           gallery_settings: "اعدادات الاستوديو"
-          
-          
 
-        create: 
+        create:
           add_image_gallery_component: "اضافة مكون لصور الاستوديو"
-          
+
           back: "الرجوع"
 
-        settings: 
+        settings:
           image_gallery_component_settings: "اعدادات مكون صور الاستوديو"
           select_images: "اختيار الصور"
           gallery_settings: "اعدادات الاستوديو"
-          
-          
 
-        embed: 
+        embed:
+          images: "الصور"
           there_are_no_images_to_be_displayed: "لا توجد صور ليتم عرضها، لن يظهر شيئاً على الويب الخاص بك حتى تقوم باضافة صور. "
           upload_images: "تحميل الصور"
 
         form:
-        
           how_many_images: "كم عدد الصور?"
           how_many: "كم عدد: "
           randomize_image_order: "ترتيب صور عشوائية"

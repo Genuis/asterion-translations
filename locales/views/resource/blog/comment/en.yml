@@ -1,38 +1,34 @@
---- 
-en: 
-  resource: 
-    blog: 
-      comment: 
+---
+en:
+  resource:
+    blog:
+      comment:
         posted: {}
 
-        content: 
+        content:
           modify: "Modify"
           remove: "Remove"
 
-        comment_component_toolbar: 
-          
+        comment_component_toolbar:
           approve: "Approve"
           delete_spam: "Delete spam"
           approve: "Approve"
           feature: "Feature"
           unfeature: "Unfeature"
-          comment: 
+          comment:
             text: "Comment %{suspected_spam}"
             suspected_spam: "(suspected spam)"
 
         comment: {}
-         
 
-        manage: 
+        manage:
           visitor_messages_blog_comments_and_guestbook_posts: "Visitor Messages (Blog Comments and Guestbook Posts)"
           messages: "Messages"
-          
           comments: "Comments"
           view_all_comments: "View All Comments"
           all_comments: "All Comments"
           approved: "Approved"
           spam: "Spam"
-          
           comment: "Comment"
           commented_on: "Commented on"
           by: "By"
@@ -50,7 +46,7 @@ en:
           please_confirm_removing_selected_items_as_spam: "Please confirm removing selected items as spam"
           remove_spam: "Remove Spam"
 
-        show: 
+        show:
           name: "Name"
           comment_name: "%{name} (Your Comment)"
           posted: "Posted"
@@ -66,7 +62,6 @@ en:
           report_as_spam: "Report As Spam"
           delete_comment: "Delete Comment"
 
-
         modify: {}
 
         form: {}
@@ -75,10 +70,9 @@ en:
 
         count: {}
 
-        comment_toolbar: 
+        comment_toolbar:
           display: "Display:"
           all: "All"
           approved: "Approved"
           unapproved: "Unapproved"
           spam: "Spam"
-

@@ -3,6 +3,10 @@
 # Use this as the base for the locale file of your language.
 
 ar:
+  i18n:
+    language:
+      name: "العربية"
+
   done: "تم"
   cancel: "الغاء"
   save: "حفظ"
@@ -12,8 +16,8 @@ ar:
   edit: "تحرير"
   delete: "حذف"
   title: "عنوان"
-  
-  
+
+
   helpers:
      optional: "(اختياري)"
      read_more: "اقرا المزيد"
@@ -25,10 +29,10 @@ ar:
      custom: "عرف..."
      laquo_newer: "احدث القاو"
      older_raquo: "اقدم اللقاو"
-  
-  
-  date:  
-    formats: 
+
+
+  date:
+    formats:
       default: "الافتراضي"
       short: "قصير"
       long: "طويل"
@@ -192,8 +196,8 @@ ar:
       minute: "دقيقة"
       second: "ثانية"
 
- 
-    
+
+
     select:
       prompt: "من فضلك اختر"
 
@@ -201,7 +205,7 @@ ar:
       create: 'إنشاء نموذج'
       update: 'تحديث نموذج'
       submit: 'حفظ نموذج'
-      
+
   errors:
     format: "السمة__الرسالة"
     messages: &errors_messages

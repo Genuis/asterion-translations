@@ -1,18 +1,16 @@
---- 
-ar: 
-  resource: 
-    website: 
-      modify_header: 
+---
+ar:
+  resource:
+    website:
+      modify_header:
         html_editor: "محرر أش تي أم ال"
         upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين"
         and_gain_the_ability_to_insert_html: "واكتسب القدرة على إدراج اش تي ام ال أو جافا سكريبت في رموز اخرى من موقعك"
         upgrade_now: "ترقية حسابكن"
         website_head_tag: "علامة رئيسية للموقع"
         this_requires_knowledge_of_html_and_is: "هذا يتطلب معرفة اش تي ام ال، ويقصد للمستخدمين المتقدمين. سيتم إلحاق التعليمات البرمجية داخل <head></head>"
-        
-        
 
-      metatags: 
+      metatags:
         sitewide_seo_settings: "إعدادات مستوى الموقع و SEO"
         upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين "
         to_add_a_sitewide_description_and_keywords: "لإضافة وصف والكلمات الرئيسية على نطاق موقع "
@@ -24,14 +22,12 @@ ar:
         description: "وصف"
         your_site_description_should_be_a_regular: "يجب أن يكون وصف موقعك فقرة عادية التي تصف موقعك. لا تستخدم قوائم الكلمات الرئيسية هنا"
         description_of_your_website_for_search_engines: "وصّف موقعك لمحركات البحث"
-        
-        
 
       banner: {}
 
       robots_block: {}
 
-      modify_sitemap: 
+      modify_sitemap:
          editing_website_sitemapxml: "تحرير خريطة الموقع. أكس ام ال"
          a_sitemap_allows_you_to_inform_search: "خريطة الموقع يسمح لك لإبلاغ محركات البحث عن صفحات على موقعك التي تمكنك من زحف"
          sitemap_display: "عرض خريطة الموقع"
@@ -41,12 +37,10 @@ ar:
          all_pages: "كل الصفحات"
          custom_sitemap: "خريطة موقع إفتراضي"
          copy_and_paste_your_sitemapxml_here: "انسخ والصق كود أكس ام ال هنا"
-         
-         
 
       primary_navigation: {}
 
-      modify_robotstxt: 
+      modify_robotstxt:
         sitewide_seo_settings: "إعدادات مستوى الموقع و SEO"
         upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين "
         to_modify_your_robotstxt_file: "لتعديل ملف robots.txt"
@@ -55,10 +49,8 @@ ar:
         robotstxt_file_contents: "robots.txt متحويات ملف الروبوتس"
         you_can_use_a_robotstxt_file_to: "robots.txt يمكنك استخدام ملف روبوتس لإبلاغ محركات البحث عن الصفحات التي تريد تجنبه، أو الصفحات التي تريد النظر الي"
         more_information_on_robotstxt_and_how_to: "مزيد من المعلومات حول ملف روبوتس وكيفية استخدامه"
-        
-        
 
-      heading: 
+      heading:
         sitewide_settings: "إعدادات مستوى الموقع"
         website_heading_type: "نوع عنوان الموقع"
         choose_a_text_title_and_subtitle_an: ""
@@ -69,10 +61,8 @@ ar:
         note: "ملاحظة: "
         to_edit_the_font_for_the_title: "قم بتعديل الخط على العنوان أو على العنوان الفرعي بالذهاب إلى شريط الأدوات الرئيسية، اذهب إلى تحرير الثيمات ثم إختر"
         edit_fonts: "تعديل الخطوط"
-        
-        
 
-      advanced: 
+      advanced:
         sitewide_settings: "إعدادات مستوى الموقع"
         advanced_settings: "إعدادات متقدمة"
         remove_powered_by: "إزالة تصميم وتطوير"
@@ -83,10 +73,8 @@ ar:
         select_a_new_theme: "اختيار ثم جديد"
         current_theme: "الثيم الحالي: "
         select_a_color_theme_for_code_highlighting: "اختر ثيم ملّون لتبريز الكود على موقعك"
-        
-        
 
-      settings: 
+      settings:
         sitewide_settings: "إعدادات مستوى الموقع"
         website_title: "عنوان الموقع"
         it_is_recommended_that_the_title_be: "من المستحسن أن لا يتعدى العنوان 70 حرفا بما في ذلك المسافات"
@@ -97,22 +85,17 @@ ar:
         yes_remove_the_link: "نعم, إزالة الرابط"
         no_leave_it_alone: "لا,اتركه كما هو"
         if_you_upgrade_you_can_remove_the: "ترقية حسابك تمكنك من إزالة الرابط في الهامش والحصول على الكثير من الميزات"
-        
-        
 
-      custom_sitemap: 
+      custom_sitemap:
         editing_website_sitemapxml: "تحرير موقع اكس أم ال"
         upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين "
         to_modify_your_sitemap: "لتعديل على خريطة موقعك"
         a_sitemap_allows_you_to_inform_search: "خريطة الموقع يسمح لك لإبلاغ محركات البحث عن صفحات على موقعك التي تمكنك من زحف"
         upgrade_now: "ترقية حساب"
-       
 
-      copyright: 
-        
-        
+      copyright:
 
-      tabs: 
+      tabs:
         basic: "أساسي"
         heading: "عنوان"
         favicon: "فافيكون"
@@ -120,23 +103,21 @@ ar:
 
       sub_navigation: {}
 
-      news: 
-        whats_new: ما الجديد؟"
+      news:
+        whats_new: "ما الجديد؟"
 
       robots: {}
 
-      navigation: 
+      navigation:
         primary_navigation: "الملاحة الإفتراضية"
-        
-        
 
-      feedback: 
+      feedback:
         feedback__suggestions: "اراء واقتراحات"
         give_us_your_feedback__suggestions_praises: "شاركونا رأيكم - اقتراحاتكم, اطرائتكم وأفكاركم أو اية ملاحظات اخرى  - نريد السماع منكم"
         your_message: "رسالتك"
         your_message_will_not_be_replied: "* لا يتم الرد على رسالتك، الرجاء الاتصال بالدعم بدلا للحصول على المساعدةدة"
 
-      favicon: 
+      favicon:
         sitewide_settings: "إعدادات مستوى الموقع"
         upgrade_your_account_to_pro: "ترقية حساب الى باقة المحترفين "
         to_change_the_favicon_of_your_site: "لتغيير فافيكون موقعك، أو تحميل فافيكون مخصص"
@@ -144,28 +125,24 @@ ar:
         a_favicon_represents_your_website_browsers_display: "يمثل فافيكون موقعك الاكتروني.  سيعرض متصفح ويب هذا الرمز في شريط عنوان المتصفح وبجانب اسم الصفحة في قائمة العلامات"
         your_favicon: "Your Favicon"
         favicon_will_take_time_to_update: "تحميل وتحديث فافيكون يستغرق وقتا طويلا لسبب التخزين المؤقت الذي يقوم به المتصفح. لا تقلق إذا لا يتغير فورا"
-        
-        
-        
+
         upload_a_favicon: "تحميل فافيكون"
         select_file_to_upload: "اختر ملف لتحميل"
         you_have_not_yet_selected_any_files: "لم تقم بتحديد أي ملفات حتى الآن لتحميل"
         favicon_a_16x16_pixel_ico_file: "حجم الفافيكون 16في 16 بكسل واسم الملف ico file"
         favicon_library: "مكتبة فافيكون"
         you_can_also_choose_your_favicon_from: "يمكنك ايضا اختيار الفافيوكو من مكتبتنا:"
-        
-      seo_tabs: 
+
+      seo_tabs:
         metatags: "الكلمات الوصفية"
         robots: "روبوتس"
         sitemap: "خريطة الموقع"
 
       code_highlighting_theme_preview: {}
 
-      code_highlighting_theme: 
+      code_highlighting_theme:
         select_code_highlighting_theme: "اختر ثيم لتبريز الكود"
         select_theme: "اختر الثيم"
         with_code_highlighting_we_will_automatically_colorcode: "مع تبريز الكود، نحن سنلون تلقائيا أي قصاصات تبرمج الرمز التي تدرجه في المدونة أو في كتل محتوى مخصص.  الثيم الذي تختاره هنا سيحدد نظام الألوان الذي نستخدمه لتبريز اكوادك"
         code_highlighting_theme: "ثيم مبرز الكود"
         preview: "معاينة"
-        
-        

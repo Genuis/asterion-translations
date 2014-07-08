@@ -1,18 +1,16 @@
---- 
-en: 
-  resource: 
-    website: 
-      modify_header: 
+---
+en:
+  resource:
+    website:
+      modify_header:
         html_editor: "HTML Editor"
         upgrade_your_account_to_pro: "Upgrade your account to Pro "
         and_gain_the_ability_to_insert_html: "and gain the ability to insert html or javascript into the &lt;head&gt; tag of your site."
         upgrade_now: "Upgrade Now"
         website_head_tag: "Website Head Tag"
         this_requires_knowledge_of_html_and_is: "This requires knowledge of HTML and is intended for advanced users. Code will be appended inside <head></head>"
-        
-        
 
-      metatags: 
+      metatags:
         sitewide_seo_settings: "Site-wide SEO Settings"
         upgrade_your_account_to_pro: "Upgrade your account to Pro "
         to_add_a_sitewide_description_and_keywords: "to add a site-wide description and keywords."
@@ -24,14 +22,12 @@ en:
         description: "Description"
         your_site_description_should_be_a_regular: "Your site description should be a regular paragraph that describes what your site is about. Do not use lists of keywords here."
         description_of_your_website_for_search_engines: "Description of your website for search engines"
-        
-        
 
       banner: {}
 
       robots_block: {}
 
-      modify_sitemap: 
+      modify_sitemap:
          editing_website_sitemapxml: "Editing Website Sitemap.xml"
          a_sitemap_allows_you_to_inform_search: "A sitemap allows you to inform search engines about pages on your website that are available for crawling."
          sitemap_display: "Sitemap Display"
@@ -41,12 +37,10 @@ en:
          all_pages: "All pages"
          custom_sitemap: "Custom Sitemap"
          copy_and_paste_your_sitemapxml_here: "Copy and paste your sitemap.xml here"
-         
-         
 
       primary_navigation: {}
 
-      modify_robotstxt: 
+      modify_robotstxt:
         sitewide_seo_settings: "Site-wide SEO Settings"
         upgrade_your_account_to_pro: "Upgrade your account to Pro "
         to_modify_your_robotstxt_file: "to modify your robots.txt file."
@@ -55,10 +49,8 @@ en:
         robotstxt_file_contents: "Robots.txt File Contents"
         you_can_use_a_robotstxt_file_to: "You can use a robots.txt file to tell search engines which pages of your site to avoid, or which ones to look at."
         more_information_on_robotstxt_and_how_to: "More information on robots.txt and how to use it."
-        
-        
 
-      heading: 
+      heading:
         sitewide_settings: "Site-wide Settings"
         website_heading_type: "Website Heading Type"
         choose_a_text_title_and_subtitle_an: "Choose a text title and sub-title, an image, or no heading at all."
@@ -69,10 +61,8 @@ en:
         note: "Note: "
         to_edit_the_font_for_the_title: "To edit the font for the title or sub title you can do so by going to the main toolbar, go to 'Edit Themes', then select "
         edit_fonts: "Edit Fonts"
-        
-        
 
-      advanced: 
+      advanced:
         sitewide_settings: "Site-wide Settings"
         advanced_settings: "Advanced Settings"
         remove_powered_by: "Remove Powered By"
@@ -83,10 +73,8 @@ en:
         select_a_new_theme: "Select a new theme"
         current_theme: "Current Theme: "
         select_a_color_theme_for_code_highlighting: "Select a color theme for code highlighting on your site"
-        
-        
 
-      settings: 
+      settings:
         sitewide_settings: "Site-wide Settings"
         website_title: "Website Title"
         it_is_recommended_that_the_title_be: "It is recommended that the title be no longer than 70 characters including spaces."
@@ -97,22 +85,17 @@ en:
         yes_remove_the_link: "Yes, remove the link"
         no_leave_it_alone: "No, leave it alone."
         if_you_upgrade_you_can_remove_the: "If you upgrade you can remove the link to us in the footer and get access to a lot more features."
-        
-        
 
-      custom_sitemap: 
+      custom_sitemap:
         editing_website_sitemapxml: "Editing Website Sitemap.xml"
         upgrade_your_account_to_pro: "Upgrade your account to Pro "
         to_modify_your_sitemap: "to modify your sitemap."
         a_sitemap_allows_you_to_inform_search: "A sitemap allows you to inform search engines about pages on your website that are available for crawling."
         upgrade_now: "Upgrade Now"
-       
 
-      copyright: 
-        
-        
+      copyright:
 
-      tabs: 
+      tabs:
         basic: "Basic"
         heading: "Heading"
         favicon: "Favicon"
@@ -120,52 +103,45 @@ en:
 
       sub_navigation: {}
 
-      news: 
+      news:
         whats_new: "What's New"
 
       robots: {}
 
-      navigation: 
+      navigation:
         primary_navigation: "Primary Navigation"
-        
-        
 
-      feedback: 
+      feedback:
         feedback__suggestions: "Feedback & Suggestions"
         give_us_your_feedback__suggestions_praises: "Give us your feedback - suggestions, praises, ideas, bug reports - we want to hear what you think!"
         your_message: "Your Message"
         your_message_will_not_be_replied: "* Your message will not be replied to, please contact support instead for assistance."
 
-      favicon: 
+      favicon:
         sitewide_settings: "Site-wide Settings"
         upgrade_your_account_to_pro: "Upgrade your account to Pro "
         to_change_the_favicon_of_your_site: "to change the favicon of your site, or upload a custom favicon."
         upgrade_now: "Upgrade Now"
         a_favicon_represents_your_website_browsers_display: "A favicon represents your website. Browsers display it in the browser address bar and next to the page name in a list of bookmarks."
         your_favicon: "Your Favicon"
-        favicon_will_take_time_to_update: "Favicon will take time to update due to the caching done by the browser. Don\'t worry if it doesn\'t change right away."
-        
-        
-        
+        favicon_will_take_time_to_update: "Favicon will take time to update due to the caching done by the browser. Don't worry if it doesn't change right away."
         upload_a_favicon: "Upload a Favicon"
         select_file_to_upload: "Select File to Upload"
         you_have_not_yet_selected_any_files: "You have not yet selected any files to upload."
         favicon_a_16x16_pixel_ico_file: "Favicon: a 16x16 pixel .ico file."
         favicon_library: "Favicon Library"
         you_can_also_choose_your_favicon_from: "You can also choose your favicon from our library:"
-        
-      seo_tabs: 
+
+      seo_tabs:
         metatags: "Metatags"
         robots: "Robots"
         sitemap: "Sitemap"
 
       code_highlighting_theme_preview: {}
 
-      code_highlighting_theme: 
+      code_highlighting_theme:
         select_code_highlighting_theme: "Select Code Highlighting Theme"
         select_theme: "Select Theme"
         with_code_highlighting_we_will_automatically_colorcode: "With Code Highlighting, we will automatically color-code any snippets of programming code you include in blog posts or custom content blocks. The theme you select here determines the color scheme we will use for highlighting your code."
         code_highlighting_theme: "Code Highlighting Theme"
         preview: "Preview"
-        
-        

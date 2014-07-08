@@ -1,37 +1,30 @@
---- 
-ar: 
-  resource: 
-    components: 
-      sliced_slideshow: 
-        collection: 
+---
+ar:
+  resource:
+    components:
+      sliced_slideshow:
+        collection:
           3d_slideshow_component: "عرض محتوى الشرائح بـ ثري دي"
           next_step: "الخطوة التالية"
-          
 
-        images: 
+        images:
           3d_slideshow_component_images: "عرض صور الشرائح بـ ثري دي"
           select_images: "اختيار الصور"
           slideshow_settings: "اعدادات الشرائح"
-          
-          
 
         create:
           add_image_slideshow_component: "اضافة صورة لمحتوى الشرائح"
-          
           back: "العودة"
 
         settings:
           3d_slideshow_settings: "ضبط محتوى الشرائح"
-          
-          
 
-        embed: 
+        embed:
           upload_images: "تحميل الصور"
           images: "الصور"
           there_are_no_images_to_be_displayed: "لاتوجد صور ليتم عرضها، لايوجد شيء لعرضه في موقع الويب الخاص بك "
 
         form:
-          
           slideshow_size: "حجم الموظفين"
           slideshow_settings: "ضبط الشرائح"
           effects: "الاثار"
@@ -49,4 +42,3 @@ ar:
           show_navigation_dots_spanmiddot_middot_middotspan: "اظهار نقاط التنقل"
           randomize_image_order: "ترتيب الصور العشوائية"
           height: "اعلى"
-

@@ -1,38 +1,32 @@
---- 
-en: 
-  resource: 
-    components: 
-      image_gallery: 
-        collection: 
+---
+en:
+  resource:
+    components:
+      image_gallery:
+        collection:
           new_image_gallery_component: "New Image Gallery Component"
           next_step: "Next Step"
-          
 
-        images: 
+        images:
           image_gallery_component_images: "Image Gallery Component Images"
           select_images: "Select Images"
           gallery_settings: "Gallery Settings"
-          
-          
 
-        create: 
+        create:
           add_image_gallery_component: "Add Image Gallery Component"
-          
           back: "Back"
 
-        settings: 
+        settings:
           image_gallery_component_settings: "Image Gallery Component Settings"
           select_images: "Select Images"
           gallery_settings: "Gallery Settings"
-          
-          
 
-        embed: 
+        embed:
+          images: "Images"
           there_are_no_images_to_be_displayed: "There are no images to be displayed. This will not show up on your website until there are images to display. "
           upload_images: "Upload images"
 
-        form: 
-          
+        form:
           how_many_images: "How Many Images?"
           how_many: "How Many: "
           randomize_image_order: "Randomize Image Order"

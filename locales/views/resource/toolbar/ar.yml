@@ -1,8 +1,8 @@
---- 
-ar: 
-  resource: 
-    toolbar: 
-      page_actions: 
+---
+ar:
+  resource:
+    toolbar:
+      page_actions:
         page_settings: "اعدادات الصفحة"
         change_header_image: "تغيير راس الصورة"
         page_seo: "صفحة كبار المسؤولين الاقتصاديين"
@@ -10,40 +10,41 @@ ar:
         add_new_page: "اضافة صفحة جديدة"
         collapse_blocks: "انهيار كتل"
 
-      edit_theme: 
+      edit_theme:
+        edit_theme: "تحرير الموضوع"
         edit_fonts: "تحرير الخطوط"
         edit_background: "تحرير الخلفية"
         change_website_theme: "تغيير موضوع الموقع"
         edit_theme_source_code: "تحرير موضوع كود المصدر"
-        uploaddownload_a_theme: "تحميل \ تنزيع موضوع"
+        uploaddownload_a_theme: "تحميل تنزيع موضوع"
 
-      layouts: 
+      layouts:
         this_page_is_using: "هذه الصفحة تم استخدام اسم ( تخطيط."
         this_page:
           text: "هذه الصفحة تخطيط اسم تخطيط."
           is_already_using: "يستخدم بالفعل"
           will_use: "سوف تستخدم"
 
-      site_content: 
+      site_content:
         site_content: "محتوى الموقع"
         manage_blog: "ادارة مدونة"
         manage_guestbooks: "ادارة صفحة الزوار"
         visitor_messages: "رسائل الزوار"
         manage_pages: "ادارة الصفحات"
         manage_photos_and_media: "ادارة الصور والوسائط المتعددة"
-        
-      orphaned_components: 
+
+      orphaned_components:
         restore_components: "استعادة المحتويات"
-        some_of_your_components_are_stuck_in: بعض المحتويات الخاصة بك عالةق في عمود لا وجود له بعد الآن هذا يمكن ان يحدث عند تغيير الموضوع الخاص" "بكهل ترغب في وضع هذه المحتويات المفقودة مرة اخرى على الصفحة ال  او تخطيط الصفحة
-        restore_your_hidden_components: "استعادة المحتويات المخفية الخاصة بك" 
+        some_of_your_components_are_stuck_in: "بعض المحتويات الخاصة بك عالةق في عمود لا وجود له بعد الآن هذا يمكن ان يحدث عند تغيير الموضوع الخاص  بكهل ترغب في وضع هذه المحتويات المفقودة مرة اخرى على الصفحة ال  او تخطيط الصفحة"
+        restore_your_hidden_components: "استعادة المحتويات المخفية الخاصة بك"
         yes_restore_my_components: "نعم، استعادة المحتويات الخاصة بي"
-        
+
       _orphaned_component: {}
 
-      add_block: 
+      add_block:
         add_content_to_page: "اضافة محتوى الى الصفحة"
 
-      my_website: 
+      my_website:
         manage_website: "ادارة الموقع"
         sitewide_settings: "اعدادات مستوى الموقع"
         pages: "صفحات"
@@ -57,16 +58,16 @@ ar:
 
       toolbar_colours: {}
 
-      comments: 
+      comments:
         comment: "تعليق"
         comments: "تعليقات"
         new: "جديد"
 
-      pages: 
+      pages:
         pages: "صفحات:"
         select_a_page: "اختر صفحة"
         add_new_page: "اضافة صفحة جديدة"
-        
+
       show:
         website_builder: "منشئ الموقع"
         website_suspended: "الموقع متوقف !"
@@ -78,12 +79,11 @@ ar:
         view_site: "عرض الموقع"
         feedback: "ردود الفعل"
 
-      page_selection: 
+      page_selection:
         select_a_page: "اختر صفحة"
         scroll_up: "انتقل للاعلى"
         scroll_down: "انتقل للاسفل"
         add_new_page: "اضافة صفحة جديدة"
 
-      fonts: 
+      fonts:
         site_fonts: "مكان الخطوط"
-

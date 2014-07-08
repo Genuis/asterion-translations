@@ -1,8 +1,185 @@
---- 
+---
 en:
-  can_not_save_negative_storage: "Can not save negative storage %{used_storage}"
-  
-  name: "Name"  
+  activerecord:
+    models:
+      account: "Account"
+      blog_archive_component: "Blog Archive"
+      blog_component: "Blog Posts"
+      flash_component: "Flash Player"
+      google_docs_viewer_component: "Google Docs Viewer"
+      twitter_follower_component: "Twitter Followers"
+    attributes:
+      account:
+        used_storage: "Used Storage"
+      blog_archive_component:
+        category_ids: "Category IDs"
+        list_by: "List By"
+      blog_component:
+        category_ids: "Category IDs"
+        max_posts: "Max Posts"
+        offset: "Offset"
+        summary_length: "Summary Length"
+      flash_component:
+        asset_id: "File"
+        version: "Version"
+      google_docs_viewer_component:
+        asset_id: "Document"
+      gamercard_component:
+        gamertag: 'Gamertag'
+      lastfm_component:
+        username: "Username"
+        feed_type: "Feed Type"
+      twitter_follower_component:
+        limit: "Limit"
+      video_player_component:
+        asset_id: "File"
+      vimeo_component:
+        video_url: "Video URL"
+      website:
+        heading: "Heading"
+      blog_post:
+        permalink: "Permalink"
+        published_at: "Published At"
+      category:
+        name: "Name"
+      form_field/radio:
+        options: "Options"
+      form_field/select_box:
+        options: "Options"
+      form_field/submit:
+        image_id: "Image"
+      form_field/base:
+        label: "Label"
+      image_tag/asterion:
+        image: "Image"
+      image_tag/flickr:
+        photo: "Photo"
+      facebook_account:
+        fb_app_id: "Facebook App ID"
+        fb_app_secret: "Facebook App Secret"
+      navigation_item/base:
+        label: "Label"
+      resource:
+        name: "Name"
+      width: "Width"
+      height: "Height"
+    errors:
+      messages:
+        not_a_number: "must be numeric"
+        blank: "cannot be blank"
+      models:
+        account:
+          attributes:
+            used_storage:
+              greater_than_or_equal_to: "Can not save negative storage %{value}"
+        blog_archive_component:
+          attributes:
+            category_ids:
+              too_short: "must select at least one category"
+            list_by:
+              inclusion: "must be one of months, categories or tags"
+        blog_component:
+          attributes:
+            category_ids:
+              too_short: "must select at least one category"
+        flash_component:
+          attributes:
+            asset_id:
+              blank: "please select a file"
+              greater_than: "please select a file"
+            version:
+              invalid: "must be a valid version number (eg: 9.0.124)"
+            width:
+              invalid: "must be a number or percentage"
+            height:
+              invalid: "must be a number or percentage"
+        google_docs_viewer_component:
+          attributes:
+            asset_id:
+              blank: "please select a document"
+              greater_than: "please select a document"
+            width:
+              invalid: "must be a number or percentage"
+            height:
+              invalid: "must be a number or percentage"
+        lastfm_component:
+          attributes:
+            feed_type:
+              inclusion: "is not a valid type."
+        twitter_follower_component:
+          attributes:
+            limit:
+              greater_than: "must be between 1 and 100"
+              less_than_or_equal_to: "must be between 1 and 100"
+        video_player_component:
+          attributes:
+            asset_id:
+              blank: "please select a file"
+              greater_than: "please select a file"
+            width:
+              not_a_number: "must be a number"
+            height:
+              not_a_number: "must be a number"
+        vimeo_component:
+          attributes:
+            video_url:
+              blank: "must enter a Vimeo video url"
+        blog_post:
+          attributes:
+            permalink:
+              invalid: "cannot include ampersands, question marks, slashes, hashes, spaces, or dots"
+            published_at:
+              on_or_after: "is too far in the past"
+              on_or_before: "is too far in the future"
+              invalid_datetime: "is not a valid date"
+        category:
+          attributes:
+            name:
+              exclusion: "is a reserved name"
+        form_field/radio:
+          attributes:
+            options:
+              blank: 'are missing and required'
+        form_field/select_box:
+          attributes:
+            options:
+              blank: 'are missing and required'
+        form_field/submit:
+          attributes:
+            image_id:
+              blank: 'is missing'
+        form_field/base:
+          attributes:
+            label:
+              invalid: 'must not contain any html'
+        image_tag/asterion:
+          attributes:
+            image:
+              blank: 'is missing'
+        image_tag/flickr:
+          attributes:
+            photo:
+              blank: 'is missing'
+        facebook_account:
+          attributes:
+            fb_app_id:
+              blank: 'is required'
+            fb_app_secret:
+              blank: 'is required'
+        navigation_item/base:
+          attributes:
+            label:
+              invalid: "must not contain any html"
+        resource:
+          attributes:
+            name:
+              invalid: "must not contain any html"
+
+  cannot_update_content_on_content_block_until: "Cannot update content on content block until it has been created"
+  html_error_script_tags_are_not_allowed: "html error: script tags are not allowed"
+  does_not_exist: "does not exist"
+  invalid_seller_id: "Invalid Seller ID"
+  name: "Name"
   email: "E-mail"
   website: "Website"
   submit: "Submit"
@@ -23,139 +200,68 @@ en:
   please_try_again: "Please try again."
   unapproved: "unapproved"
   thank_you_for_submitting_your_comment: "Thank you for submitting your comment."
-  
-  is_a_reserved_name: "is a reserved name"
   cannot_contain_html: "cannot contain HTML"
-  
-  html_error_script_tags_are_not_allowed: "html error: script tags are not allowed"
-  
-  must_select_at_least_one_category: "must select at least one category"
-  must_be_months_categories_or_tags: "must be months, categories or tags"
-  
-  must_be_numeric: "must be numeric"
-  
-  cannot_update_content_on_content_block_until: "Cannot update content on content block until it has been created"
-  
-  html_error_script_tags_are_not_allowed: "html error: script tags are not allowed"
-  
-  does_not_exist: "does not exist"
-  
-  invalid_seller_id: "Invalid Seller ID"
-  
-  cannot_be_blank: "cannot be blank"
-  
-  must_select_a_file: "must select a file"
-  must_be_a_valid_version_number_eg: "must be a valid version number (eg: 9.0.124)"
-  must_be_a_number_or_percentage: "must be a number or percentage"
-  
   form_submitted_successfully_thank_you: "Form submitted successfully. Thank you!"
-  
   form_submission_from: "Form submission from http://%{hostname}"
-  
   is_required: "is required"
   invalid_email: "invalid email"
   invalid_telephone_number: "invalid telephone number"
   invalid_number: "invalid number"
-  
   no_friends_added: "No friends added"
   user_does_not_exist: "user does not exist."
   remote_key_is_required: "remote key is required."
-  
   cannot_be_blank: "cannot be blank"
   user_not_found_on_github: "User Not Found on GitHub"
-  
   must_be_a_number_or_percentage: "must be a number or percentage"
   must_select_a_document: "must select a document"
-  
   guestbook: "Guestbook"
   please_add_a_comment: "Please add a comment"
   below: "below"
-  
   cannot_update_content_on_content_block_until: "Cannot update content on content block until it has been created"
-  
   must_be_less_than_1000: "must be less than 1000"
   must_be_10_or_greater: "must be 10 or greater"
-  
   must_be_10_or_greater: "must be 10 or greater"
   must_be_less_than_2000: "must be less than 2000"
-  
-  is_not_a_valid_type: "is not a valid type."
   not_registered_with_lastfm: "not registered with lastfm."
-  
   doesnt_exist: "doesn't exist"
-  
   must_be_less_than_100: "must be less than 100"
-  
   must_select_a_file: "must select a file"
   must_be_a_number: "must be a number"
   must_select_a_file: "must select a file"
-  
-  must_enter_a_vimeo_video_url: "must enter a Vimeo video url"
   not_a_valid_vimeo_video: "not a valid Vimeo video"
-  
   you_have_received_a_new_blog_comment: "You have received a new blog comment"
   you_have_received_feedback: "You have received feedback"
-  
   disallowed_file_type: "Disallowed file type."
   this_file_is_larger_than_the_maximum: "This file is larger than the maximum allowed file size limit."
   youve_already_used_the_maximum_amount_of: "You've already used the maximum amount of storage your account allows."
-  
   broken_mp3: "Broken MP3"
   image_is_too_large: "image is too large"
   invalid_image: "invalid image"
-  
-  cannot_include_ampersands_question_marks_slashes_hashes: "cannot include ampersands, question marks, slashes, hashes, spaces, or dots"
   is_not_valid: "is not valid"
-  is_too_far_in_the_future: "is too far in the future"
   posted_a_new_blog_entry: "posted a new blog entry."
   category_deleted: "Category Deleted"
-  
   is_a_reserved_name: "is a reserved name."
-  
   html_error_html_head_and_body_tags: "html error: html, head, and body tags are not allowed"
   html_error_location_classes_are_not_allowed: "html error: location classes are not allowed"
   html_error_location_ids_are_not_allowed: "html error: location ids are not allowed"
   html_error_component_content_classes_are_not: "html error: component_content classes are not allowed"
-  
   cant_save_dynamic_pages: "Can't save dynamic pages"
-  
   cant_create_an_empty_form: "can't create an empty form"
-  
   message: "Message"
   submit: "Submit"
-  
   invalid_label: "invalid label"
-  cannot_contain_html: "cannot contain HTML"
-  
   heading: "Heading"
   your_heading: "Your heading"
-  
   paragraph: "paragraph"
   your_message: "Your message"
-  
-  cant_be_empty: "can't be empty"
-  
+  cant_be_blank: "cannot be blank"
   must_select_an_image: "must select an image"
-  
   untitled_guestbook: "Untitled Guestbook"
-  
-  must_select_an_image: "must select an image"
-  
   select_an_image: "Select an Image"
-  
   is_not_a_valid_image_url: "is not a valid image URL"
-  
   image_not_found: "Image not found"
   select_an_image: "Select an Image"
-  
-  must_select_a_photo: "must select a photo"
-  
   doesnt_match_confirmation: "doesn't match confirmation"
   must_be_a_number: "must be a number"
-  
-  should_not_be_blank: "should not be blank"
   broken_account: "Broken Account"
-  
-  cannot_contain_html: "cannot contain HTML"
   default_page_must_be_visible: "default page must be visible"
-  

@@ -2,7 +2,11 @@
 #
 # Use this as the base for the locale file of your language.
 
-"en":
+en:
+  i18n:
+    language:
+      name: "English"
+
   done: "Done"
   cancel: "Cancel"
   save: "Save"
@@ -12,8 +16,8 @@
   edit: "Edit"
   delete: "Delete"
   title: "Title"
-  
-  
+
+
   helpers:
      optional: "(optional)"
      read_more: "Read more..."
@@ -25,8 +29,8 @@
      custom: "custom..."
      laquo_newer: "&laquo; Newer"
      older_raquo: "Older &raquo;"
-  
-  
+
+
   date:
     formats:
       default: "%Y-%m-%d"
@@ -192,8 +196,8 @@
       minute: "Minute"
       second: "Seconds"
 
- 
-    
+
+
     select:
       prompt: "Please select"
 
@@ -201,7 +205,7 @@
       create: 'Create %{model}'
       update: 'Update %{model}'
       submit: 'Save %{model}'
-      
+
   errors:
     format: "%{attribute} %{message}"
     messages: &errors_messages
