@@ -81,7 +81,7 @@ ar:
         blog_component:
           attributes:
             category_ids:
-              too_short: "يجب إختيار فئة واحدة على الأق"
+              too_short: "يجب إختيار فئة واحدة على الأقل"
         flash_component:
           attributes:
             asset_id:
@@ -105,12 +105,12 @@ ar:
         lastfm_component:
           attributes:
             feed_type:
-              inclusion: "is not a valid type."
+              inclusion: "ليس نوع صالح"
         twitter_follower_component:
           attributes:
             limit:
-              greater_than: "must be between 1 and 100"
-              less_than_or_equal_to: "must be between 1 and 100"
+              greater_than: "يجب أن يكون بين 1 و 100"
+              less_than_or_equal_to: "يجب أن يكون بين 1 و 100"
         video_player_component:
           attributes:
             asset_id:
@@ -123,81 +123,81 @@ ar:
         vimeo_component:
           attributes:
             video_url:
-              blank: "must enter a Vimeo video url"
+              blank: "يجب إدخال رابط الفيديو لفيميو"
         blog_post:
           attributes:
             permalink:
-              invalid: "cannot include ampersands, question marks, slashes, hashes, spaces, or dots"
+              invalid: "لا يمكن أن تشمل اقحام، علامات استفهام، مائلة، هاشات، مساحات، أو النقاط"
             published_at:
-              on_or_after: "is too far in the past"
-              on_or_before: "is too far in the future"
-              invalid_datetime: "is not a valid date"
+              on_or_after: "بعيدة جدا في الماضي"
+              on_or_before: "هو بعيدا جدا في المستقبل"
+              invalid_datetime: "ليس تاريخا صالحا"
         category:
           attributes:
             name:
-              exclusion: "is a reserved name"
+              exclusion: "هو اسم محجوز"
         form_field/radio:
           attributes:
             options:
-              blank: 'are missing and required'
+              blank: 'مفقودة ومطلوبة'
         form_field/select_box:
           attributes:
             options:
-              blank: 'are missing and required'
+              blank: 'مفقودة ومطلوبة'
         form_field/submit:
           attributes:
             image_id:
-              blank: 'is missing'
+              blank: 'مفقود'
         form_field/base:
           attributes:
             label:
-              invalid: 'must not contain any html'
+              invalid: 'يجب أن لا تحتوي على أي أتش تي أم أل'
         image_tag/asterion:
           attributes:
             image:
-              blank: 'is missing'
+              blank: 'مفقود'
         image_tag/flickr:
           attributes:
             photo:
-              blank: 'is missing'
+              blank: 'مفقود'
         facebook_account:
           attributes:
             fb_app_id:
-              blank: 'is required'
+              blank: 'مطلوب'
             fb_app_secret:
-              blank: 'is required'
+              blank: 'مطلوب'
         navigation_item/base:
           attributes:
             label:
-              invalid: "must not contain any html"
+              invalid: "يجب أن لا تحتوي على أي أتش تي أم أل"
         resource:
           attributes:
             name:
-              invalid: "must not contain any html"
+              invalid: "يجب أن لا تحتوي على أي أتش تي أم أل"
 
-  cannot_update_content_on_content_block_until: "Cannot update content on content block until it has been created"
-  html_error_script_tags_are_not_allowed: "html error: script tags are not allowed"
-  does_not_exist: "does not exist"
-  invalid_seller_id: "Invalid Seller ID"
-  name: "Name"
-  email: "E-mail"
-  website: "Website"
-  submit: "Submit"
-  read_more: "Read more"
-  share: "Share"
-  search: "Search"
-  tags: "Tags"
+  cannot_update_content_on_content_block_until: "لا يمكن تحديث المحتوى على كتلة المحتوى حتى يتم إنشاؤه"
+  html_error_script_tags_are_not_allowed: "خطأ اش تي أم أل: كلمات نصية غير مسموحة"
+  does_not_exist: "غير موجود"
+  invalid_seller_id: "اسم بائع غير صالح"
+  name: "الاسم"
+  email: "البريد الاكتروني"
+  website: "موقع الكتروني"
+  submit: "ارسل"
+  read_more: "إقراء المزيد"
+  share: "مشاركة"
+  search: "بحث"
+  tags: "كلمات دليلية"
   anonymous: "Anonymous"
-  blog_post: "blog post"
-  blog_posts: "blog posts"
-  comment: "comment"
-  comments: "comments"
-  your_comment_was_submitted_approval_pending: "Your comment was submitted, approval pending."
-  comments_for_this_post_have_been_disabled: "Comments for this post have been disabled."
-  subscribe_to_post: "Subscribe to Post"
-  are_you_sure_you_want_to_delete: "Are you sure you want to delete?"
-  enter_the_words_you_see: "Enter the words you see."
-  please_try_again: "Please try again."
+  blog_post: "مشاركات المدونة"
+  blog_posts: "مشاركات المدونة"
+  comment: "تعليق"
+  comments: "التعليقات"
+  your_comment_was_submitted_approval_pending: "تم ارسال تعليقك. يرجي الإنتظار للموافقة عليه"
+  comments_for_this_post_have_been_disabled: "تم تعطيل تعليقات لهذه المشاركة"
+  subscribe_to_post: "اشترك للمشاركة"
+  are_you_sure_you_want_to_delete: "هل أنت متأكد أنك تريد الحذف؟"
+  enter_the_words_you_see: "أدخل الكلمات التي تراها "
+  please_try_again: "يرجى المحاولة مرة أخرى"
   unapproved: "unapproved"
   thank_you_for_submitting_your_comment: "Thank you for submitting your comment."
   cannot_contain_html: "cannot contain HTML"
@@ -247,21 +247,21 @@ ar:
   html_error_component_content_classes_are_not: "html error: component_content classes are not allowed"
   cant_save_dynamic_pages: "Can't save dynamic pages"
   cant_create_an_empty_form: "can't create an empty form"
-  message: "Message"
-  submit: "Submit"
+  message: "الرسالة"
+  submit: "إرسل"
   invalid_label: "invalid label"
-  heading: "Heading"
-  your_heading: "Your heading"
+  heading: "العنوان"
+  your_heading: "عنوانك"
   paragraph: "paragraph"
-  your_message: "Your message"
+  your_message: "رسالتك"
   cant_be_blank: "cannot be blank"
-  must_select_an_image: "must select an image"
+  must_select_an_image: "يجب اختيار صورة"
   untitled_guestbook: "Untitled Guestbook"
-  select_an_image: "Select an Image"
+  select_an_image: "اختيار صورة"
   is_not_a_valid_image_url: "is not a valid image URL"
   image_not_found: "Image not found"
-  select_an_image: "Select an Image"
+  select_an_image: "اختيار صورة"
   doesnt_match_confirmation: "doesn't match confirmation"
-  must_be_a_number: "must be a number"
-  broken_account: "Broken Account"
+  must_be_a_number: "يجب ان يكون عددا"
+  broken_account: "حساب مكسر"
   default_page_must_be_visible: "default page must be visible"
