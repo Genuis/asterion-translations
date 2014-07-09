@@ -12,7 +12,7 @@ ar:
         1_choose_a_folder: "1. إختر مجلد"
         
         _saved_when_you_click_upload: "حفظ عند النقر على تحميل"
-        2_choose_files_from_your_computer: "2. اختيار الملفات من جهاز الكمبيوتر الخاص بك"
+        2_choose_files_from_your_computer: "2. اختيار الملفات من جهاز كمبيوترك"
         select_files_to_upload: "تحديد الملفات المراد رفعها"
         use_basic_uploader: "استخدام تحميل من برنامج الباسيك"
         file_size_limit: "حد حجم الملف"
