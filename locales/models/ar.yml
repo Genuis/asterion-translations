@@ -2,106 +2,106 @@
 ar:
   activerecord:
     models:
-      account: "Account"
-      blog_archive_component: "Blog Archive"
-      blog_component: "Blog Posts"
-      flash_component: "Flash Player"
-      google_docs_viewer_component: "Google Docs Viewer"
-      twitter_follower_component: "Twitter Followers"
+      account: "الحساب"
+      blog_archive_component: "ارشيف المدونة"
+      blog_component: "مشاركات المدونة"
+      flash_component: "مشغل الفلاش"
+      google_docs_viewer_component: "عارض المستندات جوجل"
+      twitter_follower_component: "متابعون تويتر"
     attributes:
       account:
-        used_storage: "Used Storage"
+        used_storage: "المساحة المستخدمة"
       blog_archive_component:
-        category_ids: "Category IDs"
-        list_by: "List By"
+        category_ids: "تصنيف اسم المستخدمين"
+        list_by: "الترتيب ب"
       blog_component:
-        category_ids: "Category IDs"
-        max_posts: "Max Posts"
-        offset: "Offset"
-        summary_length: "Summary Length"
+        category_ids: "تصنيف اسم المستخدمين"
+        max_posts: "المشاركات القصوى"
+        offset: "الموازن"
+        summary_length: "ملخص الطول"
       flash_component:
-        asset_id: "File"
-        version: "Version"
+        asset_id: "الملف"
+        version: "الإصدار"
       google_docs_viewer_component:
-        asset_id: "Document"
+        asset_id: "المستند"
       gamercard_component:
-        gamertag: 'Gamertag'
+        gamertag: 'غيمرتاغ'
       lastfm_component:
-        username: "Username"
-        feed_type: "Feed Type"
+        username: "اسم المستخدم"
+        feed_type: "نوع الاقتات"
       twitter_follower_component:
-        limit: "Limit"
+        limit: "الحد"
       video_player_component:
-        asset_id: "File"
+        asset_id: "المف"
       vimeo_component:
-        video_url: "Video URL"
+        video_url: "رابط الفيديو"
       website:
-        heading: "Heading"
+        heading: "العنوان"
       blog_post:
-        permalink: "Permalink"
-        published_at: "Published At"
+        permalink: "الرابط الثابت"
+        published_at: "النشر على"
       category:
-        name: "Name"
+        name: "الاسم"
       form_field/radio:
-        options: "Options"
+        options: "الخيارات"
       form_field/select_box:
-        options: "Options"
+        options: "الخيارت"
       form_field/submit:
-        image_id: "Image"
+        image_id: "الصورة"
       form_field/base:
-        label: "Label"
+        label: "صنف"
       image_tag/asterion:
-        image: "Image"
+        image: "الصورة"
       image_tag/flickr:
-        photo: "Photo"
+        photo: "الصورة"
       facebook_account:
-        fb_app_id: "Facebook App ID"
-        fb_app_secret: "Facebook App Secret"
+        fb_app_id: "اسم المستخدم الفيسبوك"
+        fb_app_secret: "تطبيق الفيسبوك السرية"
       navigation_item/base:
-        label: "Label"
+        label: "صنف"
       resource:
-        name: "Name"
-      width: "Width"
-      height: "Height"
+        name: "الاسم"
+      width: "العرض"
+      height: "الطول"
     errors:
       messages:
-        not_a_number: "must be numeric"
-        blank: "cannot be blank"
+        not_a_number: "يجب ان يكون رقما"
+        blank: "لا يمكن ان يكون فارغا"
       models:
         account:
           attributes:
             used_storage:
-              greater_than_or_equal_to: "Can not save negative storage %{value}"
+              greater_than_or_equal_to: "لا يمكن حفظ التخزين السلبية %{value}"
         blog_archive_component:
           attributes:
             category_ids:
-              too_short: "must select at least one category"
+              too_short: "يجب إختيار فئة واحدة على الأقل"
             list_by:
-              inclusion: "must be one of months, categories or tags"
+              inclusion: "يجب أن تكون واحدة من أشهر, فئات أو علامات"
         blog_component:
           attributes:
             category_ids:
-              too_short: "must select at least one category"
+              too_short: "يجب إختيار فئة واحدة على الأق"
         flash_component:
           attributes:
             asset_id:
-              blank: "please select a file"
-              greater_than: "please select a file"
+              blank: "الرجاء اختيار ملف"
+              greater_than: "الرجاء اختيار ملف"
             version:
-              invalid: "must be a valid version number (eg: 9.0.124)"
+              invalid: "يجب أن يكون رقم الإصدار صالحة - على سبيل المثال 9.0.124"
             width:
-              invalid: "must be a number or percentage"
+              invalid: "يجب أن يكون عدد أو نسبة مئوية"
             height:
-              invalid: "must be a number or percentage"
+              invalid: "يجب أن يكون عدد أو نسبة مئوية"
         google_docs_viewer_component:
           attributes:
             asset_id:
-              blank: "please select a document"
-              greater_than: "please select a document"
+              blank: "يرجى اختيار مستند"
+              greater_than: "يرجى اختيار مستند"
             width:
-              invalid: "must be a number or percentage"
+              invalid: "يجب أن يكون عدد أو نسبة مئوية"
             height:
-              invalid: "must be a number or percentage"
+              invalid: "يجب أن يكون عدد أو نسبة مئوية"
         lastfm_component:
           attributes:
             feed_type:
@@ -114,12 +114,12 @@ ar:
         video_player_component:
           attributes:
             asset_id:
-              blank: "please select a file"
-              greater_than: "please select a file"
+              blank: "الرجاء اختيار ملف"
+              greater_than: "الرجاء اختيار ملف"
             width:
-              not_a_number: "must be a number"
+              not_a_number: "يجب أن يكون عددا"
             height:
-              not_a_number: "must be a number"
+              not_a_number: "يجب أن يكون عددا"
         vimeo_component:
           attributes:
             video_url:
