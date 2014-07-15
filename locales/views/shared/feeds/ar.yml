@@ -32,10 +32,10 @@ ar:
 
       multiple_feeds_selection: 
         multiple_feeds_discovered: "اكتشف خلاصات متعددة "
-        discovered_feeds: "اكتشف التغذية"
+        discovered_feeds: "اكتشف التلقيمات"
         multiple_feeds_have_been_discovered_on_the: "تم اكتشاف تغذية متعدد على عنوان يو ار ال الذي ادخلته، الرجاء اختيار التغذية التي ترغب باضافتها الى مكون الخاص بك"
         
-        url: "يو ار ال"
+        url: "الرابط"
         add: "اضافة"
         next: "التالي"
         back: "العودة"
