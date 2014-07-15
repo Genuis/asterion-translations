@@ -4,12 +4,12 @@ ar:
     components: 
       html: 
         edit: 
-          edit_html_block: "HTML تحرير كتلة"
+          edit_html_block: " تحرير كتلة اش تي ام ال"
           
           
 
         create: 
-          add_html_code_block: "HTML إضافة رمز كتلة"
+          add_html_code_block: " إضافة رمز كتلة اش تي ام ال"
           
           
 
@@ -17,6 +17,6 @@ ar:
 
         form: 
           
-          html_block: "HTML كتلة"
+          html_block: "كتلة اش تي ام ال"
           
 
