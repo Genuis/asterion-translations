@@ -6,7 +6,7 @@ ar:
         edit: 
           feed_component_sources: "تغذية مصادر العنصر"
           new_feed_location: "تغذية موقع جديد"
-          current_feeds: "التغذية الحالية"
+          current_feeds: "التلقيمات الحالية"
           
           
 
@@ -29,7 +29,7 @@ ar:
         create: 
           add_feed_component: "اضافة مغذي للمكون"
           
-          back: "back"
+          back: "الرجوع"
 
         settings:
           feed_component_settings: "تغذية مكون الضبط"
