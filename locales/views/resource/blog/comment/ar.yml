@@ -17,7 +17,7 @@ ar:
           feature: "ميزة"
           unfeature: "لا ميزة"
           comment: 
-            text: "Comment %{suspected_spam}"
+            text: "تعليق %{suspected_spam}"
             suspected_spam: "(suspected spam)"
 
         comment: {}
@@ -63,7 +63,7 @@ ar:
           report_as_spam: "تحديد كـ بريد مزعج"
           are_you_sure_you_want_to_report_this_comment_as_spam: "هل انت متاكد بانك تريد الابلاغ عنه كـ تعليق مزعج؟"
           are_you_sure_you_want_to_delete_this_comment: "هل انت متاكد بانك تريد حذف هذا التعليق؟"
-          report_as_spam: "Report As Spam"
+          report_as_spam: "ابلاغ عن سخام"
           delete_comment: "حذف التعليق"
 
 
