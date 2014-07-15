@@ -4,7 +4,7 @@ ar:
     components: 
       lastfm: 
         top_tracks: 
-          there_are_no_top_tracks_currently_available: "لاتوجد مسارات متاحة حالياُ."
+          there_are_no_top_tracks_currently_available: "لاتوجد مسارات متاحة حاليا"
           by_trackartist: "من الفنان"
           payed: "اختيار تشغيل عدد المرات"
 
@@ -37,8 +37,8 @@ ar:
 
         form:
           
-          lastfm_username: "Last.fm Username"
-          display_content: "Display Content"
+          lastfm_username: "اسم مستخدم لاست اف ام"
+          display_content: "اظهار محتوى"
           
           number_to_display: "عرض عدد الشرائح"
           link_artist_and_song_names: "رابط الفنان واسم الاغنية"
