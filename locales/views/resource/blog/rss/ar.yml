@@ -4,16 +4,16 @@ ar:
     blog: 
       rss: 
         manage: 
-          blog_posts: "Blog Posts"
-          categories: "Categories"
-          rss: "RSS"
+          blog_posts: "مشاركات مدونة"
+          categories: "الفئات"
+          rss: "ار اس اس"
           
-          labels: "Labels"
-          import_posts: "Import posts"
-          general: "General"
-          rss_feeds_for_your_most_recent_blog_posts_and_comments: "RSS feeds for your most recent blog posts and comments."
-          most_recent_posts: "Most recent posts"
-          most_recent_comments: "Most recent comments"
-          categories: "Categories"
-          rss_feeds_for_your_blog_categories: "RSS feeds for your blog categories."
+          labels: "تسميات"
+          import_posts: "استيراد المشاركات"
+          general: "عام"
+          rss_feeds_for_your_most_recent_blog_posts_and_comments: "تلقيمات ار اس اس لأحدث المشاركاتك مدونة والتعليقات"
+          most_recent_posts: "المشاركات الأخيرة"
+          most_recent_comments: " التعليقات الأخيرة"
+          categories: "الفئات"
+          rss_feeds_for_your_blog_categories: "تلقيمات ار اس اس للفئات المدونة"
 
