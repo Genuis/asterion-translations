@@ -109,7 +109,7 @@ ar:
     hover_to_edit: |
       مرر الفارة فوق المحتوى على صفحاتك لتحريره. اسحب المكونات لنقلها
     view_next_tip: عرض تلميح التالي
-    tooltip_step_count: "{{current_step}} of {{number_of_steps}}"
+    tooltip_step_count: "{{current_step}} من {{number_of_steps}}"
     done_tips: تم
     close_tips: إغلاق
     next_tip: تلميح التالي
