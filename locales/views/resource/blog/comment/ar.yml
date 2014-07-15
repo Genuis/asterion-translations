@@ -18,7 +18,7 @@ ar:
           unfeature: "لا ميزة"
           comment: 
             text: "تعليق %{suspected_spam}"
-            suspected_spam: "(suspected spam)"
+            suspected_spam: "(سخام مشتبه)"
 
         comment: {}
          
