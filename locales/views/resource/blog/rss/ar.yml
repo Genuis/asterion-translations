@@ -4,7 +4,7 @@ ar:
     blog: 
       rss: 
         manage: 
-          blog_posts: "مشاركات مدونة"
+          blog_posts: "مشاركات المدونة"
           categories: "الفئات"
           rss: "ار اس اس"
           
