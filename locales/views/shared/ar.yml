@@ -12,7 +12,7 @@ ar:
     linked_account: {}
 
     component_error: 
-      component_error: "مكون الخطا"
+      component_error: "خطاء المكون"
       an_error_occurred_while_rendering_this_component: |
        حدث خطا اثناء تقديم هذا المكون.
        تم تسجيل هذا الخطا، وسيبقى هذا المكون مخفية عن زوار موقعك حتى يتم حل المشكلة
