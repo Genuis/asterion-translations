@@ -38,20 +38,20 @@ ar:
         
         
         use_of_images : 
-          text: "يسمح استخدام الصور في مكتبة الصور على مواقع الانترنت التي استضافتها لنا، يرجى قراءة {طريقة الاستخدام}لمزيد من المعلومات"
+          text: "يسمح استخدام الصور في مكتبة الصور على مواقع الانترنت التي استضافتها لنا، يرجى قراءة طريقة الاستخدام لمزيد من المعلومات"
           terms_of_use: "شروط الاستخدام"
         your_account_does_not_allow_downloads: 
-           text: "لايسمح حسابك لتنزيل محتوى في مكتبة الصور، اذا كنت ترغب في استخدام جميع الصور قم بـ {ترقية حسابك} في اي وقت."
+           text: "لا يسمح لحسابك بتنزيل محتوى في مكتبة الصور، اذا كنت ترغب في استخدام جميع الصور قم بـترقية حسابك في اي وقت"
            upgrade_your_account: "ترقية حسابك"
 
       select:
-        preview: "Preview"
-        image_preview: "Image Preview"
-        related_keywords: "Related Keywords"
-        the_image_you_are_viewing_is_only_a_small_preview: "The image you are viewing is only a small preview."
-        the_full_size_image: "The full size image will be added to your uploaded files when you click \"Add to My Uploaded Files\"."
-        add_to_my_collection: "Add to My Collection"
-        add_to_my_uploaded_files: "Add to My Uploaded Files"
-        back: "Back"
+        preview: "معايهة"
+        image_preview: "معاينة الصورة"
+        related_keywords: "كلمات رئيسية ذات الصلة "
+        the_image_you_are_viewing_is_only_a_small_preview: "الصورة التي تشاهدها ليست سوى معاينة صغيرة"
+        the_full_size_image: "سيتم إضافة الصورة بالحجم الكامل إلى ملفاتك المرفوعة عند النقر على - إضف الى ملفاتي المرفوعة"
+        add_to_my_collection: "اضافة الى مجموعتي"
+        add_to_my_uploaded_files: "إضافة الى ملقاتي المرفوعة"
+        back: "العودة"
         
 
