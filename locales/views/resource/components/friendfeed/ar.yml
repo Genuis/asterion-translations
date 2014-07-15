@@ -11,7 +11,7 @@ ar:
             friendfeed: "تغذية صديق"
      
         settings: 
-          friendfeed_component_settings: "Friendfeed Component Settings"
+          friendfeed_component_settings: "إعدادات المكون فريندفيد"
      
         embed: 
           your_friendfeed_account_couldnt_be_contacted_please: "حساب اصدقائك لم نستطع الاتصال به، الرجاء التاكد من ان لديك صلاحية التحكم."
