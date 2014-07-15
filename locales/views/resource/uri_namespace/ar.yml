@@ -9,7 +9,7 @@ ar:
         enable_password_protection: "تمكين حماية كلمة السر لحماية كلمة السر"
         new_password: "كلمة مرور جديد"
         password: "كلمة مرور"
-        confirmation: "Confirmation"
+        confirmation: "تأكيد"
         
         
 
