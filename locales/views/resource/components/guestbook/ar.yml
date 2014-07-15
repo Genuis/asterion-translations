@@ -6,7 +6,7 @@ ar:
         message: 
           add_guestbook_component: "اضافة مكون لسجل الزوار"
           
-          back: "العودة"
+          back: "الرجوع"
 
         comment_form_content:
           name: "الاسم: "
@@ -27,7 +27,7 @@ ar:
         paging: {}
 
         submit: 
-          submit: "عرض"
+          submit: "ارسال"
 
         message_form: 
           guestbook_name: "اسم سجل الزوار"
