@@ -78,7 +78,7 @@ ar:
           tags: "الكلمات الدليلية"
           seperate_multiple_tags_with_commas: "فصل كلمات دليلية متعددة عن فواصل"
           announce_blog_post_to: "اعلان مشاركة المدونة ل"
-          announce_pingomatic: "announce_pingomatic"
+          announce_pingomatic: "إعلان بينغوماتيك "
           keywords: "الكلمات الرئيسية"
           keywords_that_describe_your_blog_post: "الكلمات الرئيسية التي تصف مشاركات مدونتك لمحركات البحث، مفصولة بفواصل - مثل: الرياضة، والهوكي"
           keywords_are_a_comma_separated_list: "الكلمات الرئيسية هي قائمة مفصولة بفواصل من الكلمات التي تصف مشاركات مدونتك لمحركات البحث. مثل الرياضة، والهوكي، والأخبار، وكرة القدم"
