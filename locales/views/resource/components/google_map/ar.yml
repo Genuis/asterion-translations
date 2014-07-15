@@ -4,7 +4,7 @@ ar:
     components: 
       google_map: 
         feed: 
-          kml_or_georss_feed: "KML or GeoRSS Feed"
+          kml_or_georss_feed: "تلقيم كي أم ال أو جيواراساس"
 
         create: 
           add_google_map_component: "اضافة مكون خريطة قوقل" 
@@ -18,14 +18,14 @@ ar:
           google_map_component_position: "وظيفة مكون خريطة جوجل"
 
         embed:
-          loading: "جاري..."
+          loading: "جاري التحميل"
           find_route: "ايجاد المسار"
           directions: "الاتجاهات"
 
         lookup: 
           lookup_address: "ابحث المواقع"
           find_address: "جد المواقع"
-          loading: "جاري..."
+          loading: "جاري التحميل"
 
         form: 
           map_settings: "ضبط الخريطة"
@@ -38,4 +38,4 @@ ar:
           kml_or_georss_feed: "تغذية"
 
         show_admin_map: 
-          loading: "جاري..."
+          loading: "جاري التحميل"
