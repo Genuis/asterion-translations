@@ -74,7 +74,7 @@ ar:
         keywords: "الكلمات الرئيسية"
         keywords_that_describe_your_website_for_search: "الكلمات الرئيسية التي تصف موقع الويب الخاص بك لمحركات البحث، مفصولة بفواصل ( مثل : الرياضة،الهوكي)"
         keywords_are_a_comma_separated_list_of: "الكلمات الرئيسية هي قائمة مفصولة بفواصل من الكلمات التي تصف موقعك لمحركات البحث.( مثل : الرياضة، والهوكي، والاخبار، والكانكوس)"
-        description: "Description"
+        description: "وصف"
         description_of_your_website_for_search_engines: "وصف موقع الويب الخاص بك لمحركات البحث"
         your_site_description_should_be_a_regular: "يجب ان يكون وصف موقعك فقرة عادية التي تصف ما هو موقعك عنه. لا تستخدم قوائم الكلمات الرئيسية هنا."
         
