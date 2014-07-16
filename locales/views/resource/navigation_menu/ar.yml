@@ -14,7 +14,7 @@ ar:
         link_to_an_email: "رابط البريد الالكتروني"
         add_a_submenu: "اضافة قائمة فرعية"
         drag: "سحب"
-        items_to_add_them_to_your_menu: "سحب بنود لاضافتها الى القائمة الخاصة بك"
+        items_to_add_them_to_your_menu: "%{drag} العناصر للاضافتها الى قائمتك "
 
       edit_item: 
         edit_navigation_item: "تحرير اغلاق الملاحة"
