@@ -5,17 +5,17 @@ ar:
       lastfm: 
         top_tracks: 
           there_are_no_top_tracks_currently_available: "لاتوجد مسارات متاحة حاليا"
-          by_trackartist: "من الفنان"
-          payed: "اختيار تشغيل عدد المرات"
+          by_trackartist: "من %{artist}"
+          payed: "تم تشغيل %{play_count} مرات"
 
         recent_tracks:
           no_tracks_have_recently_been_played: "لا توجد مسارات تم تشغيلها."
-          by_trackartist: "تشغيل عن طريق"
-          played_on: "يشتغل الآن"
+          by_trackartist: "من #{track.artist}"
+          played_on: "شغلت على %{played_on}"
 
         top_artists: 
           there_are_no_top_artists_currently_available: "لاتوجد مسارات متاحة حالياُ."
-          played:  "تشغيل "
+          played:  "شغلت %{play_count} اغاني "
           
 
         embed: {}
@@ -27,8 +27,8 @@ ar:
 
         top_albums: 
           there_are_no_top_albums_currently_available: "لاتوجد اعلى البومات متاحة حالياُ."
-          album_artist: "البوم الفنان"
-          played: "تشغيل الاغنية"
+          album_artist: "من %{album_artist}"
+          played: "شغلت %{play_count} اغاني"
 
         settings: 
           lastfm_component_settings: "ضبط محتوى لاست اف ام"
