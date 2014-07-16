@@ -7,7 +7,7 @@ ar:
           add_friendfeed_component: "اضافة مكون تغذية الصديق"
           
           enables_you_to_discover_and_discuss:
-            text:  "يمكنك من اكتشاف ومناقشة الاشياء المثيرة للاهتمام مع اصدقائك عبر شبكة الانترنت"
+            text:  "%{friendfeed} يمكنك من اكتشاف والنقاش عن المواضيع المثيرة التي يجدونها اصدقائك في الويب"
             friendfeed: "تغذية صديق"
      
         settings: 
