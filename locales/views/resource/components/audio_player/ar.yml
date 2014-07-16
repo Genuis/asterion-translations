@@ -25,7 +25,7 @@ ar:
         embed: 
           playlist: "قائمة التشغيل"
           there_are_no_audio_files_selected_this: 
-            text: "لا توجد ملفات صوت محددة. هذه لن تظهر على الموقع الخاص بك حتى تكون قد قمت برفع بعض ملفات صوت"
+            text: "لا توجد ملفات صوتية محددة. هذا لن يظهر على موقعك حتى تقوم برفع بعض ملفات صوتية %{uploaded_some}"
             uploaded_some: "رفع بعض"
           pop_out_player: "إظهار مشغل"
 
