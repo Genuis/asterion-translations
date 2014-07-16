@@ -27,7 +27,7 @@ ar:
         upgrade_your_account_to_pro: "ترقية حسابك الى برو "
         to_access_all_of_your_statistics_current: "للوصول الى كافةالاحصاءات الخاصة بك الحد الحالي 7 ايام."
         upgrade_now: "ترقية الآن"
-        traffic_breakdown_for_last: "توزيع حركة المرور للنشاط {عدد} أيام منذ يوم"
+        traffic_breakdown_for_last: "انهيار حركة اخر %{number_of_days_ago} أيام"
         page_views_is_the_number_of_times: "يظهر الصفحة عدد المرات التي تم الاطالع على الصفحات الفردية الزيارات الفريدة من نوعها، وغيرها"
         7_days: "سبعة ايام"
         1_month: "شهر واحد"
@@ -55,8 +55,8 @@ ar:
         to_access_all_of_your_statistics_current: "للوصول الى كافة الاحصاءات الخاصة بك الحد الحالي 7 ايام."
         upgrade_now: "ترقية الآن"
         a_page_view_is_the_number_of: "يظهر الصفحة عدد المرات التي تم الاطالع على الصفحات الفردية الزيارات الفريدة من نوعها، وغيرها"
-        trafic_overview: "نظرة عامة المرور لـ{عدد} أيام منذ يوم"
-        page_views_in_the_last: "المشاهدات الصفحة الاخيرة{عدد} أيام منذ يوم:"
+        trafic_overview: "نظرة عامة للحركة ل %{number_of_days_ago} أيام"
+        page_views_in_the_last: "مشاهدات الصفحة لاخر %{number_of_days_ago} أيام:"
         average_page_views_per_day: "متوسط مشاهدات الصفحة يوم:"
         unique_visits: "الزيارات الفريدة من نوعها"
         total_visits: "مجموع الزيارات"
@@ -69,7 +69,7 @@ ar:
         3_years: "ثلاثة سنين"
         page_views: "مشاهدات الصفحة"
         total_page_views: "مجموع مشاهدات الصفحة"
-        visits_in_the_last: "تم الزيارة في اخر {عدد} ايام منذ يوم:"
+        visits_in_the_last: "عدد زيارات لاخر %{number_of_days_ago} أيام:"
         average_visits_per_day: "متوسط الزيارات لكل يوم:"
         
 
