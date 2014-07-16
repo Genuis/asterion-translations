@@ -38,5 +38,5 @@ ar:
     asset: {}
 
     container_width: 
-      the_container_width_is: "عرض الحاوية، {تمتد بكسل}."
+      the_container_width_is: "هذه الحاوية تمتد الى %{span} بكسل"
 
