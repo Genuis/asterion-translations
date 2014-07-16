@@ -20,7 +20,7 @@ ar:
         creating_your_own_theme: "إنشاء ثيمك بنفسك"
         to_make_a_custom_theme_all_you: "لإنشاء ثيم مخصص، كل ما تحتاج إلى معرفته هو اش تي ام أو سي اس اس. ليس هناك لغة النموذجيه جديدة للتعلم"
         please_refer_to_our: 
-          text: " يرجى الرجوع إلى موقعنا في ويكي للحصول على المساعدة في تخصيص ثيمك أو إنشاء واحدة جديدة "
+          text: "يرجى الرجوع إلى %{theme_documentation} في موقعنا ويكي للحصول على المساعدة في تخصيص ثيمك أو إنشاء واحدة جديدة"
           theme_documentation: "توثيق الثيم"
         download_themes: "تحميل الثيمات"
         blank_theme: "ثيم فارغ"
@@ -53,14 +53,14 @@ ar:
         these_are_all_of_the_html_and: "هذه كلها من ملفات اش تي ام ال و السي اس اس في ثيمك"
         customizing_your_theme_requires_knowledge_of_html: "تخصيص ثيم مخصص يتطلب معرفة اش تي ام ال و سي اس اس - وهو موصى فقط للمستخدمين المتقدمين "
         if_you_just_want_to_change_your: 
-          text: "إذا ترغب فقط في تغيير ثيمك، يجب عليك اختيار ثيم جديد من مكتبتنا الحالية"
+          text: "إذا ترغب فقط في تغيير ثيمك، يجب عليك %{select_a_new_theme} من مكتبتنا الحالية"
           select_a_new_theme: "اختر ثيم جديد"
         for_in_depth_documentation_you_can_view: 
-          text: "للتوثيق المتعمق، يمكنك عرض توثيق الثيم في أي وقت"
+          text: "للتوثيق المتعمق، يمكنك عرض %{theme_documentation} في أي وقت"
           theme_documentation: "توثيق الثيم"
         you_can_download_an_archive_of_this: "يمكنك تحميل أرشيفا من هذا الثيم وجميع أصولها (الصور، سي اس اس، أتش تي أم أل) إذا كنت ترغب في تخصيصة أو تحريره بشكل اوسع على كمبيوترك. إذا كنت تفضل إنشاء ثيم جديد من الصفر، لدينا قالب ثيم فارغ مع تعليمات المتاحة"
         either_of_these_can_be_downloaded_by: 
-          text: "أي من هذه يمكن تحميلها  بالذهاب إلى قسم رفع ثيم"
+          text: "أي من هذه يمكن تحميلها بالذهاب إلى قسم %{upload_theme}"
           upload_theme__download_theme: "رفع الثيم / تحميل الثيم"
         
       update: 
@@ -82,5 +82,5 @@ ar:
         current_theme: "الثيم الحالي"
         reinstall: "إعادة تثبيت"
         install: "تثبيت"
-        page_layouts_for: "تصميمات الصفحة لاسم الموضوع"
+        page_layouts_for: "تصميمات الصفحة ل %{theme_name}"
 
