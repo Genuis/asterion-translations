@@ -10,21 +10,21 @@ ar:
         
 
       manage: 
-        manage_pageurl_redirects: "ادارة الصفحة \ يو ار ال الموجهات"
+        manage_pageurl_redirects: "ادارة الصفحة\رابط إعادة توجيه"
         website_pages: "صفحات المواقع"
-        pageurl_redirects: "الموجهات الصفحة \ يو ار ال"
-        current_redirects: "الموجهات الحالية"
+        pageurl_redirects: "الصفحة\رابط إعادة توجيه"
+        current_redirects: "اعادة توجيه الحالي"
         location: "الموقع"
-        redirects_to: "الموجهات الى"
+        redirects_to: "يتوجه الى"
         type: "نوع"
         moved_temporarily: "انتقلت مؤقتاً"
         moved_permanently: "انتقلت بشكل دائم"
         
         delete_page: "حذف الصفحة"
-        about_url_redirects: "حول اعادة توجيه \ يو ار ال"
+        about_url_redirects: "حول رابط اعادة توجيه"
         redirects_allow_you_to_make_a_web: 
           text: |
-            الموجهات تسمح لك لجعل صفحة الويب المتاحة في \ يو ار ال اكثر من واحد. على سبيل المثال اذا كان موقعك القديم صفحة تسمى {الصفحة} انه يمكن اعادة توجيه الى الصفحة الخاصة بك {الجديدة}
+        الموجهات تسمح لك لجعل صفحة الويب المتاحة في اكثر من رابط. على سبيل المثال اذا كان موقعك القديم صفحة تسمى %{page} فمن الممكن اعادة توجيه الى صفحتك الجديدة %{new_page}
         redirects_let_search_engines_know_that_a: "الموجهات تسمح لمحركات البحث الانتقال الى الصفحة بدلا من رؤيتها كحلقة وصل، ويساعد هذا مع محرك البحث التصنيف وفهرسة موقعك"
         create_a_redirect: "انشاء اعادة توجيه"
         create_redirect: "انشاء اعادة توجيه"
