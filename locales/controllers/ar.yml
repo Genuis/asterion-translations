@@ -11,7 +11,7 @@ ar:
   
   nothing_was_uploaded: "لم يتم تحميل اي شيء"
   must_be_a_zip_file: "يجب ان يكون ملف مضغوط"
-  could_not_find_help_resources_for: "لا يمكن العثور على موارد المساعدة ل %{path}."
+  could_not_find_help_resources_for: "لا يمكن العثور على موارد المساعدة ل %{path}"
   no_results_found_for: " لا توجد نتائج ل %{query}"
   nothing_was_uploaded: "لم يتم تحميل اي شيء"
   must_be_a_ico_file: "يجب ان يكون ملف بن الدولية"
