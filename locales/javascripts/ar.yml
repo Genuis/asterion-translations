@@ -48,7 +48,7 @@ ar:
     delete_blog_category_button: حذف {{name}}
 
     # jquery.asterion.component.js
-    css_id: CSS ID
+    css_id: اسم سي اس اس
 
     # jquery.asterion.componentEditor.js
     moving_component_type: متحرك {{type_placeholder}}
