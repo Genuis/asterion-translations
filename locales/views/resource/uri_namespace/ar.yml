@@ -5,8 +5,8 @@ ar:
       settings: 
         security_settings: "اعدادات الامان"
         password_protection: "حماية كلمة المرور"
-        if_you_would_like_to_change_the: "اذا كنت ترغب في تغيير كلمة المرور لهذه الصفحة، يمكنك القيام بذلك عن طريق ادخال كلمة مرةر جديدة هنا."
-        enable_password_protection: "تمكين حماية كلمة السر لحماية كلمة السر"
+        if_you_would_like_to_change_the: "اذا كنت ترغب في تغيير كلمة المرور لهذه الصفحة، يمكنك القيام بذلك عن طريق ادخال كلمة مرور جديدة هنا"
+        enable_password_protection: "تمكين حماية كلمة السر ل %{password_protection}"
         new_password: "كلمة مرور جديد"
         password: "كلمة مرور"
         confirmation: "تأكيد"
