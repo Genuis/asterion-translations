@@ -5,7 +5,7 @@ ar:
       page_actions:
         page_settings: "اعدادات الصفحة"
         change_header_image: "تغيير راس الصورة"
-        page_seo: "صفحة كبار المسؤولين الاقتصاديين"
+        page_seo: "صفحة تحسين محركات البحث"
         delete_page: "حذف الصفحة"
         add_new_page: "اضافة صفحة جديدة"
         collapse_blocks: "انهيار كتل"
@@ -19,10 +19,10 @@ ar:
         uploaddownload_a_theme: "تحميل تنزيع موضوع"
 
       layouts:
-        this_page_is_using: "هذه الصفحة تم استخدام اسم ( تخطيط."
+        this_page_is_using: "هذه الصفحة تستخدم تصميم %{name}"
         this_page:
-          text: "هذه الصفحة تخطيط اسم تخطيط."
-          is_already_using: "يستخدم بالفعل"
+          text: "هذه الصفحة %{in_use} ال %{layout_name} تصميم"
+          is_already_using: "مستخدم مسبقا"
           will_use: "سوف تستخدم"
 
       site_content:
