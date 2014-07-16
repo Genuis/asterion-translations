@@ -12,8 +12,8 @@ ar:
         are_you_sure: "هل انت متاكد؟"
 
       comment_component_toolbar: 
-        comment: "تعليق بريد المزعج"
-        _suspected_spam: " يشتبه البريد المزعج"
+        comment: "تعليق %{suspected_spam}"
+        _suspected_spam: "(بريد مزعج مشتبه به)"
 
       comment: {}
 
@@ -27,8 +27,8 @@ ar:
         website_: "الموقع الالكتروني: "
         enter_text_only_if_you_are_not_human: "ادخال النص فقط اذا لم تكن انساناً!"
         comment_: "تعليق: "
-        spam_check: "فحص العرض:"
-        submit: "عرض"
+        spam_check: "فحص بريد مزعج:"
+        submit: "إرصال"
         your_comment_is_being_posted: "يتم نشر تعليقك ....."
 
       spam: {}
