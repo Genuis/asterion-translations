@@ -6,9 +6,9 @@ ar:
         embed: 
           timeline: 
             in: "في "
-            reply_to: "اعادة ارسال"
+            reply_to: "الرد على %{screen_name}"
             follow: "اتبع"
 
           friend:
             in: "في "
-            reply_to: "اعادة "
+            reply_to: "الرد على %{screen_name}"
