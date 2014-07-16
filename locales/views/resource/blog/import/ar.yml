@@ -14,7 +14,7 @@ ar:
         wordpress_success: 
           unfortunately_no_posts: "للأسف لا يمكن استيراد أية مشاركات مع البيانات المقدمة"
           successfully_imported:
-              text: "لقد قمت باسيراد المشاركات والتعليقات تابعة بنجاح  ٪ {}٪ {post_count comment_count}"
+              text: "لقد قمت باستيراد مشاركات  %{post_count} والتعليقات %{comment_count} بنجاح "
         wordpress: 
           import_wordpress: "استيراد ووردبريس"
           upload_exported_data: "تحميل البيانات تم تصديرها"
