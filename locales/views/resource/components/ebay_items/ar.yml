@@ -5,7 +5,7 @@ ar:
       ebay_items: 
         item: 
           no_image: "لاتوجد صورة"
-          left: "الباقي"
+          left: "باقي %{time_left}"
 
         create: 
           add_ebay_listings_component: "اضافة مكون ايباي للقوائم"
