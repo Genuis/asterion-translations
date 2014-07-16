@@ -7,7 +7,7 @@ ar:
         sitewide: "الموقع على نطاق - واسع"
         change_the_header_image_that_will_be: "تغيير صورة الراس الذي سيظهر على جميع الصفحات."
         override_the_sitewide_header_image_for_this: "تجاوز صورة راس الموقع على نطاق واسع لهذه الصفحة."
-        page_name: "الصفحة \ اسم الصفحة"
+        page_name: "الصفحة %{page_name}"
         sitewide_header_images_will_not_be_shown: "لن تظهر راس الصور على موقع اوسع"
         this_page_will_not_show_a_header: "لن تظهر هذه الصفحة على الراس."
         change_image: "تغيير الصورة"
@@ -16,7 +16,7 @@ ar:
         do_not_use_a_sitewide_header_image: "لا تستخدم الموقع على نطاق اوسع راس الصورة"
         change_image: "تغيير الصورة"
         use_sitewide_image: "استخدام الموقع على نطاق واسع"
-        do_not_use_a_header: "لا تستخدم راس الصورة على اسم الصفحة'"
+        do_not_use_a_header: "لا تستخدم راس الصورة على %{page_name}"
         
         
         
