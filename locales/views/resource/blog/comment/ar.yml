@@ -52,10 +52,10 @@ ar:
 
         show: 
           name: "اسم"
-          comment_name: "الاسم و تعليقك"
+          comment_name: "(تعليقك) %{name}"
           posted: "نشرت"
           email: "البريد الالكتروني"
-          url: "يو ار ال"
+          url: "رابط"
           posted_in: "نشرت في"
           comment: "تعليق"
           approve_this_comment: "وافق على هذا التعليق"
