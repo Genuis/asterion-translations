@@ -31,7 +31,7 @@ ar:
           map_settings: "ضبط الخريطة"
           width: "العرض"
           height: "الارتفاع"
-          the_container_width_is: "عرض الحاوية."
+          the_container_width_is: "تمتد عرض الحاوية %{span} بكسل"
           enable_directions_to_your_location: "تمكين الاتجاهات لموقعك?"
           allows_visitors_to_your_website_to_easily: "يسمح ويستطيع الزوار ان يجدوا الطريق الى موقعك."
           this_is_what_appears_in_the_message: "هذا مايظهر في حوار الرساله عند النقر على العلامة."
