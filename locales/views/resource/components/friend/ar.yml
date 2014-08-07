@@ -1,27 +1,22 @@
---- 
-ar: 
-  resource: 
+---
+ar:
+  resource:
     components:
-      friend: 
-        friends_with_icons: {}
-
-        friends_without_icons: {}
-
-        create: 
+      friend:
+        create:
           add_friend_component: "اضافة اصدقاء بالمكون"
 
-        settings: 
+        settings:
           friend_component_settings: "ضبط اعدادات اصدقاء المكون"
-     
-        embed: 
+
+        embed:
           manage_friends: "ادارة الاصدقاء"
-          this_is_a_friend_component_you_do: |
-            text: "النص" "ليس لديك اي اصدقاء لعرضهم، لن يظهر شيئاً على موقع الويب الخاص بك حتى تقوم باضافة الاصدقاء، يمكنك اداره اصدقائك أو ازالة المكون"
-            mange_your_friends: " ادارة الاصدقاء"
+          this_is_a_friend_component_you_do:
+            text: "%{manage_your_friends} أو %{remove_the_component} النص ليس لديك اي اصدقاء لعرضهم، لن يظهر شيئاً على موقع الويب الخاص بك حتى تقوم باضافة الاصدقاء، يمكنك اداره اصدقائك أو ازالة المكون"
+            manage_your_friends: " ادارة الاصدقاء"
             remove_the_component: "ازالة المكون"
-          
-        form: 
-          
+
+        form:
           number_of_friends_to_display: "اظهار عدد الاصدقاء"
           show_all: "اظهار الكل"
           order: "طلب"

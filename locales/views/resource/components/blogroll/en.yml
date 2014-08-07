@@ -1,38 +1,39 @@
---- 
-en: 
-  resource: 
-    components: 
-      blogroll: 
-        edit: 
+---
+en:
+  resource:
+    components:
+      blogroll:
+        edit:
           add_a_blog_feed: "Add a Blog Feed"
           current_blogs: "Current Blogs"
-          
-          
 
-        create: 
+
+
+        create:
           add_blogroll_component: "Add Blogroll Component"
-          
+
           back: "Back"
 
-        settings: 
+        settings:
           blogroll_component_settings: "Blogroll Component Settings"
-          
-          
 
-        select_feeds: 
+
+
+        select_feeds:
           new_blogroll_component: "New Blogroll Component"
           this_component_allows_you_to_list_and: "This component allows you to list and link to your favorite blogs. Enter the address you'd like to add to your list, and then click on the Add Feed button. Repeat this for as many blogs you'd like to add to your list."
           add_a_blog_feed: "Add a Blog Feed"
           current_blogs: "Current Blogs"
           next_step: "Next Step"
-          
-          
-        embed: 
+
+
+        embed:
+          blogs: "Blogs"
           there_are_no_blogs_added_this_will: "There are no blogs added.  This will not show up on your website until you "
           add_a_blog: "add a blog"
 
-        form: 
-          
+        form:
+
           number_to_display: "Number to Display"
           display_settings: "Display Settings"
           display_blog_icon: "Display blog icon"

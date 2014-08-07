@@ -1,8 +1,8 @@
---- 
-ar: 
-  resource: 
-    page: 
-      not_found: 
+---
+ar:
+  resource:
+    page:
+      not_found:
         page_not_found: "الصفحة غير موجودة"
         you_have_not_yet_created_a_page: "لم تقم بانشاء صفحة بعد "
         please_select_one_of_the_following_options: "الرجاء اختيار واحد من الخيارات التالية:"
@@ -10,20 +10,14 @@ ar:
         edit_the_custom_404_page: "تحرير 404 صفحة مخصصة"
         return_to_your_site: "العودة الى موقع الويب الخاص بك"
 
-      modify_header: 
+      modify_header:
         edit_page_head_tag: "رئيس تحرير الصفحة"
         page_head_tag: "رئيس قسم الصفحة"
         this_requires_knowledge_of_html_and_is: "هذا يتطلب معرفة اتش تي ام الف ويقصد للمستخدمين المتقدمين سيتم الحاق التعليمات البرمجية داخل رئيس"
-        
-        
         locked: "مقفل"
         unlocked: "غير مقفل"
 
-      delete: {}
-
-      escaped_fragment: {}
-
-      basic_form: 
+      basic_form:
         name: "الاسم"
         this_will_be_used_in_the_navigation: "سوف تستخدم الملاحة موقعك، وكذلك اي وصلات لهذه الصفحة"
         location: "موقع"
@@ -32,23 +26,21 @@ ar:
         published: "نشر"
         add_to_main_menu: "اضافة الى القائمة الرئيسية"
 
-      manage_path: 
+      manage_path:
         locked: "مقفل"
         unlocked: "غير مقفل"
-        
         protect_all_pages_in_folder: "حماية جميع الصفحات في المجلد"
+        password_protect: "حماية كلمة السر"
         delete_folder: "حذف المجلد"
         unpublished: "غير منشور"
         home_page: "الصفحة الرئيسية"
         unpublished: "غير منشور"
-        
         view: "معاينة"
         view_page: "معاينة الصفحة"
-        
         make_home: "جعله الصفحة الرئيسية"
         delete_this_page: "حذف هذه الصفحة."
-        
-      manage: 
+
+      manage:
         manage_website_pages: "ادارة صفحات الموقع"
         website_pages: "صفحات الموقع"
         pageurl_redirects: "موجهات الصفحة\يو ار ال"
@@ -59,17 +51,14 @@ ar:
         this_will_remove_any_pages_inside_this_group_as_well: "سيؤدي هذا الى حذف الصفحات داخل المجموعة كذلك"
         delete_group: "حذف المجموعة"
 
-      create: 
+      create:
         create_a_new_page: "انشاء صفحة جديدة"
         create_page: "انشاء صفحة"
-        
 
-      settings: 
+      settings:
         edit_page_settings: "اعدادات تحرير الصفحة"
-        
-        
 
-      seo: 
+      seo:
         edit_page_seo: "تحرير صفحة كبار المسؤولين الاقتصاديين"
         keywords: "الكلمات الرئيسية"
         keywords_that_describe_your_website_for_search: "الكلمات الرئيسية التي تصف موقع الويب الخاص بك لمحركات البحث، مفصولة بفواصل ( مثل : الرياضة،الهوكي)"
@@ -77,15 +66,13 @@ ar:
         description: "وصف"
         description_of_your_website_for_search_engines: "وصف موقع الويب الخاص بك لمحركات البحث"
         your_site_description_should_be_a_regular: "يجب ان يكون وصف موقعك فقرة عادية التي تصف ما هو موقعك عنه. لا تستخدم قوائم الكلمات الرئيسية هنا."
-        
-        
-        
-      tabs: 
+
+      tabs:
         basic: "الاساسية"
         page_seo: "صفحة كبار المسؤولين الاقتصاديين"
         head_tag: "البطاقة الرئيسية"
 
-      form: 
+      form:
         page_name: "اسم الصفحة"
         this_will_be_used: "Tسوف تستخدم له في التنقل من موقع الويب الخاص بك، وكذلك على اي روابط لهذه الصفحة."
         default_page_cannot_be_unpublished: "الصفحة الافتراضية لا يمكن ان يكون غير منشورة"
@@ -99,10 +86,9 @@ ar:
         redirect_type: "نوع اعادة التوجيه"
         redirect: "اعادة توجيه"
 
-      login: 
+      login:
         authentication_required: "المصادقة المطلوبة"
         authentication_is_required_to_view_this_page: "مطلوب مصادقة لمشاهدة هذه الصفحة."
         password_: "كلمة السر: "
         login: "دخول"
         password_is_incorrect: "كلمة السر غير صحيح."
-

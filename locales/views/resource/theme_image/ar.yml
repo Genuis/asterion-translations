@@ -1,8 +1,8 @@
---- 
-ar: 
-  resource: 
-    theme_image: 
-      manage: 
+---
+ar:
+  resource:
+    theme_image:
+      manage:
         header_image_management: "ادارة  راس الصورة"
         sitewide: "الموقع على نطاق - واسع"
         change_the_header_image_that_will_be: "تغيير صورة الراس الذي سيظهر على جميع الصفحات."
@@ -12,16 +12,11 @@ ar:
         this_page_will_not_show_a_header: "لن تظهر هذه الصفحة على الراس."
         change_image: "تغيير الصورة"
         use_default_theme_image: "استخدام افتراضي لـ ثيم الصورة"
-        yes: "نعم"
         do_not_use_a_sitewide_header_image: "لا تستخدم الموقع على نطاق اوسع راس الصورة"
         change_image: "تغيير الصورة"
         use_sitewide_image: "استخدام الموقع على نطاق واسع"
         do_not_use_a_header: "لا تستخدم راس الصورة على %{page_name}"
-        
-        
-        
-      select: 
-        select_header_image: "حدد راس الصورة"
-        
-        insert_image: "ادراج الصورة"
 
+      select:
+        select_header_image: "حدد راس الصورة"
+        insert_image: "ادراج الصورة"

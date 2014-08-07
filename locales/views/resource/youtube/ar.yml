@@ -1,21 +1,20 @@
---- 
-ar: 
-  resource: 
-    youtube: 
-      search: 
+---
+ar:
+  resource:
+    youtube:
+      search:
         youtube_video_browser: "محرك بحث يوتيوب"
-        
         start_typing_to_search: "بدء الكتابة للبحث"
 
-      _video_embed: {}
+      video_embed: {}
 
-      _videos: 
+      videos:
         there_was_a_problem_connecting_to_the: "كان هناك مشكلة في الاتصال الى ملقمات يوتيوب، يرجى المحاولة مرة اخرى في وقت لاحق."
         there_was_nothing_found_matching_your_filter: "لم يجد هناك شيء مطابق للفلتر"
 
-      _categories: {}
+      categories: {}
 
-      preview: 
+      preview:
         youtube_video_preview: "معاينة فيديو اليوتيوب"
         description: "وصف"
         author: "الكاتب: "
@@ -28,20 +27,16 @@ ar:
         categories: "الفئات: "
         back: "العودة"
 
-      unavailable: 
+      unavailable:
         youtube_error: "خطأ في اليوتيوب"
         uh_oh_it_looks_like_there_was: "اوه !! يبدو ان هناك مشكلة عند محاولة الحصول على هذا الفيديو من يوتيوب"
         this_video_may_be_temporarly_unavailable_or: "قد يكون هذا الفيدو غير متاح مؤقتاُ، او هو في طور ازالتها من النظام الخاص بهم"
         you_can_continue_where_you_were_browsing: "يمكنك الاستمرار حيث كنت تتصفح من خلال النقر على الزر ادناه"
 
-      browse: 
+      browse:
         youtube_video_browser: "محرك بحث اليوتيوب"
         search: "البحث"
         featured: "متميز"
         top_rated: "الاعلى تقييما"
         most_popular: "الاكثر شعبية"
         most_viewed: "الاكثر مشاهدة"
-        
-
-      _video: {}
-

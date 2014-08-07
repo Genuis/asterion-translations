@@ -1,26 +1,21 @@
---- 
-en: 
-  resource: 
-    components: 
-      twitter: 
-        create: 
+---
+en:
+  resource:
+    components:
+      twitter:
+        create:
           add_twitter_component: "Add Twitter Component"
-          
-          
 
-        settings: 
+        settings:
           twitter_component_settings: "Twitter Component Settings"
-          
-          
 
-        embed: 
+        embed:
           some_important_improvements_have_been_made_to: "Some important improvements have been made to the Twitter Component that require you to link with your Twitter account. "
           click_here_to_link_your_account: "Click here to link your account"
           uh_oh_it_looks_like_there_was: "Uh oh, it looks like there was a problem fetching your Twitter data."
           twitter_may_be_experiencing_technical_difficulties_or: "Twitter may be experiencing technical difficulties, or you can check your "
-        
-        form: 
-          
+
+        form:
           twitter_account: "Twitter Account"
           select_the_account_to_use_you_can: "Select the account to use. You can link new ones from Website Settings"
           what_to_show: "What to Show"
@@ -33,8 +28,7 @@ en:
           add_a_follow_link: "Add a follow link"
           number_of_tweets_to_display: "Number of Tweets to Display"
           show_all: "Show All"
+          add_a_link_at_the_bottom: "Add a link at the bottom that lets people follow you on twitter"
 
         link:
           next: "Next"
-          
-

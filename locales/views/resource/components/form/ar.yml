@@ -1,9 +1,9 @@
---- 
-ar: 
-  resource: 
-    components: 
-      form: 
-        component_form: 
+---
+ar:
+  resource:
+    components:
+      form:
+        component_form:
           account_activation_required: "تنشيط الحساب مطلوب"
           you_need_to_click_the_link_in: "انقر على الرابط في البريد الالكتروني لتنشيط حسابك، لن تستطيع ارسال او استعمال اي شيء في الموقع حتى تقوم بتنشيط حسابك، "
           form_title: "شكل العنوان"
@@ -15,21 +15,15 @@ ar:
           cc_address: "عنوان ال س س "
           your_email_will_not_be_used_until: "لن يتم استخدام البريد الالكتروني الخاص بك حتى تقوم بتنشيط حسابك"
           upgrade_to_pro: "الترقية الى برو"
-          upgrade_now: "الترقية الآن"
           for_custom_email_and_cc: "للبريد الالكتروني المخصص وال س س "
           email_subject_line: "سطر الموضوع في البريد الالكتروني"
           message_to_display_after_form_submission: "عرض الرساله بعد تقديم النموذج"
 
-        create: 
+        create:
           add_form_component: "اضافة شكل المكون"
-          
-          
 
-        settings: 
+        settings:
           form_component_settings: "ضبط شكل المكون"
-          
-          
 
-        embed: 
+        embed:
           fields: "الحقول"
-

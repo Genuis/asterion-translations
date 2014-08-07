@@ -1,27 +1,22 @@
---- 
-ar: 
+---
+ar:
   resource:
-    components: 
-      vimeo: 
-        _video_embed: 
+    components:
+      vimeo:
+        video_embed:
           video_player_url: "رابط مشغل الفيديو"
 
-        create: 
+        create:
           add_vimeo_component: "إضافة محتوى من فيميو"
 
-        settings: 
+        settings:
           vimeo_component_settings: "إعدادات مكون فيميو"
-          
-          
 
-        embed: 
+        embed:
           this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
 
-        form: 
-          
+        form:
           video_url: "رابط الفيديو"
           eg: "مثال"
           embed_width: "ضبط العرض"
           width: "العرض"
-          
-

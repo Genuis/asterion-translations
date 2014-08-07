@@ -1,8 +1,9 @@
---- 
-ar: 
-  resource: 
-    image_tag: 
-      flickr_form: 
+---
+ar:
+  resource:
+    image_tag:
+      flickr_form:
+        image_size: "حجم الصورة"
         image_selection: "اختيار الصورة"
         enter_your_flickr_username: "ادخل اسم مستخدم فليكر الخاص بك لتصفح صور فليكر."
         browse_images: "بحث الصور"
@@ -17,7 +18,7 @@ ar:
         upload_image: "تحميل صورة"
         stock_photos: "البوم الصور"
 
-      external_form: 
+      external_form:
         image_selection: "اختيار الصورة"
         url: "يو ار ال"
         image_details: "تفاصيل الصورة"
@@ -26,14 +27,9 @@ ar:
         height: "ارتفاع"
         image_size: "حجم الصورة"
 
-      asterion_form: 
+      asterion_form:
         image_border: "حدود الصورة"
         alt_text: "نص بديل"
         quick_sizes: "مقاسات سريعة"
         alternative_text: "نص بديل"
         rectangular_images: "صور مستطيلة"
-
-      _form: {}
-
-      _quicksizes: {}
-

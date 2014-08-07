@@ -1,32 +1,27 @@
---- 
-ar: 
-  resource: 
-    statistics: 
-      referrers: 
+---
+ar:
+  resource:
+    statistics:
+      referrers:
         website_statistics: "احصائيات الموقع"
         overview: "نظرة عامة"
         page_views: "مشاهدات الصفحة"
         top_pages: "اعلى الصفحات"
         top_referrers: "اعلى المشيرين"
-        upgrade_your_account_to_pro: "ترقية حسابك الى برو "
         to_view_all_of_your_referrers_current: "لعرض كافة المشيرين الخاص بك الحد الحالي 7"
-        upgrade_now: "ترقية الآن"
         top_referrers: "اعلى المشيرين"
         a_referring_site_is_a_web_page: "الموقع هو عنوان صفحة الويب التي يتم ربط الصفحة على موقع الويب الخاص بك ."
         referring_site: "يشير الموقع"
         page_name: "اسم الصفحة"
         view_more: "اظهار المزيد ..."
-        
 
-      pageviews: 
+      pageviews:
         website_statistics: "احصائيات الموقع"
         overview: "نظرة عامة"
         page_views: "مشاهدات الصفحة"
         top_pages: "اعلى الصفحات"
         top_referrers: "اعلى المشيرين"
-        upgrade_your_account_to_pro: "ترقية حسابك الى برو "
         to_access_all_of_your_statistics_current: "للوصول الى كافةالاحصاءات الخاصة بك الحد الحالي 7 ايام."
-        upgrade_now: "ترقية الآن"
         traffic_breakdown_for_last: "انهيار حركة اخر %{number_of_days_ago} أيام"
         page_views_is_the_number_of_times: "يظهر الصفحة عدد المرات التي تم الاطالع على الصفحات الفردية الزيارات الفريدة من نوعها، وغيرها"
         7_days: "سبعة ايام"
@@ -39,21 +34,18 @@ ar:
         daily_breakdown: "انهيار اليومي"
         week_day: "يوم الاسبوع"
         weekend: "نهاية الأسبوع"
-        
-        
-      chart: 
+
+      chart:
         page_views: "مشاهدات الصفحة"
         unique_visits: "الزيارات الفريدة من نوعها"
 
-      index: 
+      index:
         overview: "نظرة عامة"
         website_statistics: "احصائيات الموقع"
         page_views: "مشاهدات الصفحة"
         top_pages: "اعلى الصفحات"
         top_referrers: "اعلى المشيرين"
-        upgrade_your_account_to_pro: "ترقية الى برو الآن "
         to_access_all_of_your_statistics_current: "للوصول الى كافة الاحصاءات الخاصة بك الحد الحالي 7 ايام."
-        upgrade_now: "ترقية الآن"
         a_page_view_is_the_number_of: "يظهر الصفحة عدد المرات التي تم الاطالع على الصفحات الفردية الزيارات الفريدة من نوعها، وغيرها"
         trafic_overview: "نظرة عامة للحركة ل %{number_of_days_ago} أيام"
         page_views_in_the_last: "مشاهدات الصفحة لاخر %{number_of_days_ago} أيام:"
@@ -71,20 +63,15 @@ ar:
         total_page_views: "مجموع مشاهدات الصفحة"
         visits_in_the_last: "عدد زيارات لاخر %{number_of_days_ago} أيام:"
         average_visits_per_day: "متوسط الزيارات لكل يوم:"
-        
 
-      pages: 
+      pages:
         website_statistics: "احصائيات الموقع"
         overview: "نظرة عامة"
         page_views: "مشاهدات الصفحة"
         top_pages: "اعلى الصفحات"
         top_referrers: "اعلى المشيرين"
-        upgrade_your_account_to_pro: "ترقية الى برو الآن "
         to_view_all_of_the_most_popular: "لعرض كافة الصفحات الاكثر شعبية في موقعك ( الحد الحالي 7)."
-        upgrade_now: "ترقية الآن"
         top_pages: "اعلى الصفحات"
         this_is_a_list_of_your_most: "هذه هي قائمة من الصفحات الاكثر شعبية التي تم عرضها في آخر 30 يوم."
         page_name: "اسم الصفحة"
         view_more: "اظهار المزيد..."
-        
-

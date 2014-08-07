@@ -1,20 +1,20 @@
---- 
-ar: 
-  resource: 
-    blog: 
-      category: 
-        reassign_and_delete: 
+---
+ar:
+  resource:
+    blog:
+      category:
+        reassign_and_delete:
           reassign_posts: "اعادة تعيين المشاركات"
           select_category: "حدد الفئة"
           the_category_that_youre_attempting_to_remove: "الفئة التي كنت تحاول ازاله المشاركات المرتبطة به، من اجل ازالة هذه الفئة، الرجاء اختيار فئة جديدة لتعيين وظائفها."
           assign_posts_to: "تعيين المشاركات لـ:"
           this_will_move_blog_posts_from: "هذا سيزيل ملصقات البلوق من"
-        manage: 
+
+        manage:
           manage_categories: "ادارة الفئات"
           blog_posts: "بلوق المشاركات"
           categories: "الفئات"
           rss: "ار اس اس "
-          
           labels: "تسميات"
           import_posts: "استيراد المشاركات"
           categories: "الفئات"
@@ -22,24 +22,20 @@ ar:
           locked: "مقفل"
           unlocked: "مقفلة"
           rename: "اعادة تسمية"
-          
-          delete_category: "حذف فئة"
           create_a_new_category: "انشاء فئة جديدة"
           create_category: "انشاء فئة"
           category_name: "اسم الفئة"
           rename_category: "اعادة تسمية الفئة"
-          
-          
-          
           separating_your_posts: "فصل مشاركاتك في فئات يسمح لك عرض المشاركات على مختلف اقسام من موقع الويب الخاص بك، او ببساطة السماح للزوار لتصفح مشاركاتك حسب الموضوعات ذات الاهتمام بهم"
           are_you_sure_you_want_to_remove_this_category: "هل انت متاكد بانك تريد ازالة هذه الفئة؟"
           really_delete_the: "حذف حقا"
           category: "الفئة?"
           delete_category: "حذف الفئة"
-          
-        form: 
-          name: "اسم"
-          
-        category: 
-          delete: "حذف"
+          view_category: "الفئة رأي"
+          password_protect_posts: "حماية كلمة السر المشاركات"
 
+        form:
+          name: "اسم"
+
+        category:
+          delete: "حذف"

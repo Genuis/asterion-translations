@@ -4,18 +4,14 @@ ar:
     website:
       modify_header:
         html_editor: "محرر أش تي أم ال"
-        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين"
         and_gain_the_ability_to_insert_html: "واكتسب القدرة على إدراج اش تي ام ال أو جافا سكريبت في رموز اخرى من موقعك"
-        upgrade_now: "ترقية حسابكن"
         website_head_tag: "علامة رئيسية للموقع"
         this_requires_knowledge_of_html_and_is: "هذا يتطلب معرفة اش تي ام ال، ويقصد للمستخدمين المتقدمين. سيتم إلحاق التعليمات البرمجية داخل <head></head>"
 
       metatags:
         sitewide_seo_settings: "إعدادات مستوى الموقع و SEO"
-        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين "
         to_add_a_sitewide_description_and_keywords: "لإضافة وصف والكلمات الرئيسية على نطاق موقع "
         setting_up_keywords_and_a_description_of: "يمكن وضع كلمات ووصف موقعك لتحسين محرك البحث وتصنيفه"
-        upgrade_now: "ترقية حساب"
         keywords: "الكلمات الرئيسية"
         keywords_are_a_comma_separated_list_of: "الكلمات الرئيسية هي قائمة مفصولة بفواصل من الكلمات التي تصف موقعك لمحركات البحث. (مثل الرياضة، والهوكي، والأخبار، كانوكس)"
         keywords_that_describe_your_website_for_search: "الكلمات الرئيسية التي تصف موقعك لمحركات البحث، مفصولة بفواصل - مثل: الرياضة، والهوكي"
@@ -23,29 +19,22 @@ ar:
         your_site_description_should_be_a_regular: "يجب أن يكون وصف موقعك فقرة عادية التي تصف موقعك. لا تستخدم قوائم الكلمات الرئيسية هنا"
         description_of_your_website_for_search_engines: "وصّف موقعك لمحركات البحث"
 
-      banner: {}
-
-      robots_block: {}
-
       modify_sitemap:
-         editing_website_sitemapxml: "تحرير خريطة الموقع. أكس ام ال"
-         a_sitemap_allows_you_to_inform_search: "خريطة الموقع يسمح لك لإبلاغ محركات البحث عن صفحات على موقعك التي تمكنك من زحف"
-         sitemap_display: "عرض خريطة الموقع"
-         select_what_gets_displayed_in_your_sitemap: "حدد ما يتم عرضه في موقعك"
-         sitemap_content: "محتوى خريطة الموقع"
-         only_pages_in_navigation: "فقط في صفحات متنقلة"
-         all_pages: "كل الصفحات"
-         custom_sitemap: "خريطة موقع إفتراضي"
-         copy_and_paste_your_sitemapxml_here: "انسخ والصق كود أكس ام ال هنا"
-
-      primary_navigation: {}
+        to_modify_your_sitemap: "لتعديل الموقع الخاص بك"
+        editing_website_sitemapxml: "تحرير خريطة الموقع. أكس ام ال"
+        a_sitemap_allows_you_to_inform_search: "خريطة الموقع يسمح لك لإبلاغ محركات البحث عن صفحات على موقعك التي تمكنك من زحف"
+        sitemap_display: "عرض خريطة الموقع"
+        select_what_gets_displayed_in_your_sitemap: "حدد ما يتم عرضه في موقعك"
+        sitemap_content: "محتوى خريطة الموقع"
+        only_pages_in_navigation: "فقط في صفحات متنقلة"
+        all_pages: "كل الصفحات"
+        custom_sitemap: "خريطة موقع إفتراضي"
+        copy_and_paste_your_sitemapxml_here: "انسخ والصق كود أكس ام ال هنا"
 
       modify_robotstxt:
         sitewide_seo_settings: "إعدادات مستوى الموقع و SEO"
-        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين "
         to_modify_your_robotstxt_file: "لتعديل ملف robots.txt"
         you_can_use_a_robotstxt_file_to: " robots.txt يمكنك استخدام ملف روبوتس لإبلاغ محركات البحث عن الصفحات التي تريد تجنبه، أو الصفحات التي تريد النظر اليها"
-        upgrade_now: "ترقية حساب"
         robotstxt_file_contents: "robots.txt متحويات ملف الروبوتس"
         you_can_use_a_robotstxt_file_to: "robots.txt يمكنك استخدام ملف روبوتس لإبلاغ محركات البحث عن الصفحات التي تريد تجنبه، أو الصفحات التي تريد النظر الي"
         more_information_on_robotstxt_and_how_to: "مزيد من المعلومات حول ملف روبوتس وكيفية استخدامه"
@@ -88,12 +77,8 @@ ar:
 
       custom_sitemap:
         editing_website_sitemapxml: "تحرير موقع اكس أم ال"
-        upgrade_your_account_to_pro: "ترقية حسابك إلى باقة محترفين "
         to_modify_your_sitemap: "لتعديل على خريطة موقعك"
         a_sitemap_allows_you_to_inform_search: "خريطة الموقع يسمح لك لإبلاغ محركات البحث عن صفحات على موقعك التي تمكنك من زحف"
-        upgrade_now: "ترقية حساب"
-
-      copyright:
 
       tabs:
         basic: "أساسي"
@@ -101,12 +86,8 @@ ar:
         favicon: "فافيكون"
         head_tag: "علامة الرئيسية"
 
-      sub_navigation: {}
-
       news:
         whats_new: "ما الجديد؟"
-
-      robots: {}
 
       navigation:
         primary_navigation: "الملاحة الإفتراضية"
@@ -119,9 +100,7 @@ ar:
 
       favicon:
         sitewide_settings: "إعدادات مستوى الموقع"
-        upgrade_your_account_to_pro: "ترقية حساب الى باقة المحترفين "
         to_change_the_favicon_of_your_site: "لتغيير فافيكون موقعك، أو تحميل فافيكون مخصص"
-        upgrade_now: "ترقية حساب"
         a_favicon_represents_your_website_browsers_display: "يمثل فافيكون موقعك الاكتروني.  سيعرض متصفح ويب هذا الرمز في شريط عنوان المتصفح وبجانب اسم الصفحة في قائمة العلامات"
         your_favicon: "فيفايكون الخاصة بك"
         favicon_will_take_time_to_update: "تحميل وتحديث فافيكون يستغرق وقتا طويلا لسبب التخزين المؤقت الذي يقوم به المتصفح. لا تقلق إذا لا يتغير فورا"
@@ -129,7 +108,7 @@ ar:
         upload_a_favicon: "تحميل فافيكون"
         select_file_to_upload: "اختر ملف لتحميل"
         you_have_not_yet_selected_any_files: "لم تقم بتحديد أي ملفات حتى الآن لتحميل"
-        favicon_a_16x16_pixel_ico_file: "حجم الفافيكون 16في 16 بكسل واسم الملف ico file"
+        favicon_a_16x16_pixel_ico_file: "فافيكون: ملف منظمة البن الدولية 16X16 بكسل"
         favicon_library: "مكتبة فافيكون"
         you_can_also_choose_your_favicon_from: "يمكنك ايضا اختيار الفافيوكو من مكتبتنا:"
 
@@ -137,8 +116,6 @@ ar:
         metatags: "الكلمات الوصفية"
         robots: "روبوتس"
         sitemap: "خريطة الموقع"
-
-      code_highlighting_theme_preview: {}
 
       code_highlighting_theme:
         select_code_highlighting_theme: "اختر ثيم لتبريز الكود"

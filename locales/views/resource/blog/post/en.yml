@@ -13,8 +13,6 @@ en:
           notice: "Notice"
           you_currently_have_no_blog_component: "You currently have no blog component, so no one will be able to see your posts!"
           would_you_like_to_add_a_blog_component: "Would you like to add a blog component?"
-          yes: "Yes"
-          no: "No"
 
         edit:
           publish_live: "Publish Live"

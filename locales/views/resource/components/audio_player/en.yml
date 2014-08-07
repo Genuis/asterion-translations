@@ -1,49 +1,41 @@
---- 
-en: 
-  resource: 
-    components: 
-      audio_player: 
-        popout: {}
-
-        collection: 
+---
+en:
+  resource:
+    components:
+      audio_player:
+        collection:
           new_audio_player_component: "New Audio Player Component"
           next_step: "Next Step"
 
-        player: 
+        player:
           sorry_this_playlist_is_no_longer_available: "Sorry, this playlist is no longer available."
 
-        create: 
+        create:
           add_audio_player_component: "Add Audio Player Component"
-          
           back: "Back"
 
-        settings: 
+        settings:
           audio_player_component_settings: "Audio Player Component Settings"
-          
-          
 
-        embed: 
+        embed:
           playlist: "Playlist"
-          there_are_no_audio_files_selected_this: 
+          there_are_no_audio_files_selected_this:
             text: "There are no audio files selected. This will not show up on your website until you have %{uploaded_some} mp3s."
             uploaded_some: "uploaded some"
           pop_out_player: "Pop Out Player"
 
-        audio_files: 
+        audio_files:
           audio_player_component_playlist: "Audio Player Component Playlist"
-          
-          
 
-        form: 
-          
+        form:
           number_of_songs_to_show: "Number of Songs to Show"
-          
           auto_play_on_page_load: "Auto play on page load"
           enable_pop_out_player: "Enable Pop Out Player?"
           shuffle_playlist: "Shuffle playlist"
           repeat_playlist: "Repeat playlist"
+          popout_desc: "A pop out allows a user to click a link to open the player in a new popup window. This allows them to continue listening while they browse your site."
 
-        collection_preview: 
+        collection_preview:
           build_playlist: "Build Playlist"
           upload_music: "Upload Music"
           manage_music: "Manage Music"
@@ -56,4 +48,3 @@ en:
           file: "file"
           files: "files"
           mp3_files: "MP3 files"
-

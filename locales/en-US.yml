@@ -16,7 +16,29 @@ en:
   edit: "Edit"
   delete: "Delete"
   title: "Title"
+  upgrade_now: "Upgrade Now"
+  upgrade_your_account_to_pro: "Upgrade your account to Pro "
+  'yes': "Yes"
+  'no': "No"
+  lbs: 'lbs'
+  kg: 'kg'
+  slow: "Slow"
+  normal: "Normal"
+  fast: "Fast"
+  no_rotation: "No Rotation"
 
+  form_fields:
+    check_box: "Check Box"
+    heading: "Heading"
+    paragraph: "Paragraph"
+    radio: "Radio Button"
+    select_box: "Select Box"
+    submit: "Submit Button"
+    text_area: "Text Area"
+    text_field: "Text Field"
+
+  copy_component: "Copy Component"
+  delete_component: "Remove Component"
 
   helpers:
      optional: "(optional)"
@@ -29,7 +51,6 @@ en:
      custom: "custom..."
      laquo_newer: "&laquo; Newer"
      older_raquo: "Older &raquo;"
-
 
   date:
     formats:
@@ -195,8 +216,6 @@ en:
       hour:   "Hour"
       minute: "Minute"
       second: "Seconds"
-
-
 
     select:
       prompt: "Please select"

@@ -1,6 +1,8 @@
---- 
-ar: 
-  form_component: 
+---
+ar:
+  form_component:
     mailer:
-      someone_just_submitted_a_form_on_your_site: "شخص قدم إستمارة على موقعك"
+      submission:
+        text:
+          someone_just_submitted_a_form_on_your_site: "شخص قدم إستمارة على موقعك"
 

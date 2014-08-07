@@ -1,25 +1,23 @@
---- 
-ar: 
-  resource: 
-    theme: 
-      edit_html: 
+---
+ar:
+  resource:
+    theme:
+      edit_html:
         edit_file: "عدل الملف: %{file}"
-        
-      tags: {}
 
-      edit: 
+      edit:
         editing_file: "تعديل الملف: %{file}"
 
-      upload_theme: 
+      upload_theme:
         select_your_theme_zip_file: "حدد ثيمك في ملف مضغوط:"
         upload_theme: "رفع ثيمات"
 
-      advanced: 
+      advanced:
         upload_theme__download_theme: "رفع الثيم / تحميل الثيم"
         customize_html: "اش تي ام ال مخصص"
         creating_your_own_theme: "إنشاء ثيمك بنفسك"
         to_make_a_custom_theme_all_you: "لإنشاء ثيم مخصص، كل ما تحتاج إلى معرفته هو اش تي ام أو سي اس اس. ليس هناك لغة النموذجيه جديدة للتعلم"
-        please_refer_to_our: 
+        please_refer_to_our:
           text: "يرجى الرجوع إلى %{theme_documentation} في موقعنا ويكي للحصول على المساعدة في تخصيص ثيمك أو إنشاء واحدة جديدة"
           theme_documentation: "توثيق الثيم"
         download_themes: "تحميل الثيمات"
@@ -33,12 +31,11 @@ ar:
         there_was_a_problem_with_your_theme: "كانت هناك مشكلة مع ثيمك:"
         upgrade_to_pro: "ترقية حسابك إلى باقة محترفين "
         for_custom_themes: "للثيمات المخصصة"
-        upgrade_now: "ترقية حساب"
-        
-      toolbar: 
+
+      toolbar:
         search: "بحث"
 
-      customize: 
+      customize:
         customize_html: "تخصيص اش تي ام ال"
         upload_theme__download_theme: "ارفع الثيم / تحميل الثيم"
         css_files: "ملف سي اس اس"
@@ -48,39 +45,36 @@ ar:
         theme_files: "ملفات الثيم"
         upgrade_to_pro: "ترقية حسابك إلى باقة محترفين "
         to_edit_html_and_js_files: "لتعديل على الملفات اش تي ام ال وجي اس"
-        upgrade_now: "ترقية حساب"
         customizing_your_theme: "تخصيص ثيمك"
         these_are_all_of_the_html_and: "هذه كلها من ملفات اش تي ام ال و السي اس اس في ثيمك"
         customizing_your_theme_requires_knowledge_of_html: "تخصيص ثيم مخصص يتطلب معرفة اش تي ام ال و سي اس اس - وهو موصى فقط للمستخدمين المتقدمين "
-        if_you_just_want_to_change_your: 
+        if_you_just_want_to_change_your:
           text: "إذا ترغب فقط في تغيير ثيمك، يجب عليك %{select_a_new_theme} من مكتبتنا الحالية"
           select_a_new_theme: "اختر ثيم جديد"
-        for_in_depth_documentation_you_can_view: 
+        for_in_depth_documentation_you_can_view:
           text: "للتوثيق المتعمق، يمكنك عرض %{theme_documentation} في أي وقت"
           theme_documentation: "توثيق الثيم"
         you_can_download_an_archive_of_this: "يمكنك تحميل أرشيفا من هذا الثيم وجميع أصولها (الصور، سي اس اس، أتش تي أم أل) إذا كنت ترغب في تخصيصة أو تحريره بشكل اوسع على كمبيوترك. إذا كنت تفضل إنشاء ثيم جديد من الصفر، لدينا قالب ثيم فارغ مع تعليمات المتاحة"
-        either_of_these_can_be_downloaded_by: 
+        either_of_these_can_be_downloaded_by:
           text: "أي من هذه يمكن تحميلها بالذهاب إلى قسم %{upload_theme}"
           upload_theme__download_theme: "رفع الثيم / تحميل الثيم"
-        
-      update: 
+
+      update:
         update_theme: "تحيث ثيم"
         would_you_like_to_reinstall_your_theme: "هل تريد إعادة تثبيت ثيمك الآن؟"
         updating_a_theme_may_cause_some_slight: |
           تحديث ثيمك قد يسبب بعض التغيرات البصرية لموقعك،
           ولكن سوف يضمن لك الحصول على أحدث نسخة من الثيم
 
-      select: 
+      select:
         select_theme: "اختر ثيم"
         switching_themes_will_delete_your_content_click: " التحويل بين الثيمات سيحذف محتوياتك. اختر موافق للمتابعة أو إلغاء لحفظ عملك"
-        
         loading_themes: "جاري تحميل الثيم..."
 
-      theme: 
+      theme:
         this_theme_features_editable_header_image: "هذا الثيم يضم صورة الرأس قابلة للتعديل"
         this_theme_has_a_responsive_layout: "هذا الثيم يحتوي على تصميم مستجب"
         current_theme: "الثيم الحالي"
         reinstall: "إعادة تثبيت"
         install: "تثبيت"
         page_layouts_for: "تصميمات الصفحة ل %{theme_name}"
-

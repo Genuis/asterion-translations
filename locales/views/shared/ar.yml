@@ -1,42 +1,25 @@
---- 
-ar: 
-  shared: 
-    richtext: {}
-
-    blog: {}
-
-    feeds: {}
-
-    _banner: {}
-
-    linked_account: {}
-
-    component_error: 
+---
+ar:
+  shared:
+    component_error:
       component_error: "خطاء المكون"
       an_error_occurred_while_rendering_this_component: |
        حدث خطا اثناء تقديم هذا المكون.
        تم تسجيل هذا الخطا، وسيبقى هذا المكون مخفية عن زوار موقعك حتى يتم حل المشكلة
       in_the_meantime_you_can_refresh_this: "في هذه الاثناء يمكنك تحديث هذه الصفحة بالضغط على الزر الاحمر في الاسفل او انقر فوق حذف لازالة عنصر وحاول مرة اخرى."
       click_here_to_refresh_page: "انقر هنا لتحديث الصفحة"
-      
 
-    form: {}
-
-    recaptcha: 
+    recaptcha:
       incorrect_please_try_again: "غير صحيح، الرجاء المحاولة مرة اخرى"
       enter_the_words_you_see: "ادخل الكلمات التي تراها :"
       enter_the_words_you_hear: "ادخل الكلمات التي تراها هنا :"
       get_an_audio_captcha: "الحصول على  تسجيل صوت"
       get_a_text_captcha: "الحصول على  كلمات"
 
-    upgrade_notice: 
+    upgrade_notice:
       upgrade_required: "الترقية مطلوبة"
       click_the_button_below_to_upgrade_your: "انقر فوق الزر ادناه لترقية حسابك."
-      
       action_cannot_be_completed: "عذراُ، طلبك لا يمكن انجازه"
 
-    asset: {}
-
-    container_width: 
+    container_width:
       the_container_width_is: "هذه الحاوية تمتد الى %{span} بكسل"
-

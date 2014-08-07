@@ -1,6 +1,8 @@
---- 
-en: 
-  form_component: 
+---
+en:
+  form_component:
     mailer:
-      someone_just_submitted_a_form_on_your_site: "Someone just submitted a form on your site"
+      submission:
+        text:
+          someone_just_submitted_a_form_on_your_site: "Someone just submitted a form on your site"
 

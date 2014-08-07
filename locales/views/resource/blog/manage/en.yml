@@ -1,11 +1,10 @@
---- 
-en: 
-  resource: 
-    blog: 
-      manage: 
-        comment_settings: 
+---
+en:
+  resource:
+    blog:
+      manage:
+        comment_settings:
           manage_visitor_message_settings_blog_comments_and_guestbook_posts: "Manage Visitor Message Settings (Blog Comments and Guestbook Posts)"
-          
           messages: "Messages"
           commenting: "Commenting"
           enabled: "Enabled"
@@ -27,14 +26,12 @@ en:
           show_avatars: "Show avatars"
           you_can_create_your_own_gravatar_at_: "You can create your own Gravatar at "
           the_icon_you_select_below_will_be_used: " The icon you select below will be used as the icon for people who do not have a Gravatar icon associated with their email address. "
-          
-          
-          
-        settings: 
+          gravatar_desc: "A gravatar, or globally recognized avatar, is quite simply an avatar image that follows you from blog to blog appearing beside your name when you comment on gravatar enabled sites."
+
+        settings:
           blog_posts: "Blog Posts"
           categories: "Categories"
           rss: "RSS"
-          
           labels: "Labels"
           import_posts: "Import posts"
           social_networking: "Social Networking"
@@ -59,7 +56,7 @@ en:
           w__day_of_the_week_sunday_is_0_06: "%w - Day of the week (Sunday is 0, 0..6)"
           y__year_without_a_century_0099: "%y - Year without a century (00..99)"
           y__year_with_century: "%Y - Year with century"
-          
+
           h__hour_of_the_day_24hour_clock_0023: "%H - Hour of the day, 24-hour clock (00..23)"
           k__hour_of_the_day_24hour_clock__023: "%k - Hour of the day, 24-hour clock ( 0..23)"
           i__hour_of_the_day_12hour_clock_0112: "%I - Hour of the day, 12-hour clock (01..12)"
@@ -68,16 +65,12 @@ en:
           s__second_of_the_minute_0060: "%S - Second of the minute (00..60)"
           p__meridian_indicator_am_or_pm: "%p - Meridian indicator (AM or PM)"
           p__meridian_indicator_am_or_pm: "%P - Meridian indicator (am or pm)"
-          
-        labels: 
+
+        labels:
           manage_blog_labels: "Manage Blog Labels"
           blog_posts: "Blog Posts"
           categories: "Categories"
           rss: "RSS"
-          
           labels: "Labels"
           import_posts: "Import posts"
           labels_text_customization: "Labels (Text Customization)"
-          
-          
-

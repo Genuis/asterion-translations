@@ -1,8 +1,8 @@
---- 
-ar: 
-  resource: 
-    guestbook: 
-      manage: 
+---
+ar:
+  resource:
+    guestbook:
+      manage:
         manage_guestbooks: "ادارة سجل الزوار"
         with_a_guestbook_added: "مع زوار الزوار تضاف الى المستخدمين موقعك يمكنك ترك تعليق عام مع اسمائهم، وعنوان البريد الالكتروني والموقع البريد الالكتروني."
         current_guestbooks: "سجلات الزوار الحالي"
@@ -10,8 +10,5 @@ ar:
         messages: "الرسالة"
         you_currently_have_no_guestbooks_to_display: "ليس لديك حاليا اي سجل زوار لعرضها"
         pending: "ريثما"
-        
         are_you_sure_you_want_to_delete_this_guestbook: "هل انت متاكد بانك تريد حذف سجل الزوار؟"
         delete_guestbook: "حذف سجل الزوار"
-        
-

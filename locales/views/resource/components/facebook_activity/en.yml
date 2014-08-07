@@ -1,23 +1,18 @@
---- 
-en: 
-  resource: 
-    components: 
-      facebook_activity: 
-        create: 
+---
+en:
+  resource:
+    components:
+      facebook_activity:
+        create:
           add_facebook_activity_component: "Add Facebook Activity Component"
-          
-          
 
-        settings: 
+        settings:
           facebook_activity_component_settings: "Facebook Activity Component Settings"
-          
-          
 
-        embed: 
+        embed:
           this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
 
-        form: 
-          
+        form:
           display_settings: "Display Settings"
           font: "Font"
           colour_scheme: "Colour Scheme"
@@ -25,4 +20,3 @@ en:
           component_size: "Component Size"
           width: "Width"
           height: "Height"
-

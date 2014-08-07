@@ -13,8 +13,6 @@ ar:
           notice: "ملاحظة"
           you_currently_have_no_blog_component: "ليس لديك حاليا أي مكون لمدونة، لذلك لا أحد سيكون قادرا على رؤية مشاركاتك"
           would_you_like_to_add_a_blog_component: "هل ترغب في إضافة مكون المدونة؟"
-          yes: "نعم"
-          no: "لا"
 
         edit:
           publish_live: "نشر حي"

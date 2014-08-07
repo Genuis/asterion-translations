@@ -1,22 +1,21 @@
---- 
-ar: 
-  resource: 
-    components: 
-    ecwid_product_search: 
-        create: 
+---
+ar:
+  resource:
+    components:
+      ecwid_product_search:
+        create:
           add_ecwid_product_search_component: "اضافة اكويد للبحث عن منتج مكون"
-          
-        settings: 
+
+        settings:
           ecwid_product_search_component_settings: "البحث عن منتج واعدادات المكونات "
-          
-        embed: 
+
+        embed:
           this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن يظهر على موقع الويب الخاص بك"
-          you_must_set_up_an: 
-            text: "يجب عليك اعداد حساب اكويد وبعدها سوف يصبح المكون مرئياً"
+          you_must_set_up_an:
+            text: "يجب أن تقوم بإعداد %{ecwid_account} قبل هذا المكون سوف تصبح مرئية"
             ecwid_account: "حساب اكويد"
 
-        form: 
+        form:
           to_customize_your_ecwid_account_settings_you: |
-           لتخصيص اعدادات حساب اكويد الخاص بك سوف تحتاج لتسجيل الدخول الى حسابك على ecwidcom من هناك سوف تكون قادرا على اضافة منتجات جديدة لمتجرك على الانترنت وسوف يقوم الموقع بتحديث المكون الخاص بك تلقائياً
-          
-
+            لتخصيص اعدادات حساب اكويد الخاص بك سوف تحتاج لتسجيل الدخول الى حسابك على %{ecwidcom}
+            من هناك سوف تكون قادرا على اضافة منتجات جديدة لمتجرك على الانترنت وسوف يقوم الموقع بتحديث المكون الخاص بك تلقائياً

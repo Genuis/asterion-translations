@@ -1,23 +1,18 @@
---- 
-en: 
-  resource: 
-    components: 
-      blog_archive: 
-        create: 
+---
+en:
+  resource:
+    components:
+      blog_archive:
+        create:
           add_blog_archive_component: "Add Blog Archive Component"
-          
-          
 
-        settings: 
+        settings:
           blog_archive_component_settings: "Blog Archive Component Settings"
-          
-          
 
-        embed: 
+        embed:
           show_all: "Show all..."
 
-        form: 
-          
+        form:
           list_by: "List By..."
           categories: "Categories"
           tags: "Tags"
@@ -26,3 +21,4 @@ en:
           this_allows_you_to_specify_whether_youd: "This allows you to specify whether you'd like the archive list to display months or categories that have no blog posts. The month or category will show a zero beside it, if you have no posts for it."
           select_certain_categories_to_show: "Select certain categories to show."
           limit_number_of_items_shown: "Limit Number of Items Shown"
+          limit_desc: "This limits the amount of items shown, with a link below to show the hidden ones."

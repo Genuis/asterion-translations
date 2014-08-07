@@ -1,26 +1,23 @@
---- 
+---
 ar:
-  resource: 
+  resource:
     components:
       tweet_button:
-        create: 
+        create:
           add_tweet_button_component: "إضافة زر التغريد"
-          
-          
 
         settings:
           tweet_button_component_settings: "إعدادات زر التغريد"
-          
-          
 
         embed:
           this_component_is_not_visible_this_will: "هذا العنصر غير ظاهر. هذا المحتوى لن يظهر على الموقع الخاص بك"
 
-        form: 
-          
+        form:
           contributor: "مشارك"
           tweet_content: "محتوى التغريدة"
           tweet_text: "نص التغريدة"
+          tweet_text_title: "افتراضيا هذا سوف تستخدم عنوان الصفحة الحالية"
           url_to_tweet: "رابط للتغريدة"
+          url_to_tweet_title: "افتراضيا هذا سوف تستخدم عنوان الصفحة انها جرا. هل من المحتمل تحتاج فقط لضبط هذا إذا كنت مهتم فقط لسقسقة صفحة واحدة من صفحات أخرى على موقع الويب الخاص بك"
           button_layout: "تنسيق الزر"
 

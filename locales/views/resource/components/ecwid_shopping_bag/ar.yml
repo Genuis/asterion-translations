@@ -1,21 +1,20 @@
---- 
-ar: 
-  resource: 
-    components: 
-      ecwid_shopping_bag: 
-        create: 
+---
+ar:
+  resource:
+    components:
+      ecwid_shopping_bag:
+        create:
           add_ecwid_shopping_bag_component: "اضافه مكون لحقيبة اكويد للتسوق "
 
-        settings: 
+        settings:
           ecwid_shopping_bag_component_settings: "مكون لحقيبة اكويد للتسوق"
-          
-        embed: 
+
+        embed:
           this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن يظهر على موقعك"
-          you_must_set_up_an: "يجب ان تقوم بإعداد حساب %{ecwid_account} قبل ان يظهر هذا المكونً"
-        
-        form: 
-          to_customize_your_ecwid_account_settings_you: | 
+          you_must_setup: "يجب ان تقوم بإعداد حساب %{ecwid_account} قبل ان يظهر هذا المكونً"
+          ecwid_account: "حساب اكويد"
+
+        form:
+          to_customize_your_ecwid_account_settings_you: |
            لتخصيص اعدادت حسابك فيي اكويد سوف تحتاج لتسجيل الدخول الى %{ecwidcom}
            ومن هناك ستتمكن من اضافه منتجات جديدة لمتجرك على الانترنت، والمكون في موقعك سيقوم بالتحديث تلقائياًً
-          
-

@@ -1,28 +1,27 @@
---- 
-ar: 
-  resource: 
-    fieldset: 
-      validation: 
+---
+ar:
+  resource:
+    fieldset:
+      validation:
         email_user_must_enter_an_email_address: "(يجب ادخال عنوان البريد الالكتروني) <b>Email</b>"
         telephone_number_allows_only: "(يسمح ارقام تلفون فقط) <b>Telephone Number</b>"
         number_user_may_only_enter_digits: "(يتوجب على المستخدم إدخال أرقام فقط) <b>Number</b>ط"
         none_default__no_validation: "(افتراضي، بدون مصادقة) <b>None</b>"
         required: "مطلوب"
 
-      edit: 
+      edit:
         form_design: "تصميم نموذج"
 
-      create_field: 
+      create_field:
         dialog_heading:
             text:  "إنشاء %{field_type} حقل"
         field_details: "تفاصيل الحقل"
         label: "ملصق:"
         create: "انشاء"
 
-      create: 
+      create:
         form_design: "شكل التصميم"
         next_step: "الخطوة التالية"
-        
 
       form:
         single_line_input: "ادخل خط واحد"
@@ -37,11 +36,8 @@ ar:
         resize: "تغيير الحجم"
         items_by_dragging_the_arrow_to_the_right_of_each_field: "%{resize} العناصر عن طريق سحب السهم إلى اليمين من كل حقل"
 
-      edit_field: 
-        dialog_heading:
-            text:  "تحرير الحقل %{field_type}"
-            field_details: "تفاصيل الحقل"
-            label: "ملصق:"
-
-      forms: {}
-
+      edit_field:
+        dialog_heading: "تحرير %{field_type}"
+        text: "تحرير الحقل %{field_type}"
+        field_details: "تفاصيل الحقل"
+        label: "ملصق:"

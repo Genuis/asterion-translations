@@ -1,16 +1,17 @@
---- 
-ar: 
-  resource: 
-    components: 
-      paypal: 
-        form: 
-          buynow: 
+---
+ar:
+  resource:
+    components:
+      paypal:
+        form:
+          buynow:
             product_settings: "اعدادات المنتج"
             item_name: "اسم البند"
             enter_a_short_description_of_the_item: "ادخل وصفا موجزاً لهذا البند ليراه المشترين"
             currency: "عملة"
             this_is_the_currency_in_which_you: "هذه العملة سوف تؤخذ من مدفوعاتك الخاصة"
             price: "السعر"
+            price_title: "أدخل سعر هذا المنتج"
             if_selected_the_buyer_can_select_how: "اذا قمت بالتحديد، يمكن للمشتري اختيار عدد من المنتجات لشراءه"
             weight: "الوزن"
             allow_buyer_to_specify_quantity: "السماح للمشتري تحديد الكمية"
@@ -18,7 +19,7 @@ ar:
             return_page: "الصفحة الماضية"
             this_is_where_your_customers_will_be: "المكان الذي سيتم ارجاع الزبائن بعد انهاء معاملاتهم"
 
-          form: 
+          form:
             paypal_settings: "ضبط الدفع"
             button: "ايقونة"
             account_email: "حساب البريد الالكتروني"
@@ -33,8 +34,5 @@ ar:
             donors_contribute_a_fixed_amount: "المبلغ الثابت للجهات المانحة."
             price: "السعر"
 
-          viewcart: 
+          viewcart:
             adding_a_view_cart_button_allows_customers: "اضافة زر لعرض العربة، يتيح للعملاء الانتقال الى عربة التسوق الخاص بهم."
-
-          cart: 
-

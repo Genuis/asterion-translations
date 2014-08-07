@@ -1,23 +1,18 @@
---- 
-ar: 
-  resource: 
-    components: 
-        facebook_activity: 
-        create: 
+---
+ar:
+  resource:
+    components:
+      facebook_activity:
+        create:
           add_facebook_activity_component: "اضافة نشاط ومكون اخر للفيس بوك"
-          
-          
 
-        settings: 
+        settings:
           facebook_activity_component_settings: "اعدادات اخرى لمكون الفيس بوك"
-          
-          
 
-        embed: 
-          this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
+        embed:
+          this_component_is_not_visible_this_will: "هذا العنصر غير مرئي. هذا لن تظهر على موقع الويب الخاص بك"
 
-        form: 
-          
+        form:
           display_settings: "عرض الاعدادات"
           font: "الخط"
           colour_scheme: "لون المخطط"
@@ -25,4 +20,3 @@ ar:
           component_size: "اختيار الحجم"
           width: "عرض"
           height: "الاعلى "
-

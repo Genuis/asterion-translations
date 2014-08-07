@@ -1,26 +1,19 @@
---- 
-en: 
-  resource: 
-    components: 
-      ebay_items: 
-        item: 
+---
+en:
+  resource:
+    components:
+      ebay_items:
+        item:
           no_image: "No Image"
           left: "%{time_left} left"
 
-        create: 
+        create:
           add_ebay_listings_component: "Add eBay Listings Component"
-          
-          
 
-        settings: 
+        settings:
           ebay_listings_component_settings: "eBay Listings Component Settings"
-          
-          
 
-        embed: {}
-
-        form: 
-          
+        form:
           ebay_username: "eBay Username"
           country: "Country"
           the_country_you_select_causes_the_price: "The country you select causes the price for items to be displayed in your country's currency."
@@ -39,6 +32,5 @@ en:
           lowest_to_highest: "Lowest to highest"
           highest_to_lowest: "Highest to lowest"
 
-        listing: 
+        listing:
           no_items_currently_for_sale: "No items currently for sale."
-

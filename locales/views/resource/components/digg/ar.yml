@@ -1,25 +1,18 @@
---- 
-ar: 
-  resource: 
-    components: 
-      digg: 
-        create: 
-          add_digg_component: 
-          
-          
-          
+---
+ar:
+  resource:
+    components:
+      digg:
+        create:
+          add_digg_component: "إضافة ديغ"
 
-        settings: 
+        settings:
           digg_component_settings: "إعدادات ديغ"
-          
-          
 
-        embed: 
+        embed:
           you_have_no_diggs_to_display_please: "لا يوجد لديك ديغ لعرضه. يرجى التأكد من أن هذا العنصر مكون لديك بشكل صحيح"
 
-        form: 
+        form:
           display_settings: "إعدادات العرض"
-          
           number_to_display: "العدد المراد عرضه"
           display_diggs_from: "عرض ديغ من"
-

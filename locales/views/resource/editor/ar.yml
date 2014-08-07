@@ -1,14 +1,14 @@
---- 
-ar: 
-  resource: 
-    editor: 
-      page_description: 
+---
+ar:
+  resource:
+    editor:
+      page_description:
         insert_a_link_to_one_of_the_pages: "ادراج ارتباط الى واحدة من الصفحات التي قمت بانشائها على موقع الويب الخاص بك."
 
-      external_description: 
+      external_description:
         insert_a_link_to_a_page_or_file_on_another_website: "ادراك ارتباط الى صفحة او ملف على موقع اخر."
 
-      table_options: 
+      table_options:
         insert_table: "ادراج الجدول"
         table_properties: "خصائص الجدول"
         number_of_columns: "عدد الأعمدة"
@@ -18,10 +18,9 @@ ar:
         table_cell_properties: "خصائص الجدول الخليوي"
         cell_padding: "بطانة الخلايا"
         cell_spacing: "تباعد الخلية"
-        
         insert_table: "ادراج الجدول"
 
-      youtube: 
+      youtube:
         insert_youtube_video: "ادراج فيديو يوتيوب"
         enter_a_video_url: "ادراج فيديو او يو ار ال"
         browse_for_a_youtube_video: "تصفح فيديوهات اليوتيوب"
@@ -32,47 +31,40 @@ ar:
         the_container_width_is_: "عرض الحاوية"
         _pixels: " بكسل."
         insert_video: "ادراج فيديو"
-        
 
-      asset_description: 
+      asset_description:
         insert_a_link_to_a_file_that_youve_uploaded: "ادراك ارتباط الى الملف الذي قمت بتحميله، اذا كنت ترغب في ربط ملف على موقع آخر، انقر فوق علامة التبويب وصلة خارجية"
 
-      template: 
+      template:
         templates: "قوالب"
         select_the_template_from_the_dropdown: "حدد القالب من القائمة التي كنت ترغب في استخدامه ثم انقر فوق زر {ادراج}، ."
         template_selection: "اختيار قوالب"
         template_preview: "معاينة القالب"
-        
-      source_editor: 
+
+      source_editor:
         html_editor: "تحرير اتش تي ام ال"
         edit_your_html: "تحرير اتش تي ام ال الخاص بك، وهذا يتطلب معرفة اتش تي ام ال، ويقصد للمستخدمين المتقدمين"
 
-      highlight_code: 
+      highlight_code:
         highlight_code: "تسليط الضوء على مدونة"
         select_the_language_of_your_code: "اختر لغة التعليمات البرمجية"
         language: "اللغة"
-        
 
-      charmap: 
+      charmap:
         select_custom_character: "تحديد الحرف والعرف"
         html_code: "كود اتش تي ام ال"
         numerical_code: "كود العددية"
-        
 
-      link: 
+      link:
         insert_link: "ادراج رابط"
         external: "خارجي"
         page: "الصفحة"
         email: "البريد الالكتروني"
         file: "ملف"
         insert_link: "ادراج رابط"
-        
 
-      email_description: 
+      email_description:
         insert_a_link_to_an_email_address: "ادراج ارتباط الى عنوان البريد الالكتروني بحيث يمكن للمستخدمين الاتصال بك."
 
-      image: 
+      image:
         insert_image: "ادراج صورة"
-        
-
-

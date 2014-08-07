@@ -1,19 +1,16 @@
---- 
-ar: 
-  resource: 
-    collection: 
-      edit: 
+---
+ar:
+  resource:
+    collection:
+      edit:
         edit_folder: "تحرير المجلد"
         folder: "المجلد"
         name: "الاسم"
-        
-        
 
-      manage: 
+      manage:
         photo_and_media_manager: "ادارة الصور والميديا"
         folders: "المجلدات"
         rename: "اعادة تسمية"
-        
         you_currently_have_no_folders_to_display: "ليس لديك اي مجلدات حاليا لعرضها"
         create_a_new_folder: "انشاء مجلد جديد"
         create_folder: "انشاء مجلد جديد"
@@ -27,7 +24,8 @@ ar:
         folder: "مجلد"
         new_folder: "مجلد جديد"
         create: "انشاء"
-        
 
-      folder: {}
-
+      folder:
+        add_selected_files: "إضافة الملفات المحددة إلى مجلد"
+        remove_selected_files: "إزالة الملفات المحددة من مجلد"
+        delete_empty_folder: "حذف مجلد فارغ"

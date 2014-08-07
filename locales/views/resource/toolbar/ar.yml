@@ -31,6 +31,8 @@ ar:
         manage_guestbooks: "ادارة صفحة الزوار"
         visitor_messages: "رسائل الزوار"
         manage_pages: "ادارة الصفحات"
+        upload_photos_and_media: "تحميل الصور والوسائط المتعددة
+"
         manage_photos_and_media: "ادارة الصور والوسائط المتعددة"
 
       orphaned_components:

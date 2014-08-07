@@ -1,16 +1,13 @@
---- 
-ar: 
-  resource: 
-    asset: 
-      fetch_asset_list: {}
-
-      create_folder: 
+---
+ar:
+  resource:
+    asset:
+      create_folder:
         create_a_new_folder: "إنشاء مجلد جديد"
         new_folder_name: "اسم المجلد الجديد"
 
-      upload_swfobject: 
+      upload_swfobject:
         1_choose_a_folder: "1. إختر مجلد"
-        
         _saved_when_you_click_upload: "حفظ عند النقر على تحميل"
         2_choose_files_from_your_computer: "2. اختيار الملفات من جهاز كمبيوترك"
         select_files_to_upload: "تحديد الملفات المراد رفعها"
@@ -23,10 +20,6 @@ ar:
         you_have_not_yet_selected_any_files_to_upload: "لم تقم بتحديد أي ملف حتى الآن لرفعها."
         0_files_in_queue: "لا يوجد ملفات في قائمة الإنتظار"
         total_file_size_0_bytes: "إجمالي حجم الملف: 0 بايت"
-        
-        
-
-      thumbnail: {}
 
       upload_upgrade_flash:
         uploading_files:
@@ -35,21 +28,13 @@ ar:
           install_flash_10_now: "تثبيت فلاش 10 الآن"
           basic_uploader: "برنامج الرفع الأساسي"
 
-      list_item: {}
-
-      upload: 
+      upload:
         photo_and_media_manager: "مدير الصور والميديا"
 
-      manage: 
+      manage:
         photo_and_media_manager: "مدير الصور والميديا"
 
-      show_video: {}
-
-      show_other: {}
-
-      show_image: {}
-
-      no_files: 
+      no_files:
         you_searched_for_: " قمت بالبحث عن %{filter} ولكن لم يعثر على شيء"
         back_to: "العودة الى"
         unsorted: "لم يتم فرزها"
@@ -62,32 +47,23 @@ ar:
         select_stock_photos: "حدد البوم الصور"
         upload_new_files: "تحميل ملفات جديدة"
 
-      show: 
+      show:
         file_details: "تفاصيل الملف"
         back: "العودة"
-        
         use_selected: "استخدام المحدد"
         use_selected_file: "استخدام الملف المحدد"
         file: "ملف"
 
-      select_index: {}
-
       upload_basic:
         1_choose_a_folder: "1. اختر مجلد"
         new_folder: "مجلد جديد"
-        
         _saved_when_you_click_upload: " (حفظ عند النقر على الرفع)"
         file_size_limit: "حد حجم الملف"
         storage_space_remaining: "مساحة التخزين المتبقية"
         2_choose_files_from_your_computer: "2. اختيار الملفات من جهاز الكمبيوتر الخاص بك"
         upload_files: "رفع الملفات"
 
-
-      show_document: {}
-
-      show_audio: {}
-
-      container_toolbar: 
+      container_toolbar:
         edit_selected: "تعديل المحدد"
         remove_selected: "إزالة المحدد"
         view_all_file_types: "عرض جميع أنواع الملفات"
@@ -97,13 +73,16 @@ ar:
         view_documents: "عرض المستندات"
         view_other_file_types: "عرض أنواع الملفات الأخرى"
 
-      assets_container: {}
-
       container_sidebar:
         folders: "مجلدات"
 
-      file_info_form: 
+      file_info_form:
         file: "ملف"
-        
         description: "وصف"
 
+      show_image:
+        rotate_ccw: "تدوير عكس اتجاه عقارب الساعة بمقدار 90 درجة"
+        rotate_cw: "تدوير في اتجاه عقارب الساعة بمقدار 90 درجة"
+
+      thumbnail:
+        delete_file: "حذف ملف"

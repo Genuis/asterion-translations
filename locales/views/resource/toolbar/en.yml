@@ -31,6 +31,7 @@ en:
         manage_guestbooks: "Manage Guestbooks"
         visitor_messages: "Visitor Messages"
         manage_pages: "Manage Pages"
+        upload_photos_and_media: "Upload Photos and Media"
         manage_photos_and_media: "Manage Photos and Media"
 
       orphaned_components:

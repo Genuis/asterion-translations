@@ -1,38 +1,39 @@
---- 
-ar: 
-  resource: 
-    components: 
-      blogroll: 
-        edit: 
+---
+ar:
+  resource:
+    components:
+      blogroll:
+        edit:
           add_a_blog_feed: "اضافة تلقيم المدونة"
           current_blogs: "المدونات الحالية"
-          
-          
 
-        create: 
+
+
+        create:
           add_blogroll_component: "اضافة مكون المدونات"
-          
+
           back: "رجوع"
 
-        settings: 
+        settings:
           blogroll_component_settings: "ضبط مكون المدونات"
-          
-          
 
-        select_feeds: 
+
+
+        select_feeds:
           new_blogroll_component: "مكون المدونات الجديدة"
           this_component_allows_you_to_list_and: "هذه القائمة يسمح لك بالوصول الى مكون الشبكة المفضلة لديك، ادخل العنوان الذي تريد اضافته الى القائمة المفضلة، ثم انقر على زر التخزين، كرر هذا للعديد من البلوق الذي ترغب باضافتها الى المفضلة"
           add_a_blog_feed: "اضافة تلقيم المدونة"
           current_blogs: "المدونات الحالية"
           next_step: "الخطوة التالية"
-          
-          
-        embed: 
+
+
+        embed:
+          blogs: "بلوق"
           there_are_no_blogs_added_this_will: "لا يوجد بلوق مضاف، لن يظهر على موقع الويب الخاص حتى تقوم باختيار البلوق "
           add_a_blog: "اضافة مدونة"
 
-        form: 
-          
+        form:
+
           number_to_display: "اختيار عدد العرض"
           display_settings: "ضبط العرض"
           display_blog_icon: "عرض ايقونة المدونة"

@@ -1,21 +1,20 @@
---- 
-ar: 
-  resourc: 
-    componeents: 
-      book_fresh: 
-        create: 
+---
+ar:
+  resource:
+    components:
+      book_fresh:
+        create:
           add_bookfresh_component: "اضافة عناصر الى كتاب جديد"
-          
-        settings: 
+
+        settings:
           bookfresh_component_settings: "ضبط اضافة العناصر الى كتاب جديد"
-          
-        embed: 
+
+        embed:
           there_is_a_problem_with_your_component: "هناك مشكلة مع المكون الخاص بك"
 
-        form: 
+        form:
           to_customize_your_bookfresh_account_settings_you: |
-            
+            لتخصيص إعدادات حساب BookFresh الخاص بك سوف تحتاج لتسجيل الدخول إلى حسابك على %{bookfreshcom}
             من هنا سوف تكون قادراً على اضافة انواع تعين جديدة، وادارة حسابات الموظفين، واكثر من ذلك سوف يقوم المكون بتحديث موقع الويب الخاص بك تلقائياً
           background_color: "لون الخلفية"
           border_color: "لون الجوانب"
-

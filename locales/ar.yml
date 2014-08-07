@@ -16,7 +16,29 @@ ar:
   edit: "تحرير"
   delete: "حذف"
   title: "عنوان"
+  upgrade_now: "ترقية الآن"
+  upgrade_your_account_to_pro: "ترقية حساب الى باقة المحترفين "
+  'yes': "نعم"
+  'no': "لا"
+  lbs: 'رطلا'
+  kg: 'كجم'
+  slow: "بطيء"
+  normal: "طبيعي"
+  fast: "سريع"
+  no_rotation: "لا دوران"
 
+  form_fields:
+    check_box: "مربع"
+    heading: "عنوان"
+    paragraph: "فقرة"
+    radio: "زر الاختيار"
+    select_box: "حدد مربع"
+    submit: "زر الإرسال"
+    text_area: "منطقة النص"
+    text_field: "حقل النص"
+
+  copy_component: "تكرار عنصر"
+  delete_component: "حذف عنصر"
 
   helpers:
      optional: "(اختياري)"
@@ -29,7 +51,6 @@ ar:
      custom: "عرف..."
      laquo_newer: "احدث القاو"
      older_raquo: "اقدم اللقاو"
-
 
   date:
     formats:
@@ -195,8 +216,6 @@ ar:
       hour:   "ساعة"
       minute: "دقيقة"
       second: "ثانية"
-
-
 
     select:
       prompt: "من فضلك اختر"

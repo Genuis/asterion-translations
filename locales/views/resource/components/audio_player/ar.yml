@@ -1,49 +1,41 @@
---- 
-ar: 
+---
+ar:
   resource:
-    components: 
-      audio_player: 
-        popout: {}
-
+    components:
+      audio_player:
         collection:
           new_audio_player_component: "تشغيل صوت جديد"
           next_step: "الخطوة التالية"
 
-        player: 
+        player:
           sorry_this_playlist_is_no_longer_available: "عذراً،قائمة التشغيل هذه لم تعد متوفرة"
 
-        create: 
+        create:
           add_audio_player_component: "إضافة مشغل صوت"
-          
-          back: 
+          back: "العودة"
 
         settings:
           audio_player_component_settings: "إعدادات الصوت"
-          
-          
 
-        embed: 
+        embed:
           playlist: "قائمة التشغيل"
-          there_are_no_audio_files_selected_this: 
+          there_are_no_audio_files_selected_this:
             text: "لا توجد ملفات صوتية محددة. هذا لن يظهر على موقعك حتى تقوم برفع بعض ملفات صوتية %{uploaded_some}"
             uploaded_some: "رفع بعض"
           pop_out_player: "إظهار مشغل"
 
         audio_files:
           audio_player_component_playlist: "لائحة تشغيل الملفات الصوتية"
-          
-          
 
-        form: 
-          
+        form:
           number_of_songs_to_show: "عدد الاغاني للعرض"
-          
           auto_play_on_page_load: "التشغيل التلقائي عند تحميل الصفحة"
           enable_pop_out_player: "تمكين إظهار المشغل؟"
           shuffle_playlist: "خلط قائمة التشغيل"
           repeat_playlist: "تكرار قائمة التشغيل"
+          popout_desc: "منبثقة يسمح للمستخدم بالنقر فوق ارتباط لفتح لاعب في نافذة منبثقة جديدة. وهذا يسمح لهم بمواصلة الاستماع في حين أنها تصفح موقع الويب الخاص بك"
 
-        collection_preview: 
+        collection_preview:
           build_playlist: "بناء قائمة التشغيل"
           upload_music: "رفع الموسيقى"
           manage_music: "إدارة الموسيقى"
@@ -56,4 +48,3 @@ ar:
           file: "ملف"
           files: "ملفات"
           mp3_files: "MP3 ملفات"
-

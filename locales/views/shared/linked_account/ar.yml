@@ -1,10 +1,10 @@
---- 
-ar: 
-  shared: 
-    linked_account: 
-      twitter: 
+---
+ar:
+  shared:
+    linked_account:
+      twitter:
         link_your_twitter_account: "ربط حساب التويتر الخاص بك"
         account_linking_instructions: "ربط حساب التعليمات"
         in_order_for_us_to_be_able: "حتى يتسنى لنا ان نكون قادرين على الوصول الى المعلومات الخاصة بك، سنحتاج الى توجيهك الى موقع تويتر بحيث يمكنك السماح لنا بالوصول الى معلوماتك."
         after_the_account_has_been_authorized_you: "بعد اذن الحساب سيتم توجيهك الى الخلف"
-
+        remove_account: "إزالة حساب"

@@ -1,13 +1,13 @@
---- 
+---
 ar:
-  resource: 
+  resource:
     components:
-      twitter: 
-        embed: 
-          timeline: 
+      twitter:
+        embed:
+          timeline:
             in: "في "
             reply_to: "الرد على %{screen_name}"
-            follow: "اتبع"
+            follow: "اتبع على التغريد %{account}"
 
           friend:
             in: "في "

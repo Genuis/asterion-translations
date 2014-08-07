@@ -1,18 +1,15 @@
---- 
-en: 
-  resource: 
-    components: 
-      bravenet: 
-        edit: 
+---
+en:
+  resource:
+    components:
+      bravenet:
+        edit:
           edit_bravenet_web_app: "Edit Bravenet Web App"
-          
-        create: 
-          add_a_bravenet_web_app: "Add A Bravenet Web App"
-          
-        embed: {}
 
-        form: 
-          
+        create:
+          add_a_bravenet_web_app: "Add A Bravenet Web App"
+
+        form:
           bravenet_service_code_copypaste_code: "Bravenet Service Code (Copy/Paste Code)"
           we_have_detected_that_your_bravenet_copypaste: "We have detected that your Bravenet Copy/Paste code is invalid. Please check that you've entered it correctly.<br/><br/>Please do not insert additional html or javascript, it may be detected as invalid."
           invalid_copypaste_code: "Invalid Copy/Paste Code"

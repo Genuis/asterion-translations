@@ -1,0 +1,184 @@
+---
+ar:
+  youtube_video_sizes:
+    small: "Small"
+    medium: "Medium"
+    default: "Large"
+    custom: "Custom"
+
+  social_sharing_sites:
+    subscribe: "Subscribe"
+    digg: "Digg"
+    reddit: "Reddit"
+    delicious: "Delicious"
+    stumbleupon: "StumbleUpon"
+    technorati: "Technorati"
+    google_bookmark: "Google Bookmark"
+    facebook: "Facebook"
+    twitter: "Twitter"
+
+  tweet_data_count_layouts:
+    vertical: "vertical"
+    horizontal: "horizontal"
+    none: "none"
+
+  tinymce_templates:
+    text_with_image_right:
+      name: "Text with right aligned image"
+      description: "A basic column of text next to an image, useful for about us, bios, portfolio item, and other pages where the image relates closely to the text."
+
+    text_with_image_left:
+      name: "Text with left aligned image"
+      description: "A basic column of text next to an image, useful for about us, bios, portfolio item, and other pages where the image relates closely to the text."
+
+    text_with_images_left_and_right:
+      name: "Two small images with text"
+      description: "Great for about us pages, partnership descriptions, and other pages where the images are there for reference."
+
+    two_columns:
+      name: "Two columns of text"
+      description: "Your standard two column layout. The infinite possibilities include stories, histories, about us, and other pages with a lot of text."
+
+    two_columns_with_images:
+      name: "Two columns with images on top"
+      description: "This is great for describing two images on a single page, or comparing two things side by side."
+
+    three_columns:
+      name: "Three columns of text"
+      description: "A three column layout. Excellent for smaller text pages and ideal for lists of items or links."
+
+    three_columns_with_images:
+      name: "Three columns with images on top"
+      description: "This is good for comparing or writing about multiple images, or for introducing multiple members of a team and other similar pages."
+
+    four_images:
+      name: "Four images"
+      description: "A 2x2 grid of 4 images. Can be used for laying out a small image gallery."
+
+    six_images:
+      name: "Six images"
+      description: "A 3x2 grid of 6 images. Can be used for laying out a small image gallery."
+
+    two_images:
+      name: "Two Images"
+      description: "Two images, side by side."
+
+    three_images:
+      name: "Three Images"
+      description: "Three images in a row."
+
+    four_images:
+      name: "Four Images"
+      description: "Four images in a row."
+
+  paypal_currency_codes:
+    usd: "U.S. Dollars"
+    cad: "Canadian Dollars"
+    eur: "Euros"
+    aud: "Australian Dollars"
+    czk: "Czech Koruny"
+    dkk: "Danish Kroner"
+    hkd: "Hong Kong Dollars"
+    huf: "Hungarian Forints"
+    jpy: "Japanese Yen"
+    nok: "Norwegian Kroner"
+    nzd: "New Zealand Dollars"
+    pln: "Polish Zloty"
+    gbp: "British Pounds"
+    sek: "Swedish Kroner"
+    sgd: "Singapore Dollars"
+    chf: "Swiss Francs"
+
+  paypal_form_type:
+    buynow: "Buy it Now"
+    cart: "Add to Cart"
+    viewcart: "View Cart"
+    donate: "Donation"
+
+  page_counter_type:
+    visits: "Unique Visits"
+    pageviews: "Page Views"
+
+  digg_topics:
+    technology: "Technology"
+    world_business: "World & Business"
+    science: "Science"
+    gaming: "Gaming"
+    lifestyle: "Lifestyle"
+    entertainment: "Entertainment"
+    sports: "Sports"
+    offbeat: "Offbeat"
+
+  reddit_sort_options:
+    hot: "Hottest"
+    new: "Newest"
+    top: "Top"
+
+  reddit_topics:
+    reddit:
+      com: "All"
+    technology: "Technology"
+    business: "Business"
+    health: "Health"
+    science: "Science"
+    gaming: "Gaming"
+    politics: "Politics"
+    worldnews: "World News"
+    entertainment: "Entertainment"
+    offbeat: "Offbeat"
+    custom: "Custom Subreddit"
+
+  lightbox_theme:
+    light_rounded: "Light Rounded"
+    light_square: "Light Square"
+    dark_rounded: "Dark Rounded"
+    dark_square: "Dark Square"
+
+  carousel_title_options:
+    always: "Always show"
+    ondemand: "On hover"
+    'off': "Off"
+
+  carousel_effect_options:
+    '1': "Vertical Slices"
+    '2': "Horizontal Slices"
+    '3': "Mixed Slices"
+    '4': "Mixed Slices with Pop"
+    '5': "Vertical Slices with Pop"
+    '6': "Horizontal Slices with Pop"
+
+  nivo_effect_options:
+    fade: "Fade"
+    sliceDown: "Slice Down Right"
+    sliceDownLeft: "Slice Down Left"
+    fold: "Blinds"
+    slideInRight: "Slide in Right"
+    slideInLeft: "Slide in Left"
+    boxRandom: "Boxes Random"
+    boxRainReverse: "Boxes Diagonal"
+    boxRainGrow: "Slice Rain"
+    random: "Random"
+
+  facebook_like_layout_styles:
+    standard: "Standard"
+    button_count: "Simple"
+
+  facebook_like_verbs:
+    like: "Like"
+    recommend: "Recommend"
+
+  facebook_fonts:
+    'arial': "Arial"
+    'lucida grande': "Lucida Grande"
+    'tahoma': "Tahoma"
+    'trebuchet ms': "Trebuchet MS"
+    'verdana': "Verdana"
+
+  facebook_color_schemes:
+    light: "Light"
+    dark: "Dark"
+
+  linkable_account_types:
+    twitteraccount: "Social messaging utility for staying connected in real-time."
+    facebookaccount: "Social network that helps you connect and share with friends."
+    ecwidaccount: "Ecommerce and shopping cart."

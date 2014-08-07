@@ -1,11 +1,10 @@
---- 
-ar: 
-  resource: 
-    components: 
-      guestbook: 
-        message: 
+---
+ar:
+  resource:
+    components:
+      guestbook:
+        message:
           add_guestbook_component: "اضافة مكون لسجل الزوار"
-          
           back: "الرجوع"
 
         comment_form_content:
@@ -17,40 +16,30 @@ ar:
           spam_check: "تحقق من البريد المزعج:"
           your_comment_is_being_posted: "جاري نشر تعليقك..."
 
-        edit: 
+        edit:
           edit_guestbook_component: "تعديل مكون سجل الزوار"
-          
-          
 
-        comment_form: {}
-
-        paging: {}
-
-        submit: 
+        submit:
           submit: "ارسال"
 
-        message_form: 
+        message_form:
           guestbook_name: "اسم سجل الزوار"
 
-        create: 
+        create:
            add_guestbook_component: "اضافة مكون سجل الزوار"
            create_a_brand_new_guestbook_for_your: "انشاء سجل العلامة التجارية الجديدة للزوار، للتسجيل او استخدام الرسائل المحفوظة."
            guestbooks_are_separate_from_the_component_we: "سجلات الزوار منفصلة عن المكون، اضغط اذا كنت تريد حذف التعليق من الصفحة، او عدم حذفها."
            new_guestbook: "اسم سجل الزوار"
            create_a_new_guestbook: "انشاء سجل زوار جديد"
            saved_guestbooks: "سجل زوار محفوظة"
-           
-           
-        guestbook: 
+
+        guestbook:
           comments_for_this_guestbook_have_been_disabled: "تم تعطيل التعليقات لهذه الرسالة."
 
-        embed: 
+        embed:
+          messages: "رسائل"
           this_component_is_not_visible_this_will: "هذا العنصر غير مرئي، ولن يظهر على موقع الويب الخاص بك."
 
-        form: 
+        form:
           display_settings: "عرض الاعدادات"
-          
           comments_for_this_guestbook_have_been_disabled: "تم تعطيل التعليقات لهذه الرسالة."
-
-        comments: {}
-

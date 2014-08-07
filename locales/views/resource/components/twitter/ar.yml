@@ -1,26 +1,21 @@
---- 
-ar: 
-  resource: 
-    components: 
-      twitter: 
-        create: 
+---
+ar:
+  resource:
+    components:
+      twitter:
+        create:
           add_twitter_component: "اضافة مكون تويتر"
-          
-          
 
-        settings: 
+        settings:
           twitter_component_settings: "ضبط مكون التويتر"
-          
-          
 
-        embed: 
+        embed:
           some_important_improvements_have_been_made_to: "تحسين بعض المحتويات الهامة تتطلب منك ربط حسابك بالتويتر. "
           click_here_to_link_your_account: "انقر هنا لربط حسابك"
           uh_oh_it_looks_like_there_was: "اوه ! يبدو ان هناك مشكلة في جلب بيانات التغريدة."
           twitter_may_be_experiencing_technical_difficulties_or: " قد يواجه تويتر بعض الصعوبات الفنية"
-        
-        form: 
-          
+
+        form:
           twitter_account: "حساب التويتر"
           select_the_account_to_use_you_can: "اختر الحساب لاستخدامه، يمكنك تحديد حساب جديد من الاعدادات"
           what_to_show: "عرض ماذا"
@@ -33,8 +28,7 @@ ar:
           add_a_follow_link: "اضافة رابط متابعة"
           number_of_tweets_to_display: "عرض رقم التغريدة"
           show_all: "اظهار الكل"
+          add_a_link_at_the_bottom: "إضافة رابط في أسفل التي تسمح لاشخاص متابعة لكم على تويتر"
 
-        link: 
+        link:
           next: "التالي"
-          
-

@@ -1,26 +1,22 @@
---- 
-en: 
-  resource: 
-    components: 
-      tweet_button: 
-        create: 
+---
+en:
+  resource:
+    components:
+      tweet_button:
+        create:
           add_tweet_button_component: "Add Tweet Button Component"
-          
-          
 
-        settings: 
+        settings:
           tweet_button_component_settings: "Tweet Button Component Settings"
-          
-          
 
-        embed: 
+        embed:
           this_component_is_not_visible_this_will: "This component is not visible. This will not show up on your website."
 
-        form: 
-          
+        form:
           contributor: "Contributor"
           tweet_content: "Tweet Content"
           tweet_text: "Tweet Text"
+          tweet_text_title: "By default this will use the title of the current page."
           url_to_tweet: "URL to tweet"
+          url_to_tweet_title: "By default this will use the URL of the page it's on. You will likely only need to set this if you want to only tweet one page from other pages on your site."
           button_layout: "Button Layout"
-

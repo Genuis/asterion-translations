@@ -1,14 +1,14 @@
---- 
-ar: 
+---
+ar:
   account_activation_required: "مطلوب تنشيط الحساب"
   in_order_to_access_your_website_we: |
     من اجل الوصول الى موقع الويب الخاص بك، يجب أن تقوم بتفعيل حسابك
-    وعندها ستتلقى وصلة التنشيط في بريدك الالكتروني، وبعدها يرجى تسجيل الدخول الى حسابك"
+    وعندها ستتلقى وصلة التنشيط في بريدك الالكتروني، وبعدها يرجى تسجيل الدخول الى حسابك
   website_suspended: "الموقع معلق"
   this_website_has_been_deactivated: "تم الغاء تنشيط هذا الموقع"
   website_not_setup_yet: "الموقع ليس جاهزا بعد"
   this_website_has_been_created_but_is: "تم انشاء هذا الموقع، ولكنه ليس جاهزا بعد."
-  
+
   nothing_was_uploaded: "لم يتم تحميل اي شيء"
   must_be_a_zip_file: "يجب ان يكون ملف مضغوط"
   could_not_find_help_resources_for: "لا يمكن العثور على موارد المساعدة ل %{path}"
@@ -22,16 +22,15 @@ ar:
   password_protection_has_not_been_enabled_on: "لم يتم تمكين حماية كلمة المرور على حسابك."
   the_stock_photo_has_been_added: "تمت اضافة البوم الصور."
   your_account_does_not_allow_for_downloads: "لا يسمح حسابك لتنزيل المحتوى في مكتبة الصور."
-  
+
   untitled_post: "اخر بدون اسم"
   import_complete: "استيراد كامل"
   invalid_category_name: "اسم الفئة غير صالحة."
   blog_posts: "مشاركات المدونة"
-  
+
   replace_this_line_with_your_own_embed: "استبدال هذا الخط مع تضمين القانون بنفسك."
   cannot_submit_message_until_account_activated: "لايمكن تقديم الرسالة حتى يتم تفعيل الحساب."
   use_this_space_to_design_your_product: "استخدام هذه المساحة لتصميم صفحة العرض للمنتج الخاص بك."
   title_of_your_product_listing: "عنوان قائمة المنتجات الخاص بك"
-  
-  
-  
+
+  you_have_used_the_maximum_amount_of: "كنت قد استخدمت الحد الأقصى للتخزين يسمح حسابك"

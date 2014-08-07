@@ -1,11 +1,10 @@
---- 
-ar: 
-  resource: 
-    blog: 
-      manage: 
-        comment_settings: 
+---
+ar:
+  resource:
+    blog:
+      manage:
+        comment_settings:
           manage_visitor_message_settings_blog_comments_and_guestbook_posts: "إدارة إعدادات رسالة الزائر - تعليقات المدونة ومشاركات سجل الزوار "
-          
           messages: "الرسائل"
           commenting: "التعليق"
           enabled: "تمكين"
@@ -27,14 +26,12 @@ ar:
           show_avatars: "إظهار صور الملف الشخصي"
           you_can_create_your_own_gravatar_at_: "يمكنك إنشاء صورة لملفك الشخصي في غرفتر "
           the_icon_you_select_below_will_be_used: " الايقونة التي تم تحديدها أدناه سوف تستخدم كرمز للأشخاص الذين ليس لديهم ايقونة غرفتر المرتبطة ببريدهم الإلكتروني "
-          
-          
-          
-        settings: 
+          gravatar_desc: "على غرفتر هي صورة الشخصية التي تتبع لكم من بلوق لبلوق التي تظهر بجانب اسمك عند التعليق على تمكين غرفتر المواقع"
+
+        settings:
           blog_posts: "مشاركات المدونة"
           categories: "الفئات"
           rss: "ار اس اس"
-          
           labels: "تسميات"
           import_posts: "استيراد المشاركات"
           social_networking: "الشبكات الاجتماعية"
@@ -49,7 +46,7 @@ ar:
           do_not_show: "عدم اظهار"
           date_formatting: "تنسيق التاريخ"
           a__the_abbreviated_weekday_name_sun: "%a - اسم مختصر لأيام الأسبوع (اح)"
-          a__the_full_weekday_name_sunday: "٪ A - اسم يوم من أيام الأسبوع كاملة (الاحد)" 
+          a__the_full_weekday_name_sunday: "٪ A - اسم يوم من أيام الأسبوع كاملة (الاحد)"
           b__the_abbreviated_month_name_jan: "%b - اسم مختصر لشهر (يناير)"
           b__the_full_month_name_january: "%B - اسم شهر كامل (يناير)"
           m__month_of_the_year_0112: "%m - شهر من السنة (01 .. 12)"
@@ -59,7 +56,7 @@ ar:
           w__day_of_the_week_sunday_is_0_06: "%w - يوم من أيام الأسبوع (الأحد هو 0، 0 .. 6)"
           y__year_without_a_century_0099: "%y - سنة دون القرن (00 .. 99)"
           y__year_with_century: "%Y - سنة مع القرن"
-          
+
           h__hour_of_the_day_24hour_clock_0023: "%H - ساعة من النهار، الساعة على مدار 24 ساعة (00 .. 23)"
           k__hour_of_the_day_24hour_clock__023: "%k - ساعة من النهار، الساعة على مدار 24 ساعة (0 .. 23)"
           i__hour_of_the_day_12hour_clock_0112: "%I - ساعة من النهار، الساعة على مدار 12 ساعة (01...12)"
@@ -68,16 +65,12 @@ ar:
           s__second_of_the_minute_0060: "%S - الثانية من الدقيقة (00 .. 60)"
           p__meridian_indicator_am_or_pm: "%p - مؤشر الزوال (صباحا أو مساء) "
           p__meridian_indicator_am_or_pm: "%P - مؤشر الزوال (صباحا أو مساء)"
-          
-        labels: 
+
+        labels:
           manage_blog_labels: "ادارة تسميات المدونة"
           blog_posts: "مشاركات المدونة"
           categories: "الفئات"
           rss: "ار اس اس"
-          
           labels: "تسميات"
           import_posts: "استيراد مشاركات"
           labels_text_customization: "تسميات - تخصيص النص"
-          
-          
-

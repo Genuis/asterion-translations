@@ -1,17 +1,7 @@
---- 
-en: 
-  resource: 
-    components: 
-      image_slideshow: 
-        collection: {}
-
-        images: {}
-
-        create: {}
-
-        settings: {}
-
-        embed: {}
-
-        form: {}
-
+---
+en:
+  resource:
+    components:
+      image_slideshow:
+        embed:
+          images: "Images"

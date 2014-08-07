@@ -1,17 +1,7 @@
---- 
-ar: 
-  resource: 
+---
+ar:
+  resource:
     components:
-      image_slideshow: "
-        collection: {}
-
-        images: {}
-
-        create: {}
-
-        settings: {}
-
-        embed: {}
-
-        form: {}
-
+      image_slideshow:
+        embed:
+          images: "الصور"

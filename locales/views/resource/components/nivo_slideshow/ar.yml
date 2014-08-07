@@ -1,44 +1,39 @@
---- 
-ar: 
+---
+ar:
   resource:
-    components: 
-      nivo_slideshow: 
+    components:
+      nivo_slideshow:
         collection:
           new_slideshow_component: "محتوى جديد للشرائح"
           next_step: "الخطوة التالية"
-          
 
-        images: 
+        images:
           slideshow_component_images: "محتوى شرائح الصور"
           select_images: "اختيار الصورة"
           slideshow_settings: "ضبط الشرائح"
-          
-          
 
-        create: 
+        create:
           add_image_slideshow_component: "اضافة محتوى لصور الشرائح"
-          
           back: "العودة"
 
-        settings: 
+        settings:
           image_slideshow_component_settings: "اعدادات مكونات عرض الشرائح"
-          
-          
 
-        embed: 
+        embed:
+          images: "الصور"
           there_are_no_images_to_be_displayed: "لا توجد صورة لعرضها. "
           upload_images: "تحميل صورة"
-          
 
-        form: 
-          
+        form:
           slideshow_size: "حجم الشرائح"
           slideshow_settings: "اعدادات الشرائح"
           effects: "الاثار"
           time_between_images: "الفترة مابين الصور"
           animation_speed: "سرعة المؤقت"
           show_titles: "عرض العناوين"
-          show_navigation_prevnext: "عرض الانتقالات (التالي\السابق)" 
+          show_navigation_prevnext: "عرض الانتقالات (التالي\السابق)"
           show_navigation_dots_spanmiddot_middot_middotspan: "عرض زر الانتقالات"
           randomize_image_order: "ترتيب الصور العشوائية"
-
+          effect_title: "الاختيار من بين مجموعة متنوعة من الآثار"
+          rotation_speed_title: "هذه هي المرة توقف بين الصور، لا يعني التناوب يجب أن ينقر المستخدم"
+          transition_speed_title: "هذه هي الطريقة السريعة سوف تتخذ الرسوم المتحركة"

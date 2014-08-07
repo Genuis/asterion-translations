@@ -1,8 +1,8 @@
---- 
-en: 
-  resource: 
-    page: 
-      not_found: 
+---
+en:
+  resource:
+    page:
+      not_found:
         page_not_found: "Page not found"
         you_have_not_yet_created_a_page: "You have not yet created a page at "
         please_select_one_of_the_following_options: "Please select one of the following options: "
@@ -10,20 +10,14 @@ en:
         edit_the_custom_404_page: "Edit the custom 404 page"
         return_to_your_site: "Return to your site"
 
-      modify_header: 
+      modify_header:
         edit_page_head_tag: "Edit Page Head Tag"
         page_head_tag: "Page Head Tag"
         this_requires_knowledge_of_html_and_is: "This requires knowledge of HTML and is intended for advanced users. Code will be appended inside <head></head>"
-        
-        
         locked: "Locked"
         unlocked: "Unlocked"
 
-      delete: {}
-
-      escaped_fragment: {}
-
-      basic_form: 
+      basic_form:
         name: "Name"
         this_will_be_used_in_the_navigation: "This will be used in the navigation of your site, as well as on any links to this page."
         location: "Location"
@@ -32,23 +26,21 @@ en:
         published: "Published"
         add_to_main_menu: "Add to Main Menu"
 
-      manage_path: 
+      manage_path:
         locked: "Locked"
         unlocked: "Unlocked"
-        
         protect_all_pages_in_folder: "Protect All Pages in Folder"
+        password_protect: "Password Protect"
         delete_folder: "Delete Folder"
         unpublished: "unpublished"
         home_page: "Home Page"
         unpublished: "Unpublished"
-        
         view: "View"
         view_page: "View page"
-        
         make_home: "Make Home"
         delete_this_page: "Delete this page."
-        
-      manage: 
+
+      manage:
         manage_website_pages: "Manage Website Pages"
         website_pages: "Website Pages"
         pageurl_redirects: "Page/URL Redirects"
@@ -59,17 +51,14 @@ en:
         this_will_remove_any_pages_inside_this_group_as_well: "This will remove any pages inside this group as well!"
         delete_group: "Delete Group"
 
-      create: 
+      create:
         create_a_new_page: "Create A New Page"
         create_page: "Create Page"
-        
 
-      settings: 
+      settings:
         edit_page_settings: "Edit Page Settings"
-        
-        
 
-      seo: 
+      seo:
         edit_page_seo: "Edit Page SEO"
         keywords: "Keywords"
         keywords_that_describe_your_website_for_search: "Keywords that describe your website for search engines, comma seperated (eg: sports,hockey)"
@@ -77,15 +66,13 @@ en:
         description: "Description"
         description_of_your_website_for_search_engines: "Description of your website for search engines"
         your_site_description_should_be_a_regular: "Your site description should be a regular paragraph that describes what your site is about. Do not use lists of keywords here."
-        
-        
-        
-      tabs: 
+
+      tabs:
         basic: "Basic"
         page_seo: "Page SEO"
         head_tag: "Head Tag"
 
-      form: 
+      form:
         page_name: "Page Name"
         this_will_be_used: "This will be used in the navigation of your site, as well as on any links to this page."
         default_page_cannot_be_unpublished: "Default page cannot be unpublished."
@@ -99,10 +86,9 @@ en:
         redirect_type: "Redirect Type"
         redirect: "Redirect"
 
-      login: 
+      login:
         authentication_required: "Authentication Required"
         authentication_is_required_to_view_this_page: "Authentication is required to view this page."
         password_: "Password: "
         login: "Login"
         password_is_incorrect: "Password is incorrect."
-

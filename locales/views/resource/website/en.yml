@@ -4,18 +4,14 @@ en:
     website:
       modify_header:
         html_editor: "HTML Editor"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
         and_gain_the_ability_to_insert_html: "and gain the ability to insert html or javascript into the &lt;head&gt; tag of your site."
-        upgrade_now: "Upgrade Now"
         website_head_tag: "Website Head Tag"
         this_requires_knowledge_of_html_and_is: "This requires knowledge of HTML and is intended for advanced users. Code will be appended inside <head></head>"
 
       metatags:
         sitewide_seo_settings: "Site-wide SEO Settings"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
         to_add_a_sitewide_description_and_keywords: "to add a site-wide description and keywords."
         setting_up_keywords_and_a_description_of: "Setting up keywords and a description of your website can improve search engine ranking."
-        upgrade_now: "Upgrade Now"
         keywords: "Keywords"
         keywords_are_a_comma_separated_list_of: "Keywords are a comma separated list of words that describe your site to search engines. (eg. sports, hockey, nhl, news, canucks)"
         keywords_that_describe_your_website_for_search: "Keywords that describe your website for search engines, comma seperated (eg: sports,hockey)"
@@ -23,29 +19,22 @@ en:
         your_site_description_should_be_a_regular: "Your site description should be a regular paragraph that describes what your site is about. Do not use lists of keywords here."
         description_of_your_website_for_search_engines: "Description of your website for search engines"
 
-      banner: {}
-
-      robots_block: {}
-
       modify_sitemap:
-         editing_website_sitemapxml: "Editing Website Sitemap.xml"
-         a_sitemap_allows_you_to_inform_search: "A sitemap allows you to inform search engines about pages on your website that are available for crawling."
-         sitemap_display: "Sitemap Display"
-         select_what_gets_displayed_in_your_sitemap: "Select what gets displayed in your sitemap."
-         sitemap_content: "Sitemap Content"
-         only_pages_in_navigation: "Only pages in navigation"
-         all_pages: "All pages"
-         custom_sitemap: "Custom Sitemap"
-         copy_and_paste_your_sitemapxml_here: "Copy and paste your sitemap.xml here"
-
-      primary_navigation: {}
+        to_modify_your_sitemap: "to modify your sitemap"
+        editing_website_sitemapxml: "Editing Website Sitemap.xml"
+        a_sitemap_allows_you_to_inform_search: "A sitemap allows you to inform search engines about pages on your website that are available for crawling."
+        sitemap_display: "Sitemap Display"
+        select_what_gets_displayed_in_your_sitemap: "Select what gets displayed in your sitemap."
+        sitemap_content: "Sitemap Content"
+        only_pages_in_navigation: "Only pages in navigation"
+        all_pages: "All pages"
+        custom_sitemap: "Custom Sitemap"
+        copy_and_paste_your_sitemapxml_here: "Copy and paste your sitemap.xml here"
 
       modify_robotstxt:
         sitewide_seo_settings: "Site-wide SEO Settings"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
         to_modify_your_robotstxt_file: "to modify your robots.txt file."
         you_can_use_a_robotstxt_file_to: "You can use a robots.txt file to tell search engines which pages of your site to avoid, or which ones to look at."
-        upgrade_now: "Upgrade Now"
         robotstxt_file_contents: "Robots.txt File Contents"
         you_can_use_a_robotstxt_file_to: "You can use a robots.txt file to tell search engines which pages of your site to avoid, or which ones to look at."
         more_information_on_robotstxt_and_how_to: "More information on robots.txt and how to use it."
@@ -88,12 +77,8 @@ en:
 
       custom_sitemap:
         editing_website_sitemapxml: "Editing Website Sitemap.xml"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
         to_modify_your_sitemap: "to modify your sitemap."
         a_sitemap_allows_you_to_inform_search: "A sitemap allows you to inform search engines about pages on your website that are available for crawling."
-        upgrade_now: "Upgrade Now"
-
-      copyright:
 
       tabs:
         basic: "Basic"
@@ -101,12 +86,8 @@ en:
         favicon: "Favicon"
         head_tag: "Head Tag"
 
-      sub_navigation: {}
-
       news:
         whats_new: "What's New"
-
-      robots: {}
 
       navigation:
         primary_navigation: "Primary Navigation"
@@ -119,9 +100,7 @@ en:
 
       favicon:
         sitewide_settings: "Site-wide Settings"
-        upgrade_your_account_to_pro: "Upgrade your account to Pro "
         to_change_the_favicon_of_your_site: "to change the favicon of your site, or upload a custom favicon."
-        upgrade_now: "Upgrade Now"
         a_favicon_represents_your_website_browsers_display: "A favicon represents your website. Browsers display it in the browser address bar and next to the page name in a list of bookmarks."
         your_favicon: "Your Favicon"
         favicon_will_take_time_to_update: "Favicon will take time to update due to the caching done by the browser. Don't worry if it doesn't change right away."
@@ -136,8 +115,6 @@ en:
         metatags: "Metatags"
         robots: "Robots"
         sitemap: "Sitemap"
-
-      code_highlighting_theme_preview: {}
 
       code_highlighting_theme:
         select_code_highlighting_theme: "Select Code Highlighting Theme"

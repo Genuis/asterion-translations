@@ -63,7 +63,7 @@ ar:
     edit: تحرير
     powered_by: مدعومة من
     remove_powered_by: إزالة رسالة - مدعومة من
-    remove_powered_by_pro_only: الرجاء ترقية حسابك لإزالة رسالة - مدعومة من 
+    remove_powered_by_pro_only: الرجاء ترقية حسابك لإزالة رسالة - مدعومة من
     main_title: عنوان الرئيسي
     sub_title: عنوان الفرعي
     primary_navigation: الإنتقال الأولية
@@ -81,23 +81,20 @@ ar:
     save: حفظ
     discard: تجاهل
     save_changes: حفظ التغييرات؟
-    yes: نعم
-    no: لا
     session_expired: انتهت الجلسة
     error_loading_dialog: خطأ أثناء تحميل مربع الحوار
     ok: حسنا
-    upgrade_now: قم بترقية الآن
     dialog_submit_pro_only: ميزة الباقة المحترفة فقط. لن يتم حفظ أية تغييرات {{upgrade_now_link}}
     upgrade: ترقية
     pro_only: الباقة المحترفين فقط
 
     # jquery.asterion.expandable.js
-    no_template_found: لا يوجد اية قالب 
+    no_template_found: لا يوجد اية قالب
 
     # jquery.asterion.firstTimeHelp.js
     add_content_to_site: |
             إستخدم هذا الزر لاضافة محتوى الى موقعك
-      
+
     select_page_to_edit: |
       اختر صفحة مختلفة لتعديل على موقعك
     add_new_pages: |
@@ -132,7 +129,7 @@ ar:
     no_add_blog: لا شكرا
     remove_component: إزالة العنصر
     readonly_component: للقراءة فقط
-    cannot_delete_component: تم تعطيل حذف هذا العنصر 
+    cannot_delete_component: تم تعطيل حذف هذا العنصر
     copy_component: نسخ العنصر
     cannot_copy_component: تم تعطيل نسخ هذا العنصر
     restore_theme_image:  استعادة الصورة إلى الافتراضي

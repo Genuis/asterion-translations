@@ -1,8 +1,8 @@
---- 
-ar: 
-  shared: 
-    asset: 
-      collection_preview: 
+---
+ar:
+  shared:
+    asset:
+      collection_preview:
         show_images_from_which_folder: "تريد اظهار الصورم من اي مجلد؟"
         upload_images: "تحميل الصور"
         manage_images: "ادارة الصور"
@@ -13,4 +13,3 @@ ar:
         more: "اكثر"
         more_images: "صور اكثر....."
         total: "المجموع"
-

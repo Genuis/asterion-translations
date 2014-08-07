@@ -1,18 +1,17 @@
---- 
-ar: 
-  shared: 
-    feeds: 
-      no_feeds: 
+---
+ar:
+  shared:
+    feeds:
+      no_feeds:
         you_currently_have_no_feeds_added: "ليس لديك حاليا اي تغذية مضافة"
-        
 
-      feed: 
+      feed:
         feed_has_no_title: "التغذية لا يوجد لديها لقب"
         never: "ابدا"
         refresh: "تحديث"
         remove: "ازالة"
 
-      edit: 
+      edit:
         edit_feeds: "تعديل التغذية"
         add_or_remove_as_many_feeds_as: "اضافة از ازالة العديد من التغذية كما ترغب، بمجرد الانتهاء من ذلك انقز على زر الحفظ"
         feed_selection: "اختيار التغذية"
@@ -20,23 +19,20 @@ ar:
         save: "حفظ"
         cancel: "الغاء"
 
-      feed_table: 
-        
+      feed_table:
         url: "يو ار ال"
         last_updated: "اخر تحديث"
 
-      feed_form: 
+      feed_form:
         add_feed: "اضافة تغذية"
         this_can_be_either_a_website_url: "يمكن ان يكون هذا الموقع بعنوان{يو ار الْ} او تغذية يو ار ال."
         example: "مثـال : "
 
-      multiple_feeds_selection: 
+      multiple_feeds_selection:
         multiple_feeds_discovered: "اكتشف خلاصات متعددة "
         discovered_feeds: "اكتشف التلقيمات"
         multiple_feeds_have_been_discovered_on_the: "تم اكتشاف تغذية متعدد على عنوان يو ار ال الذي ادخلته، الرجاء اختيار التغذية التي ترغب باضافتها الى مكون الخاص بك"
-        
         url: "الرابط"
         add: "اضافة"
         next: "التالي"
         back: "العودة"
-

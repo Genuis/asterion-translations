@@ -1,19 +1,16 @@
---- 
-en: 
-  resource: 
-    collection: 
-      edit: 
+---
+en:
+  resource:
+    collection:
+      edit:
         edit_folder: "Edit Folder"
         folder: "Folder"
         name: "Name"
-        
-        
 
-      manage: 
+      manage:
         photo_and_media_manager: "Photo and Media Manager"
         folders: "Folders"
         rename: "Rename"
-        
         you_currently_have_no_folders_to_display: "You currently have no folders to display."
         create_a_new_folder: "Create a New Folder"
         create_folder: "Create Folder"
@@ -27,7 +24,8 @@ en:
         folder: "Folder"
         new_folder: "New Folder"
         create: "Create"
-        
 
-      folder: {}
-
+      folder:
+        add_selected_files: "Add selected files to folder"
+        remove_selected_files: "Removed selected files from folder"
+        delete_empty_folder: "Delete Empty Folder"

@@ -1,23 +1,18 @@
---- 
-ar: 
-  resource: 
-    components: 
-      blog_archive: 
-        create: 
+---
+ar:
+  resource:
+    components:
+      blog_archive:
+        create:
           add_blog_archive_component: "اضافة شبكة او عنصر"
-          
-          
 
-        settings: 
+        settings:
           blog_archive_component_settings: "ارشيف اعدادات المكونات"
-          
-          
 
-        embed: 
+        embed:
           show_all: "اظهار الكل"
 
-        form: 
-          
+        form:
           list_by: "اظهار عن طريق"
           categories: "الفئات"
           tags: "الشعار"
@@ -26,3 +21,4 @@ ar:
           this_allows_you_to_specify_whether_youd: "يسمح لك بتحديد ما اذا كنت ترغب في قائمة المحفوظات لعرض الأشهر والفئات التي ليس لها أي وظيفة، الشهر او الفئة يظهر الرقم صفر بجانبه، اذا لم يكن له أي وظيفة"
           select_certain_categories_to_show: "تحديد أو اظهار فئات معينة"
           limit_number_of_items_shown: "الحد من عدد الأصناف المعروضة"
+          limit_desc: "وهذا يحد من كمية من المواد المعروضة، مع الرابط أدناه لإظهار تلك المخفية"

@@ -1,8 +1,8 @@
---- 
-ar: 
-  resource: 
-    blog: 
-      import: 
+---
+ar:
+  resource:
+    blog:
+      import:
         blogger:
           blogger_import: "استيراد مدون"
           import_blog_posts_and_comments_from_a_blogger_account: "استيراد مشاركات مدونة وتعليقات من حساب المدون"
@@ -11,33 +11,31 @@ ar:
           import_into: "استيراد إلى"
           import: "استيراد"
 
-        wordpress_success: 
+        wordpress_success:
           unfortunately_no_posts: "للأسف لا يمكن استيراد أية مشاركات مع البيانات المقدمة"
           successfully_imported:
               text: "لقد قمت باستيراد مشاركات  %{post_count} والتعليقات %{comment_count} بنجاح "
-        wordpress: 
+        wordpress:
           import_wordpress: "استيراد ووردبريس"
+          importing_wordpress_data: "استيراد البيانات وورد، يرجى الانتظار ..."
           upload_exported_data: "تحميل البيانات تم تصديرها"
           wordpress_export: "تصدير ووردبريس"
           upload_file: "رفع ملف"
-          for_information_on: "للحصول على معلومات حول كيفية تصدير البيانات وورد الموجودة لديك، يمكنك "
-          click_here_to_find_out_more: "انقر هنا لمعرفة المزيد"
+          for_information_on: "للحصول على معلومات حول كيفية تصدير البيانات وورد الموجودة لديك، يمكنك %{click_here} "
+          click_here: "انقر هنا لمعرفة المزيد"
 
-        blogger_request_access: 
+        blogger_request_access:
           import_from_blogger: "الاستيراد من مدون"
           import_blog_posts_and_comments_from_a_blogger_account: "استيراد مشاركات المدونة وتعليقات من حساب مدون"
           in_order_to_import_your_posts_from_blogger: "من أجل استيراد مشاركاتك من مدون، يجب عليك منح تصميمي اذن إلى قراءة مشاركاتك"
-          to_do_this_simply_click_the_next_button: | 
+          to_do_this_simply_click_the_next_button: |
             للقيام بذلك، ببساطة انقر على زر "التالي" أدناه. هذا سيرسلك الى جوجل، الذي يملك المدون،  وسيطلب منك الاذن. وبمجرد الانتهاء من اعطاء الأذن لتصميمي سوف ترجع ويمكنك بعد ذلك الاستمرار بالعملية
-          
-        index: 
+
+        index:
           import_posts: "استيراد المشاركات"
           blog_posts: "مشاركات المدونة"
           categories: "الفئات"
           rss: "ار اس اس"
-          
           labels: "تسميات"
           we_allow_you_to_easily_import: "نسمح لك لاستيراد البيانات المدونة الموجودة لديك بسهولة من خدمات المدونات الأخرى"
           dont_see_your_current_blogging_service: "لا ترى خدمة التدوينك الحالي مدرجة في الاستيراد من؟ الرجاء إبلاغنا، سنقوم باضافته لك"
-          
-

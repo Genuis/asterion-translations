@@ -79,12 +79,9 @@ en:
     save: Save
     discard: Discard
     save_changes: Save Changes?
-    yes: Yes
-    no: No
     session_expired: Session Expired
     error_loading_dialog: Error Loading Dialog
     ok: Ok
-    upgrade_now: Upgrade now.
     dialog_submit_pro_only: Pro Only Feature. Any changes will not be saved. {{upgrade_now_link}}
     upgrade: Upgrade
     pro_only: Pro Only

@@ -1,18 +1,15 @@
---- 
-ar: 
+---
+ar:
   resource:
-    components: 
-      bravenet: 
-        edit: 
+    components:
+      bravenet:
+        edit:
           edit_bravenet_web_app: "تحرير بريفنت الويب"
-          
-        create: 
-          add_a_bravenet_web_app: "اضافة بريفنت الويب"
-          
-        embed: {}
 
-        form: 
-          
+        create:
+          add_a_bravenet_web_app: "اضافة بريفنت الويب"
+
+        form:
           bravenet_service_code_copypaste_code: "رمز خدمة البريفنت(نسخ\لصق)"
           we_have_detected_that_your_bravenet_copypaste: "تلقى الموقع عملية النسخ واللصق لديك في البريفنت"
           invalid_copypaste_code: "خطأ في عملية النسخ واللصق"

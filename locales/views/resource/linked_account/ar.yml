@@ -1,36 +1,31 @@
---- 
-ar: 
-  resource: 
-    linked_account: 
-      twitter: 
+---
+ar:
+  resource:
+    linked_account:
+      twitter:
         link_your_twitter_account: "ربط حساب التويتر"
         account_linking_instructions: "ربط حساب التعليم"
         in_order_for_us_to_be_able_to_access_your_facebook: "حتى يتسنى لنا الوصول الى المعلوماتك الخاصة بك على الفيسبوك، سوف نحتاج الى ان تقوم بالسماح لنا من الموقع"
         allowing_us_offline_access: "يتيح لنا الوصول وسحب المعلومات من ملفك الشخصي والصور وتسمح لك الوظيفة على الحائط الخاص بك من موقع الويب الخاص بك."
         connect_with_twitter: "الاتصال بـ حسابك في التويتر"
         next_step: "الخطوة التالية"
-        
-        
-      facebook_app: 
+
+      facebook_app:
         add_your_website_to_facebook: "اضافة موقع الويب الخاص بك الى الفيس بوك"
         add_your_website_to_facebook_in_4_easy_steps: "اضافة موقع الويب الخاص بك الى الفيس بوك بـ 4 خطوات سهلة"
         account_details: "معلومات الحساب"
         app_id: "تطبيق التعريف"
         app_secret: "تطبيق السرية"
-        
-        
         step_1: "الخطوة الاولى"
         navigate_to_: "انتقل الى %{facebook} (يتطلب تسجيل الدخول)"
         step_2: "الخطوة الثانية"
         click_the_create_new_app_button: "انقر على زر - انشاء تطبيق جديد - لإنشاء اسم التطبيق الخاص بك ومساحة الإسم"
         step_3: "الخطوة الثالثة"
-        add_your_website_domain_: |
-        اضف نطاق موقعك %{hostname}
-        لنطاقات التطبيق واضفه الى موقعك مع خاصية الدخول الى الفيسبوك - واكتب العنوان وانقر على زر حفظ التغييرات
+        add_your_website_domain_: "اضف نطاق موقعك %{hostname} لنطاقات التطبيق واضفه الى موقعك مع خاصية الدخول الى الفيسبوك - واكتب العنوان وانقر على زر حفظ التغييرات"
         step_4: "الخطوة الرابعة"
         get_the_app_id_and_secret: "الحصول على معرف التطبيق وسرية في الجزء العلوي من الشاشة والعودة هنا وادخالها في النموذج على اليسار"
 
-      manage: 
+      manage:
         linked_accounts: "حسابات مرتبطة"
         link_to_your_accounts: "الرابط الى الحسابات الخاصة بك"
         add_your_accounts: "اضافة حساباتك من مواقع اخرى هنا حتى تتمكن من استخدام خدماتها على موقع الويب الخاص بك"
@@ -38,17 +33,17 @@ ar:
         website: "الموقع"
         description: "وصف"
         add_account: "اضافة حساب"
-        
         are_you_sure: "هل أنت متأكد أنك تريد إزالة هذا الحساب المرتبط؟"
         delete_linked_account: "إزالة الحساب المرتبط"
 
-      book_fresh: 
+      book_fresh:
         bookfresh_setup: "اعدادات بوكفريش"
 
-      linked_account: 
+      linked_account:
         remove: "إزالة"
+        remove_account: "إزالة حساب"
 
-      ecwid: 
+      ecwid:
         ecwid_setup: "Ecwid إعدادات"
         ecwid: "Ecwid"
         makes_it_easy_to_create: | إجعل إنشاء الحساب سهل للتسوق عبر النت. قم بإعداد حسابك بإدخال البريد الإلكتروني الخاص بك واسم المتجر أدناه متبوعا بكلمة مرور. إذا لم يكن لديك حساب، سنقوم بإنشائه لك مجانا في ecwid
@@ -57,6 +52,7 @@ ar:
         store_name: "اسم المتجر"
         password: "كلمة المرور"
         password_confirmation: "تأكيد كلمة المرور"
+        password_title: "تأكد من تذكر كلمة المرور الخاصة بك. أنك سوف تحتاج إليها لإدارة متجرك عبر الإنترنت من خلال ecwid.com"
         use_an_existing_ecwid_account: "استخدام حساب موجود في ecwid"
         ecwid_store_id: "رقم مستخدم لمتجر ecwid"
         find_your_store_id_by_logging_into_your_: "ابحث عن رقم متجرك عن طريق الدخول إلى حسابك "
@@ -64,16 +60,11 @@ ar:
         your_store_id_will_a_number_something_like_553258: "رقم متجرك سيكون 555345 شي من هذا القبيل"
         next_step: "الخطوة التالية"
         create_account: "إنشاء حساب"
-        
 
-      denied: {}
-
-      facebook: 
+      facebook:
         link_your_facebook_account: "اربط حسابك في الفيسبوك"
         account_linking_instructions: "تعليمات ربط الحساب"
         in_order_for_us: "حتى يتسنى لنا الوصول إلى معلوماتك في الفيسبوك، سوف نوجهك إلى موقع الفيسبوك حتى تتمكن بإعطائنا إذن "
         allowing_us_offline_access: "سماحك لنا للوصول الغير متصل عاى حسابك يمكننا  في سحب معلومات ملفك الشخصي، والصور، ويسمح لك بوضعها على صفحتك من موقعك"
         connect_with_facebook: "تواصل مع الفيسبوك"
         next_step: "الخطوة التالية"
-        
-
