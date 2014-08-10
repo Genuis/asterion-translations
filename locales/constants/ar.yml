@@ -36,15 +36,15 @@ ar:
       description: "جيد بالنسبة لصفحات مثل - نبذة عنا، و وصف الشراكة، وصفحات أخرى حيث الصور موجودة فيها كمرجع"
 
     two_columns:
-      name: "Two columns of text"
-      description: "Your standard two column layout. The infinite possibilities include stories, histories, about us, and other pages with a lot of text."
+      name: "عمودين من النص"
+      description: "تصميم عادي للعمودين الخاص بك. وتشمل الاحتمالات الغير المحدودة - اضافة قصص, تاريخ، نبذة عنا، وصفحات أخرى مع الكثير من النصوص"
 
     two_columns_with_images:
-      name: "Two columns with images on top"
-      description: "This is great for describing two images on a single page, or comparing two things side by side."
+      name: "عمودين مع الصور في الأعلى"
+      description: "هذا مناسب لوصف اثنين من الصور على صفحة واحدة، أو المقارنة بين شيئين جنبا إلى جنب"
 
     three_columns:
-      name: "Three columns of text"
+      name: "ثلاثة أعمدة من النص"
       description: "A three column layout. Excellent for smaller text pages and ideal for lists of items or links."
 
     three_columns_with_images:
