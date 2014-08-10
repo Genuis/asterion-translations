@@ -1,39 +1,39 @@
 ---
 ar:
   youtube_video_sizes:
-    small: "Small"
-    medium: "Medium"
-    default: "Large"
-    custom: "Custom"
+    small: "صغير"
+    medium: "متوسط"
+    default: "كبير"
+    custom: "افتراضي"
 
   social_sharing_sites:
-    subscribe: "Subscribe"
-    digg: "Digg"
-    reddit: "Reddit"
-    delicious: "Delicious"
-    stumbleupon: "StumbleUpon"
-    technorati: "Technorati"
-    google_bookmark: "Google Bookmark"
-    facebook: "Facebook"
-    twitter: "Twitter"
+    subscribe: "تسجيل"
+    digg: "ديغ"
+    reddit: "ريديت"
+    delicious: "ديليشيس"
+    stumbleupon: "ستمبلابون"
+    technorati: "تكنوراتي"
+    google_bookmark: "جوجل بوكمارك"
+    facebook: "فيسبوك"
+    twitter: "تويتر"
 
   tweet_data_count_layouts:
-    vertical: "vertical"
-    horizontal: "horizontal"
-    none: "none"
+    vertical: "رأسي"
+    horizontal: "افقي"
+    none: "لا شي"
 
   tinymce_templates:
     text_with_image_right:
-      name: "Text with right aligned image"
-      description: "A basic column of text next to an image, useful for about us, bios, portfolio item, and other pages where the image relates closely to the text."
+      name: "نص مع صورة انحيازية على اليمين"
+      description: "عمود أساسي من النص بجانب صورة، مفيدة لـقوائم مثل - نبذة عنا، سير ذاتية، محفظة البند، وصفحات أخرى حيث ترتبط الصورة ارتباطا وثيقا على النص"
 
     text_with_image_left:
-      name: "Text with left aligned image"
-      description: "A basic column of text next to an image, useful for about us, bios, portfolio item, and other pages where the image relates closely to the text."
+      name: "نص مع صورة انحيازية على اليسار"
+      description: "عمود أساسي من النص بجانب صورة، مفيدة لـقوائم مثل - نبذة عنا، سير ذاتية، محفظة البند، وصفحات أخرى حيث ترتبط الصورة ارتباطا وثيقا على النص"
 
     text_with_images_left_and_right:
-      name: "Two small images with text"
-      description: "Great for about us pages, partnership descriptions, and other pages where the images are there for reference."
+      name: "اثنين صورة صغيرة مع النص"
+      description: "جيد بالنسبة لصفحات مثل - نبذة عنا، و وصف الشراكة، وصفحات أخرى حيث الصور موجودة فيها كمرجع"
 
     two_columns:
       name: "Two columns of text"
