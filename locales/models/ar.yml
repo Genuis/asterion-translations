@@ -175,6 +175,7 @@ ar:
             name:
               invalid: "يجب أن لا تحتوي على أي أتش تي أم أل"
 
+  invalid_label: "التسمية غير صحيحة"
   cannot_update_content_on_content_block_until: "لا يمكن تحديث المحتوى على كتلة المحتوى حتى يتم إنشاؤه"
   html_error_script_tags_are_not_allowed: "خطأ اش تي أم أل: كلمات نصية غير مسموحة"
   does_not_exist: "غير موجود"
@@ -237,6 +238,7 @@ ar:
   broken_mp3: "ام بي ثري مكسور"
   image_is_too_large: "الصورة كبيرة جدا "
   invalid_image: "الصورة غير صالحة"
+  no_such_file: "لا يوجد مثل هذا الملف أو الدليل"
   is_not_valid: "غير صالح"
   posted_a_new_blog_entry: "ارسل مشاركة جديدة على المدونة"
   category_deleted: "تم حذف الفئة"

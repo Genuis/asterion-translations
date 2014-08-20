@@ -2,6 +2,11 @@
 ar:
   resource:
     website:
+      banner:
+        remove_branding: "إزالة الإعلانات"
+        created_with: "تم إنشاء هذا الموقع مجانا مع منشئ %{partner_name} موقع"
+        build_your_own: "بناء موقع الويب الخاص بك مجانا"
+
       modify_header:
         html_editor: "محرر أش تي أم ال"
         and_gain_the_ability_to_insert_html: "واكتسب القدرة على إدراج اش تي ام ال أو جافا سكريبت في رموز اخرى من موقعك"

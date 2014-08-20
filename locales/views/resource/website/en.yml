@@ -2,6 +2,11 @@
 en:
   resource:
     website:
+      banner:
+        remove_branding: "Remove Branding/Ads"
+        created_with: "This Free Website was created with the %{partner_name} Website Builder"
+        build_your_own: "Build your own Website for Free!"
+
       modify_header:
         html_editor: "HTML Editor"
         and_gain_the_ability_to_insert_html: "and gain the ability to insert html or javascript into the &lt;head&gt; tag of your site."

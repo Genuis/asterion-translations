@@ -14,6 +14,7 @@ ar:
         referring_site: "يشير الموقع"
         page_name: "اسم الصفحة"
         view_more: "اظهار المزيد ..."
+        referrals: "إحالات"
 
       pageviews:
         website_statistics: "احصائيات الموقع"

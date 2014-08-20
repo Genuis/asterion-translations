@@ -8,6 +8,7 @@ en:
         name: "Name"
 
       manage:
+        folder_name: "Folder Name"
         photo_and_media_manager: "Photo and Media Manager"
         folders: "Folders"
         rename: "Rename"

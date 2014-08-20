@@ -8,6 +8,7 @@ ar:
         name: "الاسم"
 
       manage:
+        folder_name: "اسم مجلد"
         photo_and_media_manager: "ادارة الصور والميديا"
         folders: "المجلدات"
         rename: "اعادة تسمية"

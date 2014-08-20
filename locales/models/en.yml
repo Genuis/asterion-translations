@@ -175,6 +175,7 @@ en:
             name:
               invalid: "must not contain any html"
 
+  invalid_label: "Invalid Label"
   cannot_update_content_on_content_block_until: "Cannot update content on content block until it has been created"
   html_error_script_tags_are_not_allowed: "html error: script tags are not allowed"
   does_not_exist: "does not exist"
@@ -237,6 +238,7 @@ en:
   broken_mp3: "Broken MP3"
   image_is_too_large: "image is too large"
   invalid_image: "invalid image"
+  no_such_file: "No such file or directory"
   is_not_valid: "is not valid"
   posted_a_new_blog_entry: "posted a new blog entry."
   category_deleted: "Category Deleted"

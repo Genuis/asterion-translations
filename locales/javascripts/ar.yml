@@ -5,8 +5,37 @@ ar:
     cancel: إلغاء
     delete: حذف
 
-    # jquery.asterion.assetManager.js
+    # jquery.asterion.after_effects.js
+    font_family: "Font Family"
+    restore: "Restore"
+    revert: "Revert"
+    saving: "Saving..."
+    saved: "Saved"
+    restore_background: "Restore Background"
+    restore_background_msg: "Are you sure you want to restore the current background to the default background?"
+    unsaved_changes: "Unsaved Changes"
+    unsaved_changes_msg: "Warning you have unsaved changes!"
+    save_changes: "Save Changes"
+    discard_changes: "Discard and Close"
+    background_color: "Background Color"
+    background_pattern: "Background Pattern"
+    restore_fonts: "Restore Fonts"
+    restore_fonts_msg: "Are you sure you want to restore all fonts to the original default theme fonts?"
+    fonts_editor: "Fonts Editor"
+    main_title: "Main Title"
+    font_size: "Font Size"
+    letter_spacing: "Letter Spacing"
+    line_height: "Line Height"
+    bold: "Bold"
+    italic: "Italic"
+    sub_title: "Sub Title"
+    component_heading: "Component Heading"
+    body_text: "Body Text"
+    font_color: "Font Color"
+    primary_nav: "Primary Navigation"
+    background_editor: "Background Editor"
 
+    # jquery.asterion.assetManager.js
     unsort_asset_title: تحريك إلى غير مفرز
     unsort_asset_button: عدم الفرز
     unsort_asset_confirm_msg_single: هل أنت متأكد أنك تريد عدم فرز هذا الملف؟<br />(هذا سيزيل جميع المجلدات.)
